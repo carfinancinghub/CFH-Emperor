@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\ProtectedRoute.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\ProtectedRoute.test.ts",
+    "name": "ProtectedRoute.test.ts",
+    "ext": ".ts",
+    "size": 45
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\proxyBiddingEngine_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\proxyBiddingEngine_1.ts",
+    "name": "proxyBiddingEngine_1.ts",
+    "ext": ".ts",
+    "size": 6581
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\PushNotificationService_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\PushNotificationService_1.ts",
+    "name": "PushNotificationService_1.ts",
+    "ext": ".ts",
+    "size": 297
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\QuoteSubmissionForm_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\QuoteSubmissionForm_1.ts",
+    "name": "QuoteSubmissionForm_1.ts",
+    "ext": ".ts",
+    "size": 3188
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\QuoteSubmissionForm.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\QuoteSubmissionForm.test_1.ts",
+    "name": "QuoteSubmissionForm.test_1.ts",
+    "ext": ".ts",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\QuoteSubmissionForm.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\QuoteSubmissionForm.test.ts",
+    "name": "QuoteSubmissionForm.test.ts",
+    "ext": ".ts",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\QuoteSubmissionForm.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\QuoteSubmissionForm.ts",
+    "name": "QuoteSubmissionForm.ts",
+    "ext": ".ts",
+    "size": 3188
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\RateHaulerForm_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\RateHaulerForm_1.ts",
+    "name": "RateHaulerForm_1.ts",
+    "ext": ".ts",
+    "size": 2254
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\RateHaulerForm.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\RateHaulerForm.test_1.ts",
+    "name": "RateHaulerForm.test_1.ts",
+    "ext": ".ts",
+    "size": 45
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\RateHaulerForm.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\RateHaulerForm.test.ts",
+    "name": "RateHaulerForm.test.ts",
+    "ext": ".ts",
+    "size": 45
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\RateHaulerForm.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\RateHaulerForm.ts",
+    "name": "RateHaulerForm.ts",
+    "ext": ".ts",
+    "size": 2254
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\RateLimiter_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\RateLimiter_1.ts",
+    "name": "RateLimiter_1.ts",
+    "ext": ".ts",
+    "size": 1732
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\rateLimiter.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\rateLimiter.test_1.ts",
+    "name": "rateLimiter.test_1.ts",
+    "ext": ".ts",
+    "size": 2839
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\RateLimiter.test.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\RateLimiter.test.test_1.ts",
+    "name": "RateLimiter.test.test_1.ts",
+    "ext": ".ts",
+    "size": 47
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\RateLimiter.test.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\RateLimiter.test.test.ts",
+    "name": "RateLimiter.test.test.ts",
+    "ext": ".ts",
+    "size": 47
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\RateLimiter.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\RateLimiter.ts",
+    "name": "RateLimiter.ts",
+    "ext": ".ts",
+    "size": 1732
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\RBACMiddleware.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\RBACMiddleware.test_1.ts",
+    "name": "RBACMiddleware.test_1.ts",
+    "ext": ".ts",
+    "size": 202
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\RealTimePredictor_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\RealTimePredictor_1.ts",
+    "name": "RealTimePredictor_1.ts",
+    "ext": ".ts",
+    "size": 2681
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\RealTimePredictor.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\RealTimePredictor.test_1.ts",
+    "name": "RealTimePredictor.test_1.ts",
+    "ext": ".ts",
+    "size": 4291
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\RealTimePredictor.test.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\RealTimePredictor.test.test_1.ts",
+    "name": "RealTimePredictor.test.test_1.ts",
+    "ext": ".ts",
+    "size": 53
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\RealTimePredictor.test.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\RealTimePredictor.test.test.ts",
+    "name": "RealTimePredictor.test.test.ts",
+    "ext": ".ts",
+    "size": 53
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\RealTimePredictor.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\RealTimePredictor.test.ts",
+    "name": "RealTimePredictor.test.ts",
+    "ext": ".ts",
+    "size": 48
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\RealTimePredictor.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\RealTimePredictor.ts",
+    "name": "RealTimePredictor.ts",
+    "ext": ".ts",
+    "size": 2681
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\RecommendationEngine_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\RecommendationEngine_1.ts",
+    "name": "RecommendationEngine_1.ts",
+    "ext": ".ts",
+    "size": 1918
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\RecommendationEngine.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\RecommendationEngine.test_1.ts",
+    "name": "RecommendationEngine.test_1.ts",
+    "ext": ".ts",
+    "size": 2795
+  }
+]

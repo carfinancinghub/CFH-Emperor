@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\PerformanceOptimizer_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\PerformanceOptimizer_1.js",
+    "name": "PerformanceOptimizer_1.js",
+    "ext": ".js",
+    "size": 2125
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\PerformanceOptimizer.test_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\PerformanceOptimizer.test_1.js",
+    "name": "PerformanceOptimizer.test_1.js",
+    "ext": ".js",
+    "size": 3109
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\performanceTests_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\performanceTests_1.js",
+    "name": "performanceTests_1.js",
+    "ext": ".js",
+    "size": 6279
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\performanceValidation_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\performanceValidation_1.js",
+    "name": "performanceValidation_1.js",
+    "ext": ".js",
+    "size": 5665
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\photoEvidenceRoutes_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\photoEvidenceRoutes_1.js",
+    "name": "photoEvidenceRoutes_1.js",
+    "ext": ".js",
+    "size": 1160
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\PhotoEvidenceViewer_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\PhotoEvidenceViewer_1.js",
+    "name": "PhotoEvidenceViewer_1.js",
+    "ext": ".js",
+    "size": 2508
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\photoRoutes_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\photoRoutes_1.js",
+    "name": "photoRoutes_1.js",
+    "ext": ".js",
+    "size": 1646
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\photoRoutes.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\photoRoutes.js",
+    "name": "photoRoutes.js",
+    "ext": ".js",
+    "size": 1646
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\photoUploadRoutes_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\photoUploadRoutes_1.js",
+    "name": "photoUploadRoutes_1.js",
+    "ext": ".js",
+    "size": 1535
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\PlatformMonitor_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\PlatformMonitor_1.js",
+    "name": "PlatformMonitor_1.js",
+    "ext": ".js",
+    "size": 2481
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\PlatformMonitor.test_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\PlatformMonitor.test_1.js",
+    "name": "PlatformMonitor.test_1.js",
+    "ext": ".js",
+    "size": 3997
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\PolicyReviewQueue_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\PolicyReviewQueue_1.js",
+    "name": "PolicyReviewQueue_1.js",
+    "ext": ".js",
+    "size": 2882
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\PostAuctionInsights_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\PostAuctionInsights_1.js",
+    "name": "PostAuctionInsights_1.js",
+    "ext": ".js",
+    "size": 3129
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\PostAuctionInsights.test_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\PostAuctionInsights.test_1.js",
+    "name": "PostAuctionInsights.test_1.js",
+    "ext": ".js",
+    "size": 4711
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\PredictionEngine_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\PredictionEngine_1.js",
+    "name": "PredictionEngine_1.js",
+    "ext": ".js",
+    "size": 2052
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\PredictionEngine.test_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\PredictionEngine.test_1.js",
+    "name": "PredictionEngine.test_1.js",
+    "ext": ".js",
+    "size": 6613
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\PredictiveAssistant_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\PredictiveAssistant_1.js",
+    "name": "PredictiveAssistant_1.js",
+    "ext": ".js",
+    "size": 3968
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\predictRepairCostRoutes_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\predictRepairCostRoutes_1.js",
+    "name": "predictRepairCostRoutes_1.js",
+    "ext": ".js",
+    "size": 692
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\predictRepairCostRoutes.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\predictRepairCostRoutes.js",
+    "name": "predictRepairCostRoutes.js",
+    "ext": ".js",
+    "size": 692
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\PreferencesSetup_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\PreferencesSetup_1.js",
+    "name": "PreferencesSetup_1.js",
+    "ext": ".js",
+    "size": 2204
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\PreferencesSetup.test_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\PreferencesSetup.test_1.js",
+    "name": "PreferencesSetup.test_1.js",
+    "ext": ".js",
+    "size": 2856
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\PremiumSupportChat_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\PremiumSupportChat_1.js",
+    "name": "PremiumSupportChat_1.js",
+    "ext": ".js",
+    "size": 2265
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\PremiumSupportChat.test_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\PremiumSupportChat.test_1.js",
+    "name": "PremiumSupportChat.test_1.js",
+    "ext": ".js",
+    "size": 3881
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\profile_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\profile_1.js",
+    "name": "profile_1.js",
+    "ext": ".js",
+    "size": 1051
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\profile.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\profile.js",
+    "name": "profile.js",
+    "ext": ".js",
+    "size": 1051
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\proof_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\proof_1.js",
+    "name": "proof_1.js",
+    "ext": ".js",
+    "size": 606
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\proof.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\proof.js",
+    "name": "proof.js",
+    "ext": ".js",
+    "size": 606
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\proofOfDeliveryController_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\proofOfDeliveryController_1.js",
+    "name": "proofOfDeliveryController_1.js",
+    "ext": ".js",
+    "size": 1255
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\proofOfDeliveryController.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\proofOfDeliveryController.js",
+    "name": "proofOfDeliveryController.js",
+    "ext": ".js",
+    "size": 1255
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\ProtectedRoute_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\ProtectedRoute_1.js",
+    "name": "ProtectedRoute_1.js",
+    "ext": ".js",
+    "size": 575
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\QuoteSubmissionForm_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\QuoteSubmissionForm_1.js",
+    "name": "QuoteSubmissionForm_1.js",
+    "ext": ".js",
+    "size": 3109
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\RateHaulerForm_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\RateHaulerForm_1.js",
+    "name": "RateHaulerForm_1.js",
+    "ext": ".js",
+    "size": 2180
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\RateHaulerForm.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\RateHaulerForm.js",
+    "name": "RateHaulerForm.js",
+    "ext": ".js",
+    "size": 2180
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\RateLimiter_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\RateLimiter_1.js",
+    "name": "RateLimiter_1.js",
+    "ext": ".js",
+    "size": 1661
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\RateLimiter.test_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\RateLimiter.test_1.js",
+    "name": "RateLimiter.test_1.js",
+    "ext": ".js",
+    "size": 2763
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\RealTimePredictor_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\RealTimePredictor_1.js",
+    "name": "RealTimePredictor_1.js",
+    "ext": ".js",
+    "size": 2604
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\RealTimePredictor.test_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\RealTimePredictor.test_1.js",
+    "name": "RealTimePredictor.test_1.js",
+    "ext": ".js",
+    "size": 4209
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\RecommendationEngine_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\RecommendationEngine_1.js",
+    "name": "RecommendationEngine_1.js",
+    "ext": ".js",
+    "size": 1838
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\RecommendationEngine.test_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\RecommendationEngine.test_1.js",
+    "name": "RecommendationEngine.test_1.js",
+    "ext": ".js",
+    "size": 2710
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\ReferralAnalytics_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\ReferralAnalytics_1.js",
+    "name": "ReferralAnalytics_1.js",
+    "ext": ".js",
+    "size": 817
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\Register_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\Register_1.js",
+    "name": "Register_1.js",
+    "ext": ".js",
+    "size": 3141
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\RegisterForm_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\RegisterForm_1.js",
+    "name": "RegisterForm_1.js",
+    "ext": ".js",
+    "size": 1513
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\ReputationBadgeTier_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\ReputationBadgeTier_1.js",
+    "name": "ReputationBadgeTier_1.js",
+    "ext": ".js",
+    "size": 667
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\RewardHelper_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\RewardHelper_1.js",
+    "name": "RewardHelper_1.js",
+    "ext": ".js",
+    "size": 1809
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\RiskAssessmentEngine.test_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\RiskAssessmentEngine.test_1.js",
+    "name": "RiskAssessmentEngine.test_1.js",
+    "ext": ".js",
+    "size": 3466
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\RoleActivityCharts_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\RoleActivityCharts_1.js",
+    "name": "RoleActivityCharts_1.js",
+    "ext": ".js",
+    "size": 2712
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\RoleSwitchWrapper_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\RoleSwitchWrapper_1.js",
+    "name": "RoleSwitchWrapper_1.js",
+    "ext": ".js",
+    "size": 542
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\scalabilityValidation_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\scalabilityValidation_1.js",
+    "name": "scalabilityValidation_1.js",
+    "ext": ".js",
+    "size": 6164
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\SecurityAudit_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\SecurityAudit_1.js",
+    "name": "SecurityAudit_1.js",
+    "ext": ".js",
+    "size": 2234
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\SecurityAudit.test_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\SecurityAudit.test_1.js",
+    "name": "SecurityAudit.test_1.js",
+    "ext": ".js",
+    "size": 3531
+  }
+]

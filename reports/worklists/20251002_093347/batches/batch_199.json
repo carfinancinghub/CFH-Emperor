@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\ChatInterface.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\ChatInterface.test_1.tsx",
+    "name": "ChatInterface.test_1.tsx",
+    "ext": ".tsx",
+    "size": 45
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\ChatInterface.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\ChatInterface.test.tsx",
+    "name": "ChatInterface.test.tsx",
+    "ext": ".tsx",
+    "size": 45
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\ClaimsProcessor_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\ClaimsProcessor_1.tsx",
+    "name": "ClaimsProcessor_1.tsx",
+    "ext": ".tsx",
+    "size": 2588
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\ClaimsProcessor.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\ClaimsProcessor.test_1.tsx",
+    "name": "ClaimsProcessor.test_1.tsx",
+    "ext": ".tsx",
+    "size": 47
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\ClaimsProcessor.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\ClaimsProcessor.test.tsx",
+    "name": "ClaimsProcessor.test.tsx",
+    "ext": ".tsx",
+    "size": 47
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\ClaimsProcessor.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\ClaimsProcessor.tsx",
+    "name": "ClaimsProcessor.tsx",
+    "ext": ".tsx",
+    "size": 2588
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\CollaborationChat_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\CollaborationChat_1.tsx",
+    "name": "CollaborationChat_1.tsx",
+    "ext": ".tsx",
+    "size": 6600
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\CollaborationChat.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\CollaborationChat.test_1.tsx",
+    "name": "CollaborationChat.test_1.tsx",
+    "ext": ".tsx",
+    "size": 49
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\CollaborationChat.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\CollaborationChat.test.tsx",
+    "name": "CollaborationChat.test.tsx",
+    "ext": ".tsx",
+    "size": 49
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\CollaborationChat.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\CollaborationChat.tsx",
+    "name": "CollaborationChat.tsx",
+    "ext": ".tsx",
+    "size": 6600
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\CommunityForum_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\CommunityForum_1.tsx",
+    "name": "CommunityForum_1.tsx",
+    "ext": ".tsx",
+    "size": 6023
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\CommunityForum.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\CommunityForum.test_1.tsx",
+    "name": "CommunityForum.test_1.tsx",
+    "ext": ".tsx",
+    "size": 46
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\CommunityForum.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\CommunityForum.test.tsx",
+    "name": "CommunityForum.test.tsx",
+    "ext": ".tsx",
+    "size": 46
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\CommunityForum.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\CommunityForum.tsx",
+    "name": "CommunityForum.tsx",
+    "ext": ".tsx",
+    "size": 6023
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\CommunityLeaderboard_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\CommunityLeaderboard_1.tsx",
+    "name": "CommunityLeaderboard_1.tsx",
+    "ext": ".tsx",
+    "size": 5754
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\CommunityLeaderboard.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\CommunityLeaderboard.test_1.tsx",
+    "name": "CommunityLeaderboard.test_1.tsx",
+    "ext": ".tsx",
+    "size": 52
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\CommunityLeaderboard.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\CommunityLeaderboard.test.tsx",
+    "name": "CommunityLeaderboard.test.tsx",
+    "ext": ".tsx",
+    "size": 52
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\CommunityLeaderboard.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\CommunityLeaderboard.tsx",
+    "name": "CommunityLeaderboard.tsx",
+    "ext": ".tsx",
+    "size": 5754
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\CompareShopsTable_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\CompareShopsTable_1.tsx",
+    "name": "CompareShopsTable_1.tsx",
+    "ext": ".tsx",
+    "size": 14727
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\CompareShopsTable.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\CompareShopsTable.test_1.tsx",
+    "name": "CompareShopsTable.test_1.tsx",
+    "ext": ".tsx",
+    "size": 13865
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\CompetitiveBiddingInterface_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\CompetitiveBiddingInterface_1.tsx",
+    "name": "CompetitiveBiddingInterface_1.tsx",
+    "ext": ".tsx",
+    "size": 4100
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\CompetitiveBiddingInterface.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\CompetitiveBiddingInterface.test_1.tsx",
+    "name": "CompetitiveBiddingInterface.test_1.tsx",
+    "ext": ".tsx",
+    "size": 59
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\CompetitiveBiddingInterface.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\CompetitiveBiddingInterface.test.tsx",
+    "name": "CompetitiveBiddingInterface.test.tsx",
+    "ext": ".tsx",
+    "size": 59
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\CompetitiveBiddingInterface.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\CompetitiveBiddingInterface.tsx",
+    "name": "CompetitiveBiddingInterface.tsx",
+    "ext": ".tsx",
+    "size": 4100
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\ComplianceConsentForm_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\ComplianceConsentForm_1.tsx",
+    "name": "ComplianceConsentForm_1.tsx",
+    "ext": ".tsx",
+    "size": 4885
+  }
+]

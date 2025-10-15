@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\AIFraudDetectionGrokOld3.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\AIFraudDetectionGrokOld3.tsx",
+    "name": "AIFraudDetectionGrokOld3.tsx",
+    "ext": ".tsx",
+    "size": 668
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\AIInsightBuyer.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\AIInsightBuyer.tsx",
+    "name": "AIInsightBuyer.tsx",
+    "ext": ".tsx",
+    "size": 628
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\AIInsightSeller.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\AIInsightSeller.tsx",
+    "name": "AIInsightSeller.tsx",
+    "ext": ".tsx",
+    "size": 632
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\AILenderMatchRecommenderGrokOld.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\AILenderMatchRecommenderGrokOld.tsx",
+    "name": "AILenderMatchRecommenderGrokOld.tsx",
+    "ext": ".tsx",
+    "size": 696
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\AILenderTermsAnalyzer.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\AILenderTermsAnalyzer.tsx",
+    "name": "AILenderTermsAnalyzer.tsx",
+    "ext": ".tsx",
+    "size": 656
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\AILoanRecommenderGrokOld2.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\AILoanRecommenderGrokOld2.tsx",
+    "name": "AILoanRecommenderGrokOld2.tsx",
+    "ext": ".tsx",
+    "size": 672
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\aiMatchmaker.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\aiMatchmaker.tsx",
+    "name": "aiMatchmaker.tsx",
+    "ext": ".tsx",
+    "size": 620
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\AIPricingEngineGrokOld1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\AIPricingEngineGrokOld1.tsx",
+    "name": "AIPricingEngineGrokOld1.tsx",
+    "ext": ".tsx",
+    "size": 664
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\AIPricingEngineGrokOld2.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\AIPricingEngineGrokOld2.tsx",
+    "name": "AIPricingEngineGrokOld2.tsx",
+    "ext": ".tsx",
+    "size": 664
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\AIRecommendationEngine.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\AIRecommendationEngine.tsx",
+    "name": "AIRecommendationEngine.tsx",
+    "ext": ".tsx",
+    "size": 660
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\AIScorePanel.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\AIScorePanel.tsx",
+    "name": "AIScorePanel.tsx",
+    "ext": ".tsx",
+    "size": 620
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\AISuggestionEngine.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\AISuggestionEngine.tsx",
+    "name": "AISuggestionEngine.tsx",
+    "ext": ".tsx",
+    "size": 644
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\alerts.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\alerts.tsx",
+    "name": "alerts.tsx",
+    "ext": ".tsx",
+    "size": 596
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\analytics.routes.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\analytics.routes.tsx",
+    "name": "analytics.routes.tsx",
+    "ext": ".tsx",
+    "size": 636
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\analyticsExportUtilsGrokOld (2).tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\analyticsExportUtilsGrokOld (2).tsx",
+    "name": "analyticsExportUtilsGrokOld (2).tsx",
+    "ext": ".tsx",
+    "size": 696
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\analyticsExportUtilsGrokOld.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\analyticsExportUtilsGrokOld.tsx",
+    "name": "analyticsExportUtilsGrokOld.tsx",
+    "ext": ".tsx",
+    "size": 680
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\ArbitrationDashboard.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\ArbitrationDashboard.tsx",
+    "name": "ArbitrationDashboard.tsx",
+    "ext": ".tsx",
+    "size": 652
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\arbitrationExportTools.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\arbitrationExportTools.tsx",
+    "name": "arbitrationExportTools.tsx",
+    "ext": ".tsx",
+    "size": 660
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\arbitrator-performance.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\arbitrator-performance.tsx",
+    "name": "arbitrator-performance.tsx",
+    "ext": ".tsx",
+    "size": 660
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\arbitratorBucket.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\arbitratorBucket.tsx",
+    "name": "arbitratorBucket.tsx",
+    "ext": ".tsx",
+    "size": 636
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\arbitratorRecognition.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\arbitratorRecognition.tsx",
+    "name": "arbitratorRecognition.tsx",
+    "ext": ".tsx",
+    "size": 656
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\ARExperience.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\ARExperience.tsx",
+    "name": "ARExperience.tsx",
+    "ext": ".tsx",
+    "size": 620
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\ARVehicleView.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\ARVehicleView.tsx",
+    "name": "ARVehicleView.tsx",
+    "ext": ".tsx",
+    "size": 624
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\assignJudges.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\assignJudges.tsx",
+    "name": "assignJudges.tsx",
+    "ext": ".tsx",
+    "size": 620
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\AssignJudgesForm.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\AssignJudgesForm.tsx",
+    "name": "AssignJudgesForm.tsx",
+    "ext": ".tsx",
+    "size": 636
+  }
+]

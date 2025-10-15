@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\inspectionController.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\inspectionController.test_1.ts",
+    "name": "inspectionController.test_1.ts",
+    "ext": ".ts",
+    "size": 51
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\inspectionController.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\inspectionController.test.ts",
+    "name": "inspectionController.test.ts",
+    "ext": ".ts",
+    "size": 51
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\inspectionController.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\inspectionController.ts",
+    "name": "inspectionController.ts",
+    "ext": ".ts",
+    "size": 2774
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\InspectionForm_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\InspectionForm_1.ts",
+    "name": "InspectionForm_1.ts",
+    "ext": ".ts",
+    "size": 3124
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\InspectionForm.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\InspectionForm.test_1.ts",
+    "name": "InspectionForm.test_1.ts",
+    "ext": ".ts",
+    "size": 45
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\InspectionForm.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\InspectionForm.test.ts",
+    "name": "InspectionForm.test.ts",
+    "ext": ".ts",
+    "size": 45
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\InspectionForm.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\InspectionForm.ts",
+    "name": "InspectionForm.ts",
+    "ext": ".ts",
+    "size": 3124
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\InspectionIndexPage_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\InspectionIndexPage_1.ts",
+    "name": "InspectionIndexPage_1.ts",
+    "ext": ".ts",
+    "size": 4372
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\InspectionIndexPage.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\InspectionIndexPage.test_1.ts",
+    "name": "InspectionIndexPage.test_1.ts",
+    "ext": ".ts",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\InspectionIndexPage.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\InspectionIndexPage.test.ts",
+    "name": "InspectionIndexPage.test.ts",
+    "ext": ".ts",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\InspectionIndexPage.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\InspectionIndexPage.ts",
+    "name": "InspectionIndexPage.ts",
+    "ext": ".ts",
+    "size": 4372
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\inspectionPdfController_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\inspectionPdfController_1.ts",
+    "name": "inspectionPdfController_1.ts",
+    "ext": ".ts",
+    "size": 2222
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\inspectionPdfController.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\inspectionPdfController.test_1.ts",
+    "name": "inspectionPdfController.test_1.ts",
+    "ext": ".ts",
+    "size": 54
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\inspectionPdfController.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\inspectionPdfController.test.ts",
+    "name": "inspectionPdfController.test.ts",
+    "ext": ".ts",
+    "size": 54
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\inspectionPdfController.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\inspectionPdfController.ts",
+    "name": "inspectionPdfController.ts",
+    "ext": ".ts",
+    "size": 2222
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\InspectionReportList_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\InspectionReportList_1.ts",
+    "name": "InspectionReportList_1.ts",
+    "ext": ".ts",
+    "size": 3445
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\InspectionReportList.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\InspectionReportList.test_1.ts",
+    "name": "InspectionReportList.test_1.ts",
+    "ext": ".ts",
+    "size": 51
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\InspectionReportList.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\InspectionReportList.test.ts",
+    "name": "InspectionReportList.test.ts",
+    "ext": ".ts",
+    "size": 51
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\InspectionReportList.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\InspectionReportList.ts",
+    "name": "InspectionReportList.ts",
+    "ext": ".ts",
+    "size": 3445
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\inspectionReportRoutes_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\inspectionReportRoutes_1.ts",
+    "name": "inspectionReportRoutes_1.ts",
+    "ext": ".ts",
+    "size": 2014
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\inspectionReportRoutes.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\inspectionReportRoutes.test_1.ts",
+    "name": "inspectionReportRoutes.test_1.ts",
+    "ext": ".ts",
+    "size": 53
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\inspectionReportRoutes.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\inspectionReportRoutes.test.ts",
+    "name": "inspectionReportRoutes.test.ts",
+    "ext": ".ts",
+    "size": 53
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\inspectionReportRoutes.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\inspectionReportRoutes.ts",
+    "name": "inspectionReportRoutes.ts",
+    "ext": ".ts",
+    "size": 2014
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\InspectionReportViewer_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\InspectionReportViewer_1.ts",
+    "name": "InspectionReportViewer_1.ts",
+    "ext": ".ts",
+    "size": 3875
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\InspectionReportViewer.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\InspectionReportViewer.test_1.ts",
+    "name": "InspectionReportViewer.test_1.ts",
+    "ext": ".ts",
+    "size": 53
+  }
+]

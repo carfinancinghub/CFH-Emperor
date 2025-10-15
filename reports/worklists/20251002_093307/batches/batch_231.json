@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SEOHead_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SEOHead_1.tsx",
+    "name": "SEOHead_1.tsx",
+    "ext": ".tsx",
+    "size": 1775
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SEOHead.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SEOHead.test_1.tsx",
+    "name": "SEOHead.test_1.tsx",
+    "ext": ".tsx",
+    "size": 39
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SEOHead.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SEOHead.test.tsx",
+    "name": "SEOHead.test.tsx",
+    "ext": ".tsx",
+    "size": 39
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SEOHead.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SEOHead.tsx",
+    "name": "SEOHead.tsx",
+    "ext": ".tsx",
+    "size": 1775
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SharedReportViewer_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SharedReportViewer_1.tsx",
+    "name": "SharedReportViewer_1.tsx",
+    "ext": ".tsx",
+    "size": 1515
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SharedReportViewer.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SharedReportViewer.test_1.tsx",
+    "name": "SharedReportViewer.test_1.tsx",
+    "ext": ".tsx",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SharedReportViewer.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SharedReportViewer.test.tsx",
+    "name": "SharedReportViewer.test.tsx",
+    "ext": ".tsx",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SharedReportViewer.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SharedReportViewer.tsx",
+    "name": "SharedReportViewer.tsx",
+    "ext": ".tsx",
+    "size": 1515
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\ShopOwnerDashboard_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\ShopOwnerDashboard_1.tsx",
+    "name": "ShopOwnerDashboard_1.tsx",
+    "ext": ".tsx",
+    "size": 18672
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\ShopOwnerDashboard.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\ShopOwnerDashboard.test_1.tsx",
+    "name": "ShopOwnerDashboard.test_1.tsx",
+    "ext": ".tsx",
+    "size": 14229
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SmartInsightsWidget_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SmartInsightsWidget_1.tsx",
+    "name": "SmartInsightsWidget_1.tsx",
+    "ext": ".tsx",
+    "size": 2784
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SmartInsightsWidget.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SmartInsightsWidget.test_1.tsx",
+    "name": "SmartInsightsWidget.test_1.tsx",
+    "ext": ".tsx",
+    "size": 51
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SmartInsightsWidget.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SmartInsightsWidget.test.tsx",
+    "name": "SmartInsightsWidget.test.tsx",
+    "ext": ".tsx",
+    "size": 51
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SmartVerdictHint_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SmartVerdictHint_1.tsx",
+    "name": "SmartVerdictHint_1.tsx",
+    "ext": ".tsx",
+    "size": 2838
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SmartVerdictHint.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SmartVerdictHint.test_1.tsx",
+    "name": "SmartVerdictHint.test_1.tsx",
+    "ext": ".tsx",
+    "size": 2356
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SmartVerdictHint.test.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SmartVerdictHint.test.test_1.tsx",
+    "name": "SmartVerdictHint.test.test_1.tsx",
+    "ext": ".tsx",
+    "size": 53
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SmartVerdictHint.test.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SmartVerdictHint.test.test.tsx",
+    "name": "SmartVerdictHint.test.test.tsx",
+    "ext": ".tsx",
+    "size": 53
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SmartVerdictHint.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SmartVerdictHint.test.tsx",
+    "name": "SmartVerdictHint.test.tsx",
+    "ext": ".tsx",
+    "size": 48
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SmartVerdictHint.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SmartVerdictHint.tsx",
+    "name": "SmartVerdictHint.tsx",
+    "ext": ".tsx",
+    "size": 2838
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\Spinner.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\Spinner.test_1.tsx",
+    "name": "Spinner.test_1.tsx",
+    "ext": ".tsx",
+    "size": 468
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\Spinner.test.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\Spinner.test.test_1.tsx",
+    "name": "Spinner.test.test_1.tsx",
+    "ext": ".tsx",
+    "size": 44
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\Spinner.test.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\Spinner.test.test.tsx",
+    "name": "Spinner.test.test.tsx",
+    "ext": ".tsx",
+    "size": 44
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\Spinner.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\Spinner.test.tsx",
+    "name": "Spinner.test.tsx",
+    "ext": ".tsx",
+    "size": 468
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\StartAuctionForm_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\StartAuctionForm_1.tsx",
+    "name": "StartAuctionForm_1.tsx",
+    "ext": ".tsx",
+    "size": 1838
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\StartAuctionForm.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\StartAuctionForm.test_1.tsx",
+    "name": "StartAuctionForm.test_1.tsx",
+    "ext": ".tsx",
+    "size": 48
+  }
+]

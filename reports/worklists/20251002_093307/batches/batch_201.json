@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\CurrencyConverterWidget.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\CurrencyConverterWidget.test.tsx",
+    "name": "CurrencyConverterWidget.test.tsx",
+    "ext": ".tsx",
+    "size": 55
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\CurrencyConverterWidget.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\CurrencyConverterWidget.tsx",
+    "name": "CurrencyConverterWidget.tsx",
+    "ext": ".tsx",
+    "size": 5277
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\DataTable_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\DataTable_1.tsx",
+    "name": "DataTable_1.tsx",
+    "ext": ".tsx",
+    "size": 11388
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\DisputeAnalytics_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\DisputeAnalytics_1.tsx",
+    "name": "DisputeAnalytics_1.tsx",
+    "ext": ".tsx",
+    "size": 5734
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\DisputeAnalytics.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\DisputeAnalytics.test_1.tsx",
+    "name": "DisputeAnalytics.test_1.tsx",
+    "ext": ".tsx",
+    "size": 48
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\DisputeAnalytics.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\DisputeAnalytics.test.tsx",
+    "name": "DisputeAnalytics.test.tsx",
+    "ext": ".tsx",
+    "size": 48
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\DisputeAnalytics.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\DisputeAnalytics.tsx",
+    "name": "DisputeAnalytics.tsx",
+    "ext": ".tsx",
+    "size": 5734
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\DisputeAnalyticsPanel_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\DisputeAnalyticsPanel_1.tsx",
+    "name": "DisputeAnalyticsPanel_1.tsx",
+    "ext": ".tsx",
+    "size": 4315
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\DisputeAnalyticsPanel.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\DisputeAnalyticsPanel.test_1.tsx",
+    "name": "DisputeAnalyticsPanel.test_1.tsx",
+    "ext": ".tsx",
+    "size": 53
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\DisputeAnalyticsPanel.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\DisputeAnalyticsPanel.test.tsx",
+    "name": "DisputeAnalyticsPanel.test.tsx",
+    "ext": ".tsx",
+    "size": 53
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\DisputeAnalyticsPanel.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\DisputeAnalyticsPanel.tsx",
+    "name": "DisputeAnalyticsPanel.tsx",
+    "ext": ".tsx",
+    "size": 4315
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\DisputeRadarWidget_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\DisputeRadarWidget_1.tsx",
+    "name": "DisputeRadarWidget_1.tsx",
+    "ext": ".tsx",
+    "size": 7356
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\DisputeRadarWidget.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\DisputeRadarWidget.test_1.tsx",
+    "name": "DisputeRadarWidget.test_1.tsx",
+    "ext": ".tsx",
+    "size": 8078
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\DisputeRadarWidget.test.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\DisputeRadarWidget.test.test_1.tsx",
+    "name": "DisputeRadarWidget.test.test_1.tsx",
+    "ext": ".tsx",
+    "size": 55
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\DisputeRadarWidget.test.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\DisputeRadarWidget.test.test.tsx",
+    "name": "DisputeRadarWidget.test.test.tsx",
+    "ext": ".tsx",
+    "size": 55
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\DisputeRadarWidget.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\DisputeRadarWidget.test.tsx",
+    "name": "DisputeRadarWidget.test.tsx",
+    "ext": ".tsx",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\DisputeRadarWidget.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\DisputeRadarWidget.tsx",
+    "name": "DisputeRadarWidget.tsx",
+    "ext": ".tsx",
+    "size": 7356
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\DisputeReview_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\DisputeReview_1.tsx",
+    "name": "DisputeReview_1.tsx",
+    "ext": ".tsx",
+    "size": 1607
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\DisputeReview.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\DisputeReview.test_1.tsx",
+    "name": "DisputeReview.test_1.tsx",
+    "ext": ".tsx",
+    "size": 45
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\DisputeReview.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\DisputeReview.test.tsx",
+    "name": "DisputeReview.test.tsx",
+    "ext": ".tsx",
+    "size": 45
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\DisputeSimulator_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\DisputeSimulator_1.tsx",
+    "name": "DisputeSimulator_1.tsx",
+    "ext": ".tsx",
+    "size": 5536
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\DisputeSimulator.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\DisputeSimulator.test_1.tsx",
+    "name": "DisputeSimulator.test_1.tsx",
+    "ext": ".tsx",
+    "size": 48
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\DisputeSimulator.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\DisputeSimulator.test.tsx",
+    "name": "DisputeSimulator.test.tsx",
+    "ext": ".tsx",
+    "size": 48
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\DisputeSimulator.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\DisputeSimulator.tsx",
+    "name": "DisputeSimulator.tsx",
+    "ext": ".tsx",
+    "size": 5536
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\DisputeSummaryView_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\DisputeSummaryView_1.tsx",
+    "name": "DisputeSummaryView_1.tsx",
+    "ext": ".tsx",
+    "size": 2109
+  }
+]

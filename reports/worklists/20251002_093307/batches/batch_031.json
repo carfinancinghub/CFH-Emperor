@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\admin\\dashboard\\AdminSummaryPanel.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\admin\\dashboard\\AdminSummaryPanel.jsx",
+    "name": "AdminSummaryPanel.jsx",
+    "ext": ".jsx",
+    "size": 1322
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\admin\\disputes\\AdminDisputeAnalytics.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\admin\\disputes\\AdminDisputeAnalytics.jsx",
+    "name": "AdminDisputeAnalytics.jsx",
+    "ext": ".jsx",
+    "size": 4963
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\admin\\disputes\\AdminDisputeArchive.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\admin\\disputes\\AdminDisputeArchive.jsx",
+    "name": "AdminDisputeArchive.jsx",
+    "ext": ".jsx",
+    "size": 2675
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\admin\\disputes\\AdminDisputeDashboard.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\admin\\disputes\\AdminDisputeDashboard.jsx",
+    "name": "AdminDisputeDashboard.jsx",
+    "ext": ".jsx",
+    "size": 4392
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\admin\\disputes\\AdminDisputeIndex.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\admin\\disputes\\AdminDisputeIndex.jsx",
+    "name": "AdminDisputeIndex.jsx",
+    "ext": ".jsx",
+    "size": 2237
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\admin\\disputes\\DisputeReview.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\admin\\disputes\\DisputeReview.jsx",
+    "name": "DisputeReview.jsx",
+    "ext": ".jsx",
+    "size": 1533
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\admin\\disputes\\DisputeSummaryView.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\admin\\disputes\\DisputeSummaryView.jsx",
+    "name": "DisputeSummaryView.jsx",
+    "ext": ".jsx",
+    "size": 2030
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\admin\\disputes\\StartAuctionForm.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\admin\\disputes\\StartAuctionForm.jsx",
+    "name": "StartAuctionForm.jsx",
+    "ext": ".jsx",
+    "size": 1761
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\admin\\escrow\\AdminEscrowClaim.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\admin\\escrow\\AdminEscrowClaim.jsx",
+    "name": "AdminEscrowClaim.jsx",
+    "ext": ".jsx",
+    "size": 3921
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\admin\\escrow\\AdminEscrowMonitor.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\admin\\escrow\\AdminEscrowMonitor.jsx",
+    "name": "AdminEscrowMonitor.jsx",
+    "ext": ".jsx",
+    "size": 3612
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\admin\\export\\AdminReportExport.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\admin\\export\\AdminReportExport.jsx",
+    "name": "AdminReportExport.jsx",
+    "ext": ".jsx",
+    "size": 1916
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\admin\\finance\\AdminFinancialOverview.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\admin\\finance\\AdminFinancialOverview.jsx",
+    "name": "AdminFinancialOverview.jsx",
+    "ext": ".jsx",
+    "size": 2988
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\admin\\health\\AdminSystemHealth.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\admin\\health\\AdminSystemHealth.jsx",
+    "name": "AdminSystemHealth.jsx",
+    "ext": ".jsx",
+    "size": 2764
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\admin\\insights\\AdminInsights.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\admin\\insights\\AdminInsights.jsx",
+    "name": "AdminInsights.jsx",
+    "ext": ".jsx",
+    "size": 2119
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\admin\\layout\\AdminLayout.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\admin\\layout\\AdminLayout.jsx",
+    "name": "AdminLayout.jsx",
+    "ext": ".jsx",
+    "size": 1178
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\admin\\layout\\AdminNavigation.css",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\admin\\layout\\AdminNavigation.css",
+    "name": "AdminNavigation.css",
+    "ext": ".css",
+    "size": 776
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\admin\\layout\\AdminNavigation.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\admin\\layout\\AdminNavigation.jsx",
+    "name": "AdminNavigation.jsx",
+    "ext": ".jsx",
+    "size": 1553
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\admin\\layout\\AdminSidebar.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\admin\\layout\\AdminSidebar.jsx",
+    "name": "AdminSidebar.jsx",
+    "ext": ".jsx",
+    "size": 1980
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\admin\\layout\\AdminTopbar.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\admin\\layout\\AdminTopbar.jsx",
+    "name": "AdminTopbar.jsx",
+    "ext": ".jsx",
+    "size": 1368
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\admin\\LiveDashboardHealthWidget.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\admin\\LiveDashboardHealthWidget.jsx",
+    "name": "LiveDashboardHealthWidget.jsx",
+    "ext": ".jsx",
+    "size": 2756
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\admin\\LiveDashboardHealthWidget.tsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\admin\\LiveDashboardHealthWidget.tsx",
+    "name": "LiveDashboardHealthWidget.tsx",
+    "ext": ".tsx",
+    "size": 4040
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\admin\\logins\\AdminLoginHistory.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\admin\\logins\\AdminLoginHistory.jsx",
+    "name": "AdminLoginHistory.jsx",
+    "ext": ".jsx",
+    "size": 2270
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\admin\\loyalty\\AdminLoyaltyRewards.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\admin\\loyalty\\AdminLoyaltyRewards.jsx",
+    "name": "AdminLoyaltyRewards.jsx",
+    "ext": ".jsx",
+    "size": 2857
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\admin\\moderation\\AdminModerationCenter.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\admin\\moderation\\AdminModerationCenter.jsx",
+    "name": "AdminModerationCenter.jsx",
+    "ext": ".jsx",
+    "size": 3705
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\admin\\notifications\\AdminNotificationCenter.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\admin\\notifications\\AdminNotificationCenter.jsx",
+    "name": "AdminNotificationCenter.jsx",
+    "ext": ".jsx",
+    "size": 3815
+  }
+]

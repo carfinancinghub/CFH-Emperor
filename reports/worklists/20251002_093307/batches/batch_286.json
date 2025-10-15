@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\financing.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\financing.tsx",
+    "name": "financing.tsx",
+    "ext": ".tsx",
+    "size": 608
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\financingAuctions.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\financingAuctions.tsx",
+    "name": "financingAuctions.tsx",
+    "ext": ".tsx",
+    "size": 640
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\FinancingCalculator.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\FinancingCalculator.tsx",
+    "name": "FinancingCalculator.tsx",
+    "ext": ".tsx",
+    "size": 648
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\FinancingModal.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\FinancingModal.tsx",
+    "name": "FinancingModal.tsx",
+    "ext": ".tsx",
+    "size": 628
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\FinancingOffer.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\FinancingOffer.tsx",
+    "name": "FinancingOffer.tsx",
+    "ext": ".tsx",
+    "size": 628
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\foldl.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\foldl.tsx",
+    "name": "foldl.tsx",
+    "ext": ".tsx",
+    "size": 592
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\foldr.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\foldr.tsx",
+    "name": "foldr.tsx",
+    "ext": ".tsx",
+    "size": 592
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\Forum.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\Forum.tsx",
+    "name": "Forum.tsx",
+    "ext": ".tsx",
+    "size": 592
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\ForumGrokOld.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\ForumGrokOld.tsx",
+    "name": "ForumGrokOld.tsx",
+    "ext": ".tsx",
+    "size": 620
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\fraud.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\fraud.tsx",
+    "name": "fraud.tsx",
+    "ext": ".tsx",
+    "size": 592
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\FraudAlert.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\FraudAlert.tsx",
+    "name": "FraudAlert.tsx",
+    "ext": ".tsx",
+    "size": 612
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\FreightTrustDashboard.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\FreightTrustDashboard.tsx",
+    "name": "FreightTrustDashboard.tsx",
+    "ext": ".tsx",
+    "size": 656
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\generateContractPDF.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\generateContractPDF.tsx",
+    "name": "generateContractPDF.tsx",
+    "ext": ".tsx",
+    "size": 648
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\generateSignablePDF.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\generateSignablePDF.tsx",
+    "name": "generateSignablePDF.tsx",
+    "ext": ".tsx",
+    "size": 648
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\GeoStatusPanel.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\GeoStatusPanel.tsx",
+    "name": "GeoStatusPanel.tsx",
+    "ext": ".tsx",
+    "size": 628
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\gpsProofController.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\gpsProofController.tsx",
+    "name": "gpsProofController.tsx",
+    "ext": ".tsx",
+    "size": 644
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\GraphExportService.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\GraphExportService.tsx",
+    "name": "GraphExportService.tsx",
+    "ext": ".tsx",
+    "size": 644
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\hashAndAnchorPDF.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\hashAndAnchorPDF.tsx",
+    "name": "hashAndAnchorPDF.tsx",
+    "ext": ".tsx",
+    "size": 636
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\haulerBucket.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\haulerBucket.tsx",
+    "name": "haulerBucket.tsx",
+    "ext": ".tsx",
+    "size": 620
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\HaulerController.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\HaulerController.tsx",
+    "name": "HaulerController.tsx",
+    "ext": ".tsx",
+    "size": 636
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\HaulerDashboard.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\HaulerDashboard.tsx",
+    "name": "HaulerDashboard.tsx",
+    "ext": ".tsx",
+    "size": 632
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\HaulerDeliveryArchive.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\HaulerDeliveryArchive.tsx",
+    "name": "HaulerDeliveryArchive.tsx",
+    "ext": ".tsx",
+    "size": 656
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\haulerHealthCheck.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\haulerHealthCheck.tsx",
+    "name": "haulerHealthCheck.tsx",
+    "ext": ".tsx",
+    "size": 640
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\HaulerJobFinder.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\HaulerJobFinder.tsx",
+    "name": "HaulerJobFinder.tsx",
+    "ext": ".tsx",
+    "size": 632
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\HaulerJobReview.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\HaulerJobReview.tsx",
+    "name": "HaulerJobReview.tsx",
+    "ext": ".tsx",
+    "size": 632
+  }
+]

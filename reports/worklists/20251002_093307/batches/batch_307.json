@@ -1,0 +1,178 @@
+[
+  {
+    "root": "M:\\cfh",
+    "rel_path": "backend\\routes\\marketplace\\marketplaceRoutes.ts",
+    "full_path": "M:\\CFH\\backend\\routes\\marketplace\\marketplaceRoutes.ts",
+    "name": "marketplaceRoutes.ts",
+    "ext": ".ts",
+    "size": 236
+  },
+  {
+    "root": "M:\\cfh",
+    "rel_path": "backend\\routes\\mechanic\\services\\auction\\AIDefectDetector.js",
+    "full_path": "M:\\CFH\\backend\\routes\\mechanic\\services\\auction\\AIDefectDetector.js",
+    "name": "AIDefectDetector.js",
+    "ext": ".js",
+    "size": 900
+  },
+  {
+    "root": "M:\\cfh",
+    "rel_path": "backend\\routes\\mechanic\\taskCompletionRoutes.js",
+    "full_path": "M:\\CFH\\backend\\routes\\mechanic\\taskCompletionRoutes.js",
+    "name": "taskCompletionRoutes.js",
+    "ext": ".js",
+    "size": 1368
+  },
+  {
+    "root": "M:\\cfh",
+    "rel_path": "backend\\routes\\mechanic\\taskOutcomeRoutes.js",
+    "full_path": "M:\\CFH\\backend\\routes\\mechanic\\taskOutcomeRoutes.js",
+    "name": "taskOutcomeRoutes.js",
+    "ext": ".js",
+    "size": 1250
+  },
+  {
+    "root": "M:\\cfh",
+    "rel_path": "backend\\routes\\mechanic\\transcribeVoiceNoteRoutes.js",
+    "full_path": "M:\\CFH\\backend\\routes\\mechanic\\transcribeVoiceNoteRoutes.js",
+    "name": "transcribeVoiceNoteRoutes.js",
+    "ext": ".js",
+    "size": 744
+  },
+  {
+    "root": "M:\\cfh",
+    "rel_path": "backend\\routes\\mechanic\\viewSharedReport.js",
+    "full_path": "M:\\CFH\\backend\\routes\\mechanic\\viewSharedReport.js",
+    "name": "viewSharedReport.js",
+    "ext": ".js",
+    "size": 697
+  },
+  {
+    "root": "M:\\cfh",
+    "rel_path": "backend\\routes\\mechanic\\vinDecodeRoutes.js",
+    "full_path": "M:\\CFH\\backend\\routes\\mechanic\\vinDecodeRoutes.js",
+    "name": "vinDecodeRoutes.js",
+    "ext": ".js",
+    "size": 1239
+  },
+  {
+    "root": "M:\\cfh",
+    "rel_path": "backend\\routes\\mechanic\\vinRoutes.js",
+    "full_path": "M:\\CFH\\backend\\routes\\mechanic\\vinRoutes.js",
+    "name": "vinRoutes.js",
+    "ext": ".js",
+    "size": 705
+  },
+  {
+    "root": "M:\\cfh",
+    "rel_path": "backend\\routes\\messages\\messageRoutes.js",
+    "full_path": "M:\\CFH\\backend\\routes\\messages\\messageRoutes.js",
+    "name": "messageRoutes.js",
+    "ext": ".js",
+    "size": 1063
+  },
+  {
+    "root": "M:\\cfh",
+    "rel_path": "backend\\routes\\onboarding\\onboarding.js",
+    "full_path": "M:\\CFH\\backend\\routes\\onboarding\\onboarding.js",
+    "name": "onboarding.js",
+    "ext": ".js",
+    "size": 403
+  },
+  {
+    "root": "M:\\cfh",
+    "rel_path": "backend\\routes\\recommendations.js",
+    "full_path": "M:\\CFH\\backend\\routes\\recommendations.js",
+    "name": "recommendations.js",
+    "ext": ".js",
+    "size": 562
+  },
+  {
+    "root": "M:\\cfh",
+    "rel_path": "backend\\routes\\reputation\\haulerReputationRoute.js",
+    "full_path": "M:\\CFH\\backend\\routes\\reputation\\haulerReputationRoute.js",
+    "name": "haulerReputationRoute.js",
+    "ext": ".js",
+    "size": 1029
+  },
+  {
+    "root": "M:\\cfh",
+    "rel_path": "backend\\routes\\reviews\\haulerReviewRoute.js",
+    "full_path": "M:\\CFH\\backend\\routes\\reviews\\haulerReviewRoute.js",
+    "name": "haulerReviewRoute.js",
+    "ext": ".js",
+    "size": 1584
+  },
+  {
+    "root": "M:\\cfh",
+    "rel_path": "backend\\routes\\seller\\coachPlanRoute.js",
+    "full_path": "M:\\CFH\\backend\\routes\\seller\\coachPlanRoute.js",
+    "name": "coachPlanRoute.js",
+    "ext": ".js",
+    "size": 1764
+  },
+  {
+    "root": "M:\\cfh",
+    "rel_path": "backend\\routes\\seller\\sellerReputationMeta.js",
+    "full_path": "M:\\CFH\\backend\\routes\\seller\\sellerReputationMeta.js",
+    "name": "sellerReputationMeta.js",
+    "ext": ".js",
+    "size": 2068
+  },
+  {
+    "root": "M:\\cfh",
+    "rel_path": "backend\\routes\\seller\\sellerRoutes.js",
+    "full_path": "M:\\CFH\\backend\\routes\\seller\\sellerRoutes.js",
+    "name": "sellerRoutes.js",
+    "ext": ".js",
+    "size": 2344
+  },
+  {
+    "root": "M:\\cfh",
+    "rel_path": "backend\\routes\\storage\\storageRoutes.js",
+    "full_path": "M:\\CFH\\backend\\routes\\storage\\storageRoutes.js",
+    "name": "storageRoutes.js",
+    "ext": ".js",
+    "size": 1378
+  },
+  {
+    "root": "M:\\cfh",
+    "rel_path": "backend\\routes\\syncRoutes.js",
+    "full_path": "M:\\CFH\\backend\\routes\\syncRoutes.js",
+    "name": "syncRoutes.js",
+    "ext": ".js",
+    "size": 1662
+  },
+  {
+    "root": "M:\\cfh",
+    "rel_path": "backend\\routes\\tinting\\tintingRoutes.ts",
+    "full_path": "M:\\CFH\\backend\\routes\\tinting\\tintingRoutes.ts",
+    "name": "tintingRoutes.ts",
+    "ext": ".ts",
+    "size": 2237
+  },
+  {
+    "root": "M:\\cfh",
+    "rel_path": "CFH Files Synced\\Verification\\support\\SupportTicketForm5150744.jsx",
+    "full_path": "M:\\CFH\\CFH Files Synced\\Verification\\support\\SupportTicketForm5150744.jsx",
+    "name": "SupportTicketForm5150744.jsx",
+    "ext": ".jsx",
+    "size": 0
+  },
+  {
+    "root": "M:\\cfh",
+    "rel_path": "CFH_Analytics\\AnalyticsDashboard.jsx",
+    "full_path": "M:\\CFH\\CFH_Analytics\\AnalyticsDashboard.jsx",
+    "name": "AnalyticsDashboard.jsx",
+    "ext": ".jsx",
+    "size": 4704
+  },
+  {
+    "root": "M:\\cfh",
+    "rel_path": "Cod1Logs\\jest_backup_20250621_193714.js",
+    "full_path": "M:\\CFH\\Cod1Logs\\jest_backup_20250621_193714.js",
+    "name": "jest_backup_20250621_193714.js",
+    "ext": ".js",
+    "size": 781
+  }
+]

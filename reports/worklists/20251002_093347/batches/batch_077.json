@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\loanAiApprovalController_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\loanAiApprovalController_1.js",
+    "name": "loanAiApprovalController_1.js",
+    "ext": ".js",
+    "size": 1936
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\loanAiApprovalController.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\loanAiApprovalController.js",
+    "name": "loanAiApprovalController.js",
+    "ext": ".js",
+    "size": 1936
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\loanAiApprovalRoutes_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\loanAiApprovalRoutes_1.js",
+    "name": "loanAiApprovalRoutes_1.js",
+    "ext": ".js",
+    "size": 758
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\loanAiApprovalRoutes.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\loanAiApprovalRoutes.js",
+    "name": "loanAiApprovalRoutes.js",
+    "ext": ".js",
+    "size": 758
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\LoanComparison_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\LoanComparison_1.js",
+    "name": "LoanComparison_1.js",
+    "ext": ".js",
+    "size": 3043
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\loanMatchRoutes_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\loanMatchRoutes_1.js",
+    "name": "loanMatchRoutes_1.js",
+    "ext": ".js",
+    "size": 1006
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\loanMatchRoutes.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\loanMatchRoutes.js",
+    "name": "loanMatchRoutes.js",
+    "ext": ".js",
+    "size": 1006
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\loanOfferController_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\loanOfferController_1.js",
+    "name": "loanOfferController_1.js",
+    "ext": ".js",
+    "size": 1611
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\loanOfferController.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\loanOfferController.js",
+    "name": "loanOfferController.js",
+    "ext": ".js",
+    "size": 1611
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\loanRecommendationController_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\loanRecommendationController_1.js",
+    "name": "loanRecommendationController_1.js",
+    "ext": ".js",
+    "size": 4313
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\logger_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\logger_1.js",
+    "name": "logger_1.js",
+    "ext": ".js",
+    "size": 626
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\logger.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\logger.js",
+    "name": "logger.js",
+    "ext": ".js",
+    "size": 626
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\logger.test_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\logger.test_1.js",
+    "name": "logger.test_1.js",
+    "ext": ".js",
+    "size": 638
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\LoyaltyQuests_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\LoyaltyQuests_1.js",
+    "name": "LoyaltyQuests_1.js",
+    "ext": ".js",
+    "size": 768
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\LoyaltyRewards_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\LoyaltyRewards_1.js",
+    "name": "LoyaltyRewards_1.js",
+    "ext": ".js",
+    "size": 2745
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\LoyaltyRewards.test_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\LoyaltyRewards.test_1.js",
+    "name": "LoyaltyRewards.test_1.js",
+    "ext": ".js",
+    "size": 4034
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\marketplace_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\marketplace_1.js",
+    "name": "marketplace_1.js",
+    "ext": ".js",
+    "size": 29
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\marketplace.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\marketplace.js",
+    "name": "marketplace.js",
+    "ext": ".js",
+    "size": 29
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\MarketplaceInsights_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\MarketplaceInsights_1.js",
+    "name": "MarketplaceInsights_1.js",
+    "ext": ".js",
+    "size": 716
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\MechanicAIRepairRecommender_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\MechanicAIRepairRecommender_1.js",
+    "name": "MechanicAIRepairRecommender_1.js",
+    "ext": ".js",
+    "size": 2619
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\MechanicAIRepairRecommender.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\MechanicAIRepairRecommender.js",
+    "name": "MechanicAIRepairRecommender.js",
+    "ext": ".js",
+    "size": 2619
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\MechanicBadgeCelebrationLogic_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\MechanicBadgeCelebrationLogic_1.js",
+    "name": "MechanicBadgeCelebrationLogic_1.js",
+    "ext": ".js",
+    "size": 1551
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\MechanicBadgeCelebrationLogic.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\MechanicBadgeCelebrationLogic.js",
+    "name": "MechanicBadgeCelebrationLogic.js",
+    "ext": ".js",
+    "size": 1551
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\MechanicFeedbackLogger_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\MechanicFeedbackLogger_1.js",
+    "name": "MechanicFeedbackLogger_1.js",
+    "ext": ".js",
+    "size": 1673
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\MechanicFeedbackLogger.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\MechanicFeedbackLogger.js",
+    "name": "MechanicFeedbackLogger.js",
+    "ext": ".js",
+    "size": 1673
+  }
+]

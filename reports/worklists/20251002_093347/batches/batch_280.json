@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\auctionController.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\auctionController.tsx",
+    "name": "auctionController.tsx",
+    "ext": ".tsx",
+    "size": 640
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\AuctionDisputeDaemon.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\AuctionDisputeDaemon.tsx",
+    "name": "AuctionDisputeDaemon.tsx",
+    "ext": ".tsx",
+    "size": 652
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\auctionExportUtilsOld.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\auctionExportUtilsOld.tsx",
+    "name": "auctionExportUtilsOld.tsx",
+    "ext": ".tsx",
+    "size": 656
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\AuctionGamificationEngine.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\AuctionGamificationEngine.tsx",
+    "name": "AuctionGamificationEngine.tsx",
+    "ext": ".tsx",
+    "size": 672
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\AuctionGamificationEngineOld.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\AuctionGamificationEngineOld.tsx",
+    "name": "AuctionGamificationEngineOld.tsx",
+    "ext": ".tsx",
+    "size": 684
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\AuctionHistory.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\AuctionHistory.tsx",
+    "name": "AuctionHistory.tsx",
+    "ext": ".tsx",
+    "size": 628
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\AuctionHistoryTracker.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\AuctionHistoryTracker.tsx",
+    "name": "AuctionHistoryTracker.tsx",
+    "ext": ".tsx",
+    "size": 2731
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\AuctionListingForm.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\AuctionListingForm.test.tsx",
+    "name": "AuctionListingForm.test.tsx",
+    "ext": ".tsx",
+    "size": 2624
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\AuctionListingForm.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\AuctionListingForm.tsx",
+    "name": "AuctionListingForm.tsx",
+    "ext": ".tsx",
+    "size": 4379
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\AuctionManager.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\AuctionManager.tsx",
+    "name": "AuctionManager.tsx",
+    "ext": ".tsx",
+    "size": 628
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\AuctionMetrics.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\AuctionMetrics.tsx",
+    "name": "AuctionMetrics.tsx",
+    "ext": ".tsx",
+    "size": 628
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\AuctionNotifier.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\AuctionNotifier.tsx",
+    "name": "AuctionNotifier.tsx",
+    "ext": ".tsx",
+    "size": 632
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\AuctionPerformance.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\AuctionPerformance.tsx",
+    "name": "AuctionPerformance.tsx",
+    "ext": ".tsx",
+    "size": 644
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\AuctionReputationTracker.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\AuctionReputationTracker.tsx",
+    "name": "AuctionReputationTracker.tsx",
+    "ext": ".tsx",
+    "size": 668
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\auctions.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\auctions.tsx",
+    "name": "auctions.tsx",
+    "ext": ".tsx",
+    "size": 604
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\AuctionScheduler.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\AuctionScheduler.tsx",
+    "name": "AuctionScheduler.tsx",
+    "ext": ".tsx",
+    "size": 636
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\auctionsOld.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\auctionsOld.tsx",
+    "name": "auctionsOld.tsx",
+    "ext": ".tsx",
+    "size": 616
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\audit-trail.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\audit-trail.tsx",
+    "name": "audit-trail.tsx",
+    "ext": ".tsx",
+    "size": 616
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\AuditLogViewer.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\AuditLogViewer.tsx",
+    "name": "AuditLogViewer.tsx",
+    "ext": ".tsx",
+    "size": 628
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\AuthContext.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\AuthContext.tsx",
+    "name": "AuthContext.tsx",
+    "ext": ".tsx",
+    "size": 616
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\authController.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\authController.tsx",
+    "name": "authController.tsx",
+    "ext": ".tsx",
+    "size": 628
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\backupApp.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\backupApp.tsx",
+    "name": "backupApp.tsx",
+    "ext": ".tsx",
+    "size": 608
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\BadgeHub.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\BadgeHub.tsx",
+    "name": "BadgeHub.tsx",
+    "ext": ".tsx",
+    "size": 604
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\badgeRoutes.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\badgeRoutes.tsx",
+    "name": "badgeRoutes.tsx",
+    "ext": ".tsx",
+    "size": 616
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\badges.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\badges.tsx",
+    "name": "badges.tsx",
+    "ext": ".tsx",
+    "size": 596
+  }
+]

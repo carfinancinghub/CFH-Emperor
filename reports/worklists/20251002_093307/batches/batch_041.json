@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\inspections\\InspectionSearchBar.js",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\inspections\\InspectionSearchBar.js",
+    "name": "InspectionSearchBar.js",
+    "ext": ".js",
+    "size": 1675
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\inspections\\PhotoUpload.tsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\inspections\\PhotoUpload.tsx",
+    "name": "PhotoUpload.tsx",
+    "ext": ".tsx",
+    "size": 6318
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\inspections\\VRInspection.js",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\inspections\\VRInspection.js",
+    "name": "VRInspection.js",
+    "ext": ".js",
+    "size": 1178
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\insurance\\ClaimsProcessor.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\insurance\\ClaimsProcessor.jsx",
+    "name": "ClaimsProcessor.jsx",
+    "ext": ".jsx",
+    "size": 2512
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\insurance\\InsuranceAIModelPerformance.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\insurance\\InsuranceAIModelPerformance.jsx",
+    "name": "InsuranceAIModelPerformance.jsx",
+    "ext": ".jsx",
+    "size": 5194
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\insurance\\InsuranceClaimsAnalytics.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\insurance\\InsuranceClaimsAnalytics.jsx",
+    "name": "InsuranceClaimsAnalytics.jsx",
+    "ext": ".jsx",
+    "size": 4953
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\insurance\\InsuranceClaimsProcessor.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\insurance\\InsuranceClaimsProcessor.jsx",
+    "name": "InsuranceClaimsProcessor.jsx",
+    "ext": ".jsx",
+    "size": 5684
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\insurance\\InsuranceComparison.js",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\insurance\\InsuranceComparison.js",
+    "name": "InsuranceComparison.js",
+    "ext": ".js",
+    "size": 794
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\insurance\\InsuranceDashboard.js",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\insurance\\InsuranceDashboard.js",
+    "name": "InsuranceDashboard.js",
+    "ext": ".js",
+    "size": 2427
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\insurance\\InsuranceOfficerDashboard.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\insurance\\InsuranceOfficerDashboard.jsx",
+    "name": "InsuranceOfficerDashboard.jsx",
+    "ext": ".jsx",
+    "size": 16230
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\insurance\\InsurancePolicyManager.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\insurance\\InsurancePolicyManager.jsx",
+    "name": "InsurancePolicyManager.jsx",
+    "ext": ".jsx",
+    "size": 7493
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\insurance\\InsuranceRoleGuard.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\insurance\\InsuranceRoleGuard.jsx",
+    "name": "InsuranceRoleGuard.jsx",
+    "ext": ".jsx",
+    "size": 2440
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\insurance\\InsuranceSEOHead.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\insurance\\InsuranceSEOHead.jsx",
+    "name": "InsuranceSEOHead.jsx",
+    "ext": ".jsx",
+    "size": 2126
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\insurance\\InsuranceUnderwritingChecklist.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\insurance\\InsuranceUnderwritingChecklist.jsx",
+    "name": "InsuranceUnderwritingChecklist.jsx",
+    "ext": ".jsx",
+    "size": 4986
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\insurance\\InsurerInsightsChart.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\insurance\\InsurerInsightsChart.jsx",
+    "name": "InsurerInsightsChart.jsx",
+    "ext": ".jsx",
+    "size": 1879
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\insurance\\PolicyReviewQueue.js",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\insurance\\PolicyReviewQueue.js",
+    "name": "PolicyReviewQueue.js",
+    "ext": ".js",
+    "size": 2882
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\insurance\\QuoteSubmissionForm.js",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\insurance\\QuoteSubmissionForm.js",
+    "name": "QuoteSubmissionForm.js",
+    "ext": ".js",
+    "size": 3109
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\internal\\TestRunnerDashboard.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\internal\\TestRunnerDashboard.jsx",
+    "name": "TestRunnerDashboard.jsx",
+    "ext": ".jsx",
+    "size": 5576
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\judge\\ArbitrationDashboard.js",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\judge\\ArbitrationDashboard.js",
+    "name": "ArbitrationDashboard.js",
+    "ext": ".js",
+    "size": 2615
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\judge\\components\\DisputeCard.js",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\judge\\components\\DisputeCard.js",
+    "name": "DisputeCard.js",
+    "ext": ".js",
+    "size": 779
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\judge\\DisputeAnalyticsPanel.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\judge\\DisputeAnalyticsPanel.jsx",
+    "name": "DisputeAnalyticsPanel.jsx",
+    "ext": ".jsx",
+    "size": 4233
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\judge\\JudgeDashboard.js",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\judge\\JudgeDashboard.js",
+    "name": "JudgeDashboard.js",
+    "ext": ".js",
+    "size": 6321
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\judge\\JudgePanelControls.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\judge\\JudgePanelControls.jsx",
+    "name": "JudgePanelControls.jsx",
+    "ext": ".jsx",
+    "size": 1430
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\judge\\SmartVerdictHint.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\judge\\SmartVerdictHint.jsx",
+    "name": "SmartVerdictHint.jsx",
+    "ext": ".jsx",
+    "size": 2761
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\lender\\BidDetailViewer.js",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\lender\\BidDetailViewer.js",
+    "name": "BidDetailViewer.js",
+    "ext": ".js",
+    "size": 2022
+  }
+]

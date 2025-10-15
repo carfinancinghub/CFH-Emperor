@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\PhotoProofUpload.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\PhotoProofUpload.test.tsx",
+    "name": "PhotoProofUpload.test.tsx",
+    "ext": ".tsx",
+    "size": 48
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\PhotoUpload_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\PhotoUpload_1.tsx",
+    "name": "PhotoUpload_1.tsx",
+    "ext": ".tsx",
+    "size": 6318
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\PointsHistory_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\PointsHistory_1.tsx",
+    "name": "PointsHistory_1.tsx",
+    "ext": ".tsx",
+    "size": 4179
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\PointsHistory.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\PointsHistory.test_1.tsx",
+    "name": "PointsHistory.test_1.tsx",
+    "ext": ".tsx",
+    "size": 3534
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\PointsHistory.test.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\PointsHistory.test.test_1.tsx",
+    "name": "PointsHistory.test.test_1.tsx",
+    "ext": ".tsx",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\PointsHistory.test.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\PointsHistory.test.test.tsx",
+    "name": "PointsHistory.test.test.tsx",
+    "ext": ".tsx",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\PointsHistory.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\PointsHistory.test.tsx",
+    "name": "PointsHistory.test.tsx",
+    "ext": ".tsx",
+    "size": 45
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\PointsHistory.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\PointsHistory.tsx",
+    "name": "PointsHistory.tsx",
+    "ext": ".tsx",
+    "size": 4179
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\PredictiveAssistant_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\PredictiveAssistant_1.tsx",
+    "name": "PredictiveAssistant_1.tsx",
+    "ext": ".tsx",
+    "size": 4618
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\PredictiveAssistant.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\PredictiveAssistant.test_1.tsx",
+    "name": "PredictiveAssistant.test_1.tsx",
+    "ext": ".tsx",
+    "size": 51
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\PredictiveAssistant.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\PredictiveAssistant.test.tsx",
+    "name": "PredictiveAssistant.test.tsx",
+    "ext": ".tsx",
+    "size": 51
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\PredictiveComparison_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\PredictiveComparison_1.tsx",
+    "name": "PredictiveComparison_1.tsx",
+    "ext": ".tsx",
+    "size": 5403
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\PredictiveComparison.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\PredictiveComparison.test_1.tsx",
+    "name": "PredictiveComparison.test_1.tsx",
+    "ext": ".tsx",
+    "size": 13737
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\PredictiveComparison.test.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\PredictiveComparison.test.test_1.tsx",
+    "name": "PredictiveComparison.test.test_1.tsx",
+    "ext": ".tsx",
+    "size": 57
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\PredictiveComparison.test.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\PredictiveComparison.test.test.tsx",
+    "name": "PredictiveComparison.test.test.tsx",
+    "ext": ".tsx",
+    "size": 57
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\PredictiveComparison.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\PredictiveComparison.test.tsx",
+    "name": "PredictiveComparison.test.tsx",
+    "ext": ".tsx",
+    "size": 52
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\PredictiveGraph_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\PredictiveGraph_1.tsx",
+    "name": "PredictiveGraph_1.tsx",
+    "ext": ".tsx",
+    "size": 10787
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\PredictiveGraph.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\PredictiveGraph.test_1.tsx",
+    "name": "PredictiveGraph.test_1.tsx",
+    "ext": ".tsx",
+    "size": 2289
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\PredictiveGraph.test.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\PredictiveGraph.test.test_1.tsx",
+    "name": "PredictiveGraph.test.test_1.tsx",
+    "ext": ".tsx",
+    "size": 52
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\PredictiveGraph.test.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\PredictiveGraph.test.test.tsx",
+    "name": "PredictiveGraph.test.test.tsx",
+    "ext": ".tsx",
+    "size": 52
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\PredictiveGraph.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\PredictiveGraph.test.tsx",
+    "name": "PredictiveGraph.test.tsx",
+    "ext": ".tsx",
+    "size": 47
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\PremiumBadge.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\PremiumBadge.test_1.tsx",
+    "name": "PremiumBadge.test_1.tsx",
+    "ext": ".tsx",
+    "size": 686
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\PremiumBadge.test.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\PremiumBadge.test.test_1.tsx",
+    "name": "PremiumBadge.test.test_1.tsx",
+    "ext": ".tsx",
+    "size": 49
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\PremiumBadge.test.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\PremiumBadge.test.test.tsx",
+    "name": "PremiumBadge.test.test.tsx",
+    "ext": ".tsx",
+    "size": 49
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\PremiumBadge.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\PremiumBadge.test.tsx",
+    "name": "PremiumBadge.test.tsx",
+    "ext": ".tsx",
+    "size": 686
+  }
+]

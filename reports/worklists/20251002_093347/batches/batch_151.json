@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\LenderContractReview.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\LenderContractReview.test.ts",
+    "name": "LenderContractReview.test.ts",
+    "ext": ".ts",
+    "size": 51
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\LenderContractReview.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\LenderContractReview.ts",
+    "name": "LenderContractReview.ts",
+    "ext": ".ts",
+    "size": 3032
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\LenderContractSummary_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\LenderContractSummary_1.ts",
+    "name": "LenderContractSummary_1.ts",
+    "ext": ".ts",
+    "size": 4984
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\LenderContractSummary.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\LenderContractSummary.test_1.ts",
+    "name": "LenderContractSummary.test_1.ts",
+    "ext": ".ts",
+    "size": 52
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\LenderContractSummary.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\LenderContractSummary.test.ts",
+    "name": "LenderContractSummary.test.ts",
+    "ext": ".ts",
+    "size": 52
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\LenderContractSummary.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\LenderContractSummary.ts",
+    "name": "LenderContractSummary.ts",
+    "ext": ".ts",
+    "size": 4984
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\LenderDashboard_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\LenderDashboard_1.ts",
+    "name": "LenderDashboard_1.ts",
+    "ext": ".ts",
+    "size": 5418
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\LenderDashboard.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\LenderDashboard.test_1.ts",
+    "name": "LenderDashboard.test_1.ts",
+    "ext": ".ts",
+    "size": 46
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\LenderDashboard.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\LenderDashboard.test.ts",
+    "name": "LenderDashboard.test.ts",
+    "ext": ".ts",
+    "size": 46
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\LenderDashboard.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\LenderDashboard.ts",
+    "name": "LenderDashboard.ts",
+    "ext": ".ts",
+    "size": 5418
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\LenderExportCenter_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\LenderExportCenter_1.ts",
+    "name": "LenderExportCenter_1.ts",
+    "ext": ".ts",
+    "size": 4789
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\LenderExportCenter.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\LenderExportCenter.test_1.ts",
+    "name": "LenderExportCenter.test_1.ts",
+    "ext": ".ts",
+    "size": 49
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\LenderExportCenter.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\LenderExportCenter.test.ts",
+    "name": "LenderExportCenter.test.ts",
+    "ext": ".ts",
+    "size": 49
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\LenderExportCenter.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\LenderExportCenter.ts",
+    "name": "LenderExportCenter.ts",
+    "ext": ".ts",
+    "size": 4789
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\LenderExportPanel_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\LenderExportPanel_1.ts",
+    "name": "LenderExportPanel_1.ts",
+    "ext": ".ts",
+    "size": 3192
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\LenderExportPanel.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\LenderExportPanel.test_1.ts",
+    "name": "LenderExportPanel.test_1.ts",
+    "ext": ".ts",
+    "size": 2340
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\LenderExportPanel.test.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\LenderExportPanel.test.test_1.ts",
+    "name": "LenderExportPanel.test.test_1.ts",
+    "ext": ".ts",
+    "size": 53
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\LenderExportPanel.test.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\LenderExportPanel.test.test.ts",
+    "name": "LenderExportPanel.test.test.ts",
+    "ext": ".ts",
+    "size": 53
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\LenderExportPanel.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\LenderExportPanel.test.ts",
+    "name": "LenderExportPanel.test.ts",
+    "ext": ".ts",
+    "size": 48
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\LenderExportPanel.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\LenderExportPanel.ts",
+    "name": "LenderExportPanel.ts",
+    "ext": ".ts",
+    "size": 3192
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\lenderExportUtils_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\lenderExportUtils_1.ts",
+    "name": "lenderExportUtils_1.ts",
+    "ext": ".ts",
+    "size": 258
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\LenderInsightsPanel_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\LenderInsightsPanel_1.ts",
+    "name": "LenderInsightsPanel_1.ts",
+    "ext": ".ts",
+    "size": 3337
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\LenderInsightsPanel.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\LenderInsightsPanel.test_1.ts",
+    "name": "LenderInsightsPanel.test_1.ts",
+    "ext": ".ts",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\LenderInsightsPanel.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\LenderInsightsPanel.test.ts",
+    "name": "LenderInsightsPanel.test.ts",
+    "ext": ".ts",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\LenderInsightsPanel.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\LenderInsightsPanel.ts",
+    "name": "LenderInsightsPanel.ts",
+    "ext": ".ts",
+    "size": 3337
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\GeoVerificationMap_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\GeoVerificationMap_1.js",
+    "name": "GeoVerificationMap_1.js",
+    "ext": ".js",
+    "size": 6210
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\GeoVerificationMap.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\GeoVerificationMap.js",
+    "name": "GeoVerificationMap.js",
+    "ext": ".js",
+    "size": 6210
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\github-email-test_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\github-email-test_1.js",
+    "name": "github-email-test_1.js",
+    "ext": ".js",
+    "size": 82
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\github-email-test.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\github-email-test.js",
+    "name": "github-email-test.js",
+    "ext": ".js",
+    "size": 82
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\gpsProofController_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\gpsProofController_1.js",
+    "name": "gpsProofController_1.js",
+    "ext": ".js",
+    "size": 1196
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\gpsProofController.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\gpsProofController.js",
+    "name": "gpsProofController.js",
+    "ext": ".js",
+    "size": 1196
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\GraphExportService_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\GraphExportService_1.js",
+    "name": "GraphExportService_1.js",
+    "ext": ".js",
+    "size": 2036
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\GraphExportService.test_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\GraphExportService.test_1.js",
+    "name": "GraphExportService.test_1.js",
+    "ext": ".js",
+    "size": 2124
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\hashAnchorRoute_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\hashAnchorRoute_1.js",
+    "name": "hashAnchorRoute_1.js",
+    "ext": ".js",
+    "size": 632
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\hashAnchorRoute.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\hashAnchorRoute.js",
+    "name": "hashAnchorRoute.js",
+    "ext": ".js",
+    "size": 632
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\hashAndAnchorPDF_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\hashAndAnchorPDF_1.js",
+    "name": "hashAndAnchorPDF_1.js",
+    "ext": ".js",
+    "size": 1539
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\hashAndAnchorPDF.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\hashAndAnchorPDF.js",
+    "name": "hashAndAnchorPDF.js",
+    "ext": ".js",
+    "size": 1539
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\haulerBucket_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\haulerBucket_1.js",
+    "name": "haulerBucket_1.js",
+    "ext": ".js",
+    "size": 2350
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\HaulerController_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\HaulerController_1.js",
+    "name": "HaulerController_1.js",
+    "ext": ".js",
+    "size": 2443
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\HaulerDashboard_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\HaulerDashboard_1.js",
+    "name": "HaulerDashboard_1.js",
+    "ext": ".js",
+    "size": 5955
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\HaulerDashboard.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\HaulerDashboard.js",
+    "name": "HaulerDashboard.js",
+    "ext": ".js",
+    "size": 5955
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\HaulerDeliveryArchive_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\HaulerDeliveryArchive_1.js",
+    "name": "HaulerDeliveryArchive_1.js",
+    "ext": ".js",
+    "size": 5315
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\HaulerDeliveryArchive.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\HaulerDeliveryArchive.js",
+    "name": "HaulerDeliveryArchive.js",
+    "ext": ".js",
+    "size": 5315
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\haulerHealthCheck_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\haulerHealthCheck_1.js",
+    "name": "haulerHealthCheck_1.js",
+    "ext": ".js",
+    "size": 1883
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\haulerHealthCheck.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\haulerHealthCheck.js",
+    "name": "haulerHealthCheck.js",
+    "ext": ".js",
+    "size": 1883
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\haulerHealthCheck.test_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\haulerHealthCheck.test_1.js",
+    "name": "haulerHealthCheck.test_1.js",
+    "ext": ".js",
+    "size": 3279
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\haulerHealthCheck.test.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\haulerHealthCheck.test.js",
+    "name": "haulerHealthCheck.test.js",
+    "ext": ".js",
+    "size": 3279
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\HaulerJobDetailsPage_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\HaulerJobDetailsPage_1.js",
+    "name": "HaulerJobDetailsPage_1.js",
+    "ext": ".js",
+    "size": 991
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\HaulerJobDetailsPage.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\HaulerJobDetailsPage.js",
+    "name": "HaulerJobDetailsPage.js",
+    "ext": ".js",
+    "size": 991
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\HaulerJobReview_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\HaulerJobReview_1.js",
+    "name": "HaulerJobReview_1.js",
+    "ext": ".js",
+    "size": 2672
+  }
+]

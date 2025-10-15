@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\FinalTesting.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\FinalTesting.test.ts",
+    "name": "FinalTesting.test.ts",
+    "ext": ".ts",
+    "size": 43
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\FinalTesting.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\FinalTesting.ts",
+    "name": "FinalTesting.ts",
+    "ext": ".ts",
+    "size": 1732
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\FinancierOnboarding_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\FinancierOnboarding_1.ts",
+    "name": "FinancierOnboarding_1.ts",
+    "ext": ".ts",
+    "size": 1275
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\FinancierOnboarding.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\FinancierOnboarding.test_1.ts",
+    "name": "FinancierOnboarding.test_1.ts",
+    "ext": ".ts",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\FinancierOnboarding.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\FinancierOnboarding.test.ts",
+    "name": "FinancierOnboarding.test.ts",
+    "ext": ".ts",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\FinancierOnboarding.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\FinancierOnboarding.ts",
+    "name": "FinancierOnboarding.ts",
+    "ext": ".ts",
+    "size": 1275
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\FinancingCalculator_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\FinancingCalculator_1.ts",
+    "name": "FinancingCalculator_1.ts",
+    "ext": ".ts",
+    "size": 4134
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\FinancingCalculator.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\FinancingCalculator.test_1.ts",
+    "name": "FinancingCalculator.test_1.ts",
+    "ext": ".ts",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\FinancingCalculator.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\FinancingCalculator.test.ts",
+    "name": "FinancingCalculator.test.ts",
+    "ext": ".ts",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\FinancingCalculator.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\FinancingCalculator.ts",
+    "name": "FinancingCalculator.ts",
+    "ext": ".ts",
+    "size": 4134
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\FinancingOffer_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\FinancingOffer_1.ts",
+    "name": "FinancingOffer_1.ts",
+    "ext": ".ts",
+    "size": 1152
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\FinancingOffer.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\FinancingOffer.test_1.ts",
+    "name": "FinancingOffer.test_1.ts",
+    "ext": ".ts",
+    "size": 45
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\FinancingOffer.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\FinancingOffer.test.ts",
+    "name": "FinancingOffer.test.ts",
+    "ext": ".ts",
+    "size": 45
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\FinancingOffer.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\FinancingOffer.ts",
+    "name": "FinancingOffer.ts",
+    "ext": ".ts",
+    "size": 1152
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\FraudDetection_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\FraudDetection_1.ts",
+    "name": "FraudDetection_1.ts",
+    "ext": ".ts",
+    "size": 853
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\FraudDetection.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\FraudDetection.test_1.ts",
+    "name": "FraudDetection.test_1.ts",
+    "ext": ".ts",
+    "size": 45
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\FraudDetection.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\FraudDetection.test.ts",
+    "name": "FraudDetection.test.ts",
+    "ext": ".ts",
+    "size": 45
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\FraudDetection.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\FraudDetection.ts",
+    "name": "FraudDetection.ts",
+    "ext": ".ts",
+    "size": 853
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\gamificationService_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\gamificationService_1.ts",
+    "name": "gamificationService_1.ts",
+    "ext": ".ts",
+    "size": 8204
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\gamificationUtils_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\gamificationUtils_1.ts",
+    "name": "gamificationUtils_1.ts",
+    "ext": ".ts",
+    "size": 391
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\generateSignablePDF_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\generateSignablePDF_1.ts",
+    "name": "generateSignablePDF_1.ts",
+    "ext": ".ts",
+    "size": 2200
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\generateSignablePDF.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\generateSignablePDF.test_1.ts",
+    "name": "generateSignablePDF.test_1.ts",
+    "ext": ".ts",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\generateSignablePDF.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\generateSignablePDF.test.ts",
+    "name": "generateSignablePDF.test.ts",
+    "ext": ".ts",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\generateSignablePDF.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\generateSignablePDF.ts",
+    "name": "generateSignablePDF.ts",
+    "ext": ".ts",
+    "size": 2200
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\GeoStatusPanel_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\GeoStatusPanel_1.ts",
+    "name": "GeoStatusPanel_1.ts",
+    "ext": ".ts",
+    "size": 1544
+  }
+]

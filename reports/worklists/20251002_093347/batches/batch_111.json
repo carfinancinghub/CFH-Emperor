@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AIBadgePredictor.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AIBadgePredictor.test_1.ts",
+    "name": "AIBadgePredictor.test_1.ts",
+    "ext": ".ts",
+    "size": 47
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AIBadgePredictor.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AIBadgePredictor.test.ts",
+    "name": "AIBadgePredictor.test.ts",
+    "ext": ".ts",
+    "size": 47
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AIBadgePredictor.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AIBadgePredictor.ts",
+    "name": "AIBadgePredictor.ts",
+    "ext": ".ts",
+    "size": 2043
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AIBidPredictor_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AIBidPredictor_1.ts",
+    "name": "AIBidPredictor_1.ts",
+    "ext": ".ts",
+    "size": 338
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\aiBidService_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\aiBidService_1.ts",
+    "name": "aiBidService_1.ts",
+    "ext": ".ts",
+    "size": 4139
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\aiBidService.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\aiBidService.test_1.ts",
+    "name": "aiBidService.test_1.ts",
+    "ext": ".ts",
+    "size": 6205
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AIBidStarter_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AIBidStarter_1.ts",
+    "name": "AIBidStarter_1.ts",
+    "ext": ".ts",
+    "size": 1928
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AIBidStarter.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AIBidStarter.test_1.ts",
+    "name": "AIBidStarter.test_1.ts",
+    "ext": ".ts",
+    "size": 43
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AIBidStarter.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AIBidStarter.test.ts",
+    "name": "AIBidStarter.test.ts",
+    "ext": ".ts",
+    "size": 43
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AIBidStarter.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AIBidStarter.ts",
+    "name": "AIBidStarter.ts",
+    "ext": ".ts",
+    "size": 1928
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\aiBodyShopMatchingService_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\aiBodyShopMatchingService_1.ts",
+    "name": "aiBodyShopMatchingService_1.ts",
+    "ext": ".ts",
+    "size": 8992
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\aiBodyShopMatchingService.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\aiBodyShopMatchingService.test_1.ts",
+    "name": "aiBodyShopMatchingService.test_1.ts",
+    "ext": ".ts",
+    "size": 10367
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AIChatModerator_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AIChatModerator_1.ts",
+    "name": "AIChatModerator_1.ts",
+    "ext": ".ts",
+    "size": 311
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AIChatModerator.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AIChatModerator.test_1.ts",
+    "name": "AIChatModerator.test_1.ts",
+    "ext": ".ts",
+    "size": 358
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\aiConflictResolutionService_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\aiConflictResolutionService_1.ts",
+    "name": "aiConflictResolutionService_1.ts",
+    "ext": ".ts",
+    "size": 11882
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\aiConflictResolutionService.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\aiConflictResolutionService.test_1.ts",
+    "name": "aiConflictResolutionService.test_1.ts",
+    "ext": ".ts",
+    "size": 12522
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AIContractRiskAssessor_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AIContractRiskAssessor_1.ts",
+    "name": "AIContractRiskAssessor_1.ts",
+    "ext": ".ts",
+    "size": 250
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\aiDamageAssessmentService_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\aiDamageAssessmentService_1.ts",
+    "name": "aiDamageAssessmentService_1.ts",
+    "ext": ".ts",
+    "size": 8771
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\aiDamageAssessmentService.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\aiDamageAssessmentService.test_1.ts",
+    "name": "aiDamageAssessmentService.test_1.ts",
+    "ext": ".ts",
+    "size": 8892
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AIDisputePredictor_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AIDisputePredictor_1.ts",
+    "name": "AIDisputePredictor_1.ts",
+    "ext": ".ts",
+    "size": 356
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AIDisputePredictor.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AIDisputePredictor.test_1.ts",
+    "name": "AIDisputePredictor.test_1.ts",
+    "ext": ".ts",
+    "size": 1852
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AIEquityFinancer_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AIEquityFinancer_1.ts",
+    "name": "AIEquityFinancer_1.ts",
+    "ext": ".ts",
+    "size": 1794
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AIEquityFinancer.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AIEquityFinancer.test_1.ts",
+    "name": "AIEquityFinancer.test_1.ts",
+    "ext": ".ts",
+    "size": 47
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AIEquityFinancer.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AIEquityFinancer.test.ts",
+    "name": "AIEquityFinancer.test.ts",
+    "ext": ".ts",
+    "size": 47
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AIEquityFinancer.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AIEquityFinancer.ts",
+    "name": "AIEquityFinancer.ts",
+    "ext": ".ts",
+    "size": 1794
+  }
+]

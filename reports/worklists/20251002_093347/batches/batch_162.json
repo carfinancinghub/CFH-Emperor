@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\pathFixPrep.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\pathFixPrep.ts",
+    "name": "pathFixPrep.ts",
+    "ext": ".ts",
+    "size": 5338
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\pathFixScript_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\pathFixScript_1.ts",
+    "name": "pathFixScript_1.ts",
+    "ext": ".ts",
+    "size": 2808
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\pathFixScript.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\pathFixScript.test_1.ts",
+    "name": "pathFixScript.test_1.ts",
+    "ext": ".ts",
+    "size": 44
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\pathFixScript.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\pathFixScript.test.ts",
+    "name": "pathFixScript.test.ts",
+    "ext": ".ts",
+    "size": 44
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\pathFixScript.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\pathFixScript.ts",
+    "name": "pathFixScript.ts",
+    "ext": ".ts",
+    "size": 2808
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\pathFixValidator_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\pathFixValidator_1.ts",
+    "name": "pathFixValidator_1.ts",
+    "ext": ".ts",
+    "size": 1400
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\pathFixValidator.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\pathFixValidator.test_1.ts",
+    "name": "pathFixValidator.test_1.ts",
+    "ext": ".ts",
+    "size": 47
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\pathFixValidator.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\pathFixValidator.test.ts",
+    "name": "pathFixValidator.test.ts",
+    "ext": ".ts",
+    "size": 47
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\pathFixValidator.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\pathFixValidator.ts",
+    "name": "pathFixValidator.ts",
+    "ext": ".ts",
+    "size": 1400
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\payment.validation_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\payment.validation_1.ts",
+    "name": "payment.validation_1.ts",
+    "ext": ".ts",
+    "size": 1301
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\paymentController_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\paymentController_1.ts",
+    "name": "paymentController_1.ts",
+    "ext": ".ts",
+    "size": 1723
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\paymentController.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\paymentController.test_1.ts",
+    "name": "paymentController.test_1.ts",
+    "ext": ".ts",
+    "size": 48
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\paymentController.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\paymentController.test.ts",
+    "name": "paymentController.test.ts",
+    "ext": ".ts",
+    "size": 48
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\paymentController.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\paymentController.ts",
+    "name": "paymentController.ts",
+    "ext": ".ts",
+    "size": 1723
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\PaymentForm_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\PaymentForm_1.ts",
+    "name": "PaymentForm_1.ts",
+    "ext": ".ts",
+    "size": 1873
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\PaymentForm.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\PaymentForm.test_1.ts",
+    "name": "PaymentForm.test_1.ts",
+    "ext": ".ts",
+    "size": 42
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\PaymentForm.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\PaymentForm.test.ts",
+    "name": "PaymentForm.test.ts",
+    "ext": ".ts",
+    "size": 42
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\PaymentForm.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\PaymentForm.ts",
+    "name": "PaymentForm.ts",
+    "ext": ".ts",
+    "size": 1873
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\PaymentProcessor_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\PaymentProcessor_1.ts",
+    "name": "PaymentProcessor_1.ts",
+    "ext": ".ts",
+    "size": 2653
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\PaymentProcessor.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\PaymentProcessor.test_1.ts",
+    "name": "PaymentProcessor.test_1.ts",
+    "ext": ".ts",
+    "size": 3963
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\PaymentProcessor.test.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\PaymentProcessor.test.test_1.ts",
+    "name": "PaymentProcessor.test.test_1.ts",
+    "ext": ".ts",
+    "size": 52
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\PaymentProcessor.test.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\PaymentProcessor.test.test.ts",
+    "name": "PaymentProcessor.test.test.ts",
+    "ext": ".ts",
+    "size": 52
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\PaymentProcessor.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\PaymentProcessor.test.ts",
+    "name": "PaymentProcessor.test.ts",
+    "ext": ".ts",
+    "size": 47
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\PaymentProcessor.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\PaymentProcessor.ts",
+    "name": "PaymentProcessor.ts",
+    "ext": ".ts",
+    "size": 2653
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\payments_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\payments_1.ts",
+    "name": "payments_1.ts",
+    "ext": ".ts",
+    "size": 438
+  }
+]

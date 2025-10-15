@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\lender\\LoanComparison.js",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\lender\\LoanComparison.js",
+    "name": "LoanComparison.js",
+    "ext": ".js",
+    "size": 3043
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\maas\\BulkTitleTransfer.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\maas\\BulkTitleTransfer.jsx",
+    "name": "BulkTitleTransfer.jsx",
+    "ext": ".jsx",
+    "size": 5395
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\maas\\MaaSIntegration.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\maas\\MaaSIntegration.jsx",
+    "name": "MaaSIntegration.jsx",
+    "ext": ".jsx",
+    "size": 6863
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\marketplace\\ActivityOverview.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\marketplace\\ActivityOverview.jsx",
+    "name": "ActivityOverview.jsx",
+    "ext": ".jsx",
+    "size": 2264
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\marketplace\\BadgeDisplayPanel.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\marketplace\\BadgeDisplayPanel.jsx",
+    "name": "BadgeDisplayPanel.jsx",
+    "ext": ".jsx",
+    "size": 1794
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\marketplace\\BestFinancingDealCard.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\marketplace\\BestFinancingDealCard.jsx",
+    "name": "BestFinancingDealCard.jsx",
+    "ext": ".jsx",
+    "size": 2222
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\marketplace\\HaulerSummaryCard.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\marketplace\\HaulerSummaryCard.jsx",
+    "name": "HaulerSummaryCard.jsx",
+    "ext": ".jsx",
+    "size": 2275
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\marketplace\\MarketplaceComponent.tsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\marketplace\\MarketplaceComponent.tsx",
+    "name": "MarketplaceComponent.tsx",
+    "ext": ".tsx",
+    "size": 9183
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\marketplace\\MarketplaceInsightsDashboard.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\marketplace\\MarketplaceInsightsDashboard.jsx",
+    "name": "MarketplaceInsightsDashboard.jsx",
+    "ext": ".jsx",
+    "size": 10059
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\mechanic\\AIDiagnosticsAssistant.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\mechanic\\AIDiagnosticsAssistant.jsx",
+    "name": "AIDiagnosticsAssistant.jsx",
+    "ext": ".jsx",
+    "size": 1936
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\mechanic\\EscrowStatusSync.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\mechanic\\EscrowStatusSync.jsx",
+    "name": "EscrowStatusSync.jsx",
+    "ext": ".jsx",
+    "size": 1327
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\mechanic\\HaulerCollaboration.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\mechanic\\HaulerCollaboration.jsx",
+    "name": "HaulerCollaboration.jsx",
+    "ext": ".jsx",
+    "size": 3353
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\mechanic\\InspectionForm.js",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\mechanic\\InspectionForm.js",
+    "name": "InspectionForm.js",
+    "ext": ".js",
+    "size": 2588
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\mechanic\\InspectionPhotoPreviewer.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\mechanic\\InspectionPhotoPreviewer.jsx",
+    "name": "InspectionPhotoPreviewer.jsx",
+    "ext": ".jsx",
+    "size": 4417
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\mechanic\\InspectionReportPanel.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\mechanic\\InspectionReportPanel.jsx",
+    "name": "InspectionReportPanel.jsx",
+    "ext": ".jsx",
+    "size": 2632
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\mechanic\\InspectionReportViewer.js",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\mechanic\\InspectionReportViewer.js",
+    "name": "InspectionReportViewer.js",
+    "ext": ".js",
+    "size": 3793
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\mechanic\\LiveInspectionTaskFeed.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\mechanic\\LiveInspectionTaskFeed.jsx",
+    "name": "LiveInspectionTaskFeed.jsx",
+    "ext": ".jsx",
+    "size": 2233
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\mechanic\\MechanicBadgeConfettiPanel.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\mechanic\\MechanicBadgeConfettiPanel.jsx",
+    "name": "MechanicBadgeConfettiPanel.jsx",
+    "ext": ".jsx",
+    "size": 1308
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\mechanic\\MechanicBadgeDisplayPanel.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\mechanic\\MechanicBadgeDisplayPanel.jsx",
+    "name": "MechanicBadgeDisplayPanel.jsx",
+    "ext": ".jsx",
+    "size": 2182
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\mechanic\\MechanicBadgeImpactTracker.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\mechanic\\MechanicBadgeImpactTracker.jsx",
+    "name": "MechanicBadgeImpactTracker.jsx",
+    "ext": ".jsx",
+    "size": 2021
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\mechanic\\MechanicBadgeLeaderboard.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\mechanic\\MechanicBadgeLeaderboard.jsx",
+    "name": "MechanicBadgeLeaderboard.jsx",
+    "ext": ".jsx",
+    "size": 2190
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\mechanic\\MechanicBadgeProgressTracker.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\mechanic\\MechanicBadgeProgressTracker.jsx",
+    "name": "MechanicBadgeProgressTracker.jsx",
+    "ext": ".jsx",
+    "size": 2062
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\mechanic\\MechanicDashboard.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\mechanic\\MechanicDashboard.jsx",
+    "name": "MechanicDashboard.jsx",
+    "ext": ".jsx",
+    "size": 9144
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\mechanic\\MechanicInspectionDetail.js",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\mechanic\\MechanicInspectionDetail.js",
+    "name": "MechanicInspectionDetail.js",
+    "ext": ".js",
+    "size": 3762
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\mechanic\\MechanicInspectionForm.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\mechanic\\MechanicInspectionForm.jsx",
+    "name": "MechanicInspectionForm.jsx",
+    "ext": ".jsx",
+    "size": 3261
+  }
+]

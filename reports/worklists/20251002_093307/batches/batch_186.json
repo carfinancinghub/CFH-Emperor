@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AdminDisputeArchive.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AdminDisputeArchive.test_1.tsx",
+    "name": "AdminDisputeArchive.test_1.tsx",
+    "ext": ".tsx",
+    "size": 51
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AdminDisputeArchive.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AdminDisputeArchive.test.tsx",
+    "name": "AdminDisputeArchive.test.tsx",
+    "ext": ".tsx",
+    "size": 51
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AdminDisputeArchive.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AdminDisputeArchive.tsx",
+    "name": "AdminDisputeArchive.tsx",
+    "ext": ".tsx",
+    "size": 2755
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AdminDisputeDashboard_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AdminDisputeDashboard_1.tsx",
+    "name": "AdminDisputeDashboard_1.tsx",
+    "ext": ".tsx",
+    "size": 4474
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AdminDisputeDashboard.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AdminDisputeDashboard.test_1.tsx",
+    "name": "AdminDisputeDashboard.test_1.tsx",
+    "ext": ".tsx",
+    "size": 53
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AdminDisputeDashboard.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AdminDisputeDashboard.test.tsx",
+    "name": "AdminDisputeDashboard.test.tsx",
+    "ext": ".tsx",
+    "size": 53
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AdminDisputeDashboard.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AdminDisputeDashboard.tsx",
+    "name": "AdminDisputeDashboard.tsx",
+    "ext": ".tsx",
+    "size": 4474
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AdminDisputeIndex_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AdminDisputeIndex_1.tsx",
+    "name": "AdminDisputeIndex_1.tsx",
+    "ext": ".tsx",
+    "size": 2315
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AdminDisputeIndex.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AdminDisputeIndex.test_1.tsx",
+    "name": "AdminDisputeIndex.test_1.tsx",
+    "ext": ".tsx",
+    "size": 49
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AdminDisputeIndex.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AdminDisputeIndex.test.tsx",
+    "name": "AdminDisputeIndex.test.tsx",
+    "ext": ".tsx",
+    "size": 49
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AdminDisputeIndex.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AdminDisputeIndex.tsx",
+    "name": "AdminDisputeIndex.tsx",
+    "ext": ".tsx",
+    "size": 2315
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AdminEmailNotifications_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AdminEmailNotifications_1.tsx",
+    "name": "AdminEmailNotifications_1.tsx",
+    "ext": ".tsx",
+    "size": 5358
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AdminEmailNotifications.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AdminEmailNotifications.test_1.tsx",
+    "name": "AdminEmailNotifications.test_1.tsx",
+    "ext": ".tsx",
+    "size": 55
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AdminEmailNotifications.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AdminEmailNotifications.test.tsx",
+    "name": "AdminEmailNotifications.test.tsx",
+    "ext": ".tsx",
+    "size": 55
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AdminEngagementAnalytics_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AdminEngagementAnalytics_1.tsx",
+    "name": "AdminEngagementAnalytics_1.tsx",
+    "ext": ".tsx",
+    "size": 1067
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AdminEngagementAnalytics.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AdminEngagementAnalytics.test_1.tsx",
+    "name": "AdminEngagementAnalytics.test_1.tsx",
+    "ext": ".tsx",
+    "size": 56
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AdminEngagementAnalytics.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AdminEngagementAnalytics.test.tsx",
+    "name": "AdminEngagementAnalytics.test.tsx",
+    "ext": ".tsx",
+    "size": 56
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AdminEngagementAnalytics.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AdminEngagementAnalytics.tsx",
+    "name": "AdminEngagementAnalytics.tsx",
+    "ext": ".tsx",
+    "size": 1067
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AdminEscrowClaim_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AdminEscrowClaim_1.tsx",
+    "name": "AdminEscrowClaim_1.tsx",
+    "ext": ".tsx",
+    "size": 3998
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AdminEscrowClaim.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AdminEscrowClaim.test_1.tsx",
+    "name": "AdminEscrowClaim.test_1.tsx",
+    "ext": ".tsx",
+    "size": 48
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AdminEscrowClaim.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AdminEscrowClaim.test.tsx",
+    "name": "AdminEscrowClaim.test.tsx",
+    "ext": ".tsx",
+    "size": 48
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AdminEscrowClaim.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AdminEscrowClaim.tsx",
+    "name": "AdminEscrowClaim.tsx",
+    "ext": ".tsx",
+    "size": 3998
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AdminEscrowMonitor_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AdminEscrowMonitor_1.tsx",
+    "name": "AdminEscrowMonitor_1.tsx",
+    "ext": ".tsx",
+    "size": 3691
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AdminEscrowMonitor.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AdminEscrowMonitor.test_1.tsx",
+    "name": "AdminEscrowMonitor.test_1.tsx",
+    "ext": ".tsx",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AdminEscrowMonitor.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AdminEscrowMonitor.test.tsx",
+    "name": "AdminEscrowMonitor.test.tsx",
+    "ext": ".tsx",
+    "size": 50
+  }
+]

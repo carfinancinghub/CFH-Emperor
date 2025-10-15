@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\inspectionPdfController.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\inspectionPdfController.copy.js",
+    "name": "inspectionPdfController.copy.js",
+    "ext": ".js",
+    "size": 2139
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\InspectionReportList.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\InspectionReportList.copy.js",
+    "name": "InspectionReportList.copy.js",
+    "ext": ".js",
+    "size": 3365
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\inspectionReportRoutes.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\inspectionReportRoutes.copy.js",
+    "name": "inspectionReportRoutes.copy.js",
+    "ext": ".js",
+    "size": 1932
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\InspectionReportViewer.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\InspectionReportViewer.copy.js",
+    "name": "InspectionReportViewer.copy.js",
+    "ext": ".js",
+    "size": 3793
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\InspectionReportViewerPage.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\InspectionReportViewerPage.copy.js",
+    "name": "InspectionReportViewerPage.copy.js",
+    "ext": ".js",
+    "size": 6942
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\inspectionRoutes.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\inspectionRoutes.copy.js",
+    "name": "inspectionRoutes.copy.js",
+    "ext": ".js",
+    "size": 1719
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\inspections.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\inspections.copy.js",
+    "name": "inspections.copy.js",
+    "ext": ".js",
+    "size": 1852
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\InspectionSearchBar.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\InspectionSearchBar.copy.js",
+    "name": "InspectionSearchBar.copy.js",
+    "ext": ".js",
+    "size": 1675
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\inspectionSubmitRoute.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\inspectionSubmitRoute.copy.js",
+    "name": "inspectionSubmitRoute.copy.js",
+    "ext": ".js",
+    "size": 1030
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\InstitutionalWaiverModal.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\InstitutionalWaiverModal.copy.js",
+    "name": "InstitutionalWaiverModal.copy.js",
+    "ext": ".js",
+    "size": 1339
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\InsuranceBidPortal.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\InsuranceBidPortal.copy.js",
+    "name": "InsuranceBidPortal.copy.js",
+    "ext": ".js",
+    "size": 2548
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\InsuranceDashboard.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\InsuranceDashboard.copy.js",
+    "name": "InsuranceDashboard.copy.js",
+    "ext": ".js",
+    "size": 2427
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\InsuranceDeploymentChecklist.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\InsuranceDeploymentChecklist.copy.js",
+    "name": "InsuranceDeploymentChecklist.copy.js",
+    "ext": ".js",
+    "size": 3297
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\InsuranceProvider.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\InsuranceProvider.copy.js",
+    "name": "InsuranceProvider.copy.js",
+    "ext": ".js",
+    "size": 3058
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\InsuranceProviderDashboard.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\InsuranceProviderDashboard.copy.js",
+    "name": "InsuranceProviderDashboard.copy.js",
+    "ext": ".js",
+    "size": 3029
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\insuranceRoutes.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\insuranceRoutes.copy.js",
+    "name": "insuranceRoutes.copy.js",
+    "ext": ".js",
+    "size": 2910
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\insurerBucket.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\insurerBucket.copy.js",
+    "name": "insurerBucket.copy.js",
+    "ext": ".js",
+    "size": 5098
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\InsurerDashboard.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\InsurerDashboard.copy.js",
+    "name": "InsurerDashboard.copy.js",
+    "ext": ".js",
+    "size": 3732
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\integrationReportValidation.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\integrationReportValidation.copy.js",
+    "name": "integrationReportValidation.copy.js",
+    "ext": ".js",
+    "size": 4954
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\js_to_ts_files_list_v1.md",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\js_to_ts_files_list_v1.md",
+    "name": "js_to_ts_files_list_v1.md",
+    "ext": ".md",
+    "size": 86834
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\js_to_ts_missing_files_v1.md",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\js_to_ts_missing_files_v1.md",
+    "name": "js_to_ts_missing_files_v1.md",
+    "ext": ".md",
+    "size": 91930
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\Judge.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\Judge.copy.js",
+    "name": "Judge.copy.js",
+    "ext": ".js",
+    "size": 1976
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\JudgeBadgeRenderer.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\JudgeBadgeRenderer.copy.js",
+    "name": "JudgeBadgeRenderer.copy.js",
+    "ext": ".js",
+    "size": 1412
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\judgeBucket.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\judgeBucket.copy.js",
+    "name": "judgeBucket.copy.js",
+    "ext": ".js",
+    "size": 3812
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\JudgeController.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\JudgeController.copy.js",
+    "name": "JudgeController.copy.js",
+    "ext": ".js",
+    "size": 3685
+  }
+]

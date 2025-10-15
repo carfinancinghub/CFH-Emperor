@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\taskCompletionRoutes.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\taskCompletionRoutes.tsx",
+    "name": "taskCompletionRoutes.tsx",
+    "ext": ".tsx",
+    "size": 652
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\taskCompletionRoutesOld.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\taskCompletionRoutesOld.tsx",
+    "name": "taskCompletionRoutesOld.tsx",
+    "ext": ".tsx",
+    "size": 664
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\taskOutcomeRoutes.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\taskOutcomeRoutes.tsx",
+    "name": "taskOutcomeRoutes.tsx",
+    "ext": ".tsx",
+    "size": 640
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\theme.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\theme.tsx",
+    "name": "theme.tsx",
+    "ext": ".tsx",
+    "size": 592
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\TitleAgentDashboard.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\TitleAgentDashboard.tsx",
+    "name": "TitleAgentDashboard.tsx",
+    "ext": ".tsx",
+    "size": 648
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\TitleIssueZone.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\TitleIssueZone.tsx",
+    "name": "TitleIssueZone.tsx",
+    "ext": ".tsx",
+    "size": 628
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\titleRoutes.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\titleRoutes.tsx",
+    "name": "titleRoutes.tsx",
+    "ext": ".tsx",
+    "size": 616
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\TitleTransferQueue.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\TitleTransferQueue.tsx",
+    "name": "TitleTransferQueue.tsx",
+    "ext": ".tsx",
+    "size": 644
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\TradeInForm.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\TradeInForm.tsx",
+    "name": "TradeInForm.tsx",
+    "ext": ".tsx",
+    "size": 616
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\transport.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\transport.tsx",
+    "name": "transport.tsx",
+    "ext": ".tsx",
+    "size": 608
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\TransportDashboardGrokOld.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\TransportDashboardGrokOld.tsx",
+    "name": "TransportDashboardGrokOld.tsx",
+    "ext": ".tsx",
+    "size": 672
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\TransporterJobStatus.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\TransporterJobStatus.tsx",
+    "name": "TransporterJobStatus.tsx",
+    "ext": ".tsx",
+    "size": 652
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\TransporterLiveTracking.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\TransporterLiveTracking.tsx",
+    "name": "TransporterLiveTracking.tsx",
+    "ext": ".tsx",
+    "size": 664
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\TrendAnimation.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\TrendAnimation.tsx",
+    "name": "TrendAnimation.tsx",
+    "ext": ".tsx",
+    "size": 628
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\UnreadNotificationBadge.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\UnreadNotificationBadge.tsx",
+    "name": "UnreadNotificationBadge.tsx",
+    "ext": ".tsx",
+    "size": 664
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\UserAnalyticsReport.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\UserAnalyticsReport.tsx",
+    "name": "UserAnalyticsReport.tsx",
+    "ext": ".tsx",
+    "size": 648
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\UserBehaviorTracker.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\UserBehaviorTracker.tsx",
+    "name": "UserBehaviorTracker.tsx",
+    "ext": ".tsx",
+    "size": 648
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\UserManagement.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\UserManagement.tsx",
+    "name": "UserManagement.tsx",
+    "ext": ".tsx",
+    "size": 628
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\UserOnboarding.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\UserOnboarding.tsx",
+    "name": "UserOnboarding.tsx",
+    "ext": ".tsx",
+    "size": 628
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\userProfile.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\userProfile.tsx",
+    "name": "userProfile.tsx",
+    "ext": ".tsx",
+    "size": 616
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\userProfileRoutes.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\userProfileRoutes.tsx",
+    "name": "userProfileRoutes.tsx",
+    "ext": ".tsx",
+    "size": 640
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\UserReviewList.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\UserReviewList.tsx",
+    "name": "UserReviewList.tsx",
+    "ext": ".tsx",
+    "size": 628
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\validateInputOld.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\validateInputOld.tsx",
+    "name": "validateInputOld.tsx",
+    "ext": ".tsx",
+    "size": 636
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\verifyAdminPassword.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\verifyAdminPassword.tsx",
+    "name": "verifyAdminPassword.tsx",
+    "ext": ".tsx",
+    "size": 648
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\vinDecodeRoutes.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\vinDecodeRoutes.tsx",
+    "name": "vinDecodeRoutes.tsx",
+    "ext": ".tsx",
+    "size": 632
+  }
+]

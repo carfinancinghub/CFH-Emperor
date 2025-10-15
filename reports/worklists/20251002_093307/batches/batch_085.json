@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\UserBehaviorTracker_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\UserBehaviorTracker_1.js",
+    "name": "UserBehaviorTracker_1.js",
+    "ext": ".js",
+    "size": 2037
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\userController_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\userController_1.js",
+    "name": "userController_1.js",
+    "ext": ".js",
+    "size": 1309
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\userController.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\userController.js",
+    "name": "userController.js",
+    "ext": ".js",
+    "size": 1309
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\UserManagement_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\UserManagement_1.js",
+    "name": "UserManagement_1.js",
+    "ext": ".js",
+    "size": 2534
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\UserManagement.test_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\UserManagement.test_1.js",
+    "name": "UserManagement.test_1.js",
+    "ext": ".js",
+    "size": 4010
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\UserNotifications_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\UserNotifications_1.js",
+    "name": "UserNotifications_1.js",
+    "ext": ".js",
+    "size": 2790
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\UserNotifications.test_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\UserNotifications.test_1.js",
+    "name": "UserNotifications.test_1.js",
+    "ext": ".js",
+    "size": 4372
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\UserOnboarding_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\UserOnboarding_1.js",
+    "name": "UserOnboarding_1.js",
+    "ext": ".js",
+    "size": 2021
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\UserOnboarding.test_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\UserOnboarding.test_1.js",
+    "name": "UserOnboarding.test_1.js",
+    "ext": ".js",
+    "size": 2817
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\UserPreferences_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\UserPreferences_1.js",
+    "name": "UserPreferences_1.js",
+    "ext": ".js",
+    "size": 2310
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\UserPreferences.test_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\UserPreferences.test_1.js",
+    "name": "UserPreferences.test_1.js",
+    "ext": ".js",
+    "size": 3575
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\UserProfile_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\UserProfile_1.js",
+    "name": "UserProfile_1.js",
+    "ext": ".js",
+    "size": 3390
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\UserProfile.test_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\UserProfile.test_1.js",
+    "name": "UserProfile.test_1.js",
+    "ext": ".js",
+    "size": 2669
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\userProfileRoutes_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\userProfileRoutes_1.js",
+    "name": "userProfileRoutes_1.js",
+    "ext": ".js",
+    "size": 2960
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\userProfileRoutes.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\userProfileRoutes.js",
+    "name": "userProfileRoutes.js",
+    "ext": ".js",
+    "size": 2960
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\userProfileRoutes.test_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\userProfileRoutes.test_1.js",
+    "name": "userProfileRoutes.test_1.js",
+    "ext": ".js",
+    "size": 361
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\userProfileRoutes.test.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\userProfileRoutes.test.js",
+    "name": "userProfileRoutes.test.js",
+    "ext": ".js",
+    "size": 361
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\UserReviewList_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\UserReviewList_1.js",
+    "name": "UserReviewList_1.js",
+    "ext": ".js",
+    "size": 2214
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\users_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\users_1.js",
+    "name": "users_1.js",
+    "ext": ".js",
+    "size": 1089
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\UserSettings_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\UserSettings_1.js",
+    "name": "UserSettings_1.js",
+    "ext": ".js",
+    "size": 2173
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\UserSettings.test_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\UserSettings.test_1.js",
+    "name": "UserSettings.test_1.js",
+    "ext": ".js",
+    "size": 3352
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\validate_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\validate_1.js",
+    "name": "validate_1.js",
+    "ext": ".js",
+    "size": 707
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\validate.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\validate.js",
+    "name": "validate.js",
+    "ext": ".js",
+    "size": 707
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\ValuationMetricsService_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\ValuationMetricsService_1.js",
+    "name": "ValuationMetricsService_1.js",
+    "ext": ".js",
+    "size": 3309
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\ValuationMetricsService.test_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\ValuationMetricsService.test_1.js",
+    "name": "ValuationMetricsService.test_1.js",
+    "ext": ".js",
+    "size": 377
+  }
+]

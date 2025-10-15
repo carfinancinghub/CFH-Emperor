@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\SellerEmailSettings_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\SellerEmailSettings_1.jsx",
+    "name": "SellerEmailSettings_1.jsx",
+    "ext": ".jsx",
+    "size": 5339
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\SellerEngagementLeaderboard_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\SellerEngagementLeaderboard_1.jsx",
+    "name": "SellerEngagementLeaderboard_1.jsx",
+    "ext": ".jsx",
+    "size": 5775
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\SellerEscrowStatus_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\SellerEscrowStatus_1.jsx",
+    "name": "SellerEscrowStatus_1.jsx",
+    "ext": ".jsx",
+    "size": 5076
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\SellerExperienceLevel_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\SellerExperienceLevel_1.jsx",
+    "name": "SellerExperienceLevel_1.jsx",
+    "ext": ".jsx",
+    "size": 2935
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\SellerExportPanel_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\SellerExportPanel_1.jsx",
+    "name": "SellerExportPanel_1.jsx",
+    "ext": ".jsx",
+    "size": 3107
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\SellerExportPanel.test_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\SellerExportPanel.test_1.jsx",
+    "name": "SellerExportPanel.test_1.jsx",
+    "ext": ".jsx",
+    "size": 839
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\SellerGalleryManager_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\SellerGalleryManager_1.jsx",
+    "name": "SellerGalleryManager_1.jsx",
+    "ext": ".jsx",
+    "size": 6259
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\SellerInventoryList_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\SellerInventoryList_1.jsx",
+    "name": "SellerInventoryList_1.jsx",
+    "ext": ".jsx",
+    "size": 2620
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\SellerInventoryList.test_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\SellerInventoryList.test_1.jsx",
+    "name": "SellerInventoryList.test_1.jsx",
+    "ext": ".jsx",
+    "size": 2760
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\SellerKPIWidget_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\SellerKPIWidget_1.jsx",
+    "name": "SellerKPIWidget_1.jsx",
+    "ext": ".jsx",
+    "size": 3043
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\SellerListingEdit_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\SellerListingEdit_1.jsx",
+    "name": "SellerListingEdit_1.jsx",
+    "ext": ".jsx",
+    "size": 8187
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\SellerListingGallery_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\SellerListingGallery_1.jsx",
+    "name": "SellerListingGallery_1.jsx",
+    "ext": ".jsx",
+    "size": 5479
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\SellerManageListings_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\SellerManageListings_1.jsx",
+    "name": "SellerManageListings_1.jsx",
+    "ext": ".jsx",
+    "size": 7810
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\SellerMarketTrendInsights_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\SellerMarketTrendInsights_1.jsx",
+    "name": "SellerMarketTrendInsights_1.jsx",
+    "ext": ".jsx",
+    "size": 5475
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\SellerMilestoneCelebrator_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\SellerMilestoneCelebrator_1.jsx",
+    "name": "SellerMilestoneCelebrator_1.jsx",
+    "ext": ".jsx",
+    "size": 6387
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\SellerMissionCenter_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\SellerMissionCenter_1.jsx",
+    "name": "SellerMissionCenter_1.jsx",
+    "ext": ".jsx",
+    "size": 5368
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\SellerNotificationCenter_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\SellerNotificationCenter_1.jsx",
+    "name": "SellerNotificationCenter_1.jsx",
+    "ext": ".jsx",
+    "size": 6577
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\SellerNotifications_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\SellerNotifications_1.jsx",
+    "name": "SellerNotifications_1.jsx",
+    "ext": ".jsx",
+    "size": 2527
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\SellerNotifications.test_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\SellerNotifications.test_1.jsx",
+    "name": "SellerNotifications.test_1.jsx",
+    "ext": ".jsx",
+    "size": 2632
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\SellerOfferTracker_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\SellerOfferTracker_1.jsx",
+    "name": "SellerOfferTracker_1.jsx",
+    "ext": ".jsx",
+    "size": 4255
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\SellerOnboardingGuide_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\SellerOnboardingGuide_1.jsx",
+    "name": "SellerOnboardingGuide_1.jsx",
+    "ext": ".jsx",
+    "size": 4023
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\SellerPerformanceComparison_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\SellerPerformanceComparison_1.jsx",
+    "name": "SellerPerformanceComparison_1.jsx",
+    "ext": ".jsx",
+    "size": 5061
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\SellerProfileCard_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\SellerProfileCard_1.jsx",
+    "name": "SellerProfileCard_1.jsx",
+    "ext": ".jsx",
+    "size": 3991
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\SellerReputationDashboard_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\SellerReputationDashboard_1.jsx",
+    "name": "SellerReputationDashboard_1.jsx",
+    "ext": ".jsx",
+    "size": 11788
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\SellerReputationDashboard.test_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\SellerReputationDashboard.test_1.jsx",
+    "name": "SellerReputationDashboard.test_1.jsx",
+    "ext": ".jsx",
+    "size": 1455
+  }
+]

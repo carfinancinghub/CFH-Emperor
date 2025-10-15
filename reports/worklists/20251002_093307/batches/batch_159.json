@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\missionRoutes.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\missionRoutes.test_1.ts",
+    "name": "missionRoutes.test_1.ts",
+    "ext": ".ts",
+    "size": 44
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\missionRoutes.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\missionRoutes.test.ts",
+    "name": "missionRoutes.test.ts",
+    "ext": ".ts",
+    "size": 44
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\missionRoutes.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\missionRoutes.ts",
+    "name": "missionRoutes.ts",
+    "ext": ".ts",
+    "size": 1444
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\MLModel_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\MLModel_1.ts",
+    "name": "MLModel_1.ts",
+    "ext": ".ts",
+    "size": 5263
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\MLModel.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\MLModel.test_1.ts",
+    "name": "MLModel.test_1.ts",
+    "ext": ".ts",
+    "size": 38
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\MLModel.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\MLModel.test.ts",
+    "name": "MLModel.test.ts",
+    "ext": ".ts",
+    "size": 38
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\MLModel.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\MLModel.ts",
+    "name": "MLModel.ts",
+    "ext": ".ts",
+    "size": 5263
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\MobileBidHandler_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\MobileBidHandler_1.ts",
+    "name": "MobileBidHandler_1.ts",
+    "ext": ".ts",
+    "size": 2315
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\MobileBidHandler.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\MobileBidHandler.test_1.ts",
+    "name": "MobileBidHandler.test_1.ts",
+    "ext": ".ts",
+    "size": 4025
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\MobileBidHandler.test.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\MobileBidHandler.test.test_1.ts",
+    "name": "MobileBidHandler.test.test_1.ts",
+    "ext": ".ts",
+    "size": 52
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\MobileBidHandler.test.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\MobileBidHandler.test.test.ts",
+    "name": "MobileBidHandler.test.test.ts",
+    "ext": ".ts",
+    "size": 52
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\MobileBidHandler.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\MobileBidHandler.test.ts",
+    "name": "MobileBidHandler.test.ts",
+    "ext": ".ts",
+    "size": 47
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\MobileBidHandler.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\MobileBidHandler.ts",
+    "name": "MobileBidHandler.ts",
+    "ext": ".ts",
+    "size": 2315
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\MobileNotifications_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\MobileNotifications_1.ts",
+    "name": "MobileNotifications_1.ts",
+    "ext": ".ts",
+    "size": 2744
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\MobileNotifications.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\MobileNotifications.test_1.ts",
+    "name": "MobileNotifications.test_1.ts",
+    "ext": ".ts",
+    "size": 4671
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\MobileNotifications.test.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\MobileNotifications.test.test_1.ts",
+    "name": "MobileNotifications.test.test_1.ts",
+    "ext": ".ts",
+    "size": 55
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\MobileNotifications.test.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\MobileNotifications.test.test.ts",
+    "name": "MobileNotifications.test.test.ts",
+    "ext": ".ts",
+    "size": 55
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\MobileNotifications.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\MobileNotifications.test.ts",
+    "name": "MobileNotifications.test.ts",
+    "ext": ".ts",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\MobileNotifications.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\MobileNotifications.ts",
+    "name": "MobileNotifications.ts",
+    "ext": ".ts",
+    "size": 2744
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\mock.controller_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\mock.controller_1.ts",
+    "name": "mock.controller_1.ts",
+    "ext": ".ts",
+    "size": 246
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\mock.controller.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\mock.controller.test_1.ts",
+    "name": "mock.controller.test_1.ts",
+    "ext": ".ts",
+    "size": 46
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\mock.controller.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\mock.controller.test.ts",
+    "name": "mock.controller.test.ts",
+    "ext": ".ts",
+    "size": 46
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\mock.controller.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\mock.controller.ts",
+    "name": "mock.controller.ts",
+    "ext": ".ts",
+    "size": 246
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\mock.validation_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\mock.validation_1.ts",
+    "name": "mock.validation_1.ts",
+    "ext": ".ts",
+    "size": 583
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\Navbar_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\Navbar_1.ts",
+    "name": "Navbar_1.ts",
+    "ext": ".ts",
+    "size": 1571
+  }
+]

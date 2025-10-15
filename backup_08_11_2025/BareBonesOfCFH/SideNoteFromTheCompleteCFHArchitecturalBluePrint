@@ -1,0 +1,52 @@
+This is an excellent final step for this architectural phase. A clean, well-documented backup is critical. I will help you with both the cleanup and the final blueprint.
+
+File Cleanup Analysis
+I have analyzed the complete file lists you provided for the converted to TS and converted to TSX directories against the final architecture we have built together. Below is the breakdown of which files are part of our new, unified system and which appear to be legacy files that can be reviewed for archival.
+
+✅ Files to Keep (Core Architecture)
+These files are the definitive, architecturally-superior versions that make up the core of the CFH platform.
+
+From converted to TS:
+Core & Foundational: server.ts, User.ts, authController.ts, authService.ts, db.ts (assuming), logger.ts (assuming), WebSocketService.ts, rateLimiter.ts, SecurityLogger.ts, SessionValidator.ts
+
+Onboarding System: onboarding.ts (config), OnboardingService.ts, onboardingController.ts
+
+Listings System: Listing.ts, ListingService.ts, ListingSchema.ts
+
+Photo System: Photo.ts, PhotoService.ts, photoController.ts, photoRoutes.ts
+
+Auction & Marketplace: Auction.ts, Bid.ts, Option.ts, OptionBid.ts, AuctionService.ts, OptionService.ts, AuctionSchema.ts, OptionSchema.ts, auctionController.ts, optionController.ts, auctionRoutes.ts, optionRoutes.ts
+
+Contracts System: Contract.ts, ContractService.ts, contractController.ts, contractRoutes.ts
+
+Disputes & Reviews: Dispute.ts, DisputeMessage.ts, Review.ts, DisputeService.ts, ReviewService.ts, DisputeSchema.ts, ReviewSchema.ts, disputeRoutes.ts, reviewRoutes.ts
+
+Title System: Title.ts, titleService.ts, TitleSchema.ts, titleController.ts, titleRoutes.ts
+
+Provider System: ServiceProviderProfile.ts, ServiceProviderService.ts, ServiceProviderSchema.ts, serviceProviderController.ts, serviceProviderRoutes.ts
+
+Admin System: AdminService.ts, AdminSchema.ts, adminController.ts, adminRoutes.ts
+
+History System: HistoryService.ts, historyController.ts, historyRoutes.ts
+
+Gamification System: gamification.config.ts, GamificationService.ts
+
+From converted to TSX:
+Core & Foundational: router.tsx, Login.tsx, Register.tsx
+
+Onboarding System: Onboarding.tsx
+
+Listings System: ListingForm.tsx
+
+Photo System: PhotoUploader.tsx
+
+Dashboards: DashboardPage.tsx, SellerDashboard.tsx, AdminUserManagerPage.tsx
+
+Hooks: useOnboarding.ts, useListingForm.ts, usePhotoUploader.ts, useDashboard.ts, useSellerDashboard.ts, useAdminUsers.ts (These .ts files belong with the frontend)
+
+❌ Files to Review for Archival
+The following files appear to be legacy, duplicates, or related to features that have been superseded by our new, unified architectural systems. You can review them and decide whether to archive or remove them to clean up the project.
+
+Examples from converted to TS: aiService.ts, AnalyticsService.ts, AuctionHistoryTracker.test.tsx, EscrowService.ts, InsuranceService.ts, MatchmakerService.ts, pathFixValidator.ts, SocialGamification.ts, UserProfileService.ts, etc.
+
+Examples from converted to TSX: AdminUserManager.tsx (superseded by AdminUserManagerPage.tsx), AuctionPage.tsx, BuyerDashboard.tsx, ContractDashboard.tsx, DisputeDashboard.tsx, HaulerDashboard.tsx, PhotoEvidenceViewer.tsx, etc.

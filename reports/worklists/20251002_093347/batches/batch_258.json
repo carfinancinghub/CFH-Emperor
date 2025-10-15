@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\HaulerJobStatusGrokOld.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\HaulerJobStatusGrokOld.copy.js",
+    "name": "HaulerJobStatusGrokOld.copy.js",
+    "ext": ".js",
+    "size": 4013
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\HaulerJobUploadForm.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\HaulerJobUploadForm.copy.js",
+    "name": "HaulerJobUploadForm.copy.js",
+    "ext": ".js",
+    "size": 3739
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\haulerReputationController.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\haulerReputationController.copy.js",
+    "name": "haulerReputationController.copy.js",
+    "ext": ".js",
+    "size": 1108
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\haulerReputationRoute.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\haulerReputationRoute.copy.js",
+    "name": "haulerReputationRoute.copy.js",
+    "ext": ".js",
+    "size": 1029
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\HaulerReputationTracker.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\HaulerReputationTracker.copy.js",
+    "name": "HaulerReputationTracker.copy.js",
+    "ext": ".js",
+    "size": 2263
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\HaulerRequest.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\HaulerRequest.copy.js",
+    "name": "HaulerRequest.copy.js",
+    "ext": ".js",
+    "size": 2247
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\haulerReviewRoute.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\haulerReviewRoute.copy.js",
+    "name": "haulerReviewRoute.copy.js",
+    "ext": ".js",
+    "size": 1584
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\haulerTracking.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\haulerTracking.copy.js",
+    "name": "haulerTracking.copy.js",
+    "ext": ".js",
+    "size": 1732
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\Heatmap.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\Heatmap.copy.js",
+    "name": "Heatmap.copy.js",
+    "ext": ".js",
+    "size": 1238
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\history.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\history.copy.js",
+    "name": "history.copy.js",
+    "ext": ".js",
+    "size": 1929
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\historyOld.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\historyOld.copy.js",
+    "name": "historyOld.copy.js",
+    "ext": ".js",
+    "size": 1618
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\historyOld1.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\historyOld1.copy.js",
+    "name": "historyOld1.copy.js",
+    "ext": ".js",
+    "size": 3146
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\holdRequests.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\holdRequests.copy.js",
+    "name": "holdRequests.copy.js",
+    "ext": ".js",
+    "size": 2264
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\ImageUploader.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\ImageUploader.copy.js",
+    "name": "ImageUploader.copy.js",
+    "ext": ".js",
+    "size": 1993
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\index.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\index.copy.js",
+    "name": "index.copy.js",
+    "ext": ".js",
+    "size": 3260
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\input-placeholder.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\input-placeholder.copy.js",
+    "name": "input-placeholder.copy.js",
+    "ext": ".js",
+    "size": 1890
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\Input.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\Input.copy.js",
+    "name": "Input.copy.js",
+    "ext": ".js",
+    "size": 1299
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\InsightGenerator.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\InsightGenerator.copy.js",
+    "name": "InsightGenerator.copy.js",
+    "ext": ".js",
+    "size": 2739
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\insights.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\insights.copy.js",
+    "name": "insights.copy.js",
+    "ext": ".js",
+    "size": 3524
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\InsightsService.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\InsightsService.copy.js",
+    "name": "InsightsService.copy.js",
+    "ext": ".js",
+    "size": 2913
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\Inspection.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\Inspection.copy.js",
+    "name": "Inspection.copy.js",
+    "ext": ".js",
+    "size": 1046
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\inspectionController.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\inspectionController.copy.js",
+    "name": "inspectionController.copy.js",
+    "ext": ".js",
+    "size": 2694
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\InspectionForm.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\InspectionForm.copy.js",
+    "name": "InspectionForm.copy.js",
+    "ext": ".js",
+    "size": 2588
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\InspectionIndexPage.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\InspectionIndexPage.copy.js",
+    "name": "InspectionIndexPage.copy.js",
+    "ext": ".js",
+    "size": 4293
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\InspectionModal.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\InspectionModal.copy.js",
+    "name": "InspectionModal.copy.js",
+    "ext": ".js",
+    "size": 1359
+  }
+]

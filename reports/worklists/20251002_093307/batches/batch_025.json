@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "features\\ShippingTransportFeatureList.md",
+    "full_path": "C:\\CFH\\docs\\features\\ShippingTransportFeatureList.md",
+    "name": "ShippingTransportFeatureList.md",
+    "ext": ".md",
+    "size": 5396
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "features\\SupportTicketsFeatureList.md",
+    "full_path": "C:\\CFH\\docs\\features\\SupportTicketsFeatureList.md",
+    "name": "SupportTicketsFeatureList.md",
+    "ext": ".md",
+    "size": 5101
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "features\\TelematicsIntegrationFeatureList.md",
+    "full_path": "C:\\CFH\\docs\\features\\TelematicsIntegrationFeatureList.md",
+    "name": "TelematicsIntegrationFeatureList.md",
+    "ext": ".md",
+    "size": 3886
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "features\\UserProfileCustomizationFeatureList.md",
+    "full_path": "C:\\CFH\\docs\\features\\UserProfileCustomizationFeatureList.md",
+    "name": "UserProfileCustomizationFeatureList.md",
+    "ext": ".md",
+    "size": 4353
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "features\\UserProfileFeatureList.md",
+    "full_path": "C:\\CFH\\docs\\features\\UserProfileFeatureList.md",
+    "name": "UserProfileFeatureList.md",
+    "ext": ".md",
+    "size": 3042
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "features\\UserReviewsFeatureList.md",
+    "full_path": "C:\\CFH\\docs\\features\\UserReviewsFeatureList.md",
+    "name": "UserReviewsFeatureList.md",
+    "ext": ".md",
+    "size": 4633
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "features\\VehicleValuationFeatures.md",
+    "full_path": "C:\\CFH\\docs\\features\\VehicleValuationFeatures.md",
+    "name": "VehicleValuationFeatures.md",
+    "ext": ".md",
+    "size": 5197
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "features\\VehicleValuationFeatureSpec.md",
+    "full_path": "C:\\CFH\\docs\\features\\VehicleValuationFeatureSpec.md",
+    "name": "VehicleValuationFeatureSpec.md",
+    "ext": ".md",
+    "size": 4394
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "features\\WindowTintingFeatureList.md",
+    "full_path": "C:\\CFH\\docs\\features\\WindowTintingFeatureList.md",
+    "name": "WindowTintingFeatureList.md",
+    "ext": ".md",
+    "size": 6835
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "FileStructureMap.md",
+    "full_path": "C:\\CFH\\docs\\FileStructureMap.md",
+    "name": "FileStructureMap.md",
+    "ext": ".md",
+    "size": 3377
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "fix_summary.md",
+    "full_path": "C:\\CFH\\docs\\fix_summary.md",
+    "name": "fix_summary.md",
+    "ext": ".md",
+    "size": 2349
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "frontend\\src\\archive\\hauler\\haulerBucket.md",
+    "full_path": "C:\\CFH\\docs\\frontend\\src\\archive\\hauler\\haulerBucket.md",
+    "name": "haulerBucket.md",
+    "ext": ".md",
+    "size": 1474
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "frontend\\src\\components\\hauler\\BookingModal.md",
+    "full_path": "C:\\CFH\\docs\\frontend\\src\\components\\hauler\\BookingModal.md",
+    "name": "BookingModal.md",
+    "ext": ".md",
+    "size": 1441
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "functions\\ai\\BidConfidenceMeter-functions.md",
+    "full_path": "C:\\CFH\\docs\\functions\\ai\\BidConfidenceMeter-functions.md",
+    "name": "BidConfidenceMeter-functions.md",
+    "ext": ".md",
+    "size": 946
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "functions\\ai\\BidStrategyAdvisor-functions.md",
+    "full_path": "C:\\CFH\\docs\\functions\\ai\\BidStrategyAdvisor-functions.md",
+    "name": "BidStrategyAdvisor-functions.md",
+    "ext": ".md",
+    "size": 1510
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "functions\\ai\\BidStrategyAdvisor.test-functions.md",
+    "full_path": "C:\\CFH\\docs\\functions\\ai\\BidStrategyAdvisor.test-functions.md",
+    "name": "BidStrategyAdvisor.test-functions.md",
+    "ext": ".md",
+    "size": 1666
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "functions\\ai\\Heatmap-functions.md",
+    "full_path": "C:\\CFH\\docs\\functions\\ai\\Heatmap-functions.md",
+    "name": "Heatmap-functions.md",
+    "ext": ".md",
+    "size": 242
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "functions\\ai\\prediction-engine-functions.md",
+    "full_path": "C:\\CFH\\docs\\functions\\ai\\prediction-engine-functions.md",
+    "name": "prediction-engine-functions.md",
+    "ext": ".md",
+    "size": 2212
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "functions\\ai\\PredictionEngine-functions.md",
+    "full_path": "C:\\CFH\\docs\\functions\\ai\\PredictionEngine-functions.md",
+    "name": "PredictionEngine-functions.md",
+    "ext": ".md",
+    "size": 417
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "functions\\ai\\PredictiveComparison-functions.md",
+    "full_path": "C:\\CFH\\docs\\functions\\ai\\PredictiveComparison-functions.md",
+    "name": "PredictiveComparison-functions.md",
+    "ext": ".md",
+    "size": 6024
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "functions\\ai\\TrustScoreViewer-functions.md",
+    "full_path": "C:\\CFH\\docs\\functions\\ai\\TrustScoreViewer-functions.md",
+    "name": "TrustScoreViewer-functions.md",
+    "ext": ".md",
+    "size": 924
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "functions\\ai\\ValuationAssistant-functions.md",
+    "full_path": "C:\\CFH\\docs\\functions\\ai\\ValuationAssistant-functions.md",
+    "name": "ValuationAssistant-functions.md",
+    "ext": ".md",
+    "size": 1241
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "functions\\ai\\ValuationAssistant.test-functions.md",
+    "full_path": "C:\\CFH\\docs\\functions\\ai\\ValuationAssistant.test-functions.md",
+    "name": "ValuationAssistant.test-functions.md",
+    "ext": ".md",
+    "size": 853
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "functions\\ai\\ValuationLiveFeed-functions.md",
+    "full_path": "C:\\CFH\\docs\\functions\\ai\\ValuationLiveFeed-functions.md",
+    "name": "ValuationLiveFeed-functions.md",
+    "ext": ".md",
+    "size": 5497
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "functions\\ai\\ValuationMetricsService-functions.md",
+    "full_path": "C:\\CFH\\docs\\functions\\ai\\ValuationMetricsService-functions.md",
+    "name": "ValuationMetricsService-functions.md",
+    "ext": ".md",
+    "size": 1036
+  }
+]

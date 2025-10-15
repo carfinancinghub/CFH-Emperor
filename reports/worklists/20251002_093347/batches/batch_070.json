@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\EscrowAuditService_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\EscrowAuditService_1.js",
+    "name": "EscrowAuditService_1.js",
+    "ext": ".js",
+    "size": 3611
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\EscrowAuditService.test_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\EscrowAuditService.test_1.js",
+    "name": "EscrowAuditService.test_1.js",
+    "ext": ".js",
+    "size": 5669
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\EscrowChainSync_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\EscrowChainSync_1.js",
+    "name": "EscrowChainSync_1.js",
+    "ext": ".js",
+    "size": 3521
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\EscrowChainSync.test_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\EscrowChainSync.test_1.js",
+    "name": "EscrowChainSync.test_1.js",
+    "ext": ".js",
+    "size": 3684
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\escrowController_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\escrowController_1.js",
+    "name": "escrowController_1.js",
+    "ext": ".js",
+    "size": 2515
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\escrowController.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\escrowController.js",
+    "name": "escrowController.js",
+    "ext": ".js",
+    "size": 2515
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\EscrowDashboard_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\EscrowDashboard_1.js",
+    "name": "EscrowDashboard_1.js",
+    "ext": ".js",
+    "size": 3413
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\EscrowDashboard.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\EscrowDashboard.js",
+    "name": "EscrowDashboard.js",
+    "ext": ".js",
+    "size": 3413
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\EscrowInfoPanel_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\EscrowInfoPanel_1.js",
+    "name": "EscrowInfoPanel_1.js",
+    "ext": ".js",
+    "size": 1772
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\EscrowIntegrationTest_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\EscrowIntegrationTest_1.js",
+    "name": "EscrowIntegrationTest_1.js",
+    "ext": ".js",
+    "size": 1997
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\EscrowNotificationService_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\EscrowNotificationService_1.js",
+    "name": "EscrowNotificationService_1.js",
+    "ext": ".js",
+    "size": 2784
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\EscrowNotificationService.test_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\EscrowNotificationService.test_1.js",
+    "name": "EscrowNotificationService.test_1.js",
+    "ext": ".js",
+    "size": 395
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\escrowNotifyRoutes_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\escrowNotifyRoutes_1.js",
+    "name": "escrowNotifyRoutes_1.js",
+    "ext": ".js",
+    "size": 1201
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\escrowNotifyRoutes.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\escrowNotifyRoutes.js",
+    "name": "escrowNotifyRoutes.js",
+    "ext": ".js",
+    "size": 1201
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\EscrowOfficerHook_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\EscrowOfficerHook_1.js",
+    "name": "EscrowOfficerHook_1.js",
+    "ext": ".js",
+    "size": 1047
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\escrowPaymentRoutes_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\escrowPaymentRoutes_1.js",
+    "name": "escrowPaymentRoutes_1.js",
+    "ext": ".js",
+    "size": 3619
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\escrowPaymentRoutes.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\escrowPaymentRoutes.js",
+    "name": "escrowPaymentRoutes.js",
+    "ext": ".js",
+    "size": 3619
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\escrowPaymentRoutes.test_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\escrowPaymentRoutes.test_1.js",
+    "name": "escrowPaymentRoutes.test_1.js",
+    "ext": ".js",
+    "size": 4526
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\escrowPaymentRoutes.test.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\escrowPaymentRoutes.test.js",
+    "name": "escrowPaymentRoutes.test.js",
+    "ext": ".js",
+    "size": 4526
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\escrowRoutes_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\escrowRoutes_1.js",
+    "name": "escrowRoutes_1.js",
+    "ext": ".js",
+    "size": 1414
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\escrowRoutes.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\escrowRoutes.js",
+    "name": "escrowRoutes.js",
+    "ext": ".js",
+    "size": 1414
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\escrowRoutes.test_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\escrowRoutes.test_1.js",
+    "name": "escrowRoutes.test_1.js",
+    "ext": ".js",
+    "size": 2506
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\escrowRoutes.test.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\escrowRoutes.test.js",
+    "name": "escrowRoutes.test.js",
+    "ext": ".js",
+    "size": 2506
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\EscrowTransaction_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\EscrowTransaction_1.js",
+    "name": "EscrowTransaction_1.js",
+    "ext": ".js",
+    "size": 1084
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\EscrowTransaction.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\EscrowTransaction.js",
+    "name": "EscrowTransaction.js",
+    "ext": ".js",
+    "size": 1084
+  }
+]

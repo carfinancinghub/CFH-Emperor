@@ -1,5 +1,5 @@
-﻿{
-  // Author: Cod4 (05042316)
+{
+
   "marketplaceInsightsDashboard": "[ES] Marketplace Insights Dashboard",
   "bestFinancingDeal": "[ES] Best Financing Deal",
   "saveWith": "[ES] Save with",
@@ -91,3 +91,4 @@
     }
   }
 }
+

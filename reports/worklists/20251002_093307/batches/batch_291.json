@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\MechanicInspectionDetail.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\MechanicInspectionDetail.tsx",
+    "name": "MechanicInspectionDetail.tsx",
+    "ext": ".tsx",
+    "size": 668
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\mechanicMilestoneTracker.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\mechanicMilestoneTracker.tsx",
+    "name": "mechanicMilestoneTracker.tsx",
+    "ext": ".tsx",
+    "size": 668
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\mechanicRoutes.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\mechanicRoutes.tsx",
+    "name": "mechanicRoutes.tsx",
+    "ext": ".tsx",
+    "size": 628
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\MechanicVoiceDictationOld.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\MechanicVoiceDictationOld.tsx",
+    "name": "MechanicVoiceDictationOld.tsx",
+    "ext": ".tsx",
+    "size": 672
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\Message.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\Message.tsx",
+    "name": "Message.tsx",
+    "ext": ".tsx",
+    "size": 600
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\MessageBubble.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\MessageBubble.tsx",
+    "name": "MessageBubble.tsx",
+    "ext": ".tsx",
+    "size": 624
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\messageControllerGrokOld.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\messageControllerGrokOld.tsx",
+    "name": "messageControllerGrokOld.tsx",
+    "ext": ".tsx",
+    "size": 668
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\messageRoutes.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\messageRoutes.tsx",
+    "name": "messageRoutes.tsx",
+    "ext": ".tsx",
+    "size": 624
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\messages.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\messages.tsx",
+    "name": "messages.tsx",
+    "ext": ".tsx",
+    "size": 604
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\Messaging.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\Messaging.tsx",
+    "name": "Messaging.tsx",
+    "ext": ".tsx",
+    "size": 608
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\MessagingService.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\MessagingService.tsx",
+    "name": "MessagingService.tsx",
+    "ext": ".tsx",
+    "size": 636
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\missionRoutes.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\missionRoutes.tsx",
+    "name": "missionRoutes.tsx",
+    "ext": ".tsx",
+    "size": 624
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\MLModel.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\MLModel.tsx",
+    "name": "MLModel.tsx",
+    "ext": ".tsx",
+    "size": 600
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\MLModeldOld.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\MLModeldOld.tsx",
+    "name": "MLModeldOld.tsx",
+    "ext": ".tsx",
+    "size": 616
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\MobileBidHandler.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\MobileBidHandler.tsx",
+    "name": "MobileBidHandler.tsx",
+    "ext": ".tsx",
+    "size": 636
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\MobileNotifications.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\MobileNotifications.tsx",
+    "name": "MobileNotifications.tsx",
+    "ext": ".tsx",
+    "size": 648
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\MyDisputes.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\MyDisputes.tsx",
+    "name": "MyDisputes.tsx",
+    "ext": ".tsx",
+    "size": 612
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\Navbar.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\Navbar.tsx",
+    "name": "Navbar.tsx",
+    "ext": ".tsx",
+    "size": 596
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\NavbarMobileToggle.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\NavbarMobileToggle.tsx",
+    "name": "NavbarMobileToggle.tsx",
+    "ext": ".tsx",
+    "size": 644
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\notification.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\notification.tsx",
+    "name": "notification.tsx",
+    "ext": ".tsx",
+    "size": 620
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\NotificationCenter.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\NotificationCenter.tsx",
+    "name": "NotificationCenter.tsx",
+    "ext": ".tsx",
+    "size": 644
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\notificationTrigger.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\notificationTrigger.tsx",
+    "name": "notificationTrigger.tsx",
+    "ext": ".tsx",
+    "size": 648
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\OffersHistory.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\OffersHistory.tsx",
+    "name": "OffersHistory.tsx",
+    "ext": ".tsx",
+    "size": 624
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\onboardingController.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\onboardingController.tsx",
+    "name": "onboardingController.tsx",
+    "ext": ".tsx",
+    "size": 652
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\OnboardingGuide.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\OnboardingGuide.tsx",
+    "name": "OnboardingGuide.tsx",
+    "ext": ".tsx",
+    "size": 632
+  }
+]

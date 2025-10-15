@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\lender\\contractReviewController.js",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\lender\\contractReviewController.js",
+    "name": "contractReviewController.js",
+    "ext": ".js",
+    "size": 2145
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\lender\\LenderAnalyticsDashboard.js",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\lender\\LenderAnalyticsDashboard.js",
+    "name": "LenderAnalyticsDashboard.js",
+    "ext": ".js",
+    "size": 3304
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\lender\\LenderBidDetailCard.js",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\lender\\LenderBidDetailCard.js",
+    "name": "LenderBidDetailCard.js",
+    "ext": ".js",
+    "size": 2259
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\lender\\LenderBiddingDashboard.css",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\lender\\LenderBiddingDashboard.css",
+    "name": "LenderBiddingDashboard.css",
+    "ext": ".css",
+    "size": 931
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\lender\\LenderBiddingDashboard.js",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\lender\\LenderBiddingDashboard.js",
+    "name": "LenderBiddingDashboard.js",
+    "ext": ".js",
+    "size": 2797
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\lender\\LenderContractReview.js",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\lender\\LenderContractReview.js",
+    "name": "LenderContractReview.js",
+    "ext": ".js",
+    "size": 2952
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\lender\\LenderContractSummary.js",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\lender\\LenderContractSummary.js",
+    "name": "LenderContractSummary.js",
+    "ext": ".js",
+    "size": 4903
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\lender\\LenderDashboard.js",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\lender\\LenderDashboard.js",
+    "name": "LenderDashboard.js",
+    "ext": ".js",
+    "size": 5343
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\lender\\LenderDashboard.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\lender\\LenderDashboard.jsx",
+    "name": "LenderDashboard.jsx",
+    "ext": ".jsx",
+    "size": 7107
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\lender\\LenderExportCenter.js",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\lender\\LenderExportCenter.js",
+    "name": "LenderExportCenter.js",
+    "ext": ".js",
+    "size": 4711
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\lender\\LenderExportPanel.js",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\lender\\LenderExportPanel.js",
+    "name": "LenderExportPanel.js",
+    "ext": ".js",
+    "size": 3115
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\lender\\LenderExportPanel.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\lender\\LenderExportPanel.jsx",
+    "name": "LenderExportPanel.jsx",
+    "ext": ".jsx",
+    "size": 4988
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\lender\\LenderInsightsPanel.js",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\lender\\LenderInsightsPanel.js",
+    "name": "LenderInsightsPanel.js",
+    "ext": ".js",
+    "size": 3258
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\lender\\LenderLoyaltyDashboard.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\lender\\LenderLoyaltyDashboard.jsx",
+    "name": "LenderLoyaltyDashboard.jsx",
+    "ext": ".jsx",
+    "size": 6982
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\lender\\LenderMatchListView.js",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\lender\\LenderMatchListView.js",
+    "name": "LenderMatchListView.js",
+    "ext": ".js",
+    "size": 1758
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\lender\\LenderMatchPreviewCard.js",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\lender\\LenderMatchPreviewCard.js",
+    "name": "LenderMatchPreviewCard.js",
+    "ext": ".js",
+    "size": 2355
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\lender\\LenderOnboardingForm.js",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\lender\\LenderOnboardingForm.js",
+    "name": "LenderOnboardingForm.js",
+    "ext": ".js",
+    "size": 4622
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\lender\\LenderPreApprovalDashboard.js",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\lender\\LenderPreApprovalDashboard.js",
+    "name": "LenderPreApprovalDashboard.js",
+    "ext": ".js",
+    "size": 5247
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\lender\\LenderProfilePage.js",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\lender\\LenderProfilePage.js",
+    "name": "LenderProfilePage.js",
+    "ext": ".js",
+    "size": 4355
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\lender\\lenderReputationController.js",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\lender\\lenderReputationController.js",
+    "name": "lenderReputationController.js",
+    "ext": ".js",
+    "size": 2674
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\lender\\LenderReputationSummary.js",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\lender\\LenderReputationSummary.js",
+    "name": "LenderReputationSummary.js",
+    "ext": ".js",
+    "size": 2589
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\lender\\LenderReputationTracker.js",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\lender\\LenderReputationTracker.js",
+    "name": "LenderReputationTracker.js",
+    "ext": ".js",
+    "size": 6448
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\lender\\LenderReviewDashboard.js",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\lender\\LenderReviewDashboard.js",
+    "name": "LenderReviewDashboard.js",
+    "ext": ".js",
+    "size": 4102
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\lender\\LenderTermsHistoryViewer.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\lender\\LenderTermsHistoryViewer.jsx",
+    "name": "LenderTermsHistoryViewer.jsx",
+    "ext": ".jsx",
+    "size": 1500
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\lender\\LoanComparison.css",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\lender\\LoanComparison.css",
+    "name": "LoanComparison.css",
+    "ext": ".css",
+    "size": 1195
+  }
+]

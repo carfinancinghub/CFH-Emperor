@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\Backup_Projects",
+    "rel_path": "CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\judge\\smartverdicthint.test.skip.tsx",
+    "full_path": "C:\\Backup_Projects\\CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\judge\\smartverdicthint.test.skip.tsx",
+    "name": "smartverdicthint.test.skip.tsx",
+    "ext": ".tsx",
+    "size": 159
+  },
+  {
+    "root": "C:\\Backup_Projects",
+    "rel_path": "CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\lender\\lendertermshistoryviewer.test.skip.tsx",
+    "full_path": "C:\\Backup_Projects\\CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\lender\\lendertermshistoryviewer.test.skip.tsx",
+    "name": "lendertermshistoryviewer.test.skip.tsx",
+    "ext": ".tsx",
+    "size": 167
+  },
+  {
+    "root": "C:\\Backup_Projects",
+    "rel_path": "CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\lenderexportpanel.test.skip.ts",
+    "full_path": "C:\\Backup_Projects\\CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\lenderexportpanel.test.skip.ts",
+    "name": "lenderexportpanel.test.skip.ts",
+    "ext": ".ts",
+    "size": 159
+  },
+  {
+    "root": "C:\\Backup_Projects",
+    "rel_path": "CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\marketplace\\marketplaceinsightsdashboard.test.skip.tsx",
+    "full_path": "C:\\Backup_Projects\\CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\marketplace\\marketplaceinsightsdashboard.test.skip.tsx",
+    "name": "marketplaceinsightsdashboard.test.skip.tsx",
+    "ext": ".tsx",
+    "size": 171
+  },
+  {
+    "root": "C:\\Backup_Projects",
+    "rel_path": "CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\mechanic\\mechanicinspectionform.test.skip.tsx",
+    "full_path": "C:\\Backup_Projects\\CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\mechanic\\mechanicinspectionform.test.skip.tsx",
+    "name": "mechanicinspectionform.test.skip.tsx",
+    "ext": ".tsx",
+    "size": 165
+  },
+  {
+    "root": "C:\\Backup_Projects",
+    "rel_path": "CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\mechanicdashboard.test.skip.tsx",
+    "full_path": "C:\\Backup_Projects\\CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\mechanicdashboard.test.skip.tsx",
+    "name": "mechanicdashboard.test.skip.tsx",
+    "ext": ".tsx",
+    "size": 160
+  },
+  {
+    "root": "C:\\Backup_Projects",
+    "rel_path": "CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\mechanicshiftplanner.test.skip.tsx",
+    "full_path": "C:\\Backup_Projects\\CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\mechanicshiftplanner.test.skip.tsx",
+    "name": "mechanicshiftplanner.test.skip.tsx",
+    "ext": ".tsx",
+    "size": 163
+  },
+  {
+    "root": "C:\\Backup_Projects",
+    "rel_path": "CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\mobile\\mobileanalytics.test.skip.tsx",
+    "full_path": "C:\\Backup_Projects\\CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\mobile\\mobileanalytics.test.skip.tsx",
+    "name": "mobileanalytics.test.skip.tsx",
+    "ext": ".tsx",
+    "size": 158
+  },
+  {
+    "root": "C:\\Backup_Projects",
+    "rel_path": "CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\mobile\\mobileauctionview.test.skip.tsx",
+    "full_path": "C:\\Backup_Projects\\CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\mobile\\mobileauctionview.test.skip.tsx",
+    "name": "mobileauctionview.test.skip.tsx",
+    "ext": ".tsx",
+    "size": 160
+  },
+  {
+    "root": "C:\\Backup_Projects",
+    "rel_path": "CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\officer\\disputeradarwidget.test.skip.tsx",
+    "full_path": "C:\\Backup_Projects\\CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\officer\\disputeradarwidget.test.skip.tsx",
+    "name": "disputeradarwidget.test.skip.tsx",
+    "ext": ".tsx",
+    "size": 161
+  },
+  {
+    "root": "C:\\Backup_Projects",
+    "rel_path": "CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\officerdashboard.test.skip.tsx",
+    "full_path": "C:\\Backup_Projects\\CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\officerdashboard.test.skip.tsx",
+    "name": "officerdashboard.test.skip.tsx",
+    "ext": ".tsx",
+    "size": 159
+  },
+  {
+    "root": "C:\\Backup_Projects",
+    "rel_path": "CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\onboarding\\onboardingwizard.test.skip.tsx",
+    "full_path": "C:\\Backup_Projects\\CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\onboarding\\onboardingwizard.test.skip.tsx",
+    "name": "onboardingwizard.test.skip.tsx",
+    "ext": ".tsx",
+    "size": 159
+  },
+  {
+    "root": "C:\\Backup_Projects",
+    "rel_path": "CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\premium\\badgedisplay.test.skip.tsx",
+    "full_path": "C:\\Backup_Projects\\CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\premium\\badgedisplay.test.skip.tsx",
+    "name": "badgedisplay.test.skip.tsx",
+    "ext": ".tsx",
+    "size": 155
+  },
+  {
+    "root": "C:\\Backup_Projects",
+    "rel_path": "CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\premium\\premiumdashboard.test.skip.tsx",
+    "full_path": "C:\\Backup_Projects\\CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\premium\\premiumdashboard.test.skip.tsx",
+    "name": "premiumdashboard.test.skip.tsx",
+    "ext": ".tsx",
+    "size": 159
+  },
+  {
+    "root": "C:\\Backup_Projects",
+    "rel_path": "CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\premium\\pricinginsights.test.skip.tsx",
+    "full_path": "C:\\Backup_Projects\\CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\premium\\pricinginsights.test.skip.tsx",
+    "name": "pricinginsights.test.skip.tsx",
+    "ext": ".tsx",
+    "size": 158
+  },
+  {
+    "root": "C:\\Backup_Projects",
+    "rel_path": "CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\premium\\recommendedauctions.test.skip.tsx",
+    "full_path": "C:\\Backup_Projects\\CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\premium\\recommendedauctions.test.skip.tsx",
+    "name": "recommendedauctions.test.skip.tsx",
+    "ext": ".tsx",
+    "size": 162
+  },
+  {
+    "root": "C:\\Backup_Projects",
+    "rel_path": "CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\premium\\supportchatwidget.test.skip.tsx",
+    "full_path": "C:\\Backup_Projects\\CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\premium\\supportchatwidget.test.skip.tsx",
+    "name": "supportchatwidget.test.skip.tsx",
+    "ext": ".tsx",
+    "size": 160
+  },
+  {
+    "root": "C:\\Backup_Projects",
+    "rel_path": "CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\riskassessmentengine.test.skip.ts",
+    "full_path": "C:\\Backup_Projects\\CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\riskassessmentengine.test.skip.ts",
+    "name": "riskassessmentengine.test.skip.ts",
+    "ext": ".ts",
+    "size": 162
+  },
+  {
+    "root": "C:\\Backup_Projects",
+    "rel_path": "CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\routeriskanalysis.test.skip.tsx",
+    "full_path": "C:\\Backup_Projects\\CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\routeriskanalysis.test.skip.tsx",
+    "name": "routeriskanalysis.test.skip.tsx",
+    "ext": ".tsx",
+    "size": 160
+  },
+  {
+    "root": "C:\\Backup_Projects",
+    "rel_path": "CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\seller\\selleranalyticschart.test.skip.tsx",
+    "full_path": "C:\\Backup_Projects\\CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\seller\\selleranalyticschart.test.skip.tsx",
+    "name": "selleranalyticschart.test.skip.tsx",
+    "ext": ".tsx",
+    "size": 163
+  },
+  {
+    "root": "C:\\Backup_Projects",
+    "rel_path": "CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\seller\\sellerauctionform.test.skip.tsx",
+    "full_path": "C:\\Backup_Projects\\CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\seller\\sellerauctionform.test.skip.tsx",
+    "name": "sellerauctionform.test.skip.tsx",
+    "ext": ".tsx",
+    "size": 160
+  },
+  {
+    "root": "C:\\Backup_Projects",
+    "rel_path": "CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\seller\\sellerauctionstatus.test.skip.tsx",
+    "full_path": "C:\\Backup_Projects\\CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\seller\\sellerauctionstatus.test.skip.tsx",
+    "name": "sellerauctionstatus.test.skip.tsx",
+    "ext": ".tsx",
+    "size": 162
+  },
+  {
+    "root": "C:\\Backup_Projects",
+    "rel_path": "CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\seller\\sellerdashboard.test.skip.tsx",
+    "full_path": "C:\\Backup_Projects\\CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\seller\\sellerdashboard.test.skip.tsx",
+    "name": "sellerdashboard.test.skip.tsx",
+    "ext": ".tsx",
+    "size": 158
+  },
+  {
+    "root": "C:\\Backup_Projects",
+    "rel_path": "CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\seller\\sellerinventorylist.test.skip.tsx",
+    "full_path": "C:\\Backup_Projects\\CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\seller\\sellerinventorylist.test.skip.tsx",
+    "name": "sellerinventorylist.test.skip.tsx",
+    "ext": ".tsx",
+    "size": 162
+  },
+  {
+    "root": "C:\\Backup_Projects",
+    "rel_path": "CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\sellerdeepanalytics.test.skip.tsx",
+    "full_path": "C:\\Backup_Projects\\CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\sellerdeepanalytics.test.skip.tsx",
+    "name": "sellerdeepanalytics.test.skip.tsx",
+    "ext": ".tsx",
+    "size": 162
+  }
+]

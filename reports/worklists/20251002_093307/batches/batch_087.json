@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\AdminAuctionOverview.test_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\AdminAuctionOverview.test_1.jsx",
+    "name": "AdminAuctionOverview.test_1.jsx",
+    "ext": ".jsx",
+    "size": 3091
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\AdminBadgeAuditLog_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\AdminBadgeAuditLog_1.jsx",
+    "name": "AdminBadgeAuditLog_1.jsx",
+    "ext": ".jsx",
+    "size": 2607
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\AdminComplianceDashboard_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\AdminComplianceDashboard_1.jsx",
+    "name": "AdminComplianceDashboard_1.jsx",
+    "ext": ".jsx",
+    "size": 13807
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\AdminContractTemplates_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\AdminContractTemplates_1.jsx",
+    "name": "AdminContractTemplates_1.jsx",
+    "ext": ".jsx",
+    "size": 3268
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\AdminCustomWidgetLibrary_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\AdminCustomWidgetLibrary_1.jsx",
+    "name": "AdminCustomWidgetLibrary_1.jsx",
+    "ext": ".jsx",
+    "size": 5901
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\AdminDashboard_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\AdminDashboard_1.jsx",
+    "name": "AdminDashboard_1.jsx",
+    "ext": ".jsx",
+    "size": 3023
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\AdminDisputeAnalytics_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\AdminDisputeAnalytics_1.jsx",
+    "name": "AdminDisputeAnalytics_1.jsx",
+    "ext": ".jsx",
+    "size": 4963
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\AdminDisputeArchive_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\AdminDisputeArchive_1.jsx",
+    "name": "AdminDisputeArchive_1.jsx",
+    "ext": ".jsx",
+    "size": 2675
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\AdminDisputeDashboard_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\AdminDisputeDashboard_1.jsx",
+    "name": "AdminDisputeDashboard_1.jsx",
+    "ext": ".jsx",
+    "size": 4392
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\AdminDisputeIndex_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\AdminDisputeIndex_1.jsx",
+    "name": "AdminDisputeIndex_1.jsx",
+    "ext": ".jsx",
+    "size": 2237
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\AdminEmailNotifications_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\AdminEmailNotifications_1.jsx",
+    "name": "AdminEmailNotifications_1.jsx",
+    "ext": ".jsx",
+    "size": 5274
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\AdminEngagementAnalytics_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\AdminEngagementAnalytics_1.jsx",
+    "name": "AdminEngagementAnalytics_1.jsx",
+    "ext": ".jsx",
+    "size": 982
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\AdminEscrowClaim_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\AdminEscrowClaim_1.jsx",
+    "name": "AdminEscrowClaim_1.jsx",
+    "ext": ".jsx",
+    "size": 3921
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\AdminEscrowMonitor_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\AdminEscrowMonitor_1.jsx",
+    "name": "AdminEscrowMonitor_1.jsx",
+    "ext": ".jsx",
+    "size": 3612
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\AdminFinancialOverview_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\AdminFinancialOverview_1.jsx",
+    "name": "AdminFinancialOverview_1.jsx",
+    "ext": ".jsx",
+    "size": 2988
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\AdminInsights_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\AdminInsights_1.jsx",
+    "name": "AdminInsights_1.jsx",
+    "ext": ".jsx",
+    "size": 2119
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\AdminKPIWidget_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\AdminKPIWidget_1.jsx",
+    "name": "AdminKPIWidget_1.jsx",
+    "ext": ".jsx",
+    "size": 671
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\AdminLayout_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\AdminLayout_1.jsx",
+    "name": "AdminLayout_1.jsx",
+    "ext": ".jsx",
+    "size": 1178
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\AdminLoginHistory_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\AdminLoginHistory_1.jsx",
+    "name": "AdminLoginHistory_1.jsx",
+    "ext": ".jsx",
+    "size": 2270
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\AdminLoyaltyRewards_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\AdminLoyaltyRewards_1.jsx",
+    "name": "AdminLoyaltyRewards_1.jsx",
+    "ext": ".jsx",
+    "size": 2857
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\AdminModerationCenter_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\AdminModerationCenter_1.jsx",
+    "name": "AdminModerationCenter_1.jsx",
+    "ext": ".jsx",
+    "size": 3705
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\AdminNavigation_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\AdminNavigation_1.jsx",
+    "name": "AdminNavigation_1.jsx",
+    "ext": ".jsx",
+    "size": 1553
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\AdminNotificationCenter_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\AdminNotificationCenter_1.jsx",
+    "name": "AdminNotificationCenter_1.jsx",
+    "ext": ".jsx",
+    "size": 3815
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\AdminPaymentOverview_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\AdminPaymentOverview_1.jsx",
+    "name": "AdminPaymentOverview_1.jsx",
+    "ext": ".jsx",
+    "size": 3803
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\AdminReportExport_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\AdminReportExport_1.jsx",
+    "name": "AdminReportExport_1.jsx",
+    "ext": ".jsx",
+    "size": 1916
+  }
+]

@@ -1,0 +1,9 @@
+# MarketplaceInsights.js
+
+**Purpose**: Auto-generated mirror doc for `C:\CFH\frontend\src\components\needsHome\MarketplaceInsights.js`
+
+- **Suggested location**: `C:/CFH/frontend/src/components/needsHome/MarketplaceInsights.js`
+- **Confidence**: 0.70
+- **Reason**: Matched keyword rule "\bmarketplace\b|\bsearch\b|\bresults?\b" → "marketplace"
+
+> Replace this stub with richer documentation as needed.

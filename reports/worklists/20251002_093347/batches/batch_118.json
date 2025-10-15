@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AuctionGamificationEngine.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AuctionGamificationEngine.ts",
+    "name": "AuctionGamificationEngine.ts",
+    "ext": ".ts",
+    "size": 3131
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AuctionHistory_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AuctionHistory_1.ts",
+    "name": "AuctionHistory_1.ts",
+    "ext": ".ts",
+    "size": 2274
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AuctionHistory.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AuctionHistory.test_1.ts",
+    "name": "AuctionHistory.test_1.ts",
+    "ext": ".ts",
+    "size": 3792
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AuctionHistory.test.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AuctionHistory.test.test_1.ts",
+    "name": "AuctionHistory.test.test_1.ts",
+    "ext": ".ts",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AuctionHistory.test.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AuctionHistory.test.test.ts",
+    "name": "AuctionHistory.test.test.ts",
+    "ext": ".ts",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AuctionHistory.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AuctionHistory.test.ts",
+    "name": "AuctionHistory.test.ts",
+    "ext": ".ts",
+    "size": 45
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AuctionIntegrationTest_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AuctionIntegrationTest_1.ts",
+    "name": "AuctionIntegrationTest_1.ts",
+    "ext": ".ts",
+    "size": 3618
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AuctionIntegrationTest.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AuctionIntegrationTest.test_1.ts",
+    "name": "AuctionIntegrationTest.test_1.ts",
+    "ext": ".ts",
+    "size": 53
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AuctionIntegrationTest.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AuctionIntegrationTest.test.ts",
+    "name": "AuctionIntegrationTest.test.ts",
+    "ext": ".ts",
+    "size": 53
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AuctionIntegrationTest.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AuctionIntegrationTest.ts",
+    "name": "AuctionIntegrationTest.ts",
+    "ext": ".ts",
+    "size": 3612
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\auctionManagement.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\auctionManagement.test_1.ts",
+    "name": "auctionManagement.test_1.ts",
+    "ext": ".ts",
+    "size": 17597
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AuctionManager_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AuctionManager_1.ts",
+    "name": "AuctionManager_1.ts",
+    "ext": ".ts",
+    "size": 3450
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AuctionManager.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AuctionManager.test_1.ts",
+    "name": "AuctionManager.test_1.ts",
+    "ext": ".ts",
+    "size": 4447
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AuctionManager.test.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AuctionManager.test.test_1.ts",
+    "name": "AuctionManager.test.test_1.ts",
+    "ext": ".ts",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AuctionManager.test.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AuctionManager.test.test.ts",
+    "name": "AuctionManager.test.test.ts",
+    "ext": ".ts",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AuctionManager.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AuctionManager.test.ts",
+    "name": "AuctionManager.test.ts",
+    "ext": ".ts",
+    "size": 45
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AuctionMetrics_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AuctionMetrics_1.ts",
+    "name": "AuctionMetrics_1.ts",
+    "ext": ".ts",
+    "size": 2711
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AuctionMetrics.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AuctionMetrics.test_1.ts",
+    "name": "AuctionMetrics.test_1.ts",
+    "ext": ".ts",
+    "size": 3760
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AuctionMetrics.test.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AuctionMetrics.test.test_1.ts",
+    "name": "AuctionMetrics.test.test_1.ts",
+    "ext": ".ts",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AuctionMetrics.test.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AuctionMetrics.test.test.ts",
+    "name": "AuctionMetrics.test.test.ts",
+    "ext": ".ts",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AuctionMetrics.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AuctionMetrics.test.ts",
+    "name": "AuctionMetrics.test.ts",
+    "ext": ".ts",
+    "size": 45
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AuctionNotifier_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AuctionNotifier_1.ts",
+    "name": "AuctionNotifier_1.ts",
+    "ext": ".ts",
+    "size": 2253
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AuctionNotifier.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AuctionNotifier.test_1.ts",
+    "name": "AuctionNotifier.test_1.ts",
+    "ext": ".ts",
+    "size": 3637
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AuctionNotifier.test.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AuctionNotifier.test.test_1.ts",
+    "name": "AuctionNotifier.test.test_1.ts",
+    "ext": ".ts",
+    "size": 51
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AuctionNotifier.test.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AuctionNotifier.test.test.ts",
+    "name": "AuctionNotifier.test.test.ts",
+    "ext": ".ts",
+    "size": 51
+  }
+]

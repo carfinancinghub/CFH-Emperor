@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\final\\SecurityAudit.js",
+    "full_path": "C:\\CFH\\backend\\services\\final\\SecurityAudit.js",
+    "name": "SecurityAudit.js",
+    "ext": ".js",
+    "size": 2234
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\final\\UserAnalyticsReport.js",
+    "full_path": "C:\\CFH\\backend\\services\\final\\UserAnalyticsReport.js",
+    "name": "UserAnalyticsReport.js",
+    "ext": ".js",
+    "size": 2494
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\financing\\BlindInvestor.js",
+    "full_path": "C:\\CFH\\backend\\services\\financing\\BlindInvestor.js",
+    "name": "BlindInvestor.js",
+    "ext": ".js",
+    "size": 2906
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\InspectionService.ts",
+    "full_path": "C:\\CFH\\backend\\services\\InspectionService.ts",
+    "name": "InspectionService.ts",
+    "ext": ".ts",
+    "size": 3209
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\insurance\\InsuranceProvider.js",
+    "full_path": "C:\\CFH\\backend\\services\\insurance\\InsuranceProvider.js",
+    "name": "InsuranceProvider.js",
+    "ext": ".js",
+    "size": 3058
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\integrations\\insuranceIntegrationService.ts",
+    "full_path": "C:\\CFH\\backend\\services\\integrations\\insuranceIntegrationService.ts",
+    "name": "insuranceIntegrationService.ts",
+    "ext": ".ts",
+    "size": 10015
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\lender\\LenderTermsExporter.js",
+    "full_path": "C:\\CFH\\backend\\services\\lender\\LenderTermsExporter.js",
+    "name": "LenderTermsExporter.js",
+    "ext": ".js",
+    "size": 400
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\lender\\LenderTermsService.ts",
+    "full_path": "C:\\CFH\\backend\\services\\lender\\LenderTermsService.ts",
+    "name": "LenderTermsService.ts",
+    "ext": ".ts",
+    "size": 2661
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\mechanic\\mechanicFeedbackService.ts",
+    "full_path": "C:\\CFH\\backend\\services\\mechanic\\mechanicFeedbackService.ts",
+    "name": "mechanicFeedbackService.ts",
+    "ext": ".ts",
+    "size": 5058
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\mobile\\MobileBidHandler.js",
+    "full_path": "C:\\CFH\\backend\\services\\mobile\\MobileBidHandler.js",
+    "name": "MobileBidHandler.js",
+    "ext": ".js",
+    "size": 2239
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\mobile\\MobileNotifications.js",
+    "full_path": "C:\\CFH\\backend\\services\\mobile\\MobileNotifications.js",
+    "name": "MobileNotifications.js",
+    "ext": ".js",
+    "size": 2665
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\notification\\reminderService.ts",
+    "full_path": "C:\\CFH\\backend\\services\\notification\\reminderService.ts",
+    "name": "reminderService.ts",
+    "ext": ".ts",
+    "size": 12795
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\NotificationService.ts",
+    "full_path": "C:\\CFH\\backend\\services\\NotificationService.ts",
+    "name": "NotificationService.ts",
+    "ext": ".ts",
+    "size": 2748
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\officer\\AuditLogViewer.js",
+    "full_path": "C:\\CFH\\backend\\services\\officer\\AuditLogViewer.js",
+    "name": "AuditLogViewer.js",
+    "ext": ".js",
+    "size": 2533
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\officer\\ComplianceChecker.js",
+    "full_path": "C:\\CFH\\backend\\services\\officer\\ComplianceChecker.js",
+    "name": "ComplianceChecker.js",
+    "ext": ".js",
+    "size": 2911
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\officer\\DisputeManager.js",
+    "full_path": "C:\\CFH\\backend\\services\\officer\\DisputeManager.js",
+    "name": "DisputeManager.js",
+    "ext": ".js",
+    "size": 2765
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\officer\\ListingApproval.js",
+    "full_path": "C:\\CFH\\backend\\services\\officer\\ListingApproval.js",
+    "name": "ListingApproval.js",
+    "ext": ".js",
+    "size": 2928
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\officer\\PlatformMonitor.js",
+    "full_path": "C:\\CFH\\backend\\services\\officer\\PlatformMonitor.js",
+    "name": "PlatformMonitor.js",
+    "ext": ".js",
+    "size": 2481
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\officer\\UserManagement.js",
+    "full_path": "C:\\CFH\\backend\\services\\officer\\UserManagement.js",
+    "name": "UserManagement.js",
+    "ext": ".js",
+    "size": 2534
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\onboarding\\PreferencesSetup.js",
+    "full_path": "C:\\CFH\\backend\\services\\onboarding\\PreferencesSetup.js",
+    "name": "PreferencesSetup.js",
+    "ext": ".js",
+    "size": 2204
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\onboarding\\UserOnboarding.js",
+    "full_path": "C:\\CFH\\backend\\services\\onboarding\\UserOnboarding.js",
+    "name": "UserOnboarding.js",
+    "ext": ".js",
+    "size": 2021
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\onboarding\\WelcomeNotification.js",
+    "full_path": "C:\\CFH\\backend\\services\\onboarding\\WelcomeNotification.js",
+    "name": "WelcomeNotification.js",
+    "ext": ".js",
+    "size": 2372
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\operational\\ComplianceEnhancer.js",
+    "full_path": "C:\\CFH\\backend\\services\\operational\\ComplianceEnhancer.js",
+    "name": "ComplianceEnhancer.js",
+    "ext": ".js",
+    "size": 2285
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\operational\\ErrorHandler.js",
+    "full_path": "C:\\CFH\\backend\\services\\operational\\ErrorHandler.js",
+    "name": "ErrorHandler.js",
+    "ext": ".js",
+    "size": 1726
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\operational\\FeedbackReport.js",
+    "full_path": "C:\\CFH\\backend\\services\\operational\\FeedbackReport.js",
+    "name": "FeedbackReport.js",
+    "ext": ".js",
+    "size": 1732
+  }
+]

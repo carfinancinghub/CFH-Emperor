@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\ContractAuditTrail.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\ContractAuditTrail.test_1.ts",
+    "name": "ContractAuditTrail.test_1.ts",
+    "ext": ".ts",
+    "size": 49
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\ContractAuditTrail.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\ContractAuditTrail.test.ts",
+    "name": "ContractAuditTrail.test.ts",
+    "ext": ".ts",
+    "size": 49
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\ContractAuditTrail.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\ContractAuditTrail.ts",
+    "name": "ContractAuditTrail.ts",
+    "ext": ".ts",
+    "size": 2569
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\ContractAuditViewer_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\ContractAuditViewer_1.ts",
+    "name": "ContractAuditViewer_1.ts",
+    "ext": ".ts",
+    "size": 3763
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\ContractAuditViewer.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\ContractAuditViewer.test_1.ts",
+    "name": "ContractAuditViewer.test_1.ts",
+    "ext": ".ts",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\ContractAuditViewer.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\ContractAuditViewer.test.ts",
+    "name": "ContractAuditViewer.test.ts",
+    "ext": ".ts",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\ContractAuditViewer.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\ContractAuditViewer.ts",
+    "name": "ContractAuditViewer.ts",
+    "ext": ".ts",
+    "size": 3763
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\ContractDashboard_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\ContractDashboard_1.ts",
+    "name": "ContractDashboard_1.ts",
+    "ext": ".ts",
+    "size": 2677
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\ContractDashboard.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\ContractDashboard.test_1.ts",
+    "name": "ContractDashboard.test_1.ts",
+    "ext": ".ts",
+    "size": 48
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\ContractDashboard.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\ContractDashboard.test.ts",
+    "name": "ContractDashboard.test.ts",
+    "ext": ".ts",
+    "size": 48
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\ContractDashboard.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\ContractDashboard.ts",
+    "name": "ContractDashboard.ts",
+    "ext": ".ts",
+    "size": 2677
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\ContractIndexViewer_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\ContractIndexViewer_1.ts",
+    "name": "ContractIndexViewer_1.ts",
+    "ext": ".ts",
+    "size": 3303
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\ContractIndexViewer.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\ContractIndexViewer.test_1.ts",
+    "name": "ContractIndexViewer.test_1.ts",
+    "ext": ".ts",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\ContractIndexViewer.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\ContractIndexViewer.test.ts",
+    "name": "ContractIndexViewer.test.ts",
+    "ext": ".ts",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\ContractIndexViewer.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\ContractIndexViewer.ts",
+    "name": "ContractIndexViewer.ts",
+    "ext": ".ts",
+    "size": 3303
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\contractReviewController_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\contractReviewController_1.ts",
+    "name": "contractReviewController_1.ts",
+    "ext": ".ts",
+    "size": 2229
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\contractReviewController.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\contractReviewController.test_1.ts",
+    "name": "contractReviewController.test_1.ts",
+    "ext": ".ts",
+    "size": 55
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\contractReviewController.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\contractReviewController.test.ts",
+    "name": "contractReviewController.test.ts",
+    "ext": ".ts",
+    "size": 55
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\contractReviewController.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\contractReviewController.ts",
+    "name": "contractReviewController.ts",
+    "ext": ".ts",
+    "size": 2229
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\CreateListingForm_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\CreateListingForm_1.ts",
+    "name": "CreateListingForm_1.ts",
+    "ext": ".ts",
+    "size": 1582
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\CreateListingForm.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\CreateListingForm.test_1.ts",
+    "name": "CreateListingForm.test_1.ts",
+    "ext": ".ts",
+    "size": 48
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\CreateListingForm.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\CreateListingForm.test.ts",
+    "name": "CreateListingForm.test.ts",
+    "ext": ".ts",
+    "size": 48
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\CreateListingForm.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\CreateListingForm.ts",
+    "name": "CreateListingForm.ts",
+    "ext": ".ts",
+    "size": 1582
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\CrossBorderCommerce_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\CrossBorderCommerce_1.ts",
+    "name": "CrossBorderCommerce_1.ts",
+    "ext": ".ts",
+    "size": 2587
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\CrossBorderCommerce.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\CrossBorderCommerce.test_1.ts",
+    "name": "CrossBorderCommerce.test_1.ts",
+    "ext": ".ts",
+    "size": 4003
+  }
+]

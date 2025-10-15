@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\SocialGamification.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\SocialGamification.test_1.ts",
+    "name": "SocialGamification.test_1.ts",
+    "ext": ".ts",
+    "size": 3571
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\SocialGamification.test.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\SocialGamification.test.test_1.ts",
+    "name": "SocialGamification.test.test_1.ts",
+    "ext": ".ts",
+    "size": 54
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\SocialGamification.test.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\SocialGamification.test.test.ts",
+    "name": "SocialGamification.test.test.ts",
+    "ext": ".ts",
+    "size": 54
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\SocialGamification.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\SocialGamification.test.ts",
+    "name": "SocialGamification.test.ts",
+    "ext": ".ts",
+    "size": 49
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\SocialGamification.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\SocialGamification.ts",
+    "name": "SocialGamification.ts",
+    "ext": ".ts",
+    "size": 6569
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\SocialShareHelper_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\SocialShareHelper_1.ts",
+    "name": "SocialShareHelper_1.ts",
+    "ext": ".ts",
+    "size": 7100
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\SocialShareHelper.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\SocialShareHelper.test_1.ts",
+    "name": "SocialShareHelper.test_1.ts",
+    "ext": ".ts",
+    "size": 3983
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\SocialShareHelper.test.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\SocialShareHelper.test.test_1.ts",
+    "name": "SocialShareHelper.test.test_1.ts",
+    "ext": ".ts",
+    "size": 53
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\SocialShareHelper.test.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\SocialShareHelper.test.test.ts",
+    "name": "SocialShareHelper.test.test.ts",
+    "ext": ".ts",
+    "size": 53
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\SocialShareHelper.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\SocialShareHelper.test.ts",
+    "name": "SocialShareHelper.test.ts",
+    "ext": ".ts",
+    "size": 48
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\socket_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\socket_1.ts",
+    "name": "socket_1.ts",
+    "ext": ".ts",
+    "size": 3798
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\socket.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\socket.test_1.ts",
+    "name": "socket.test_1.ts",
+    "ext": ".ts",
+    "size": 457
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\socket.test.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\socket.test.test_1.ts",
+    "name": "socket.test.test_1.ts",
+    "ext": ".ts",
+    "size": 42
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\socket.test.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\socket.test.test.ts",
+    "name": "socket.test.test.ts",
+    "ext": ".ts",
+    "size": 42
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\socket.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\socket.test.ts",
+    "name": "socket.test.ts",
+    "ext": ".ts",
+    "size": 37
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\StartAuctionForm_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\StartAuctionForm_1.ts",
+    "name": "StartAuctionForm_1.ts",
+    "ext": ".ts",
+    "size": 1837
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\StartAuctionForm.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\StartAuctionForm.test_1.ts",
+    "name": "StartAuctionForm.test_1.ts",
+    "ext": ".ts",
+    "size": 47
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\StartAuctionForm.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\StartAuctionForm.test.ts",
+    "name": "StartAuctionForm.test.ts",
+    "ext": ".ts",
+    "size": 47
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\StartAuctionForm.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\StartAuctionForm.ts",
+    "name": "StartAuctionForm.ts",
+    "ext": ".ts",
+    "size": 1837
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\storage.validation_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\storage.validation_1.ts",
+    "name": "storage.validation_1.ts",
+    "ext": ".ts",
+    "size": 1813
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\storageApiTests_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\storageApiTests_1.ts",
+    "name": "storageApiTests_1.ts",
+    "ext": ".ts",
+    "size": 7334
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\storageApiTests.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\storageApiTests.test_1.ts",
+    "name": "storageApiTests.test_1.ts",
+    "ext": ".ts",
+    "size": 46
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\storageApiTests.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\storageApiTests.test.ts",
+    "name": "storageApiTests.test.ts",
+    "ext": ".ts",
+    "size": 46
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\storageApiTests.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\storageApiTests.ts",
+    "name": "storageApiTests.ts",
+    "ext": ".ts",
+    "size": 7334
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\StorageAuction_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\StorageAuction_1.ts",
+    "name": "StorageAuction_1.ts",
+    "ext": ".ts",
+    "size": 4639
+  }
+]

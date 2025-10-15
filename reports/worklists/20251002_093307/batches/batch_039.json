@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\disputes\\DownloadCaseBundleButton.js",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\disputes\\DownloadCaseBundleButton.js",
+    "name": "DownloadCaseBundleButton.js",
+    "ext": ".js",
+    "size": 1449
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\disputes\\DownloadDisputePDFButton.js",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\disputes\\DownloadDisputePDFButton.js",
+    "name": "DownloadDisputePDFButton.js",
+    "ext": ".js",
+    "size": 1506
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\disputes\\JudgeBadgeRenderer.js",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\disputes\\JudgeBadgeRenderer.js",
+    "name": "JudgeBadgeRenderer.js",
+    "ext": ".js",
+    "size": 1412
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\disputes\\JudgeLeaderboard.js",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\disputes\\JudgeLeaderboard.js",
+    "name": "JudgeLeaderboard.js",
+    "ext": ".js",
+    "size": 2003
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\equity-hub\\EquityIntelligenceHub.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\equity-hub\\EquityIntelligenceHub.jsx",
+    "name": "EquityIntelligenceHub.jsx",
+    "ext": ".jsx",
+    "size": 4018
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\escrow\\EscrowAuditLogViewer.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\escrow\\EscrowAuditLogViewer.jsx",
+    "name": "EscrowAuditLogViewer.jsx",
+    "ext": ".jsx",
+    "size": 1085
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\escrow\\EscrowConditionChecklist.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\escrow\\EscrowConditionChecklist.jsx",
+    "name": "EscrowConditionChecklist.jsx",
+    "ext": ".jsx",
+    "size": 4739
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\escrow\\EscrowDashboard.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\escrow\\EscrowDashboard.jsx",
+    "name": "EscrowDashboard.jsx",
+    "ext": ".jsx",
+    "size": 7190
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\escrow\\EscrowDocumentGallery.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\escrow\\EscrowDocumentGallery.jsx",
+    "name": "EscrowDocumentGallery.jsx",
+    "ext": ".jsx",
+    "size": 6110
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\escrow\\EscrowDocumentUploader.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\escrow\\EscrowDocumentUploader.jsx",
+    "name": "EscrowDocumentUploader.jsx",
+    "ext": ".jsx",
+    "size": 8593
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\escrow\\EscrowInfoPanel.js",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\escrow\\EscrowInfoPanel.js",
+    "name": "EscrowInfoPanel.js",
+    "ext": ".js",
+    "size": 1772
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\escrow\\EscrowOfficerDashboard.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\escrow\\EscrowOfficerDashboard.jsx",
+    "name": "EscrowOfficerDashboard.jsx",
+    "ext": ".jsx",
+    "size": 6936
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\escrow\\EscrowOfficerPremiumPanel.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\escrow\\EscrowOfficerPremiumPanel.jsx",
+    "name": "EscrowOfficerPremiumPanel.jsx",
+    "ext": ".jsx",
+    "size": 995
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\escrow\\EscrowPaymentManager.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\escrow\\EscrowPaymentManager.jsx",
+    "name": "EscrowPaymentManager.jsx",
+    "ext": ".jsx",
+    "size": 3849
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\escrow\\EscrowPaymentManagerNeedsChecking.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\escrow\\EscrowPaymentManagerNeedsChecking.jsx",
+    "name": "EscrowPaymentManagerNeedsChecking.jsx",
+    "ext": ".jsx",
+    "size": 1458
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\escrow\\EscrowRoleGuard.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\escrow\\EscrowRoleGuard.jsx",
+    "name": "EscrowRoleGuard.jsx",
+    "ext": ".jsx",
+    "size": 464
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\escrow\\EscrowSEOHead.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\escrow\\EscrowSEOHead.jsx",
+    "name": "EscrowSEOHead.jsx",
+    "ext": ".jsx",
+    "size": 734
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\escrow\\EscrowStatusNotifier.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\escrow\\EscrowStatusNotifier.jsx",
+    "name": "EscrowStatusNotifier.jsx",
+    "ext": ".jsx",
+    "size": 6889
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\escrow\\EscrowStatusTracker.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\escrow\\EscrowStatusTracker.jsx",
+    "name": "EscrowStatusTracker.jsx",
+    "ext": ".jsx",
+    "size": 4243
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\escrow\\EscrowStatusViewer.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\escrow\\EscrowStatusViewer.jsx",
+    "name": "EscrowStatusViewer.jsx",
+    "ext": ".jsx",
+    "size": 4166
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\escrow\\EscrowSyncAdminPanel.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\escrow\\EscrowSyncAdminPanel.jsx",
+    "name": "EscrowSyncAdminPanel.jsx",
+    "ext": ".jsx",
+    "size": 5997
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\escrow\\EscrowTransaction.tsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\escrow\\EscrowTransaction.tsx",
+    "name": "EscrowTransaction.tsx",
+    "ext": ".tsx",
+    "size": 4969
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\escrow\\EscrowTransactionDetailModal.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\escrow\\EscrowTransactionDetailModal.jsx",
+    "name": "EscrowTransactionDetailModal.jsx",
+    "ext": ".jsx",
+    "size": 3031
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\escrow\\EscrowTransactionPDFExporter.js",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\escrow\\EscrowTransactionPDFExporter.js",
+    "name": "EscrowTransactionPDFExporter.js",
+    "ext": ".js",
+    "size": 2351
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\escrow\\EscrowTransactionSearch.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\escrow\\EscrowTransactionSearch.jsx",
+    "name": "EscrowTransactionSearch.jsx",
+    "ext": ".jsx",
+    "size": 2817
+  }
+]

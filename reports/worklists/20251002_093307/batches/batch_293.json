@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\profile.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\profile.tsx",
+    "name": "profile.tsx",
+    "ext": ".tsx",
+    "size": 600
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\profileviews.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\profileviews.tsx",
+    "name": "profileviews.tsx",
+    "ext": ".tsx",
+    "size": 620
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\proofOfDeliveryController.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\proofOfDeliveryController.tsx",
+    "name": "proofOfDeliveryController.tsx",
+    "ext": ".tsx",
+    "size": 672
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\QuoteSubmissionForm.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\QuoteSubmissionForm.tsx",
+    "name": "QuoteSubmissionForm.tsx",
+    "ext": ".tsx",
+    "size": 648
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\RateHaulerForm.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\RateHaulerForm.tsx",
+    "name": "RateHaulerForm.tsx",
+    "ext": ".tsx",
+    "size": 628
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\RateLimiter.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\RateLimiter.tsx",
+    "name": "RateLimiter.tsx",
+    "ext": ".tsx",
+    "size": 616
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\RealTimePredictor.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\RealTimePredictor.tsx",
+    "name": "RealTimePredictor.tsx",
+    "ext": ".tsx",
+    "size": 640
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\RecommendationEngine.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\RecommendationEngine.tsx",
+    "name": "RecommendationEngine.tsx",
+    "ext": ".tsx",
+    "size": 652
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\recreateFiles.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\recreateFiles.tsx",
+    "name": "recreateFiles.tsx",
+    "ext": ".tsx",
+    "size": 624
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\RegisterForm.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\RegisterForm.tsx",
+    "name": "RegisterForm.tsx",
+    "ext": ".tsx",
+    "size": 620
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\RegisterGrokOld.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\RegisterGrokOld.tsx",
+    "name": "RegisterGrokOld.tsx",
+    "ext": ".tsx",
+    "size": 632
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\render-base.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\render-base.tsx",
+    "name": "render-base.tsx",
+    "ext": ".tsx",
+    "size": 616
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\render-buyer.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\render-buyer.tsx",
+    "name": "render-buyer.tsx",
+    "ext": ".tsx",
+    "size": 620
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\render-seller.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\render-seller.tsx",
+    "name": "render-seller.tsx",
+    "ext": ".tsx",
+    "size": 624
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\reputationEngine.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\reputationEngine.tsx",
+    "name": "reputationEngine.tsx",
+    "ext": ".tsx",
+    "size": 636
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\resetAdminPassword.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\resetAdminPassword.tsx",
+    "name": "resetAdminPassword.tsx",
+    "ext": ".tsx",
+    "size": 644
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\RewardHelper.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\RewardHelper.tsx",
+    "name": "RewardHelper.tsx",
+    "ext": ".tsx",
+    "size": 620
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\RoleActivityCharts.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\RoleActivityCharts.tsx",
+    "name": "RoleActivityCharts.tsx",
+    "ext": ".tsx",
+    "size": 644
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\rolerequests.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\rolerequests.tsx",
+    "name": "rolerequests.tsx",
+    "ext": ".tsx",
+    "size": 620
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\router.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\router.tsx",
+    "name": "router.tsx",
+    "ext": ".tsx",
+    "size": 596
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\scalabilityValidation.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\scalabilityValidation.tsx",
+    "name": "scalabilityValidation.tsx",
+    "ext": ".tsx",
+    "size": 656
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\SecurityAudit.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\SecurityAudit.tsx",
+    "name": "SecurityAudit.tsx",
+    "ext": ".tsx",
+    "size": 624
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\SecurityLogger.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\SecurityLogger.tsx",
+    "name": "SecurityLogger.tsx",
+    "ext": ".tsx",
+    "size": 628
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\seed.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\seed.tsx",
+    "name": "seed.tsx",
+    "ext": ".tsx",
+    "size": 588
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\seedAuctions.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\seedAuctions.tsx",
+    "name": "seedAuctions.tsx",
+    "ext": ".tsx",
+    "size": 620
+  }
+]

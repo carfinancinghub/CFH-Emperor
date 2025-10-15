@@ -1,0 +1,12 @@
+# Sanitized jsx (11 items, capped at 2000)
+- C:\CFH\Staging\batch1\src\App.jsx
+- C:\CFH\Staging\batch1\src\components\admin\AdminCustomWidgetLibrary.jsx
+- C:\CFH\Staging\batch1\src\components\admin\analytics\AdminEngagementAnalytics.jsx
+- C:\CFH\Staging\batch1\src\components\admin\analytics\AdminRoleAnalytics.jsx
+- C:\CFH\Staging\batch1\src\components\admin\arbitration\AdminArbitrationDashboard.jsx
+- C:\CFH\Staging\batch1\src\components\admin\auction\AdminAuctionOverview.jsx
+- C:\CFH\Staging\batch1\src\components\admin\badges\AdminBadgeAuditLog.jsx
+- C:\CFH\Staging\batch1\src\components\admin\compliance\AdminComplianceDashboard.jsx
+- C:\CFH\Staging\batch1\src\components\admin\LiveDashboardHealthWidget.jsx
+- C:\CFH\Staging\batch1\src\components\AdminEmailNotifications.jsx
+- C:\CFH\Staging\batch1\src\index.jsx

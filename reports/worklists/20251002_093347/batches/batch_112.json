@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AIEscrowRiskAssessor_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AIEscrowRiskAssessor_1.ts",
+    "name": "AIEscrowRiskAssessor_1.ts",
+    "ext": ".ts",
+    "size": 339
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AIFinancingRecommender_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AIFinancingRecommender_1.ts",
+    "name": "AIFinancingRecommender_1.ts",
+    "ext": ".ts",
+    "size": 270
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AIFraudDetection_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AIFraudDetection_1.ts",
+    "name": "AIFraudDetection_1.ts",
+    "ext": ".ts",
+    "size": 168
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AIInsightBuyer_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AIInsightBuyer_1.ts",
+    "name": "AIInsightBuyer_1.ts",
+    "ext": ".ts",
+    "size": 2931
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AIInsightBuyer.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AIInsightBuyer.test_1.ts",
+    "name": "AIInsightBuyer.test_1.ts",
+    "ext": ".ts",
+    "size": 4315
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AIInsightBuyer.test.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AIInsightBuyer.test.test_1.ts",
+    "name": "AIInsightBuyer.test.test_1.ts",
+    "ext": ".ts",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AIInsightBuyer.test.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AIInsightBuyer.test.test.ts",
+    "name": "AIInsightBuyer.test.test.ts",
+    "ext": ".ts",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AIInsightBuyer.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AIInsightBuyer.test.ts",
+    "name": "AIInsightBuyer.test.ts",
+    "ext": ".ts",
+    "size": 45
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AIInsightBuyer.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AIInsightBuyer.ts",
+    "name": "AIInsightBuyer.ts",
+    "ext": ".ts",
+    "size": 2931
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AIInsightEngine_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AIInsightEngine_1.ts",
+    "name": "AIInsightEngine_1.ts",
+    "ext": ".ts",
+    "size": 320
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AIInsights_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AIInsights_1.ts",
+    "name": "AIInsights_1.ts",
+    "ext": ".ts",
+    "size": 758
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AIInsights.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AIInsights.test_1.ts",
+    "name": "AIInsights.test_1.ts",
+    "ext": ".ts",
+    "size": 41
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AIInsights.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AIInsights.test.ts",
+    "name": "AIInsights.test.ts",
+    "ext": ".ts",
+    "size": 41
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AIInsights.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AIInsights.ts",
+    "name": "AIInsights.ts",
+    "ext": ".ts",
+    "size": 758
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AIInsightSeller_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AIInsightSeller_1.ts",
+    "name": "AIInsightSeller_1.ts",
+    "ext": ".ts",
+    "size": 3121
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AIInsightSeller.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AIInsightSeller.test_1.ts",
+    "name": "AIInsightSeller.test_1.ts",
+    "ext": ".ts",
+    "size": 4334
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AIInsightSeller.test.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AIInsightSeller.test.test_1.ts",
+    "name": "AIInsightSeller.test.test_1.ts",
+    "ext": ".ts",
+    "size": 51
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AIInsightSeller.test.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AIInsightSeller.test.test.ts",
+    "name": "AIInsightSeller.test.test.ts",
+    "ext": ".ts",
+    "size": 51
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AIInsightSeller.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AIInsightSeller.test.ts",
+    "name": "AIInsightSeller.test.ts",
+    "ext": ".ts",
+    "size": 46
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AIInsightSeller.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AIInsightSeller.ts",
+    "name": "AIInsightSeller.ts",
+    "ext": ".ts",
+    "size": 3121
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AIInspectionDamageClassifier_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AIInspectionDamageClassifier_1.ts",
+    "name": "AIInspectionDamageClassifier_1.ts",
+    "ext": ".ts",
+    "size": 195
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\aiJobPredictorService_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\aiJobPredictorService_1.ts",
+    "name": "aiJobPredictorService_1.ts",
+    "ext": ".ts",
+    "size": 8270
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\aiJobPredictorService.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\aiJobPredictorService.test_1.ts",
+    "name": "aiJobPredictorService.test_1.ts",
+    "ext": ".ts",
+    "size": 8687
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AILenderMatchRecommender_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AILenderMatchRecommender_1.ts",
+    "name": "AILenderMatchRecommender_1.ts",
+    "ext": ".ts",
+    "size": 383
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AILenderTermsAnalyzer_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AILenderTermsAnalyzer_1.ts",
+    "name": "AILenderTermsAnalyzer_1.ts",
+    "ext": ".ts",
+    "size": 245
+  }
+]

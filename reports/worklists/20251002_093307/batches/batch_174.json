@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\storageAuction.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\storageAuction.test_1.ts",
+    "name": "storageAuction.test_1.ts",
+    "ext": ".ts",
+    "size": 45
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\storageAuction.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\storageAuction.test.ts",
+    "name": "storageAuction.test.ts",
+    "ext": ".ts",
+    "size": 45
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\StorageAuction.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\StorageAuction.ts",
+    "name": "StorageAuction.ts",
+    "ext": ".ts",
+    "size": 4639
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\StorageHostController_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\StorageHostController_1.ts",
+    "name": "StorageHostController_1.ts",
+    "ext": ".ts",
+    "size": 2828
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\StorageHostController.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\StorageHostController.test_1.ts",
+    "name": "StorageHostController.test_1.ts",
+    "ext": ".ts",
+    "size": 52
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\StorageHostController.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\StorageHostController.test.ts",
+    "name": "StorageHostController.test.ts",
+    "ext": ".ts",
+    "size": 52
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\StorageHostController.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\StorageHostController.ts",
+    "name": "StorageHostController.ts",
+    "ext": ".ts",
+    "size": 2828
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\StorageHostDashboard_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\StorageHostDashboard_1.ts",
+    "name": "StorageHostDashboard_1.ts",
+    "ext": ".ts",
+    "size": 3265
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\StorageHostDashboard.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\StorageHostDashboard.test_1.ts",
+    "name": "StorageHostDashboard.test_1.ts",
+    "ext": ".ts",
+    "size": 51
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\StorageHostDashboard.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\StorageHostDashboard.test.ts",
+    "name": "StorageHostDashboard.test.ts",
+    "ext": ".ts",
+    "size": 51
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\StorageHostDashboard.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\StorageHostDashboard.ts",
+    "name": "StorageHostDashboard.ts",
+    "ext": ".ts",
+    "size": 3265
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\StripeController_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\StripeController_1.ts",
+    "name": "StripeController_1.ts",
+    "ext": ".ts",
+    "size": 1556
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\StripeController.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\StripeController.test_1.ts",
+    "name": "StripeController.test_1.ts",
+    "ext": ".ts",
+    "size": 2451
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\StripeController.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\StripeController.test.ts",
+    "name": "StripeController.test.ts",
+    "ext": ".ts",
+    "size": 2451
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\StripeController.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\StripeController.ts",
+    "name": "StripeController.ts",
+    "ext": ".ts",
+    "size": 1556
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\submitFeedbackRoutes_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\submitFeedbackRoutes_1.ts",
+    "name": "submitFeedbackRoutes_1.ts",
+    "ext": ".ts",
+    "size": 803
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\submitFeedbackRoutes.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\submitFeedbackRoutes.test_1.ts",
+    "name": "submitFeedbackRoutes.test_1.ts",
+    "ext": ".ts",
+    "size": 51
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\submitFeedbackRoutes.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\submitFeedbackRoutes.test.ts",
+    "name": "submitFeedbackRoutes.test.ts",
+    "ext": ".ts",
+    "size": 51
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\submitFeedbackRoutes.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\submitFeedbackRoutes.ts",
+    "name": "submitFeedbackRoutes.ts",
+    "ext": ".ts",
+    "size": 803
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\submitInspectionToBackend_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\submitInspectionToBackend_1.ts",
+    "name": "submitInspectionToBackend_1.ts",
+    "ext": ".ts",
+    "size": 1185
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\submitInspectionToBackend.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\submitInspectionToBackend.test_1.ts",
+    "name": "submitInspectionToBackend.test_1.ts",
+    "ext": ".ts",
+    "size": 56
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\submitInspectionToBackend.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\submitInspectionToBackend.test.ts",
+    "name": "submitInspectionToBackend.test.ts",
+    "ext": ".ts",
+    "size": 56
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\SupportCenter_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\SupportCenter_1.ts",
+    "name": "SupportCenter_1.ts",
+    "ext": ".ts",
+    "size": 887
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\SupportCenter.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\SupportCenter.test_1.ts",
+    "name": "SupportCenter.test_1.ts",
+    "ext": ".ts",
+    "size": 44
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\SupportCenter.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\SupportCenter.test.ts",
+    "name": "SupportCenter.test.ts",
+    "ext": ".ts",
+    "size": 44
+  }
+]

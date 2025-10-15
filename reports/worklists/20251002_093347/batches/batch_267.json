@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\userProfile.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\userProfile.copy.js",
+    "name": "userProfile.copy.js",
+    "ext": ".js",
+    "size": 2028
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\userProfileRoutes.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\userProfileRoutes.copy.js",
+    "name": "userProfileRoutes.copy.js",
+    "ext": ".js",
+    "size": 2960
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\UserReviewList.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\UserReviewList.copy.js",
+    "name": "UserReviewList.copy.js",
+    "ext": ".js",
+    "size": 2214
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\validateInputOld.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\validateInputOld.copy.js",
+    "name": "validateInputOld.copy.js",
+    "ext": ".js",
+    "size": 2043
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\verifyAdminPassword.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\verifyAdminPassword.copy.js",
+    "name": "verifyAdminPassword.copy.js",
+    "ext": ".js",
+    "size": 1277
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\vinDecodeRoutes.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\vinDecodeRoutes.copy.js",
+    "name": "vinDecodeRoutes.copy.js",
+    "ext": ".js",
+    "size": 1239
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\VirtualAuctionRoom.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\VirtualAuctionRoom.copy.js",
+    "name": "VirtualAuctionRoom.copy.js",
+    "ext": ".js",
+    "size": 2113
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\VoiceBidAssistant.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\VoiceBidAssistant.copy.js",
+    "name": "VoiceBidAssistant.copy.js",
+    "ext": ".js",
+    "size": 2855
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\vote.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\vote.copy.js",
+    "name": "vote.copy.js",
+    "ext": ".js",
+    "size": 1412
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\VRInspection.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\VRInspection.copy.js",
+    "name": "VRInspection.copy.js",
+    "ext": ".js",
+    "size": 1178
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\VRVehicleTour.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\VRVehicleTour.copy.js",
+    "name": "VRVehicleTour.copy.js",
+    "ext": ".js",
+    "size": 2287
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\watchlist.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\watchlist.copy.js",
+    "name": "watchlist.copy.js",
+    "ext": ".js",
+    "size": 1535
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\WebSocketCluster.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\WebSocketCluster.copy.js",
+    "name": "WebSocketCluster.copy.js",
+    "ext": ".js",
+    "size": 1330
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\WebSocketService.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\WebSocketService.copy.js",
+    "name": "WebSocketService.copy.js",
+    "ext": ".js",
+    "size": 1715
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\WelcomeNotification.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\WelcomeNotification.copy.js",
+    "name": "WelcomeNotification.copy.js",
+    "ext": ".js",
+    "size": 2372
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\Especial Files\\CFH Post-Launch User Feedback Collection Plan.md",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\Especial Files\\CFH Post-Launch User Feedback Collection Plan.md",
+    "name": "CFH Post-Launch User Feedback Collection Plan.md",
+    "ext": ".md",
+    "size": 3179
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\Especial Files\\CFH Production Deployment Checklist.md",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\Especial Files\\CFH Production Deployment Checklist.md",
+    "name": "CFH Production Deployment Checklist.md",
+    "ext": ".md",
+    "size": 3279
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\Especial Files\\feedback-plan.md",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\Especial Files\\feedback-plan.md",
+    "name": "feedback-plan.md",
+    "ext": ".md",
+    "size": 3248
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\Especial Files\\maintenance-plan.md",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\Especial Files\\maintenance-plan.md",
+    "name": "maintenance-plan.md",
+    "ext": ".md",
+    "size": 3809
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\under 1 kb\\A starter page.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\under 1 kb\\A starter page.copy.js",
+    "name": "A starter page.copy.js",
+    "ext": ".js",
+    "size": 152
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\under 1 kb\\actions-base.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\under 1 kb\\actions-base.copy.js",
+    "name": "actions-base.copy.js",
+    "ext": ".js",
+    "size": 417
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\under 1 kb\\admin.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\under 1 kb\\admin.copy.js",
+    "name": "admin.copy.js",
+    "ext": ".js",
+    "size": 712
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\under 1 kb\\AIDefectDetector.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\under 1 kb\\AIDefectDetector.copy.js",
+    "name": "AIDefectDetector.copy.js",
+    "ext": ".js",
+    "size": 900
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\under 1 kb\\AIDisputePredictorGrokOld.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\under 1 kb\\AIDisputePredictorGrokOld.copy.js",
+    "name": "AIDisputePredictorGrokOld.copy.js",
+    "ext": ".js",
+    "size": 924
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\under 1 kb\\AIFraudDetectionGrokOld.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\under 1 kb\\AIFraudDetectionGrokOld.copy.js",
+    "name": "AIFraudDetectionGrokOld.copy.js",
+    "ext": ".js",
+    "size": 896
+  }
+]

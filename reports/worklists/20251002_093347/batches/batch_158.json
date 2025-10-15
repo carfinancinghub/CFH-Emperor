@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\mechanicRoutes_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\mechanicRoutes_1.ts",
+    "name": "mechanicRoutes_1.ts",
+    "ext": ".ts",
+    "size": 2278
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\mechanicRoutes.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\mechanicRoutes.test_1.ts",
+    "name": "mechanicRoutes.test_1.ts",
+    "ext": ".ts",
+    "size": 2985
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\mechanicRoutes.test.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\mechanicRoutes.test.test_1.ts",
+    "name": "mechanicRoutes.test.test_1.ts",
+    "ext": ".ts",
+    "size": 3249
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\mechanicRoutes.test.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\mechanicRoutes.test.test.ts",
+    "name": "mechanicRoutes.test.test.ts",
+    "ext": ".ts",
+    "size": 3249
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\mechanicRoutes.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\mechanicRoutes.test.ts",
+    "name": "mechanicRoutes.test.ts",
+    "ext": ".ts",
+    "size": 45
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\mechanicRoutes.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\mechanicRoutes.ts",
+    "name": "mechanicRoutes.ts",
+    "ext": ".ts",
+    "size": 2278
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\MechanicTaskScheduler_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\MechanicTaskScheduler_1.ts",
+    "name": "MechanicTaskScheduler_1.ts",
+    "ext": ".ts",
+    "size": 966
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\MechanicTaskScheduler.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\MechanicTaskScheduler.test_1.ts",
+    "name": "MechanicTaskScheduler.test_1.ts",
+    "ext": ".ts",
+    "size": 52
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\MechanicTaskScheduler.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\MechanicTaskScheduler.test.ts",
+    "name": "MechanicTaskScheduler.test.ts",
+    "ext": ".ts",
+    "size": 52
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\MechanicTaskScheduler.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\MechanicTaskScheduler.ts",
+    "name": "MechanicTaskScheduler.ts",
+    "ext": ".ts",
+    "size": 966
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\MechanicVoiceDictation_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\MechanicVoiceDictation_1.ts",
+    "name": "MechanicVoiceDictation_1.ts",
+    "ext": ".ts",
+    "size": 216
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\message.validation_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\message.validation_1.ts",
+    "name": "message.validation_1.ts",
+    "ext": ".ts",
+    "size": 906
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\messageController_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\messageController_1.ts",
+    "name": "messageController_1.ts",
+    "ext": ".ts",
+    "size": 3439
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\messageController.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\messageController.test_1.ts",
+    "name": "messageController.test_1.ts",
+    "ext": ".ts",
+    "size": 48
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\messageController.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\messageController.test.ts",
+    "name": "messageController.test.ts",
+    "ext": ".ts",
+    "size": 48
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\messageController.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\messageController.ts",
+    "name": "messageController.ts",
+    "ext": ".ts",
+    "size": 3439
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\Messaging_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\Messaging_1.ts",
+    "name": "Messaging_1.ts",
+    "ext": ".ts",
+    "size": 2080
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\Messaging.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\Messaging.test_1.ts",
+    "name": "Messaging.test_1.ts",
+    "ext": ".ts",
+    "size": 40
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\Messaging.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\Messaging.test.ts",
+    "name": "Messaging.test.ts",
+    "ext": ".ts",
+    "size": 40
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\Messaging.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\Messaging.ts",
+    "name": "Messaging.ts",
+    "ext": ".ts",
+    "size": 2080
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\MessagingService_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\MessagingService_1.ts",
+    "name": "MessagingService_1.ts",
+    "ext": ".ts",
+    "size": 2279
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\MessagingService.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\MessagingService.test_1.ts",
+    "name": "MessagingService.test_1.ts",
+    "ext": ".ts",
+    "size": 47
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\MessagingService.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\MessagingService.test.ts",
+    "name": "MessagingService.test.ts",
+    "ext": ".ts",
+    "size": 47
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\MessagingService.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\MessagingService.ts",
+    "name": "MessagingService.ts",
+    "ext": ".ts",
+    "size": 2279
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\missionRoutes_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\missionRoutes_1.ts",
+    "name": "missionRoutes_1.ts",
+    "ext": ".ts",
+    "size": 1444
+  }
+]

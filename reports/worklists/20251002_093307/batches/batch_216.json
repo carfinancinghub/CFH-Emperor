@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MechanicShiftPlanner.test.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MechanicShiftPlanner.test.test.tsx",
+    "name": "MechanicShiftPlanner.test.test.tsx",
+    "ext": ".tsx",
+    "size": 57
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MechanicShiftPlanner.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MechanicShiftPlanner.test.tsx",
+    "name": "MechanicShiftPlanner.test.tsx",
+    "ext": ".tsx",
+    "size": 52
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MechanicShiftPlanner.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MechanicShiftPlanner.tsx",
+    "name": "MechanicShiftPlanner.tsx",
+    "ext": ".tsx",
+    "size": 1190
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MechanicTaskHistoryTable_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MechanicTaskHistoryTable_1.tsx",
+    "name": "MechanicTaskHistoryTable_1.tsx",
+    "ext": ".tsx",
+    "size": 2230
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MechanicTaskHistoryTable.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MechanicTaskHistoryTable.test_1.tsx",
+    "name": "MechanicTaskHistoryTable.test_1.tsx",
+    "ext": ".tsx",
+    "size": 56
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MechanicTaskHistoryTable.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MechanicTaskHistoryTable.test.tsx",
+    "name": "MechanicTaskHistoryTable.test.tsx",
+    "ext": ".tsx",
+    "size": 56
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MechanicTaskHistoryTable.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MechanicTaskHistoryTable.tsx",
+    "name": "MechanicTaskHistoryTable.tsx",
+    "ext": ".tsx",
+    "size": 2230
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MechanicTaskOutcomeReporter_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MechanicTaskOutcomeReporter_1.tsx",
+    "name": "MechanicTaskOutcomeReporter_1.tsx",
+    "ext": ".tsx",
+    "size": 2325
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MechanicTaskOutcomeReporter.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MechanicTaskOutcomeReporter.test_1.tsx",
+    "name": "MechanicTaskOutcomeReporter.test_1.tsx",
+    "ext": ".tsx",
+    "size": 59
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MechanicTaskOutcomeReporter.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MechanicTaskOutcomeReporter.test.tsx",
+    "name": "MechanicTaskOutcomeReporter.test.tsx",
+    "ext": ".tsx",
+    "size": 59
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MechanicTaskOutcomeReporter.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MechanicTaskOutcomeReporter.tsx",
+    "name": "MechanicTaskOutcomeReporter.tsx",
+    "ext": ".tsx",
+    "size": 2325
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MechanicTaskReporter_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MechanicTaskReporter_1.tsx",
+    "name": "MechanicTaskReporter_1.tsx",
+    "ext": ".tsx",
+    "size": 2681
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MechanicTaskReporter.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MechanicTaskReporter.test_1.tsx",
+    "name": "MechanicTaskReporter.test_1.tsx",
+    "ext": ".tsx",
+    "size": 52
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MechanicTaskReporter.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MechanicTaskReporter.test.tsx",
+    "name": "MechanicTaskReporter.test.tsx",
+    "ext": ".tsx",
+    "size": 52
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MechanicTaskReporter.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MechanicTaskReporter.tsx",
+    "name": "MechanicTaskReporter.tsx",
+    "ext": ".tsx",
+    "size": 2681
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MechanicTimelineCelebration_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MechanicTimelineCelebration_1.tsx",
+    "name": "MechanicTimelineCelebration_1.tsx",
+    "ext": ".tsx",
+    "size": 2350
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MechanicTimelineCelebration.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MechanicTimelineCelebration.test_1.tsx",
+    "name": "MechanicTimelineCelebration.test_1.tsx",
+    "ext": ".tsx",
+    "size": 59
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MechanicTimelineCelebration.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MechanicTimelineCelebration.test.tsx",
+    "name": "MechanicTimelineCelebration.test.tsx",
+    "ext": ".tsx",
+    "size": 59
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MechanicTimelineCelebration.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MechanicTimelineCelebration.tsx",
+    "name": "MechanicTimelineCelebration.tsx",
+    "ext": ".tsx",
+    "size": 2350
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MechanicVRPhotoUploader_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MechanicVRPhotoUploader_1.tsx",
+    "name": "MechanicVRPhotoUploader_1.tsx",
+    "ext": ".tsx",
+    "size": 2747
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MechanicVRPhotoUploader.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MechanicVRPhotoUploader.test_1.tsx",
+    "name": "MechanicVRPhotoUploader.test_1.tsx",
+    "ext": ".tsx",
+    "size": 55
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MechanicVRPhotoUploader.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MechanicVRPhotoUploader.test.tsx",
+    "name": "MechanicVRPhotoUploader.test.tsx",
+    "ext": ".tsx",
+    "size": 55
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MechanicVRPhotoUploader.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MechanicVRPhotoUploader.tsx",
+    "name": "MechanicVRPhotoUploader.tsx",
+    "ext": ".tsx",
+    "size": 2747
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MechanicVRPreviewViewer_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MechanicVRPreviewViewer_1.tsx",
+    "name": "MechanicVRPreviewViewer_1.tsx",
+    "ext": ".tsx",
+    "size": 2371
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MechanicVRPreviewViewer.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MechanicVRPreviewViewer.test_1.tsx",
+    "name": "MechanicVRPreviewViewer.test_1.tsx",
+    "ext": ".tsx",
+    "size": 55
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "routes\\valuation\\valuationRoutes.ts",
+    "full_path": "C:\\CFH\\backend\\routes\\valuation\\valuationRoutes.ts",
+    "name": "valuationRoutes.ts",
+    "ext": ".ts",
+    "size": 2203
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\10 files BidHeatmapEngine.js",
+    "full_path": "C:\\CFH\\backend\\services\\10 files BidHeatmapEngine.js",
+    "name": "10 files BidHeatmapEngine.js",
+    "ext": ".js",
+    "size": 25462
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\10 files BidHeatmapEngine.ts",
+    "full_path": "C:\\CFH\\backend\\services\\10 files BidHeatmapEngine.ts",
+    "name": "10 files BidHeatmapEngine.ts",
+    "ext": ".ts",
+    "size": 24260
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\ai\\aiBodyShopMatchingService.test.ts",
+    "full_path": "C:\\CFH\\backend\\services\\ai\\aiBodyShopMatchingService.test.ts",
+    "name": "aiBodyShopMatchingService.test.ts",
+    "ext": ".ts",
+    "size": 10367
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\ai\\aiBodyShopMatchingService.ts",
+    "full_path": "C:\\CFH\\backend\\services\\ai\\aiBodyShopMatchingService.ts",
+    "name": "aiBodyShopMatchingService.ts",
+    "ext": ".ts",
+    "size": 8992
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\ai\\aiConflictResolutionService.ts",
+    "full_path": "C:\\CFH\\backend\\services\\ai\\aiConflictResolutionService.ts",
+    "name": "aiConflictResolutionService.ts",
+    "ext": ".ts",
+    "size": 11882
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\ai\\aiDamageAssessmentService.ts",
+    "full_path": "C:\\CFH\\backend\\services\\ai\\aiDamageAssessmentService.ts",
+    "name": "aiDamageAssessmentService.ts",
+    "ext": ".ts",
+    "size": 8771
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\ai\\aiJobPredictorService.ts",
+    "full_path": "C:\\CFH\\backend\\services\\ai\\aiJobPredictorService.ts",
+    "name": "aiJobPredictorService.ts",
+    "ext": ".ts",
+    "size": 8270
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\ai\\DamageAssessmentService.ts",
+    "full_path": "C:\\CFH\\backend\\services\\ai\\DamageAssessmentService.ts",
+    "name": "DamageAssessmentService.ts",
+    "ext": ".ts",
+    "size": 8376
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\ai\\Heatmap.js",
+    "full_path": "C:\\CFH\\backend\\services\\ai\\Heatmap.js",
+    "name": "Heatmap.js",
+    "ext": ".js",
+    "size": 1238
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\ai\\insights.js",
+    "full_path": "C:\\CFH\\backend\\services\\ai\\insights.js",
+    "name": "insights.js",
+    "ext": ".js",
+    "size": 1896
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\ai\\InsightsService.ts",
+    "full_path": "C:\\CFH\\backend\\services\\ai\\InsightsService.ts",
+    "name": "InsightsService.ts",
+    "ext": ".ts",
+    "size": 164
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\ai\\MLModel.js",
+    "full_path": "C:\\CFH\\backend\\services\\ai\\MLModel.js",
+    "name": "MLModel.js",
+    "ext": ".js",
+    "size": 5196
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\ai\\partsOrderingService.test.ts",
+    "full_path": "C:\\CFH\\backend\\services\\ai\\partsOrderingService.test.ts",
+    "name": "partsOrderingService.test.ts",
+    "ext": ".ts",
+    "size": 9939
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\ai\\partsOrderingService.ts",
+    "full_path": "C:\\CFH\\backend\\services\\ai\\partsOrderingService.ts",
+    "name": "partsOrderingService.ts",
+    "ext": ".ts",
+    "size": 8407
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\ai\\PartsOrderService.ts",
+    "full_path": "C:\\CFH\\backend\\services\\ai\\PartsOrderService.ts",
+    "name": "PartsOrderService.ts",
+    "ext": ".ts",
+    "size": 7925
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\ai\\PredictionEngine.js",
+    "full_path": "C:\\CFH\\backend\\services\\ai\\PredictionEngine.js",
+    "name": "PredictionEngine.js",
+    "ext": ".js",
+    "size": 2052
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\ai\\RecommendationEngine.js",
+    "full_path": "C:\\CFH\\backend\\services\\ai\\RecommendationEngine.js",
+    "name": "RecommendationEngine.js",
+    "ext": ".js",
+    "size": 1838
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\ai\\ShopMatchingService.ts",
+    "full_path": "C:\\CFH\\backend\\services\\ai\\ShopMatchingService.ts",
+    "name": "ShopMatchingService.ts",
+    "ext": ".ts",
+    "size": 8383
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\ai\\TrendAnimation.js",
+    "full_path": "C:\\CFH\\backend\\services\\ai\\TrendAnimation.js",
+    "name": "TrendAnimation.js",
+    "ext": ".js",
+    "size": 1399
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\ai\\TrustScoreEngine.js",
+    "full_path": "C:\\CFH\\backend\\services\\ai\\TrustScoreEngine.js",
+    "name": "TrustScoreEngine.js",
+    "ext": ".js",
+    "size": 4258
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\ai\\TrustScoreEngine.ts",
+    "full_path": "C:\\CFH\\backend\\services\\ai\\TrustScoreEngine.ts",
+    "name": "TrustScoreEngine.ts",
+    "ext": ".ts",
+    "size": 313
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\ai\\ValuationForecastingService.ts",
+    "full_path": "C:\\CFH\\backend\\services\\ai\\ValuationForecastingService.ts",
+    "name": "ValuationForecastingService.ts",
+    "ext": ".ts",
+    "size": 1020
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\ai\\ValuationMetricsService.js",
+    "full_path": "C:\\CFH\\backend\\services\\ai\\ValuationMetricsService.js",
+    "name": "ValuationMetricsService.js",
+    "ext": ".js",
+    "size": 3309
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\ai\\ValuationMetricsService.ts",
+    "full_path": "C:\\CFH\\backend\\services\\ai\\ValuationMetricsService.ts",
+    "name": "ValuationMetricsService.ts",
+    "ext": ".ts",
+    "size": 356
+  }
+]

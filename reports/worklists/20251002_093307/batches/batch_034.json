@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\auction\\AuctionSEOHead.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\auction\\AuctionSEOHead.jsx",
+    "name": "AuctionSEOHead.jsx",
+    "ext": ".jsx",
+    "size": 2823
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\auction\\AuctionSEOHead.tsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\auction\\AuctionSEOHead.tsx",
+    "name": "AuctionSEOHead.tsx",
+    "ext": ".tsx",
+    "size": 4559
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\auction\\core\\AuctionHistoryTracker.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\auction\\core\\AuctionHistoryTracker.jsx",
+    "name": "AuctionHistoryTracker.jsx",
+    "ext": ".jsx",
+    "size": 2844
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\auction\\core\\AuctionListingForm.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\auction\\core\\AuctionListingForm.jsx",
+    "name": "AuctionListingForm.jsx",
+    "ext": ".jsx",
+    "size": 4288
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\auction\\LiveAuctionStream.tsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\auction\\LiveAuctionStream.tsx",
+    "name": "LiveAuctionStream.tsx",
+    "ext": ".tsx",
+    "size": 8375
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\auction\\SellerBadgePanel.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\auction\\SellerBadgePanel.jsx",
+    "name": "SellerBadgePanel.jsx",
+    "ext": ".jsx",
+    "size": 2392
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\auction\\SellerBadgePanel.tsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\auction\\SellerBadgePanel.tsx",
+    "name": "SellerBadgePanel.tsx",
+    "ext": ".tsx",
+    "size": 2691
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\auth\\Login.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\auth\\Login.jsx",
+    "name": "Login.jsx",
+    "ext": ".jsx",
+    "size": 1672
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\auth\\Login.tsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\auth\\Login.tsx",
+    "name": "Login.tsx",
+    "ext": ".tsx",
+    "size": 2729
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\auth\\LoginForm.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\auth\\LoginForm.jsx",
+    "name": "LoginForm.jsx",
+    "ext": ".jsx",
+    "size": 1156
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\auth\\LoginForm.tsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\auth\\LoginForm.tsx",
+    "name": "LoginForm.tsx",
+    "ext": ".tsx",
+    "size": 2764
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\auth\\ProtectedRoute.js",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\auth\\ProtectedRoute.js",
+    "name": "ProtectedRoute.js",
+    "ext": ".js",
+    "size": 434
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\auth\\ProtectedRoute.ts",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\auth\\ProtectedRoute.ts",
+    "name": "ProtectedRoute.ts",
+    "ext": ".ts",
+    "size": 1153
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\auth\\Register.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\auth\\Register.jsx",
+    "name": "Register.jsx",
+    "ext": ".jsx",
+    "size": 3141
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\auth\\Register.tsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\auth\\Register.tsx",
+    "name": "Register.tsx",
+    "ext": ".tsx",
+    "size": 4701
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\auth\\Unauthorized.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\auth\\Unauthorized.jsx",
+    "name": "Unauthorized.jsx",
+    "ext": ".jsx",
+    "size": 707
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\auth\\Unauthorized.tsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\auth\\Unauthorized.tsx",
+    "name": "Unauthorized.tsx",
+    "ext": ".tsx",
+    "size": 1117
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\blockchain\\CryptoPaymentOption.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\blockchain\\CryptoPaymentOption.jsx",
+    "name": "CryptoPaymentOption.jsx",
+    "ext": ".jsx",
+    "size": 3183
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\blockchain\\CryptoPaymentOption.tsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\blockchain\\CryptoPaymentOption.tsx",
+    "name": "CryptoPaymentOption.tsx",
+    "ext": ".tsx",
+    "size": 4327
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\body-shop\\AIDamageSummary.tsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\body-shop\\AIDamageSummary.tsx",
+    "name": "AIDamageSummary.tsx",
+    "ext": ".tsx",
+    "size": 5556
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\body-shop\\BodyShopDiscoveryPage.tsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\body-shop\\BodyShopDiscoveryPage.tsx",
+    "name": "BodyShopDiscoveryPage.tsx",
+    "ext": ".tsx",
+    "size": 29708
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\body-shop\\BodyShopProfileView.tsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\body-shop\\BodyShopProfileView.tsx",
+    "name": "BodyShopProfileView.tsx",
+    "ext": ".tsx",
+    "size": 21575
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\body-shop\\CompareShopsTable.tsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\body-shop\\CompareShopsTable.tsx",
+    "name": "CompareShopsTable.tsx",
+    "ext": ".tsx",
+    "size": 14727
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\body-shop\\EstimateRequestForm.tsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\body-shop\\EstimateRequestForm.tsx",
+    "name": "EstimateRequestForm.tsx",
+    "ext": ".tsx",
+    "size": 21108
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\body-shop\\JobTrackingView.tsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\body-shop\\JobTrackingView.tsx",
+    "name": "JobTrackingView.tsx",
+    "ext": ".tsx",
+    "size": 20497
+  }
+]

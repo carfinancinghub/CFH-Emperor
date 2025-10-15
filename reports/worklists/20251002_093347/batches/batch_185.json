@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AdminAuctionOverview.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AdminAuctionOverview.test.tsx",
+    "name": "AdminAuctionOverview.test.tsx",
+    "ext": ".tsx",
+    "size": 52
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AdminBadgeAuditLog_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AdminBadgeAuditLog_1.tsx",
+    "name": "AdminBadgeAuditLog_1.tsx",
+    "ext": ".tsx",
+    "size": 2686
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AdminBadgeAuditLog.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AdminBadgeAuditLog.test_1.tsx",
+    "name": "AdminBadgeAuditLog.test_1.tsx",
+    "ext": ".tsx",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AdminBadgeAuditLog.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AdminBadgeAuditLog.test.tsx",
+    "name": "AdminBadgeAuditLog.test.tsx",
+    "ext": ".tsx",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AdminBadgeAuditLog.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AdminBadgeAuditLog.tsx",
+    "name": "AdminBadgeAuditLog.tsx",
+    "ext": ".tsx",
+    "size": 2686
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AdminComplianceDashboard_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AdminComplianceDashboard_1.tsx",
+    "name": "AdminComplianceDashboard_1.tsx",
+    "ext": ".tsx",
+    "size": 13892
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AdminComplianceDashboard.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AdminComplianceDashboard.test_1.tsx",
+    "name": "AdminComplianceDashboard.test_1.tsx",
+    "ext": ".tsx",
+    "size": 56
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AdminComplianceDashboard.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AdminComplianceDashboard.test.tsx",
+    "name": "AdminComplianceDashboard.test.tsx",
+    "ext": ".tsx",
+    "size": 56
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AdminComplianceDashboard.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AdminComplianceDashboard.tsx",
+    "name": "AdminComplianceDashboard.tsx",
+    "ext": ".tsx",
+    "size": 13892
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AdminContractTemplates_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AdminContractTemplates_1.tsx",
+    "name": "AdminContractTemplates_1.tsx",
+    "ext": ".tsx",
+    "size": 3351
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AdminContractTemplates.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AdminContractTemplates.test_1.tsx",
+    "name": "AdminContractTemplates.test_1.tsx",
+    "ext": ".tsx",
+    "size": 54
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AdminContractTemplates.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AdminContractTemplates.test.tsx",
+    "name": "AdminContractTemplates.test.tsx",
+    "ext": ".tsx",
+    "size": 54
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AdminContractTemplates.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AdminContractTemplates.tsx",
+    "name": "AdminContractTemplates.tsx",
+    "ext": ".tsx",
+    "size": 3351
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AdminCustomWidgetLibrary_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AdminCustomWidgetLibrary_1.tsx",
+    "name": "AdminCustomWidgetLibrary_1.tsx",
+    "ext": ".tsx",
+    "size": 5986
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AdminCustomWidgetLibrary.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AdminCustomWidgetLibrary.test_1.tsx",
+    "name": "AdminCustomWidgetLibrary.test_1.tsx",
+    "ext": ".tsx",
+    "size": 56
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AdminCustomWidgetLibrary.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AdminCustomWidgetLibrary.test.tsx",
+    "name": "AdminCustomWidgetLibrary.test.tsx",
+    "ext": ".tsx",
+    "size": 56
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AdminDashboard_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AdminDashboard_1.tsx",
+    "name": "AdminDashboard_1.tsx",
+    "ext": ".tsx",
+    "size": 3098
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AdminDashboard.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AdminDashboard.test_1.tsx",
+    "name": "AdminDashboard.test_1.tsx",
+    "ext": ".tsx",
+    "size": 46
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AdminDashboard.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AdminDashboard.test.tsx",
+    "name": "AdminDashboard.test.tsx",
+    "ext": ".tsx",
+    "size": 46
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AdminDashboard.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AdminDashboard.tsx",
+    "name": "AdminDashboard.tsx",
+    "ext": ".tsx",
+    "size": 3098
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AdminDisputeAnalytics_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AdminDisputeAnalytics_1.tsx",
+    "name": "AdminDisputeAnalytics_1.tsx",
+    "ext": ".tsx",
+    "size": 5045
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AdminDisputeAnalytics.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AdminDisputeAnalytics.test_1.tsx",
+    "name": "AdminDisputeAnalytics.test_1.tsx",
+    "ext": ".tsx",
+    "size": 53
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AdminDisputeAnalytics.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AdminDisputeAnalytics.test.tsx",
+    "name": "AdminDisputeAnalytics.test.tsx",
+    "ext": ".tsx",
+    "size": 53
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AdminDisputeAnalytics.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AdminDisputeAnalytics.tsx",
+    "name": "AdminDisputeAnalytics.tsx",
+    "ext": ".tsx",
+    "size": 5045
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AdminDisputeArchive_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AdminDisputeArchive_1.tsx",
+    "name": "AdminDisputeArchive_1.tsx",
+    "ext": ".tsx",
+    "size": 2755
+  }
+]

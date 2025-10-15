@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\Heatmap.test.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\Heatmap.test.test_1.ts",
+    "name": "Heatmap.test.test_1.ts",
+    "ext": ".ts",
+    "size": 43
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\Heatmap.test.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\Heatmap.test.test.ts",
+    "name": "Heatmap.test.test.ts",
+    "ext": ".ts",
+    "size": 43
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\Heatmap.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\Heatmap.test.ts",
+    "name": "Heatmap.test.ts",
+    "ext": ".ts",
+    "size": 38
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\Heatmap.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\Heatmap.ts",
+    "name": "Heatmap.ts",
+    "ext": ".ts",
+    "size": 1305
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\helpers_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\helpers_1.ts",
+    "name": "helpers_1.ts",
+    "ext": ".ts",
+    "size": 339
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\i18n_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\i18n_1.ts",
+    "name": "i18n_1.ts",
+    "ext": ".ts",
+    "size": 786
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\index_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\index_1.ts",
+    "name": "index_1.ts",
+    "ext": ".ts",
+    "size": 2260
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\index.d_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\index.d_1.ts",
+    "name": "index.d_1.ts",
+    "ext": ".ts",
+    "size": 110
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\index.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\index.test_1.ts",
+    "name": "index.test_1.ts",
+    "ext": ".ts",
+    "size": 36
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\index.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\index.test.ts",
+    "name": "index.test.ts",
+    "ext": ".ts",
+    "size": 36
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\InsightGenerator_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\InsightGenerator_1.ts",
+    "name": "InsightGenerator_1.ts",
+    "ext": ".ts",
+    "size": 2815
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\InsightGenerator.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\InsightGenerator.test_1.ts",
+    "name": "InsightGenerator.test_1.ts",
+    "ext": ".ts",
+    "size": 47
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\InsightGenerator.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\InsightGenerator.test.ts",
+    "name": "InsightGenerator.test.ts",
+    "ext": ".ts",
+    "size": 47
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\InsightGenerator.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\InsightGenerator.ts",
+    "name": "InsightGenerator.ts",
+    "ext": ".ts",
+    "size": 2815
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\insights_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\insights_1.ts",
+    "name": "insights_1.ts",
+    "ext": ".ts",
+    "size": 1964
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\insights.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\insights.test_1.ts",
+    "name": "insights.test_1.ts",
+    "ext": ".ts",
+    "size": 3880
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\insights.test.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\insights.test.test_1.ts",
+    "name": "insights.test.test_1.ts",
+    "ext": ".ts",
+    "size": 44
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\insights.test.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\insights.test.test.ts",
+    "name": "insights.test.test.ts",
+    "ext": ".ts",
+    "size": 44
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\insights.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\insights.test.ts",
+    "name": "insights.test.ts",
+    "ext": ".ts",
+    "size": 39
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\insights.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\insights.ts",
+    "name": "insights.ts",
+    "ext": ".ts",
+    "size": 1964
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\InsightsService_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\InsightsService_1.ts",
+    "name": "InsightsService_1.ts",
+    "ext": ".ts",
+    "size": 2988
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\InsightsService.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\InsightsService.test_1.ts",
+    "name": "InsightsService.test_1.ts",
+    "ext": ".ts",
+    "size": 46
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\InsightsService.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\InsightsService.test.ts",
+    "name": "InsightsService.test.ts",
+    "ext": ".ts",
+    "size": 46
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\inspection.validation_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\inspection.validation_1.ts",
+    "name": "inspection.validation_1.ts",
+    "ext": ".ts",
+    "size": 1559
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\inspectionController_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\inspectionController_1.ts",
+    "name": "inspectionController_1.ts",
+    "ext": ".ts",
+    "size": 2774
+  }
+]

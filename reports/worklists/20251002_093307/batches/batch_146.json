@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\InspectionReportViewer.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\InspectionReportViewer.test.ts",
+    "name": "InspectionReportViewer.test.ts",
+    "ext": ".ts",
+    "size": 53
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\InspectionReportViewer.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\InspectionReportViewer.ts",
+    "name": "InspectionReportViewer.ts",
+    "ext": ".ts",
+    "size": 3875
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\InspectionReportViewerPage_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\InspectionReportViewerPage_1.ts",
+    "name": "InspectionReportViewerPage_1.ts",
+    "ext": ".ts",
+    "size": 7028
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\InspectionReportViewerPage.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\InspectionReportViewerPage.test_1.ts",
+    "name": "InspectionReportViewerPage.test_1.ts",
+    "ext": ".ts",
+    "size": 57
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\InspectionReportViewerPage.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\InspectionReportViewerPage.test.ts",
+    "name": "InspectionReportViewerPage.test.ts",
+    "ext": ".ts",
+    "size": 57
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\InspectionReportViewerPage.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\InspectionReportViewerPage.ts",
+    "name": "InspectionReportViewerPage.ts",
+    "ext": ".ts",
+    "size": 7028
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\inspections_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\inspections_1.ts",
+    "name": "inspections_1.ts",
+    "ext": ".ts",
+    "size": 1923
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\inspections.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\inspections.test_1.ts",
+    "name": "inspections.test_1.ts",
+    "ext": ".ts",
+    "size": 42
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\inspections.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\inspections.test.ts",
+    "name": "inspections.test.ts",
+    "ext": ".ts",
+    "size": 42
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\inspections.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\inspections.ts",
+    "name": "inspections.ts",
+    "ext": ".ts",
+    "size": 1923
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\InspectionSearchBar_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\InspectionSearchBar_1.ts",
+    "name": "InspectionSearchBar_1.ts",
+    "ext": ".ts",
+    "size": 1754
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\InspectionSearchBar.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\InspectionSearchBar.test_1.ts",
+    "name": "InspectionSearchBar.test_1.ts",
+    "ext": ".ts",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\InspectionSearchBar.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\InspectionSearchBar.test.ts",
+    "name": "InspectionSearchBar.test.ts",
+    "ext": ".ts",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\InspectionSearchBar.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\InspectionSearchBar.ts",
+    "name": "InspectionSearchBar.ts",
+    "ext": ".ts",
+    "size": 1754
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\InspectionService_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\InspectionService_1.ts",
+    "name": "InspectionService_1.ts",
+    "ext": ".ts",
+    "size": 3209
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\InsuranceComparison_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\InsuranceComparison_1.ts",
+    "name": "InsuranceComparison_1.ts",
+    "ext": ".ts",
+    "size": 873
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\InsuranceComparison.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\InsuranceComparison.test_1.ts",
+    "name": "InsuranceComparison.test_1.ts",
+    "ext": ".ts",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\InsuranceComparison.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\InsuranceComparison.test.ts",
+    "name": "InsuranceComparison.test.ts",
+    "ext": ".ts",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\InsuranceComparison.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\InsuranceComparison.ts",
+    "name": "InsuranceComparison.ts",
+    "ext": ".ts",
+    "size": 873
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\InsuranceDashboard_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\InsuranceDashboard_1.ts",
+    "name": "InsuranceDashboard_1.ts",
+    "ext": ".ts",
+    "size": 2505
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\InsuranceDashboard.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\InsuranceDashboard.test_1.ts",
+    "name": "InsuranceDashboard.test_1.ts",
+    "ext": ".ts",
+    "size": 49
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\InsuranceDashboard.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\InsuranceDashboard.test.ts",
+    "name": "InsuranceDashboard.test.ts",
+    "ext": ".ts",
+    "size": 49
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\InsuranceDashboard.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\InsuranceDashboard.ts",
+    "name": "InsuranceDashboard.ts",
+    "ext": ".ts",
+    "size": 2505
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\InsuranceDeploymentChecklist_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\InsuranceDeploymentChecklist_1.ts",
+    "name": "InsuranceDeploymentChecklist_1.ts",
+    "ext": ".ts",
+    "size": 3385
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\InsuranceDeploymentChecklist.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\InsuranceDeploymentChecklist.test_1.ts",
+    "name": "InsuranceDeploymentChecklist.test_1.ts",
+    "ext": ".ts",
+    "size": 59
+  }
+]

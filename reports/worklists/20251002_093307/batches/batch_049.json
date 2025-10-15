@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\seller\\SellerGalleryManager.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\seller\\SellerGalleryManager.jsx",
+    "name": "SellerGalleryManager.jsx",
+    "ext": ".jsx",
+    "size": 6259
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\seller\\SellerInventoryList.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\seller\\SellerInventoryList.jsx",
+    "name": "SellerInventoryList.jsx",
+    "ext": ".jsx",
+    "size": 2620
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\seller\\SellerKPIWidget.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\seller\\SellerKPIWidget.jsx",
+    "name": "SellerKPIWidget.jsx",
+    "ext": ".jsx",
+    "size": 3043
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\seller\\SellerListingEdit.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\seller\\SellerListingEdit.jsx",
+    "name": "SellerListingEdit.jsx",
+    "ext": ".jsx",
+    "size": 8187
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\seller\\SellerListingGallery.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\seller\\SellerListingGallery.jsx",
+    "name": "SellerListingGallery.jsx",
+    "ext": ".jsx",
+    "size": 5479
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\seller\\SellerManageListings.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\seller\\SellerManageListings.jsx",
+    "name": "SellerManageListings.jsx",
+    "ext": ".jsx",
+    "size": 7810
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\seller\\SellerMarketTrendInsights.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\seller\\SellerMarketTrendInsights.jsx",
+    "name": "SellerMarketTrendInsights.jsx",
+    "ext": ".jsx",
+    "size": 5475
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\seller\\SellerMilestoneCelebrator.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\seller\\SellerMilestoneCelebrator.jsx",
+    "name": "SellerMilestoneCelebrator.jsx",
+    "ext": ".jsx",
+    "size": 6387
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\seller\\SellerMissionCenter.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\seller\\SellerMissionCenter.jsx",
+    "name": "SellerMissionCenter.jsx",
+    "ext": ".jsx",
+    "size": 5368
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\seller\\SellerNotificationCenter.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\seller\\SellerNotificationCenter.jsx",
+    "name": "SellerNotificationCenter.jsx",
+    "ext": ".jsx",
+    "size": 6577
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\seller\\SellerNotifications.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\seller\\SellerNotifications.jsx",
+    "name": "SellerNotifications.jsx",
+    "ext": ".jsx",
+    "size": 2527
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\seller\\SellerOfferTracker.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\seller\\SellerOfferTracker.jsx",
+    "name": "SellerOfferTracker.jsx",
+    "ext": ".jsx",
+    "size": 4255
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\seller\\SellerOnboardingGuide.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\seller\\SellerOnboardingGuide.jsx",
+    "name": "SellerOnboardingGuide.jsx",
+    "ext": ".jsx",
+    "size": 4023
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\seller\\SellerPerformanceComparison.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\seller\\SellerPerformanceComparison.jsx",
+    "name": "SellerPerformanceComparison.jsx",
+    "ext": ".jsx",
+    "size": 5061
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\seller\\SellerPricingTool.css",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\seller\\SellerPricingTool.css",
+    "name": "SellerPricingTool.css",
+    "ext": ".css",
+    "size": 1267
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\seller\\SellerPricingTool.js",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\seller\\SellerPricingTool.js",
+    "name": "SellerPricingTool.js",
+    "ext": ".js",
+    "size": 2598
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\seller\\SellerProfileCard.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\seller\\SellerProfileCard.jsx",
+    "name": "SellerProfileCard.jsx",
+    "ext": ".jsx",
+    "size": 3991
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\seller\\SellerReputationDashboard.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\seller\\SellerReputationDashboard.jsx",
+    "name": "SellerReputationDashboard.jsx",
+    "ext": ".jsx",
+    "size": 11788
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\seller\\SellerReviewSummary.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\seller\\SellerReviewSummary.jsx",
+    "name": "SellerReviewSummary.jsx",
+    "ext": ".jsx",
+    "size": 3908
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\seller\\SellerRewardsBadgeDisplay.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\seller\\SellerRewardsBadgeDisplay.jsx",
+    "name": "SellerRewardsBadgeDisplay.jsx",
+    "ext": ".jsx",
+    "size": 5106
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\seller\\SellerSalesAnalytics.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\seller\\SellerSalesAnalytics.jsx",
+    "name": "SellerSalesAnalytics.jsx",
+    "ext": ".jsx",
+    "size": 3029
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\seller\\SellerSalesFunnelOverview.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\seller\\SellerSalesFunnelOverview.jsx",
+    "name": "SellerSalesFunnelOverview.jsx",
+    "ext": ".jsx",
+    "size": 4923
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\seller\\SellerSmartBadgeSystem.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\seller\\SellerSmartBadgeSystem.jsx",
+    "name": "SellerSmartBadgeSystem.jsx",
+    "ext": ".jsx",
+    "size": 6928
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\seller\\SellerSuccessTips.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\seller\\SellerSuccessTips.jsx",
+    "name": "SellerSuccessTips.jsx",
+    "ext": ".jsx",
+    "size": 2924
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\seller\\SellerViewListing.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\seller\\SellerViewListing.jsx",
+    "name": "SellerViewListing.jsx",
+    "ext": ".jsx",
+    "size": 5442
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\operational\\FeedbackSystem.js",
+    "full_path": "C:\\CFH\\backend\\services\\operational\\FeedbackSystem.js",
+    "name": "FeedbackSystem.js",
+    "ext": ".js",
+    "size": 2656
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\operational\\LaunchChecklist.js",
+    "full_path": "C:\\CFH\\backend\\services\\operational\\LaunchChecklist.js",
+    "name": "LaunchChecklist.js",
+    "ext": ".js",
+    "size": 2319
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\operational\\PaymentProcessor.js",
+    "full_path": "C:\\CFH\\backend\\services\\operational\\PaymentProcessor.js",
+    "name": "PaymentProcessor.js",
+    "ext": ".js",
+    "size": 2577
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\operational\\PerformanceOptimizer.js",
+    "full_path": "C:\\CFH\\backend\\services\\operational\\PerformanceOptimizer.js",
+    "name": "PerformanceOptimizer.js",
+    "ext": ".js",
+    "size": 2125
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\payments\\PaymentService.ts",
+    "full_path": "C:\\CFH\\backend\\services\\payments\\PaymentService.ts",
+    "name": "PaymentService.ts",
+    "ext": ".ts",
+    "size": 144
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\premium\\AIAuctionSimulator.js",
+    "full_path": "C:\\CFH\\backend\\services\\premium\\AIAuctionSimulator.js",
+    "name": "AIAuctionSimulator.js",
+    "ext": ".js",
+    "size": 3065
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\premium\\AIInsightBuyer.js",
+    "full_path": "C:\\CFH\\backend\\services\\premium\\AIInsightBuyer.js",
+    "name": "AIInsightBuyer.js",
+    "ext": ".js",
+    "size": 2857
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\premium\\AIInsightSeller.js",
+    "full_path": "C:\\CFH\\backend\\services\\premium\\AIInsightSeller.js",
+    "name": "AIInsightSeller.js",
+    "ext": ".js",
+    "size": 3046
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\premium\\AIRecommendationEngine.js",
+    "full_path": "C:\\CFH\\backend\\services\\premium\\AIRecommendationEngine.js",
+    "name": "AIRecommendationEngine.js",
+    "ext": ".js",
+    "size": 1670
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\premium\\ARVehicleView.js",
+    "full_path": "C:\\CFH\\backend\\services\\premium\\ARVehicleView.js",
+    "name": "ARVehicleView.js",
+    "ext": ".js",
+    "size": 1914
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\premium\\BlockchainAudit.js",
+    "full_path": "C:\\CFH\\backend\\services\\premium\\BlockchainAudit.js",
+    "name": "BlockchainAudit.js",
+    "ext": ".js",
+    "size": 2559
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\premium\\CrossBorderCommerce.js",
+    "full_path": "C:\\CFH\\backend\\services\\premium\\CrossBorderCommerce.js",
+    "name": "CrossBorderCommerce.js",
+    "ext": ".js",
+    "size": 2508
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\premium\\LiveStreamAuction.js",
+    "full_path": "C:\\CFH\\backend\\services\\premium\\LiveStreamAuction.js",
+    "name": "LiveStreamAuction.js",
+    "ext": ".js",
+    "size": 1811
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\premium\\LoyaltyRewards.js",
+    "full_path": "C:\\CFH\\backend\\services\\premium\\LoyaltyRewards.js",
+    "name": "LoyaltyRewards.js",
+    "ext": ".js",
+    "size": 2745
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\premium\\PostAuctionInsights.js",
+    "full_path": "C:\\CFH\\backend\\services\\premium\\PostAuctionInsights.js",
+    "name": "PostAuctionInsights.js",
+    "ext": ".js",
+    "size": 3129
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\premium\\PredictiveAssistant.js",
+    "full_path": "C:\\CFH\\backend\\services\\premium\\PredictiveAssistant.js",
+    "name": "PredictiveAssistant.js",
+    "ext": ".js",
+    "size": 3968
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\premium\\PremiumSupportChat.js",
+    "full_path": "C:\\CFH\\backend\\services\\premium\\PremiumSupportChat.js",
+    "name": "PremiumSupportChat.js",
+    "ext": ".js",
+    "size": 2265
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\premium\\RealTimePredictor.js",
+    "full_path": "C:\\CFH\\backend\\services\\premium\\RealTimePredictor.js",
+    "name": "RealTimePredictor.js",
+    "ext": ".js",
+    "size": 2604
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\premium\\SocialGamification.js",
+    "full_path": "C:\\CFH\\backend\\services\\premium\\SocialGamification.js",
+    "name": "SocialGamification.js",
+    "ext": ".js",
+    "size": 6491
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\premium\\VirtualAuctionRoom.js",
+    "full_path": "C:\\CFH\\backend\\services\\premium\\VirtualAuctionRoom.js",
+    "name": "VirtualAuctionRoom.js",
+    "ext": ".js",
+    "size": 2113
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\premium\\VoiceBidAssistant.js",
+    "full_path": "C:\\CFH\\backend\\services\\premium\\VoiceBidAssistant.js",
+    "name": "VoiceBidAssistant.js",
+    "ext": ".js",
+    "size": 2855
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\premium\\VRVehicleTour.js",
+    "full_path": "C:\\CFH\\backend\\services\\premium\\VRVehicleTour.js",
+    "name": "VRVehicleTour.js",
+    "ext": ".js",
+    "size": 2287
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\security\\DDoSProtector.js",
+    "full_path": "C:\\CFH\\backend\\services\\security\\DDoSProtector.js",
+    "name": "DDoSProtector.js",
+    "ext": ".js",
+    "size": 1640
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\security\\RateLimiter.js",
+    "full_path": "C:\\CFH\\backend\\services\\security\\RateLimiter.js",
+    "name": "RateLimiter.js",
+    "ext": ".js",
+    "size": 1661
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\security\\SecurityLogger.js",
+    "full_path": "C:\\CFH\\backend\\services\\security\\SecurityLogger.js",
+    "name": "SecurityLogger.js",
+    "ext": ".js",
+    "size": 1643
+  }
+]

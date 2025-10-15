@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\MechanicDashboard.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\MechanicDashboard.copy.js",
+    "name": "MechanicDashboard.copy.js",
+    "ext": ".js",
+    "size": 3315
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\MechanicFeedbackLogger.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\MechanicFeedbackLogger.copy.js",
+    "name": "MechanicFeedbackLogger.copy.js",
+    "ext": ".js",
+    "size": 1673
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\MechanicFeedbackLoggerOld.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\MechanicFeedbackLoggerOld.copy.js",
+    "name": "MechanicFeedbackLoggerOld.copy.js",
+    "ext": ".js",
+    "size": 1503
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\mechanicHealthCheck.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\mechanicHealthCheck.copy.js",
+    "name": "mechanicHealthCheck.copy.js",
+    "ext": ".js",
+    "size": 1373
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\MechanicInspectionDetail.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\MechanicInspectionDetail.copy.js",
+    "name": "MechanicInspectionDetail.copy.js",
+    "ext": ".js",
+    "size": 3762
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\mechanicMilestoneTracker.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\mechanicMilestoneTracker.copy.js",
+    "name": "mechanicMilestoneTracker.copy.js",
+    "ext": ".js",
+    "size": 1572
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\mechanicRoutes.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\mechanicRoutes.copy.js",
+    "name": "mechanicRoutes.copy.js",
+    "ext": ".js",
+    "size": 2204
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\MechanicVoiceDictationOld.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\MechanicVoiceDictationOld.copy.js",
+    "name": "MechanicVoiceDictationOld.copy.js",
+    "ext": ".js",
+    "size": 1040
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\Message.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\Message.copy.js",
+    "name": "Message.copy.js",
+    "ext": ".js",
+    "size": 1217
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\MessageBubble.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\MessageBubble.copy.js",
+    "name": "MessageBubble.copy.js",
+    "ext": ".js",
+    "size": 3001
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\messageControllerGrokOld.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\messageControllerGrokOld.copy.js",
+    "name": "messageControllerGrokOld.copy.js",
+    "ext": ".js",
+    "size": 3359
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\messageRoutes.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\messageRoutes.copy.js",
+    "name": "messageRoutes.copy.js",
+    "ext": ".js",
+    "size": 1063
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\messages.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\messages.copy.js",
+    "name": "messages.copy.js",
+    "ext": ".js",
+    "size": 2697
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\Messaging.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\Messaging.copy.js",
+    "name": "Messaging.copy.js",
+    "ext": ".js",
+    "size": 2011
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\MessagingService.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\MessagingService.copy.js",
+    "name": "MessagingService.copy.js",
+    "ext": ".js",
+    "size": 2203
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\missionRoutes.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\missionRoutes.copy.js",
+    "name": "missionRoutes.copy.js",
+    "ext": ".js",
+    "size": 1371
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\MLModel.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\MLModel.copy.js",
+    "name": "MLModel.copy.js",
+    "ext": ".js",
+    "size": 5196
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\MLModeldOld.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\MLModeldOld.copy.js",
+    "name": "MLModeldOld.copy.js",
+    "ext": ".js",
+    "size": 2448
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\MobileBidHandler.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\MobileBidHandler.copy.js",
+    "name": "MobileBidHandler.copy.js",
+    "ext": ".js",
+    "size": 2239
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\MobileNotifications.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\MobileNotifications.copy.js",
+    "name": "MobileNotifications.copy.js",
+    "ext": ".js",
+    "size": 2665
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\MyDisputes.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\MyDisputes.copy.js",
+    "name": "MyDisputes.copy.js",
+    "ext": ".js",
+    "size": 2505
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\Navbar.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\Navbar.copy.js",
+    "name": "Navbar.copy.js",
+    "ext": ".js",
+    "size": 1505
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\NavbarMobileToggle.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\NavbarMobileToggle.copy.js",
+    "name": "NavbarMobileToggle.copy.js",
+    "ext": ".js",
+    "size": 1909
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\notification.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\notification.copy.js",
+    "name": "notification.copy.js",
+    "ext": ".js",
+    "size": 1260
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\NotificationCenter.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\NotificationCenter.copy.js",
+    "name": "NotificationCenter.copy.js",
+    "ext": ".js",
+    "size": 4073
+  }
+]

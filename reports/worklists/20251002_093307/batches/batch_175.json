@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\SupportCenter.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\SupportCenter.ts",
+    "name": "SupportCenter.ts",
+    "ext": ".ts",
+    "size": 887
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\SustainabilityScoring_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\SustainabilityScoring_1.ts",
+    "name": "SustainabilityScoring_1.ts",
+    "ext": ".ts",
+    "size": 803
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\SustainabilityScoring.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\SustainabilityScoring.test_1.ts",
+    "name": "SustainabilityScoring.test_1.ts",
+    "ext": ".ts",
+    "size": 52
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\SustainabilityScoring.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\SustainabilityScoring.test.ts",
+    "name": "SustainabilityScoring.test.ts",
+    "ext": ".ts",
+    "size": 52
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\SustainabilityScoring.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\SustainabilityScoring.ts",
+    "name": "SustainabilityScoring.ts",
+    "ext": ".ts",
+    "size": 803
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\sync_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\sync_1.ts",
+    "name": "sync_1.ts",
+    "ext": ".ts",
+    "size": 3633
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\sync.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\sync.test_1.ts",
+    "name": "sync.test_1.ts",
+    "ext": ".ts",
+    "size": 4143
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\sync.test.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\sync.test.test_1.ts",
+    "name": "sync.test.test_1.ts",
+    "ext": ".ts",
+    "size": 40
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\sync.test.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\sync.test.test.ts",
+    "name": "sync.test.test.ts",
+    "ext": ".ts",
+    "size": 40
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\sync.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\sync.test.ts",
+    "name": "sync.test.ts",
+    "ext": ".ts",
+    "size": 35
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\sync.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\sync.ts",
+    "name": "sync.ts",
+    "ext": ".ts",
+    "size": 3633
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\taskSocketEmitter_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\taskSocketEmitter_1.ts",
+    "name": "taskSocketEmitter_1.ts",
+    "ext": ".ts",
+    "size": 1006
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\taskSocketEmitter.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\taskSocketEmitter.test_1.ts",
+    "name": "taskSocketEmitter.test_1.ts",
+    "ext": ".ts",
+    "size": 48
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\taskSocketEmitter.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\taskSocketEmitter.test.ts",
+    "name": "taskSocketEmitter.test.ts",
+    "ext": ".ts",
+    "size": 48
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\test_1.ts",
+    "name": "test_1.ts",
+    "ext": ".ts",
+    "size": 9666
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\testRunner_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\testRunner_1.ts",
+    "name": "testRunner_1.ts",
+    "ext": ".ts",
+    "size": 2045
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\testRunner.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\testRunner.test_1.ts",
+    "name": "testRunner.test_1.ts",
+    "ext": ".ts",
+    "size": 41
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\testRunner.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\testRunner.test.ts",
+    "name": "testRunner.test.ts",
+    "ext": ".ts",
+    "size": 41
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\testRunner.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\testRunner.ts",
+    "name": "testRunner.ts",
+    "ext": ".ts",
+    "size": 2045
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\testRunnerRoutes_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\testRunnerRoutes_1.ts",
+    "name": "testRunnerRoutes_1.ts",
+    "ext": ".ts",
+    "size": 5763
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\testRunnerRoutes.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\testRunnerRoutes.test_1.ts",
+    "name": "testRunnerRoutes.test_1.ts",
+    "ext": ".ts",
+    "size": 47
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\testRunnerRoutes.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\testRunnerRoutes.test.ts",
+    "name": "testRunnerRoutes.test.ts",
+    "ext": ".ts",
+    "size": 47
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\testRunnerRoutes.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\testRunnerRoutes.ts",
+    "name": "testRunnerRoutes.ts",
+    "ext": ".ts",
+    "size": 5763
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\theme_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\theme_1.ts",
+    "name": "theme_1.ts",
+    "ext": ".ts",
+    "size": 1157
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\theme.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\theme.test_1.ts",
+    "name": "theme.test_1.ts",
+    "ext": ".ts",
+    "size": 36
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\CrossBorderCommerce.test.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\CrossBorderCommerce.test.test_1.ts",
+    "name": "CrossBorderCommerce.test.test_1.ts",
+    "ext": ".ts",
+    "size": 55
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\CrossBorderCommerce.test.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\CrossBorderCommerce.test.test.ts",
+    "name": "CrossBorderCommerce.test.test.ts",
+    "ext": ".ts",
+    "size": 55
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\CrossBorderCommerce.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\CrossBorderCommerce.test.ts",
+    "name": "CrossBorderCommerce.test.ts",
+    "ext": ".ts",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\CrossBorderCommerce.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\CrossBorderCommerce.ts",
+    "name": "CrossBorderCommerce.ts",
+    "ext": ".ts",
+    "size": 2587
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\CrossBorderFinancing_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\CrossBorderFinancing_1.ts",
+    "name": "CrossBorderFinancing_1.ts",
+    "ext": ".ts",
+    "size": 879
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\CrossBorderFinancing.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\CrossBorderFinancing.test_1.ts",
+    "name": "CrossBorderFinancing.test_1.ts",
+    "ext": ".ts",
+    "size": 51
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\CrossBorderFinancing.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\CrossBorderFinancing.test.ts",
+    "name": "CrossBorderFinancing.test.ts",
+    "ext": ".ts",
+    "size": 51
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\CrossBorderFinancing.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\CrossBorderFinancing.ts",
+    "name": "CrossBorderFinancing.ts",
+    "ext": ".ts",
+    "size": 879
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\CrownAutoWire_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\CrownAutoWire_1.ts",
+    "name": "CrownAutoWire_1.ts",
+    "ext": ".ts",
+    "size": 348
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\crypto_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\crypto_1.ts",
+    "name": "crypto_1.ts",
+    "ext": ".ts",
+    "size": 113
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\CryptoPayment_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\CryptoPayment_1.ts",
+    "name": "CryptoPayment_1.ts",
+    "ext": ".ts",
+    "size": 1908
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\CryptoPayment.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\CryptoPayment.test_1.ts",
+    "name": "CryptoPayment.test_1.ts",
+    "ext": ".ts",
+    "size": 44
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\CryptoPayment.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\CryptoPayment.test.ts",
+    "name": "CryptoPayment.test.ts",
+    "ext": ".ts",
+    "size": 44
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\CryptoPayment.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\CryptoPayment.ts",
+    "name": "CryptoPayment.ts",
+    "ext": ".ts",
+    "size": 1908
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\DamageAssessmentService_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\DamageAssessmentService_1.ts",
+    "name": "DamageAssessmentService_1.ts",
+    "ext": ".ts",
+    "size": 8376
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\DamageAssessmentService.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\DamageAssessmentService.test_1.ts",
+    "name": "DamageAssessmentService.test_1.ts",
+    "ext": ".ts",
+    "size": 9473
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\dashboardTests_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\dashboardTests_1.ts",
+    "name": "dashboardTests_1.ts",
+    "ext": ".ts",
+    "size": 2435
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\dashboardTests.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\dashboardTests.test_1.ts",
+    "name": "dashboardTests.test_1.ts",
+    "ext": ".ts",
+    "size": 45
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\dashboardTests.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\dashboardTests.test.ts",
+    "name": "dashboardTests.test.ts",
+    "ext": ".ts",
+    "size": 45
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\dashboardTests.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\dashboardTests.ts",
+    "name": "dashboardTests.ts",
+    "ext": ".ts",
+    "size": 2435
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\db_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\db_1.ts",
+    "name": "db_1.ts",
+    "ext": ".ts",
+    "size": 1310
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\db.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\db.test_1.ts",
+    "name": "db.test_1.ts",
+    "ext": ".ts",
+    "size": 33
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\db.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\db.test.ts",
+    "name": "db.test.ts",
+    "ext": ".ts",
+    "size": 33
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\DBService_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\DBService_1.ts",
+    "name": "DBService_1.ts",
+    "ext": ".ts",
+    "size": 153
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\DDoSProtector_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\DDoSProtector_1.ts",
+    "name": "DDoSProtector_1.ts",
+    "ext": ".ts",
+    "size": 1713
+  }
+]

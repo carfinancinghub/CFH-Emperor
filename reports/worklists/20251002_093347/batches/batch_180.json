@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\UserPreferences.test.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\UserPreferences.test.test_1.ts",
+    "name": "UserPreferences.test.test_1.ts",
+    "ext": ".ts",
+    "size": 51
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\UserPreferences.test.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\UserPreferences.test.test.ts",
+    "name": "UserPreferences.test.test.ts",
+    "ext": ".ts",
+    "size": 51
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\UserPreferences.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\UserPreferences.test.ts",
+    "name": "UserPreferences.test.ts",
+    "ext": ".ts",
+    "size": 3655
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\UserProfile_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\UserProfile_1.ts",
+    "name": "UserProfile_1.ts",
+    "ext": ".ts",
+    "size": 3461
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\userProfile.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\userProfile.test_1.ts",
+    "name": "userProfile.test_1.ts",
+    "ext": ".ts",
+    "size": 2745
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\UserProfile.test.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\UserProfile.test.test_1.ts",
+    "name": "UserProfile.test.test_1.ts",
+    "ext": ".ts",
+    "size": 47
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\UserProfile.test.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\UserProfile.test.test.ts",
+    "name": "UserProfile.test.test.ts",
+    "ext": ".ts",
+    "size": 47
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\userProfile.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\userProfile.test.ts",
+    "name": "userProfile.test.ts",
+    "ext": ".ts",
+    "size": 2548
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\userProfileRoutes_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\userProfileRoutes_1.ts",
+    "name": "userProfileRoutes_1.ts",
+    "ext": ".ts",
+    "size": 3037
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\userProfileRoutes.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\userProfileRoutes.test_1.ts",
+    "name": "userProfileRoutes.test_1.ts",
+    "ext": ".ts",
+    "size": 3173
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\userProfileRoutes.test.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\userProfileRoutes.test.test_1.ts",
+    "name": "userProfileRoutes.test.test_1.ts",
+    "ext": ".ts",
+    "size": 893
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\userProfileRoutes.test.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\userProfileRoutes.test.test.ts",
+    "name": "userProfileRoutes.test.test.ts",
+    "ext": ".ts",
+    "size": 893
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\userProfileRoutes.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\userProfileRoutes.test.ts",
+    "name": "userProfileRoutes.test.ts",
+    "ext": ".ts",
+    "size": 3173
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\userProfileService_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\userProfileService_1.ts",
+    "name": "userProfileService_1.ts",
+    "ext": ".ts",
+    "size": 1998
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\UserReviewList_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\UserReviewList_1.ts",
+    "name": "UserReviewList_1.ts",
+    "ext": ".ts",
+    "size": 2288
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\UserReviewList.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\UserReviewList.test_1.ts",
+    "name": "UserReviewList.test_1.ts",
+    "ext": ".ts",
+    "size": 45
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\UserReviewList.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\UserReviewList.test.ts",
+    "name": "UserReviewList.test.ts",
+    "ext": ".ts",
+    "size": 45
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\UserReviewList.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\UserReviewList.ts",
+    "name": "UserReviewList.ts",
+    "ext": ".ts",
+    "size": 2288
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\users_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\users_1.ts",
+    "name": "users_1.ts",
+    "ext": ".ts",
+    "size": 1154
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\users.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\users.test_1.ts",
+    "name": "users.test_1.ts",
+    "ext": ".ts",
+    "size": 36
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\users.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\users.test.ts",
+    "name": "users.test.ts",
+    "ext": ".ts",
+    "size": 36
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\UserSettings_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\UserSettings_1.ts",
+    "name": "UserSettings_1.ts",
+    "ext": ".ts",
+    "size": 203
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\UserSettings.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\UserSettings.test_1.ts",
+    "name": "UserSettings.test_1.ts",
+    "ext": ".ts",
+    "size": 3429
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\UserSettings.test.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\UserSettings.test.test_1.ts",
+    "name": "UserSettings.test.test_1.ts",
+    "ext": ".ts",
+    "size": 48
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\UserSettings.test.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\UserSettings.test.test.ts",
+    "name": "UserSettings.test.test.ts",
+    "ext": ".ts",
+    "size": 48
+  }
+]

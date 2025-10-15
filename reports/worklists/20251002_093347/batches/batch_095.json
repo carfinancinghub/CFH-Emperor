@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\LiveDashboardHealthWidget_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\LiveDashboardHealthWidget_1.jsx",
+    "name": "LiveDashboardHealthWidget_1.jsx",
+    "ext": ".jsx",
+    "size": 2756
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\LiveInspectionTaskFeed_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\LiveInspectionTaskFeed_1.jsx",
+    "name": "LiveInspectionTaskFeed_1.jsx",
+    "ext": ".jsx",
+    "size": 2233
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\LiveStreamViewer_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\LiveStreamViewer_1.jsx",
+    "name": "LiveStreamViewer_1.jsx",
+    "ext": ".jsx",
+    "size": 2936
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\LoadingSpinner_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\LoadingSpinner_1.jsx",
+    "name": "LoadingSpinner_1.jsx",
+    "ext": ".jsx",
+    "size": 871
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\Login_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\Login_1.jsx",
+    "name": "Login_1.jsx",
+    "ext": ".jsx",
+    "size": 1672
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\LoginForm_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\LoginForm_1.jsx",
+    "name": "LoginForm_1.jsx",
+    "ext": ".jsx",
+    "size": 1156
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\MaaSIntegration_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\MaaSIntegration_1.jsx",
+    "name": "MaaSIntegration_1.jsx",
+    "ext": ".jsx",
+    "size": 6863
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\MarketplaceInsightsDashboard_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\MarketplaceInsightsDashboard_1.jsx",
+    "name": "MarketplaceInsightsDashboard_1.jsx",
+    "ext": ".jsx",
+    "size": 10059
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\MarketplaceInsightsDashboard.test_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\MarketplaceInsightsDashboard.test_1.jsx",
+    "name": "MarketplaceInsightsDashboard.test_1.jsx",
+    "ext": ".jsx",
+    "size": 5028
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\MechanicBadgeConfettiPanel_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\MechanicBadgeConfettiPanel_1.jsx",
+    "name": "MechanicBadgeConfettiPanel_1.jsx",
+    "ext": ".jsx",
+    "size": 1308
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\MechanicBadgeDisplayPanel_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\MechanicBadgeDisplayPanel_1.jsx",
+    "name": "MechanicBadgeDisplayPanel_1.jsx",
+    "ext": ".jsx",
+    "size": 2182
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\MechanicBadgeImpactTracker_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\MechanicBadgeImpactTracker_1.jsx",
+    "name": "MechanicBadgeImpactTracker_1.jsx",
+    "ext": ".jsx",
+    "size": 2021
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\MechanicBadgeLeaderboard_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\MechanicBadgeLeaderboard_1.jsx",
+    "name": "MechanicBadgeLeaderboard_1.jsx",
+    "ext": ".jsx",
+    "size": 2190
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\MechanicBadgeProgressTracker_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\MechanicBadgeProgressTracker_1.jsx",
+    "name": "MechanicBadgeProgressTracker_1.jsx",
+    "ext": ".jsx",
+    "size": 2062
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\MechanicDashboard_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\MechanicDashboard_1.jsx",
+    "name": "MechanicDashboard_1.jsx",
+    "ext": ".jsx",
+    "size": 9144
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\MechanicDashboard.test_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\MechanicDashboard.test_1.jsx",
+    "name": "MechanicDashboard.test_1.jsx",
+    "ext": ".jsx",
+    "size": 4234
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\MechanicInspectionForm_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\MechanicInspectionForm_1.jsx",
+    "name": "MechanicInspectionForm_1.jsx",
+    "ext": ".jsx",
+    "size": 3261
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\MechanicInspectionForm.test_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\MechanicInspectionForm.test_1.jsx",
+    "name": "MechanicInspectionForm.test_1.jsx",
+    "ext": ".jsx",
+    "size": 3828
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\MechanicJobStatusBadge_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\MechanicJobStatusBadge_1.jsx",
+    "name": "MechanicJobStatusBadge_1.jsx",
+    "ext": ".jsx",
+    "size": 1423
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\MechanicMilestoneTracker_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\MechanicMilestoneTracker_1.jsx",
+    "name": "MechanicMilestoneTracker_1.jsx",
+    "ext": ".jsx",
+    "size": 2442
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\MechanicProgressReviewBoard_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\MechanicProgressReviewBoard_1.jsx",
+    "name": "MechanicProgressReviewBoard_1.jsx",
+    "ext": ".jsx",
+    "size": 3069
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\MechanicRepairHistoryTimeline_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\MechanicRepairHistoryTimeline_1.jsx",
+    "name": "MechanicRepairHistoryTimeline_1.jsx",
+    "ext": ".jsx",
+    "size": 2260
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\MechanicReportDashboard_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\MechanicReportDashboard_1.jsx",
+    "name": "MechanicReportDashboard_1.jsx",
+    "ext": ".jsx",
+    "size": 5862
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\MechanicReviewPanel_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\MechanicReviewPanel_1.jsx",
+    "name": "MechanicReviewPanel_1.jsx",
+    "ext": ".jsx",
+    "size": 1923
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\MechanicRewardConfetti_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\MechanicRewardConfetti_1.jsx",
+    "name": "MechanicRewardConfetti_1.jsx",
+    "ext": ".jsx",
+    "size": 1788
+  }
+]

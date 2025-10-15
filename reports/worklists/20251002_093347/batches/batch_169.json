@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\ReputationBadgeTier_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\ReputationBadgeTier_1.ts",
+    "name": "ReputationBadgeTier_1.ts",
+    "ext": ".ts",
+    "size": 746
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\ReputationBadgeTier.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\ReputationBadgeTier.test_1.ts",
+    "name": "ReputationBadgeTier.test_1.ts",
+    "ext": ".ts",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\ReputationBadgeTier.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\ReputationBadgeTier.test.ts",
+    "name": "ReputationBadgeTier.test.ts",
+    "ext": ".ts",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\ReputationBadgeTier.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\ReputationBadgeTier.ts",
+    "name": "ReputationBadgeTier.ts",
+    "ext": ".ts",
+    "size": 746
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\reputationEngine_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\reputationEngine_1.ts",
+    "name": "reputationEngine_1.ts",
+    "ext": ".ts",
+    "size": 252
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\RewardHelper_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\RewardHelper_1.ts",
+    "name": "RewardHelper_1.ts",
+    "ext": ".ts",
+    "size": 706
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\RewardHelper.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\RewardHelper.test_1.ts",
+    "name": "RewardHelper.test_1.ts",
+    "ext": ".ts",
+    "size": 43
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\RewardHelper.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\RewardHelper.test.ts",
+    "name": "RewardHelper.test.ts",
+    "ext": ".ts",
+    "size": 43
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\RiskAssessmentEngine_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\RiskAssessmentEngine_1.ts",
+    "name": "RiskAssessmentEngine_1.ts",
+    "ext": ".ts",
+    "size": 4413
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\RiskAssessmentEngine.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\RiskAssessmentEngine.test_1.ts",
+    "name": "RiskAssessmentEngine.test_1.ts",
+    "ext": ".ts",
+    "size": 4579
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\RiskAssessmentEngine.test.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\RiskAssessmentEngine.test.test_1.ts",
+    "name": "RiskAssessmentEngine.test.test_1.ts",
+    "ext": ".ts",
+    "size": 56
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\RiskAssessmentEngine.test.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\RiskAssessmentEngine.test.test.ts",
+    "name": "RiskAssessmentEngine.test.test.ts",
+    "ext": ".ts",
+    "size": 56
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\RoleActivityCharts_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\RoleActivityCharts_1.ts",
+    "name": "RoleActivityCharts_1.ts",
+    "ext": ".ts",
+    "size": 2790
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\RoleActivityCharts.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\RoleActivityCharts.test_1.ts",
+    "name": "RoleActivityCharts.test_1.ts",
+    "ext": ".ts",
+    "size": 49
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\RoleActivityCharts.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\RoleActivityCharts.test.ts",
+    "name": "RoleActivityCharts.test.ts",
+    "ext": ".ts",
+    "size": 49
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\RoleActivityCharts.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\RoleActivityCharts.ts",
+    "name": "RoleActivityCharts.ts",
+    "ext": ".ts",
+    "size": 2790
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\RoleSwitchWrapper_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\RoleSwitchWrapper_1.ts",
+    "name": "RoleSwitchWrapper_1.ts",
+    "ext": ".ts",
+    "size": 638
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\RoleSwitchWrapper.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\RoleSwitchWrapper.test_1.ts",
+    "name": "RoleSwitchWrapper.test_1.ts",
+    "ext": ".ts",
+    "size": 48
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\RoleSwitchWrapper.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\RoleSwitchWrapper.test.ts",
+    "name": "RoleSwitchWrapper.test.ts",
+    "ext": ".ts",
+    "size": 48
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\RoleSwitchWrapper.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\RoleSwitchWrapper.ts",
+    "name": "RoleSwitchWrapper.ts",
+    "ext": ".ts",
+    "size": 638
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\routes.d_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\routes.d_1.ts",
+    "name": "routes.d_1.ts",
+    "ext": ".ts",
+    "size": 271
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\scalabilityManager_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\scalabilityManager_1.ts",
+    "name": "scalabilityManager_1.ts",
+    "ext": ".ts",
+    "size": 194
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\scalabilityValidation_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\scalabilityValidation_1.ts",
+    "name": "scalabilityValidation_1.ts",
+    "ext": ".ts",
+    "size": 6245
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\scalabilityValidation.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\scalabilityValidation.test_1.ts",
+    "name": "scalabilityValidation.test_1.ts",
+    "ext": ".ts",
+    "size": 52
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\scalabilityValidation.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\scalabilityValidation.test.ts",
+    "name": "scalabilityValidation.test.ts",
+    "ext": ".ts",
+    "size": 52
+  }
+]

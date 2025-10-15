@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MechanicMilestoneTracker.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MechanicMilestoneTracker.test_1.tsx",
+    "name": "MechanicMilestoneTracker.test_1.tsx",
+    "ext": ".tsx",
+    "size": 56
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MechanicMilestoneTracker.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MechanicMilestoneTracker.test.tsx",
+    "name": "MechanicMilestoneTracker.test.tsx",
+    "ext": ".tsx",
+    "size": 56
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MechanicProgressReviewBoard_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MechanicProgressReviewBoard_1.tsx",
+    "name": "MechanicProgressReviewBoard_1.tsx",
+    "ext": ".tsx",
+    "size": 3157
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MechanicProgressReviewBoard.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MechanicProgressReviewBoard.test_1.tsx",
+    "name": "MechanicProgressReviewBoard.test_1.tsx",
+    "ext": ".tsx",
+    "size": 59
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MechanicProgressReviewBoard.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MechanicProgressReviewBoard.test.tsx",
+    "name": "MechanicProgressReviewBoard.test.tsx",
+    "ext": ".tsx",
+    "size": 59
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MechanicProgressReviewBoard.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MechanicProgressReviewBoard.tsx",
+    "name": "MechanicProgressReviewBoard.tsx",
+    "ext": ".tsx",
+    "size": 3157
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MechanicRepairHistoryTimeline_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MechanicRepairHistoryTimeline_1.tsx",
+    "name": "MechanicRepairHistoryTimeline_1.tsx",
+    "ext": ".tsx",
+    "size": 2350
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MechanicRepairHistoryTimeline.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MechanicRepairHistoryTimeline.test_1.tsx",
+    "name": "MechanicRepairHistoryTimeline.test_1.tsx",
+    "ext": ".tsx",
+    "size": 61
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MechanicRepairHistoryTimeline.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MechanicRepairHistoryTimeline.test.tsx",
+    "name": "MechanicRepairHistoryTimeline.test.tsx",
+    "ext": ".tsx",
+    "size": 61
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MechanicRepairHistoryTimeline.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MechanicRepairHistoryTimeline.tsx",
+    "name": "MechanicRepairHistoryTimeline.tsx",
+    "ext": ".tsx",
+    "size": 2350
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MechanicReportDashboard_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MechanicReportDashboard_1.tsx",
+    "name": "MechanicReportDashboard_1.tsx",
+    "ext": ".tsx",
+    "size": 5946
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MechanicReportDashboard.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MechanicReportDashboard.test_1.tsx",
+    "name": "MechanicReportDashboard.test_1.tsx",
+    "ext": ".tsx",
+    "size": 55
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MechanicReportDashboard.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MechanicReportDashboard.test.tsx",
+    "name": "MechanicReportDashboard.test.tsx",
+    "ext": ".tsx",
+    "size": 55
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MechanicReportDashboard.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MechanicReportDashboard.tsx",
+    "name": "MechanicReportDashboard.tsx",
+    "ext": ".tsx",
+    "size": 5946
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MechanicReviewPanel_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MechanicReviewPanel_1.tsx",
+    "name": "MechanicReviewPanel_1.tsx",
+    "ext": ".tsx",
+    "size": 2003
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MechanicReviewPanel.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MechanicReviewPanel.test_1.tsx",
+    "name": "MechanicReviewPanel.test_1.tsx",
+    "ext": ".tsx",
+    "size": 51
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MechanicReviewPanel.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MechanicReviewPanel.test.tsx",
+    "name": "MechanicReviewPanel.test.tsx",
+    "ext": ".tsx",
+    "size": 51
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MechanicReviewPanel.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MechanicReviewPanel.tsx",
+    "name": "MechanicReviewPanel.tsx",
+    "ext": ".tsx",
+    "size": 2003
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MechanicRewardConfetti_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MechanicRewardConfetti_1.tsx",
+    "name": "MechanicRewardConfetti_1.tsx",
+    "ext": ".tsx",
+    "size": 1871
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MechanicRewardConfetti.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MechanicRewardConfetti.test_1.tsx",
+    "name": "MechanicRewardConfetti.test_1.tsx",
+    "ext": ".tsx",
+    "size": 54
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MechanicRewardConfetti.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MechanicRewardConfetti.test.tsx",
+    "name": "MechanicRewardConfetti.test.tsx",
+    "ext": ".tsx",
+    "size": 54
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MechanicRewardConfetti.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MechanicRewardConfetti.tsx",
+    "name": "MechanicRewardConfetti.tsx",
+    "ext": ".tsx",
+    "size": 1871
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MechanicShiftPlanner_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MechanicShiftPlanner_1.tsx",
+    "name": "MechanicShiftPlanner_1.tsx",
+    "ext": ".tsx",
+    "size": 1190
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MechanicShiftPlanner.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MechanicShiftPlanner.test_1.tsx",
+    "name": "MechanicShiftPlanner.test_1.tsx",
+    "ext": ".tsx",
+    "size": 573
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MechanicShiftPlanner.test.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MechanicShiftPlanner.test.test_1.tsx",
+    "name": "MechanicShiftPlanner.test.test_1.tsx",
+    "ext": ".tsx",
+    "size": 57
+  }
+]

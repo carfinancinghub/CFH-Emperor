@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\needsHome\\VRViewer.css",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\needsHome\\VRViewer.css",
+    "name": "VRViewer.css",
+    "ext": ".css",
+    "size": 135
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\needsHome\\VRViewer.js",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\needsHome\\VRViewer.js",
+    "name": "VRViewer.js",
+    "ext": ".js",
+    "size": 553
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\notifications\\NotificationCenter.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\notifications\\NotificationCenter.jsx",
+    "name": "NotificationCenter.jsx",
+    "ext": ".jsx",
+    "size": 4305
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\notifications\\NotificationsComponent.tsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\notifications\\NotificationsComponent.tsx",
+    "name": "NotificationsComponent.tsx",
+    "ext": ".tsx",
+    "size": 8759
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\officer\\DisputeRadarWidget.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\officer\\DisputeRadarWidget.jsx",
+    "name": "DisputeRadarWidget.jsx",
+    "ext": ".jsx",
+    "size": 7277
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\onboarding\\FinancierOnboarding.js",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\onboarding\\FinancierOnboarding.js",
+    "name": "FinancierOnboarding.js",
+    "ext": ".js",
+    "size": 1196
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\onboarding\\OnboardingGuide.js",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\onboarding\\OnboardingGuide.js",
+    "name": "OnboardingGuide.js",
+    "ext": ".js",
+    "size": 1168
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\onboarding\\OnboardingTrigger.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\onboarding\\OnboardingTrigger.jsx",
+    "name": "OnboardingTrigger.jsx",
+    "ext": ".jsx",
+    "size": 2364
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\onboarding\\OnboardingWizard.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\onboarding\\OnboardingWizard.jsx",
+    "name": "OnboardingWizard.jsx",
+    "ext": ".jsx",
+    "size": 4454
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\partner\\PartnerPortal.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\partner\\PartnerPortal.jsx",
+    "name": "PartnerPortal.jsx",
+    "ext": ".jsx",
+    "size": 981
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\premium\\BadgeDisplay.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\premium\\BadgeDisplay.jsx",
+    "name": "BadgeDisplay.jsx",
+    "ext": ".jsx",
+    "size": 2450
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\premium\\LeaderboardDisplay.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\premium\\LeaderboardDisplay.jsx",
+    "name": "LeaderboardDisplay.jsx",
+    "ext": ".jsx",
+    "size": 2554
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\premium\\LiveStreamViewer.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\premium\\LiveStreamViewer.jsx",
+    "name": "LiveStreamViewer.jsx",
+    "ext": ".jsx",
+    "size": 2936
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\premium\\PredictiveAssistant.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\premium\\PredictiveAssistant.jsx",
+    "name": "PredictiveAssistant.jsx",
+    "ext": ".jsx",
+    "size": 4538
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\premium\\PremiumDashboard.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\premium\\PremiumDashboard.jsx",
+    "name": "PremiumDashboard.jsx",
+    "ext": ".jsx",
+    "size": 3825
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\premium\\PricingInsights.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\premium\\PricingInsights.jsx",
+    "name": "PricingInsights.jsx",
+    "ext": ".jsx",
+    "size": 3020
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\premium\\RecommendedAuctions.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\premium\\RecommendedAuctions.jsx",
+    "name": "RecommendedAuctions.jsx",
+    "ext": ".jsx",
+    "size": 2767
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\premium\\SupportChatWidget.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\premium\\SupportChatWidget.jsx",
+    "name": "SupportChatWidget.jsx",
+    "ext": ".jsx",
+    "size": 4225
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\premium\\SustainabilityMetrics.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\premium\\SustainabilityMetrics.jsx",
+    "name": "SustainabilityMetrics.jsx",
+    "ext": ".jsx",
+    "size": 3061
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\recommendations\\AdvancedSmartRecommendations.js",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\recommendations\\AdvancedSmartRecommendations.js",
+    "name": "AdvancedSmartRecommendations.js",
+    "ext": ".js",
+    "size": 4313
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\recommendations\\AIInsights.js",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\recommendations\\AIInsights.js",
+    "name": "AIInsights.js",
+    "ext": ".js",
+    "size": 688
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\recommendations\\AIRecommendations.css",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\recommendations\\AIRecommendations.css",
+    "name": "AIRecommendations.css",
+    "ext": ".css",
+    "size": 913
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\recommendations\\AIRecommendations.js",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\recommendations\\AIRecommendations.js",
+    "name": "AIRecommendations.js",
+    "ext": ".js",
+    "size": 742
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\recommendations\\loanRecommendationController.js",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\recommendations\\loanRecommendationController.js",
+    "name": "loanRecommendationController.js",
+    "ext": ".js",
+    "size": 4313
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\recommendations\\SustainabilityScoring.js",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\recommendations\\SustainabilityScoring.js",
+    "name": "SustainabilityScoring.js",
+    "ext": ".js",
+    "size": 722
+  }
+]

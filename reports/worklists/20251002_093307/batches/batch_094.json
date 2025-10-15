@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\InspectionPhotoPreviewer_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\InspectionPhotoPreviewer_1.jsx",
+    "name": "InspectionPhotoPreviewer_1.jsx",
+    "ext": ".jsx",
+    "size": 4417
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\InspectionPhotoPreviewer.test_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\InspectionPhotoPreviewer.test_1.jsx",
+    "name": "InspectionPhotoPreviewer.test_1.jsx",
+    "ext": ".jsx",
+    "size": 1092
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\InspectionReportPanel_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\InspectionReportPanel_1.jsx",
+    "name": "InspectionReportPanel_1.jsx",
+    "ext": ".jsx",
+    "size": 2632
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\InsuranceAIModelPerformance_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\InsuranceAIModelPerformance_1.jsx",
+    "name": "InsuranceAIModelPerformance_1.jsx",
+    "ext": ".jsx",
+    "size": 5194
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\InsuranceAIModelPerformance.test_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\InsuranceAIModelPerformance.test_1.jsx",
+    "name": "InsuranceAIModelPerformance.test_1.jsx",
+    "ext": ".jsx",
+    "size": 4157
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\InsuranceClaimsAnalytics_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\InsuranceClaimsAnalytics_1.jsx",
+    "name": "InsuranceClaimsAnalytics_1.jsx",
+    "ext": ".jsx",
+    "size": 4953
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\InsuranceClaimsAnalytics.test_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\InsuranceClaimsAnalytics.test_1.jsx",
+    "name": "InsuranceClaimsAnalytics.test_1.jsx",
+    "ext": ".jsx",
+    "size": 5064
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\InsuranceClaimsProcessor_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\InsuranceClaimsProcessor_1.jsx",
+    "name": "InsuranceClaimsProcessor_1.jsx",
+    "ext": ".jsx",
+    "size": 5684
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\InsuranceClaimsProcessor.test_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\InsuranceClaimsProcessor.test_1.jsx",
+    "name": "InsuranceClaimsProcessor.test_1.jsx",
+    "ext": ".jsx",
+    "size": 4409
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\InsuranceOfficerDashboard_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\InsuranceOfficerDashboard_1.jsx",
+    "name": "InsuranceOfficerDashboard_1.jsx",
+    "ext": ".jsx",
+    "size": 16230
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\InsuranceOfficerDashboard.test_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\InsuranceOfficerDashboard.test_1.jsx",
+    "name": "InsuranceOfficerDashboard.test_1.jsx",
+    "ext": ".jsx",
+    "size": 3113
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\InsurancePolicyManager_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\InsurancePolicyManager_1.jsx",
+    "name": "InsurancePolicyManager_1.jsx",
+    "ext": ".jsx",
+    "size": 7493
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\InsuranceRoleGuard_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\InsuranceRoleGuard_1.jsx",
+    "name": "InsuranceRoleGuard_1.jsx",
+    "ext": ".jsx",
+    "size": 2440
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\InsuranceSEOHead_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\InsuranceSEOHead_1.jsx",
+    "name": "InsuranceSEOHead_1.jsx",
+    "ext": ".jsx",
+    "size": 2126
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\InsuranceUnderwritingChecklist_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\InsuranceUnderwritingChecklist_1.jsx",
+    "name": "InsuranceUnderwritingChecklist_1.jsx",
+    "ext": ".jsx",
+    "size": 4986
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\InsurerInsightsChart_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\InsurerInsightsChart_1.jsx",
+    "name": "InsurerInsightsChart_1.jsx",
+    "ext": ".jsx",
+    "size": 1879
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\JudgePanelControls_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\JudgePanelControls_1.jsx",
+    "name": "JudgePanelControls_1.jsx",
+    "ext": ".jsx",
+    "size": 1430
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\LanguageSelector_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\LanguageSelector_1.jsx",
+    "name": "LanguageSelector_1.jsx",
+    "ext": ".jsx",
+    "size": 965
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\LeaderboardDisplay_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\LeaderboardDisplay_1.jsx",
+    "name": "LeaderboardDisplay_1.jsx",
+    "ext": ".jsx",
+    "size": 2554
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\LeaderboardWidget_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\LeaderboardWidget_1.jsx",
+    "name": "LeaderboardWidget_1.jsx",
+    "ext": ".jsx",
+    "size": 2076
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\LenderDashboard_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\LenderDashboard_1.jsx",
+    "name": "LenderDashboard_1.jsx",
+    "ext": ".jsx",
+    "size": 7107
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\LenderExportPanel_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\LenderExportPanel_1.jsx",
+    "name": "LenderExportPanel_1.jsx",
+    "ext": ".jsx",
+    "size": 4988
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\LenderLoyaltyDashboard_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\LenderLoyaltyDashboard_1.jsx",
+    "name": "LenderLoyaltyDashboard_1.jsx",
+    "ext": ".jsx",
+    "size": 6982
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\LenderTermsHistoryViewer_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\LenderTermsHistoryViewer_1.jsx",
+    "name": "LenderTermsHistoryViewer_1.jsx",
+    "ext": ".jsx",
+    "size": 1500
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\LenderTermsHistoryViewer.test_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\LenderTermsHistoryViewer.test_1.jsx",
+    "name": "LenderTermsHistoryViewer.test_1.jsx",
+    "ext": ".jsx",
+    "size": 1433
+  }
+]

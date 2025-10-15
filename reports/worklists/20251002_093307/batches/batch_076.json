@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\LenderExportPanel.test_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\LenderExportPanel.test_1.js",
+    "name": "LenderExportPanel.test_1.js",
+    "ext": ".js",
+    "size": 2258
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\LenderInsightsPanel_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\LenderInsightsPanel_1.js",
+    "name": "LenderInsightsPanel_1.js",
+    "ext": ".js",
+    "size": 3258
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\LenderMatchListView_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\LenderMatchListView_1.js",
+    "name": "LenderMatchListView_1.js",
+    "ext": ".js",
+    "size": 1758
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\LenderMatchPreviewCard_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\LenderMatchPreviewCard_1.js",
+    "name": "LenderMatchPreviewCard_1.js",
+    "ext": ".js",
+    "size": 2355
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\LenderOnboardingForm_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\LenderOnboardingForm_1.js",
+    "name": "LenderOnboardingForm_1.js",
+    "ext": ".js",
+    "size": 4622
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\LenderPreApprovalDashboard_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\LenderPreApprovalDashboard_1.js",
+    "name": "LenderPreApprovalDashboard_1.js",
+    "ext": ".js",
+    "size": 5247
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\LenderProfilePage_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\LenderProfilePage_1.js",
+    "name": "LenderProfilePage_1.js",
+    "ext": ".js",
+    "size": 4355
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\lenderReputationController_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\lenderReputationController_1.js",
+    "name": "lenderReputationController_1.js",
+    "ext": ".js",
+    "size": 2674
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\LenderReputationSummary_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\LenderReputationSummary_1.js",
+    "name": "LenderReputationSummary_1.js",
+    "ext": ".js",
+    "size": 2589
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\LenderReputationTracker_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\LenderReputationTracker_1.js",
+    "name": "LenderReputationTracker_1.js",
+    "ext": ".js",
+    "size": 6448
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\LenderReviewDashboard_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\LenderReviewDashboard_1.js",
+    "name": "LenderReviewDashboard_1.js",
+    "ext": ".js",
+    "size": 4102
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\LenderTermsExporter_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\LenderTermsExporter_1.js",
+    "name": "LenderTermsExporter_1.js",
+    "ext": ".js",
+    "size": 3468
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\LenderTermsExporter.test_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\LenderTermsExporter.test_1.js",
+    "name": "LenderTermsExporter.test_1.js",
+    "ext": ".js",
+    "size": 2113
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\lenderTermsHistoryRoute_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\lenderTermsHistoryRoute_1.js",
+    "name": "lenderTermsHistoryRoute_1.js",
+    "ext": ".js",
+    "size": 945
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\lenderTermsHistoryRoute.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\lenderTermsHistoryRoute.js",
+    "name": "lenderTermsHistoryRoute.js",
+    "ext": ".js",
+    "size": 945
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\Listing_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\Listing_1.js",
+    "name": "Listing_1.js",
+    "ext": ".js",
+    "size": 2049
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\Listing.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\Listing.js",
+    "name": "Listing.js",
+    "ext": ".js",
+    "size": 2049
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\ListingApproval_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\ListingApproval_1.js",
+    "name": "ListingApproval_1.js",
+    "ext": ".js",
+    "size": 2928
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\ListingApproval.test_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\ListingApproval.test_1.js",
+    "name": "ListingApproval.test_1.js",
+    "ext": ".js",
+    "size": 4837
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\listingController_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\listingController_1.js",
+    "name": "listingController_1.js",
+    "ext": ".js",
+    "size": 1357
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\listingController.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\listingController.js",
+    "name": "listingController.js",
+    "ext": ".js",
+    "size": 1357
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\LiveStreamAuction_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\LiveStreamAuction_1.js",
+    "name": "LiveStreamAuction_1.js",
+    "ext": ".js",
+    "size": 1811
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\load-test_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\load-test_1.js",
+    "name": "load-test_1.js",
+    "ext": ".js",
+    "size": 673
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\load-test.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\load-test.js",
+    "name": "load-test.js",
+    "ext": ".js",
+    "size": 673
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\LoadingSpinner_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\LoadingSpinner_1.js",
+    "name": "LoadingSpinner_1.js",
+    "ext": ".js",
+    "size": 802
+  }
+]

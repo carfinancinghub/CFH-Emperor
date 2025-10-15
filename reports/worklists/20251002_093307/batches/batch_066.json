@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\BlockchainInspectionAudit_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\BlockchainInspectionAudit_1.js",
+    "name": "BlockchainInspectionAudit_1.js",
+    "ext": ".js",
+    "size": 672
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\BlockchainInspectionAudit.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\BlockchainInspectionAudit.js",
+    "name": "BlockchainInspectionAudit.js",
+    "ext": ".js",
+    "size": 672
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\BlockchainLedger_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\BlockchainLedger_1.js",
+    "name": "BlockchainLedger_1.js",
+    "ext": ".js",
+    "size": 2267
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\bulkTestRunner_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\bulkTestRunner_1.js",
+    "name": "bulkTestRunner_1.js",
+    "ext": ".js",
+    "size": 2099
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\bulkTestValidation_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\bulkTestValidation_1.js",
+    "name": "bulkTestValidation_1.js",
+    "ext": ".js",
+    "size": 5305
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\BulkUpload_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\BulkUpload_1.js",
+    "name": "BulkUpload_1.js",
+    "ext": ".js",
+    "size": 1960
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\Button_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\Button_1.js",
+    "name": "Button_1.js",
+    "ext": ".js",
+    "size": 1676
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\BuyerAuctionHistory_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\BuyerAuctionHistory_1.js",
+    "name": "BuyerAuctionHistory_1.js",
+    "ext": ".js",
+    "size": 2675
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\BuyerCarCompare_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\BuyerCarCompare_1.js",
+    "name": "BuyerCarCompare_1.js",
+    "ext": ".js",
+    "size": 9557
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\BuyerInspectionStatus_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\BuyerInspectionStatus_1.js",
+    "name": "BuyerInspectionStatus_1.js",
+    "ext": ".js",
+    "size": 4419
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\BuyerLenderResults.test_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\BuyerLenderResults.test_1.js",
+    "name": "BuyerLenderResults.test_1.js",
+    "ext": ".js",
+    "size": 3227
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\carController_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\carController_1.js",
+    "name": "carController_1.js",
+    "ext": ".js",
+    "size": 1804
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\carController.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\carController.js",
+    "name": "carController.js",
+    "ext": ".js",
+    "size": 1804
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\CarTransportCoordination.cy_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\CarTransportCoordination.cy_1.js",
+    "name": "CarTransportCoordination.cy_1.js",
+    "ext": ".js",
+    "size": 4122
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\CarTransportCoordination.cy.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\CarTransportCoordination.cy.js",
+    "name": "CarTransportCoordination.cy.js",
+    "ext": ".js",
+    "size": 4122
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\CarTransportCoordination.test_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\CarTransportCoordination.test_1.js",
+    "name": "CarTransportCoordination.test_1.js",
+    "ext": ".js",
+    "size": 6925
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\CaseBundleExporter_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\CaseBundleExporter_1.js",
+    "name": "CaseBundleExporter_1.js",
+    "ext": ".js",
+    "size": 1981
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\CaseBundleExporter.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\CaseBundleExporter.js",
+    "name": "CaseBundleExporter.js",
+    "ext": ".js",
+    "size": 1981
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\ChatSummaryPanel_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\ChatSummaryPanel_1.js",
+    "name": "ChatSummaryPanel_1.js",
+    "ext": ".js",
+    "size": 1278
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\ChatSummaryPanel.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\ChatSummaryPanel.js",
+    "name": "ChatSummaryPanel.js",
+    "ext": ".js",
+    "size": 1278
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\claimsRoutes_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\claimsRoutes_1.js",
+    "name": "claimsRoutes_1.js",
+    "ext": ".js",
+    "size": 805
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\claimsRoutes.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\claimsRoutes.js",
+    "name": "claimsRoutes.js",
+    "ext": ".js",
+    "size": 805
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\coachPlanRoute.test_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\coachPlanRoute.test_1.js",
+    "name": "coachPlanRoute.test_1.js",
+    "ext": ".js",
+    "size": 491
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\Cod1HaulerDeploymentChecklist_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\Cod1HaulerDeploymentChecklist_1.js",
+    "name": "Cod1HaulerDeploymentChecklist_1.js",
+    "ext": ".js",
+    "size": 1877
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\CollaborationChat.cy05040109_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\CollaborationChat.cy05040109_1.js",
+    "name": "CollaborationChat.cy05040109_1.js",
+    "ext": ".js",
+    "size": 5357
+  }
+]

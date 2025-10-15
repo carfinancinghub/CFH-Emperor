@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\jest.setup.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\jest.setup.js",
+    "name": "jest.setup.js",
+    "ext": ".js",
+    "size": 240
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\judgeApiTests_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\judgeApiTests_1.js",
+    "name": "judgeApiTests_1.js",
+    "ext": ".js",
+    "size": 7543
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\JudgeBadgeRenderer_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\JudgeBadgeRenderer_1.js",
+    "name": "JudgeBadgeRenderer_1.js",
+    "ext": ".js",
+    "size": 1412
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\JudgeController_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\JudgeController_1.js",
+    "name": "JudgeController_1.js",
+    "ext": ".js",
+    "size": 3685
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\JudgeController.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\JudgeController.js",
+    "name": "JudgeController.js",
+    "ext": ".js",
+    "size": 3685
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\JudgeDashboard_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\JudgeDashboard_1.js",
+    "name": "JudgeDashboard_1.js",
+    "ext": ".js",
+    "size": 6321
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\JudgeLeaderboard_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\JudgeLeaderboard_1.js",
+    "name": "JudgeLeaderboard_1.js",
+    "ext": ".js",
+    "size": 2003
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\judgeRoutes_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\judgeRoutes_1.js",
+    "name": "judgeRoutes_1.js",
+    "ext": ".js",
+    "size": 1525
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\judgeRoutes.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\judgeRoutes.js",
+    "name": "judgeRoutes.js",
+    "ext": ".js",
+    "size": 1525
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\LaunchChecklist_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\LaunchChecklist_1.js",
+    "name": "LaunchChecklist_1.js",
+    "ext": ".js",
+    "size": 2319
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\LaunchChecklist.test_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\LaunchChecklist.test_1.js",
+    "name": "LaunchChecklist.test_1.js",
+    "ext": ".js",
+    "size": 3666
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\Leaderboard_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\Leaderboard_1.js",
+    "name": "Leaderboard_1.js",
+    "ext": ".js",
+    "size": 748
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\LeaveReview_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\LeaveReview_1.js",
+    "name": "LeaveReview_1.js",
+    "ext": ".js",
+    "size": 2593
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\Lender_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\Lender_1.js",
+    "name": "Lender_1.js",
+    "ext": ".js",
+    "size": 754
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\lender-reputation_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\lender-reputation_1.js",
+    "name": "lender-reputation_1.js",
+    "ext": ".js",
+    "size": 706
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\lender-reputation.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\lender-reputation.js",
+    "name": "lender-reputation.js",
+    "ext": ".js",
+    "size": 706
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\Lender.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\Lender.js",
+    "name": "Lender.js",
+    "ext": ".js",
+    "size": 754
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\LenderAnalyticsDashboard_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\LenderAnalyticsDashboard_1.js",
+    "name": "LenderAnalyticsDashboard_1.js",
+    "ext": ".js",
+    "size": 3304
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\LenderBidDetailCard_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\LenderBidDetailCard_1.js",
+    "name": "LenderBidDetailCard_1.js",
+    "ext": ".js",
+    "size": 2259
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\LenderBiddingDashboard_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\LenderBiddingDashboard_1.js",
+    "name": "LenderBiddingDashboard_1.js",
+    "ext": ".js",
+    "size": 2797
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\LenderContractReview_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\LenderContractReview_1.js",
+    "name": "LenderContractReview_1.js",
+    "ext": ".js",
+    "size": 2952
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\LenderContractSummary_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\LenderContractSummary_1.js",
+    "name": "LenderContractSummary_1.js",
+    "ext": ".js",
+    "size": 4903
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\LenderDashboard_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\LenderDashboard_1.js",
+    "name": "LenderDashboard_1.js",
+    "ext": ".js",
+    "size": 5343
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\LenderExportCenter_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\LenderExportCenter_1.js",
+    "name": "LenderExportCenter_1.js",
+    "ext": ".js",
+    "size": 4711
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\LenderExportPanel_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\LenderExportPanel_1.js",
+    "name": "LenderExportPanel_1.js",
+    "ext": ".js",
+    "size": 3115
+  }
+]

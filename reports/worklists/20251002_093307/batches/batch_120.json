@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AuctionTemplateEngine.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AuctionTemplateEngine.test.ts",
+    "name": "AuctionTemplateEngine.test.ts",
+    "ext": ".ts",
+    "size": 52
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AuctionTemplateEngine.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AuctionTemplateEngine.ts",
+    "name": "AuctionTemplateEngine.ts",
+    "ext": ".ts",
+    "size": 2093
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AuctionTimer_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AuctionTimer_1.ts",
+    "name": "AuctionTimer_1.ts",
+    "ext": ".ts",
+    "size": 299
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\audit-trail_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\audit-trail_1.ts",
+    "name": "audit-trail_1.ts",
+    "ext": ".ts",
+    "size": 3204
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\audit-trail.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\audit-trail.test_1.ts",
+    "name": "audit-trail.test_1.ts",
+    "ext": ".ts",
+    "size": 42
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\audit-trail.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\audit-trail.test.ts",
+    "name": "audit-trail.test.ts",
+    "ext": ".ts",
+    "size": 42
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\audit-trail.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\audit-trail.ts",
+    "name": "audit-trail.ts",
+    "ext": ".ts",
+    "size": 3204
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\auditLog_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\auditLog_1.ts",
+    "name": "auditLog_1.ts",
+    "ext": ".ts",
+    "size": 809
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\auditLog.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\auditLog.test_1.ts",
+    "name": "auditLog.test_1.ts",
+    "ext": ".ts",
+    "size": 1422
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\auditLog.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\auditLog.test.ts",
+    "name": "auditLog.test.ts",
+    "ext": ".ts",
+    "size": 1422
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AuditLogViewer_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AuditLogViewer_1.ts",
+    "name": "AuditLogViewer_1.ts",
+    "ext": ".ts",
+    "size": 2607
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AuditLogViewer.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AuditLogViewer.test_1.ts",
+    "name": "AuditLogViewer.test_1.ts",
+    "ext": ".ts",
+    "size": 3918
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AuditLogViewer.test.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AuditLogViewer.test.test_1.ts",
+    "name": "AuditLogViewer.test.test_1.ts",
+    "ext": ".ts",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AuditLogViewer.test.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AuditLogViewer.test.test.ts",
+    "name": "AuditLogViewer.test.test.ts",
+    "ext": ".ts",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AuditLogViewer.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AuditLogViewer.test.ts",
+    "name": "AuditLogViewer.test.ts",
+    "ext": ".ts",
+    "size": 45
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AuditLogViewer.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AuditLogViewer.ts",
+    "name": "AuditLogViewer.ts",
+    "ext": ".ts",
+    "size": 2607
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\auth.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\auth.test_1.ts",
+    "name": "auth.test_1.ts",
+    "ext": ".ts",
+    "size": 1140
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\authController_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\authController_1.ts",
+    "name": "authController_1.ts",
+    "ext": ".ts",
+    "size": 2278
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\authController.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\authController.test_1.ts",
+    "name": "authController.test_1.ts",
+    "ext": ".ts",
+    "size": 45
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\authController.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\authController.test.ts",
+    "name": "authController.test.ts",
+    "ext": ".ts",
+    "size": 45
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\authController.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\authController.ts",
+    "name": "authController.ts",
+    "ext": ".ts",
+    "size": 2278
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AuthService_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AuthService_1.ts",
+    "name": "AuthService_1.ts",
+    "ext": ".ts",
+    "size": 1397
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AutomationAgent_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AutomationAgent_1.ts",
+    "name": "AutomationAgent_1.ts",
+    "ext": ".ts",
+    "size": 805
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AutomationAgent.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AutomationAgent.test_1.ts",
+    "name": "AutomationAgent.test_1.ts",
+    "ext": ".ts",
+    "size": 46
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AutomationAgent.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AutomationAgent.test.ts",
+    "name": "AutomationAgent.test.ts",
+    "ext": ".ts",
+    "size": 46
+  }
+]

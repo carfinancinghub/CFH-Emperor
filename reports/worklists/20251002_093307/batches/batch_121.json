@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AutomationAgent.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AutomationAgent.ts",
+    "name": "AutomationAgent.ts",
+    "ext": ".ts",
+    "size": 805
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\backend_middleware_auth_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\backend_middleware_auth_1.ts",
+    "name": "backend_middleware_auth_1.ts",
+    "ext": ".ts",
+    "size": 880
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\backend_middleware_auth.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\backend_middleware_auth.test_1.ts",
+    "name": "backend_middleware_auth.test_1.ts",
+    "ext": ".ts",
+    "size": 54
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\backend_middleware_auth.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\backend_middleware_auth.test.ts",
+    "name": "backend_middleware_auth.test.ts",
+    "ext": ".ts",
+    "size": 54
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\backend_middleware_auth.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\backend_middleware_auth.ts",
+    "name": "backend_middleware_auth.ts",
+    "ext": ".ts",
+    "size": 880
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\backend_models_Dispute_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\backend_models_Dispute_1.ts",
+    "name": "backend_models_Dispute_1.ts",
+    "ext": ".ts",
+    "size": 982
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\backend_models_Dispute.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\backend_models_Dispute.test_1.ts",
+    "name": "backend_models_Dispute.test_1.ts",
+    "ext": ".ts",
+    "size": 53
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\backend_models_Dispute.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\backend_models_Dispute.test.ts",
+    "name": "backend_models_Dispute.test.ts",
+    "ext": ".ts",
+    "size": 53
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\backend_models_Dispute.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\backend_models_Dispute.ts",
+    "name": "backend_models_Dispute.ts",
+    "ext": ".ts",
+    "size": 982
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\backend_models_escrow_EscrowTransaction_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\backend_models_escrow_EscrowTransaction_1.ts",
+    "name": "backend_models_escrow_EscrowTransaction_1.ts",
+    "ext": ".ts",
+    "size": 2807
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\backend_models_escrow_EscrowTransaction.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\backend_models_escrow_EscrowTransaction.test_1.ts",
+    "name": "backend_models_escrow_EscrowTransaction.test_1.ts",
+    "ext": ".ts",
+    "size": 70
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\backend_models_escrow_EscrowTransaction.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\backend_models_escrow_EscrowTransaction.test.ts",
+    "name": "backend_models_escrow_EscrowTransaction.test.ts",
+    "ext": ".ts",
+    "size": 70
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\backend_models_escrow_EscrowTransaction.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\backend_models_escrow_EscrowTransaction.ts",
+    "name": "backend_models_escrow_EscrowTransaction.ts",
+    "ext": ".ts",
+    "size": 2807
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\BadgeDisplay_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\BadgeDisplay_1.ts",
+    "name": "BadgeDisplay_1.ts",
+    "ext": ".ts",
+    "size": 686
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\BadgeDisplay.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\BadgeDisplay.test_1.ts",
+    "name": "BadgeDisplay.test_1.ts",
+    "ext": ".ts",
+    "size": 43
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\BadgeDisplay.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\BadgeDisplay.test.ts",
+    "name": "BadgeDisplay.test.ts",
+    "ext": ".ts",
+    "size": 43
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\BadgeDisplay.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\BadgeDisplay.ts",
+    "name": "BadgeDisplay.ts",
+    "ext": ".ts",
+    "size": 686
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\badgeRoutes_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\badgeRoutes_1.ts",
+    "name": "badgeRoutes_1.ts",
+    "ext": ".ts",
+    "size": 1988
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\badgeRoutes.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\badgeRoutes.test_1.ts",
+    "name": "badgeRoutes.test_1.ts",
+    "ext": ".ts",
+    "size": 42
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\badgeRoutes.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\badgeRoutes.test.ts",
+    "name": "badgeRoutes.test.ts",
+    "ext": ".ts",
+    "size": 42
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\badgeRoutes.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\badgeRoutes.ts",
+    "name": "badgeRoutes.ts",
+    "ext": ".ts",
+    "size": 1988
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\Bid_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\Bid_1.ts",
+    "name": "Bid_1.ts",
+    "ext": ".ts",
+    "size": 654
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\Bid.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\Bid.test_1.ts",
+    "name": "Bid.test_1.ts",
+    "ext": ".ts",
+    "size": 34
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\Bid.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\Bid.test.ts",
+    "name": "Bid.test.ts",
+    "ext": ".ts",
+    "size": 34
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\Bid.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\Bid.ts",
+    "name": "Bid.ts",
+    "ext": ".ts",
+    "size": 654
+  }
+]

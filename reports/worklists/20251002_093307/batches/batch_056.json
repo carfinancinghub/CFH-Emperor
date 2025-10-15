@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\tests\\support\\SupportTicketAnalytics.test.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\tests\\support\\SupportTicketAnalytics.test.jsx",
+    "name": "SupportTicketAnalytics.test.jsx",
+    "ext": ".jsx",
+    "size": 6275
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\tests\\support\\SupportTicketForm.test.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\tests\\support\\SupportTicketForm.test.jsx",
+    "name": "SupportTicketForm.test.jsx",
+    "ext": ".jsx",
+    "size": 1966
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\tests\\TaskCompletionButton.test.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\tests\\TaskCompletionButton.test.jsx",
+    "name": "TaskCompletionButton.test.jsx",
+    "ext": ".jsx",
+    "size": 2301
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\tests\\user\\PointsHistory.test.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\tests\\user\\PointsHistory.test.jsx",
+    "name": "PointsHistory.test.jsx",
+    "ext": ".jsx",
+    "size": 3455
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\tests\\user\\UserProfilePage.test.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\tests\\user\\UserProfilePage.test.jsx",
+    "name": "UserProfilePage.test.jsx",
+    "ext": ".jsx",
+    "size": 3832
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\tests\\utils\\graph\\GraphExportService.test.js",
+    "full_path": "C:\\CFH\\frontend\\src\\tests\\utils\\graph\\GraphExportService.test.js",
+    "name": "GraphExportService.test.js",
+    "ext": ".js",
+    "size": 2124
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\tests\\utils\\inspection\\blurDetector.test.ts",
+    "full_path": "C:\\CFH\\frontend\\src\\tests\\utils\\inspection\\blurDetector.test.ts",
+    "name": "blurDetector.test.ts",
+    "ext": ".ts",
+    "size": 1826
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\tests\\utils\\SocialShareHelper.test.js",
+    "full_path": "C:\\CFH\\frontend\\src\\tests\\utils\\SocialShareHelper.test.js",
+    "name": "SocialShareHelper.test.js",
+    "ext": ".js",
+    "size": 3861
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\tests\\VehicleHealthTrendCharts.test.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\tests\\VehicleHealthTrendCharts.test.jsx",
+    "name": "VehicleHealthTrendCharts.test.jsx",
+    "ext": ".jsx",
+    "size": 597
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\tests\\VehicleInspectionModule.test.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\tests\\VehicleInspectionModule.test.jsx",
+    "name": "VehicleInspectionModule.test.jsx",
+    "ext": ".jsx",
+    "size": 937
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\tests\\VINDecoder.test.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\tests\\VINDecoder.test.jsx",
+    "name": "VINDecoder.test.jsx",
+    "ext": ".jsx",
+    "size": 566
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\utils\\auction\\auctionExportUtils.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\utils\\auction\\auctionExportUtils.jsx",
+    "name": "auctionExportUtils.jsx",
+    "ext": ".jsx",
+    "size": 7988
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\utils\\auction\\auctionExportUtils.test.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\utils\\auction\\auctionExportUtils.test.jsx",
+    "name": "auctionExportUtils.test.jsx",
+    "ext": ".jsx",
+    "size": 4543
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\utils\\auction\\auctionExportUtils.ts",
+    "full_path": "C:\\CFH\\frontend\\src\\utils\\auction\\auctionExportUtils.ts",
+    "name": "auctionExportUtils.ts",
+    "ext": ".ts",
+    "size": 5762
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\utils\\auction\\auctionExportUtils.tsx",
+    "full_path": "C:\\CFH\\frontend\\src\\utils\\auction\\auctionExportUtils.tsx",
+    "name": "auctionExportUtils.tsx",
+    "ext": ".tsx",
+    "size": 11485
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\utils\\export_delivery_pdf.ts",
+    "full_path": "C:\\CFH\\frontend\\src\\utils\\export_delivery_pdf.ts",
+    "name": "export_delivery_pdf.ts",
+    "ext": ".ts",
+    "size": 2779
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\utils\\gamificationUtils.ts",
+    "full_path": "C:\\CFH\\frontend\\src\\utils\\gamificationUtils.ts",
+    "name": "gamificationUtils.ts",
+    "ext": ".ts",
+    "size": 391
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\utils\\graph\\GraphExportService.js",
+    "full_path": "C:\\CFH\\frontend\\src\\utils\\graph\\GraphExportService.js",
+    "name": "GraphExportService.js",
+    "ext": ".js",
+    "size": 2036
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\utils\\graph\\GraphExportService.ts",
+    "full_path": "C:\\CFH\\frontend\\src\\utils\\graph\\GraphExportService.ts",
+    "name": "GraphExportService.ts",
+    "ext": ".ts",
+    "size": 3375
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\utils\\inspection\\blurDetector.ts",
+    "full_path": "C:\\CFH\\frontend\\src\\utils\\inspection\\blurDetector.ts",
+    "name": "blurDetector.ts",
+    "ext": ".ts",
+    "size": 1212
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\utils\\inspection\\submitInspectionToBackend.js",
+    "full_path": "C:\\CFH\\frontend\\src\\utils\\inspection\\submitInspectionToBackend.js",
+    "name": "submitInspectionToBackend.js",
+    "ext": ".js",
+    "size": 1100
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\utils\\inspection\\submitInspectionToBackend.ts",
+    "full_path": "C:\\CFH\\frontend\\src\\utils\\inspection\\submitInspectionToBackend.ts",
+    "name": "submitInspectionToBackend.ts",
+    "ext": ".ts",
+    "size": 3023
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\utils\\logger.ts",
+    "full_path": "C:\\CFH\\frontend\\src\\utils\\logger.ts",
+    "name": "logger.ts",
+    "ext": ".ts",
+    "size": 730
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\utils\\RewardHelper.js",
+    "full_path": "C:\\CFH\\frontend\\src\\utils\\RewardHelper.js",
+    "name": "RewardHelper.js",
+    "ext": ".js",
+    "size": 1809
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\utils\\RewardHelper.ts",
+    "full_path": "C:\\CFH\\frontend\\src\\utils\\RewardHelper.ts",
+    "name": "RewardHelper.ts",
+    "ext": ".ts",
+    "size": 2292
+  }
+]

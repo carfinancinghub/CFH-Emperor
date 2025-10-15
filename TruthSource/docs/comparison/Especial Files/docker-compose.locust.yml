@@ -1,0 +1,46 @@
+# ----------------------------------------------------------------------
+# File: docker-compose.locust.yml
+# Path: tests/load/docker-compose.locust.yml
+# Author: Gemini & SG Man, System Architects
+# Created: August 14, 2025 at 11:30 PDT
+# Version: 1.0.0
+# 👑 Cod1 Crown Certified
+# ----------------------------------------------------------------------
+#
+# @description
+# Docker Compose configuration for running Locust load tests against the CFH platform.
+#
+# @architectural_notes
+# - **Isolated**: Runs Locust in a separate container for testing.
+# - **Integrated**: Connects to the CFH network for service access.
+# - **Observable**: Exposes metrics for Prometheus.
+#
+# @todos
+# - @free:
+#   - [x] Define Locust service for load testing.
+# - @premium:
+#   - [ ] ✨ Add support for distributed Locust workers.
+# - @wow:
+#   - [ ] 🚀 Integrate with AI-driven test orchestration.
+#
+# ----------------------------------------------------------------------
+version: '3.8'
+
+services:
+  locust:
+    image: locustio/locust:latest
+    container_name: cfh_locust
+    volumes:
+      - ./tests/load/locustfile.py:/locustfile.py
+    ports:
+      - "8089:8089"
+    command: -f /locustfile.py --host=http://backend:5000
+    networks:
+      - cfh-network
+    environment:
+      - LOCUST_PROMETHEUS_EXPORTER=true
+      - PROMETHEUS_URL=http://prometheus:9090
+
+networks:
+  cfh-network:
+    external: true

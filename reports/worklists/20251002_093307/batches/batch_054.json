@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\tests\\finance\\FinanceRiskAssessment.test.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\tests\\finance\\FinanceRiskAssessment.test.jsx",
+    "name": "FinanceRiskAssessment.test.jsx",
+    "ext": ".jsx",
+    "size": 1952
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\tests\\gamification\\AchievementPopup.test.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\tests\\gamification\\AchievementPopup.test.jsx",
+    "name": "AchievementPopup.test.jsx",
+    "ext": ".jsx",
+    "size": 2246
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\tests\\gamification\\BadgeStorefront.test.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\tests\\gamification\\BadgeStorefront.test.jsx",
+    "name": "BadgeStorefront.test.jsx",
+    "ext": ".jsx",
+    "size": 3282
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\tests\\GuestDashboard.test.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\tests\\GuestDashboard.test.jsx",
+    "name": "GuestDashboard.test.jsx",
+    "ext": ".jsx",
+    "size": 4969
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\tests\\GuestDashboard.test50000.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\tests\\GuestDashboard.test50000.jsx",
+    "name": "GuestDashboard.test50000.jsx",
+    "ext": ".jsx",
+    "size": 4236
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\tests\\hauler\\HaulerAuctionDelivery.test.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\tests\\hauler\\HaulerAuctionDelivery.test.jsx",
+    "name": "HaulerAuctionDelivery.test.jsx",
+    "ext": ".jsx",
+    "size": 3382
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\tests\\haulerBucket.test.ts",
+    "full_path": "C:\\CFH\\frontend\\src\\tests\\haulerBucket.test.ts",
+    "name": "haulerBucket.test.ts",
+    "ext": ".ts",
+    "size": 2285
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\tests\\HaulerCollaboration.test.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\tests\\HaulerCollaboration.test.jsx",
+    "name": "HaulerCollaboration.test.jsx",
+    "ext": ".jsx",
+    "size": 900
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\tests\\HaulerCommunityBoard.test.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\tests\\HaulerCommunityBoard.test.jsx",
+    "name": "HaulerCommunityBoard.test.jsx",
+    "ext": ".jsx",
+    "size": 456
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\tests\\InspectionPhotoPreviewer.test.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\tests\\InspectionPhotoPreviewer.test.jsx",
+    "name": "InspectionPhotoPreviewer.test.jsx",
+    "ext": ".jsx",
+    "size": 1092
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\tests\\insurance\\InsuranceAIModelPerformance.test.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\tests\\insurance\\InsuranceAIModelPerformance.test.jsx",
+    "name": "InsuranceAIModelPerformance.test.jsx",
+    "ext": ".jsx",
+    "size": 4157
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\tests\\insurance\\InsuranceClaimsAnalytics.test.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\tests\\insurance\\InsuranceClaimsAnalytics.test.jsx",
+    "name": "InsuranceClaimsAnalytics.test.jsx",
+    "ext": ".jsx",
+    "size": 5064
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\tests\\insurance\\InsuranceClaimsProcessor.test.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\tests\\insurance\\InsuranceClaimsProcessor.test.jsx",
+    "name": "InsuranceClaimsProcessor.test.jsx",
+    "ext": ".jsx",
+    "size": 4409
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\tests\\insurance\\InsuranceOfficerDashboard.test.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\tests\\insurance\\InsuranceOfficerDashboard.test.jsx",
+    "name": "InsuranceOfficerDashboard.test.jsx",
+    "ext": ".jsx",
+    "size": 3113
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\tests\\judge\\SmartVerdictHint.test.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\tests\\judge\\SmartVerdictHint.test.jsx",
+    "name": "SmartVerdictHint.test.jsx",
+    "ext": ".jsx",
+    "size": 2274
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\tests\\judge\\ui\\global\\PremiumBadge.test.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\tests\\judge\\ui\\global\\PremiumBadge.test.jsx",
+    "name": "PremiumBadge.test.jsx",
+    "ext": ".jsx",
+    "size": 608
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\tests\\judge\\ui\\Spinner.test.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\tests\\judge\\ui\\Spinner.test.jsx",
+    "name": "Spinner.test.jsx",
+    "ext": ".jsx",
+    "size": 395
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\tests\\lender\\LenderTermsHistoryViewer.test.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\tests\\lender\\LenderTermsHistoryViewer.test.jsx",
+    "name": "LenderTermsHistoryViewer.test.jsx",
+    "ext": ".jsx",
+    "size": 1433
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\tests\\LenderExportPanel.test.js",
+    "full_path": "C:\\CFH\\frontend\\src\\tests\\LenderExportPanel.test.js",
+    "name": "LenderExportPanel.test.js",
+    "ext": ".js",
+    "size": 2258
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\tests\\marketplace\\MarketplaceInsightsDashboard.test.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\tests\\marketplace\\MarketplaceInsightsDashboard.test.jsx",
+    "name": "MarketplaceInsightsDashboard.test.jsx",
+    "ext": ".jsx",
+    "size": 5028
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\tests\\mechanic\\MechanicInspectionForm.test.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\tests\\mechanic\\MechanicInspectionForm.test.jsx",
+    "name": "MechanicInspectionForm.test.jsx",
+    "ext": ".jsx",
+    "size": 3828
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\tests\\MechanicDashboard.test.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\tests\\MechanicDashboard.test.jsx",
+    "name": "MechanicDashboard.test.jsx",
+    "ext": ".jsx",
+    "size": 4234
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\tests\\MechanicShiftPlanner.test.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\tests\\MechanicShiftPlanner.test.jsx",
+    "name": "MechanicShiftPlanner.test.jsx",
+    "ext": ".jsx",
+    "size": 487
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\tests\\mobile\\MobileAnalytics.test.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\tests\\mobile\\MobileAnalytics.test.jsx",
+    "name": "MobileAnalytics.test.jsx",
+    "ext": ".jsx",
+    "size": 2201
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\tests\\mobile\\MobileAuctionView.test.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\tests\\mobile\\MobileAuctionView.test.jsx",
+    "name": "MobileAuctionView.test.jsx",
+    "ext": ".jsx",
+    "size": 2971
+  }
+]

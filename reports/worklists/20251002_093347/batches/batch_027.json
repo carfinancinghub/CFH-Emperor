@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "functions\\final\\FinalTesting-functions.md",
+    "full_path": "C:\\CFH\\docs\\functions\\final\\FinalTesting-functions.md",
+    "name": "FinalTesting-functions.md",
+    "ext": ".md",
+    "size": 416
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "functions\\final\\UserAnalyticsReport-functions.md",
+    "full_path": "C:\\CFH\\docs\\functions\\final\\UserAnalyticsReport-functions.md",
+    "name": "UserAnalyticsReport-functions.md",
+    "ext": ".md",
+    "size": 553
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "functions\\gamification\\badgeRoutes-functions.md",
+    "full_path": "C:\\CFH\\docs\\functions\\gamification\\badgeRoutes-functions.md",
+    "name": "badgeRoutes-functions.md",
+    "ext": ".md",
+    "size": 1166
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "functions\\gamification\\BadgeStorefront-functions.md",
+    "full_path": "C:\\CFH\\docs\\functions\\gamification\\BadgeStorefront-functions.md",
+    "name": "BadgeStorefront-functions.md",
+    "ext": ".md",
+    "size": 737
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "functions\\gamification\\BadgeStorefront.test-functions.md",
+    "full_path": "C:\\CFH\\docs\\functions\\gamification\\BadgeStorefront.test-functions.md",
+    "name": "BadgeStorefront.test-functions.md",
+    "ext": ".md",
+    "size": 2310
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "functions\\gamification\\LeaderboardWidget-functions.md",
+    "full_path": "C:\\CFH\\docs\\functions\\gamification\\LeaderboardWidget-functions.md",
+    "name": "LeaderboardWidget-functions.md",
+    "ext": ".md",
+    "size": 674
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "functions\\mobile\\MobileAuctionView-functions.md",
+    "full_path": "C:\\CFH\\docs\\functions\\mobile\\MobileAuctionView-functions.md",
+    "name": "MobileAuctionView-functions.md",
+    "ext": ".md",
+    "size": 306
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "functions\\mobile\\MobileNotifications-functions.md",
+    "full_path": "C:\\CFH\\docs\\functions\\mobile\\MobileNotifications-functions.md",
+    "name": "MobileNotifications-functions.md",
+    "ext": ".md",
+    "size": 595
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "functions\\officer\\AuditLogViewer-functions.md",
+    "full_path": "C:\\CFH\\docs\\functions\\officer\\AuditLogViewer-functions.md",
+    "name": "AuditLogViewer-functions.md",
+    "ext": ".md",
+    "size": 481
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "functions\\officer\\DisputeManager-functions.md",
+    "full_path": "C:\\CFH\\docs\\functions\\officer\\DisputeManager-functions.md",
+    "name": "DisputeManager-functions.md",
+    "ext": ".md",
+    "size": 542
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "functions\\officer\\DisputeRadarWidget-functions.md",
+    "full_path": "C:\\CFH\\docs\\functions\\officer\\DisputeRadarWidget-functions.md",
+    "name": "DisputeRadarWidget-functions.md",
+    "ext": ".md",
+    "size": 2884
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "functions\\officer\\PlatformMonitor-functions.md",
+    "full_path": "C:\\CFH\\docs\\functions\\officer\\PlatformMonitor-functions.md",
+    "name": "PlatformMonitor-functions.md",
+    "ext": ".md",
+    "size": 499
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "functions\\onboarding\\PreferencesSetup-functions.md",
+    "full_path": "C:\\CFH\\docs\\functions\\onboarding\\PreferencesSetup-functions.md",
+    "name": "PreferencesSetup-functions.md",
+    "ext": ".md",
+    "size": 434
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "functions\\onboarding\\UserOnboarding-functions.md",
+    "full_path": "C:\\CFH\\docs\\functions\\onboarding\\UserOnboarding-functions.md",
+    "name": "UserOnboarding-functions.md",
+    "ext": ".md",
+    "size": 450
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "functions\\operational\\ComplianceEnhancer-functions.md",
+    "full_path": "C:\\CFH\\docs\\functions\\operational\\ComplianceEnhancer-functions.md",
+    "name": "ComplianceEnhancer-functions.md",
+    "ext": ".md",
+    "size": 480
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "functions\\operational\\PaymentProcessor-functions.md",
+    "full_path": "C:\\CFH\\docs\\functions\\operational\\PaymentProcessor-functions.md",
+    "name": "PaymentProcessor-functions.md",
+    "ext": ".md",
+    "size": 525
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "functions\\operational\\PerformanceOptimizer-functions.md",
+    "full_path": "C:\\CFH\\docs\\functions\\operational\\PerformanceOptimizer-functions.md",
+    "name": "PerformanceOptimizer-functions.md",
+    "ext": ".md",
+    "size": 478
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "functions\\premium\\AIAuctionSimulator-functions.md",
+    "full_path": "C:\\CFH\\docs\\functions\\premium\\AIAuctionSimulator-functions.md",
+    "name": "AIAuctionSimulator-functions.md",
+    "ext": ".md",
+    "size": 645
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "functions\\premium\\AIInsightBuyer-functions.md",
+    "full_path": "C:\\CFH\\docs\\functions\\premium\\AIInsightBuyer-functions.md",
+    "name": "AIInsightBuyer-functions.md",
+    "ext": ".md",
+    "size": 501
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "functions\\premium\\ARVehicleView-functions.md",
+    "full_path": "C:\\CFH\\docs\\functions\\premium\\ARVehicleView-functions.md",
+    "name": "ARVehicleView-functions.md",
+    "ext": ".md",
+    "size": 473
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "functions\\premium\\BadgeDisplay-functions.md",
+    "full_path": "C:\\CFH\\docs\\functions\\premium\\BadgeDisplay-functions.md",
+    "name": "BadgeDisplay-functions.md",
+    "ext": ".md",
+    "size": 251
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "functions\\premium\\DynamicPricing-functions.md",
+    "full_path": "C:\\CFH\\docs\\functions\\premium\\DynamicPricing-functions.md",
+    "name": "DynamicPricing-functions.md",
+    "ext": ".md",
+    "size": 533
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "functions\\premium\\LoyaltyRewards-functions.md",
+    "full_path": "C:\\CFH\\docs\\functions\\premium\\LoyaltyRewards-functions.md",
+    "name": "LoyaltyRewards-functions.md",
+    "ext": ".md",
+    "size": 504
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "functions\\premium\\PostAuctionInsights-functions.md",
+    "full_path": "C:\\CFH\\docs\\functions\\premium\\PostAuctionInsights-functions.md",
+    "name": "PostAuctionInsights-functions.md",
+    "ext": ".md",
+    "size": 565
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "functions\\premium\\SustainabilityMetrics-functions.md",
+    "full_path": "C:\\CFH\\docs\\functions\\premium\\SustainabilityMetrics-functions.md",
+    "name": "SustainabilityMetrics-functions.md",
+    "ext": ".md",
+    "size": 354
+  }
+]

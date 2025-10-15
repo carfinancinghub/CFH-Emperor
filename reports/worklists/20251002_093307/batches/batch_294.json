@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\sellerBucket.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\sellerBucket.tsx",
+    "name": "sellerBucket.tsx",
+    "ext": ".tsx",
+    "size": 620
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\SellerDashboardGrokOld.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\SellerDashboardGrokOld.tsx",
+    "name": "SellerDashboardGrokOld.tsx",
+    "ext": ".tsx",
+    "size": 660
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\SellerEditListing.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\SellerEditListing.tsx",
+    "name": "SellerEditListing.tsx",
+    "ext": ".tsx",
+    "size": 640
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\SellerPricingTool.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\SellerPricingTool.tsx",
+    "name": "SellerPricingTool.tsx",
+    "ext": ".tsx",
+    "size": 640
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\sellerReputationMeta.GrokOld.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\sellerReputationMeta.GrokOld.tsx",
+    "name": "sellerReputationMeta.GrokOld.tsx",
+    "ext": ".tsx",
+    "size": 684
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\sellerReputationMeta.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\sellerReputationMeta.tsx",
+    "name": "sellerReputationMeta.tsx",
+    "ext": ".tsx",
+    "size": 652
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\sellerReputationMetaGrokOld.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\sellerReputationMetaGrokOld.tsx",
+    "name": "sellerReputationMetaGrokOld.tsx",
+    "ext": ".tsx",
+    "size": 680
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\sellerRoutes.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\sellerRoutes.tsx",
+    "name": "sellerRoutes.tsx",
+    "ext": ".tsx",
+    "size": 620
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\SellerViewListings.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\SellerViewListings.tsx",
+    "name": "SellerViewListings.tsx",
+    "ext": ".tsx",
+    "size": 644
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\SEOHelper.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\SEOHelper.tsx",
+    "name": "SEOHelper.tsx",
+    "ext": ".tsx",
+    "size": 608
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\server.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\server.tsx",
+    "name": "server.tsx",
+    "ext": ".tsx",
+    "size": 596
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\SessionValidator.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\SessionValidator.tsx",
+    "name": "SessionValidator.tsx",
+    "ext": ".tsx",
+    "size": 636
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\SessionValidatorOld.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\SessionValidatorOld.tsx",
+    "name": "SessionValidatorOld.tsx",
+    "ext": ".tsx",
+    "size": 648
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\shiftRoutes.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\shiftRoutes.tsx",
+    "name": "shiftRoutes.tsx",
+    "ext": ".tsx",
+    "size": 616
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\Sidebar.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\Sidebar.tsx",
+    "name": "Sidebar.tsx",
+    "ext": ".tsx",
+    "size": 600
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\SmartDelayPredictor.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\SmartDelayPredictor.tsx",
+    "name": "SmartDelayPredictor.tsx",
+    "ext": ".tsx",
+    "size": 648
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\SmartRecommendations.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\SmartRecommendations.tsx",
+    "name": "SmartRecommendations.tsx",
+    "ext": ".tsx",
+    "size": 652
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\SocialGamification.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\SocialGamification.tsx",
+    "name": "SocialGamification.tsx",
+    "ext": ".tsx",
+    "size": 644
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\SocialGamificationOld.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\SocialGamificationOld.tsx",
+    "name": "SocialGamificationOld.tsx",
+    "ext": ".tsx",
+    "size": 656
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\SocialShareHelperOld.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\SocialShareHelperOld.tsx",
+    "name": "SocialShareHelperOld.tsx",
+    "ext": ".tsx",
+    "size": 652
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\SocialShareHelperOld2.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\SocialShareHelperOld2.tsx",
+    "name": "SocialShareHelperOld2.tsx",
+    "ext": ".tsx",
+    "size": 656
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\SocialShareHelperOldOne.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\SocialShareHelperOldOne.tsx",
+    "name": "SocialShareHelperOldOne.tsx",
+    "ext": ".tsx",
+    "size": 664
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\StorageBidMarketplace.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\StorageBidMarketplace.tsx",
+    "name": "StorageBidMarketplace.tsx",
+    "ext": ".tsx",
+    "size": 656
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\submitInspectionToBackend.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\submitInspectionToBackend.tsx",
+    "name": "submitInspectionToBackend.tsx",
+    "ext": ".tsx",
+    "size": 672
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\syncRoutes.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\syncRoutes.tsx",
+    "name": "syncRoutes.tsx",
+    "ext": ".tsx",
+    "size": 612
+  }
+]

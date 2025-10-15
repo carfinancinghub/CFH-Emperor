@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\ValuationLiveFeed.test_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\ValuationLiveFeed.test_1.jsx",
+    "name": "ValuationLiveFeed.test_1.jsx",
+    "ext": ".jsx",
+    "size": 14050
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\VehicleHealthTrendCharts_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\VehicleHealthTrendCharts_1.jsx",
+    "name": "VehicleHealthTrendCharts_1.jsx",
+    "ext": ".jsx",
+    "size": 1998
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\VehicleHealthTrendCharts.test_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\VehicleHealthTrendCharts.test_1.jsx",
+    "name": "VehicleHealthTrendCharts.test_1.jsx",
+    "ext": ".jsx",
+    "size": 597
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\VehicleInspectionModule_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\VehicleInspectionModule_1.jsx",
+    "name": "VehicleInspectionModule_1.jsx",
+    "ext": ".jsx",
+    "size": 4574
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\VehicleInspectionModule.test_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\VehicleInspectionModule.test_1.jsx",
+    "name": "VehicleInspectionModule.test_1.jsx",
+    "ext": ".jsx",
+    "size": 937
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\VINDecoder_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\VINDecoder_1.jsx",
+    "name": "VINDecoder_1.jsx",
+    "ext": ".jsx",
+    "size": 1735
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\VINDecoder.test_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\VINDecoder.test_1.jsx",
+    "name": "VINDecoder.test_1.jsx",
+    "ext": ".jsx",
+    "size": 566
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\VRInspectionViewer_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\VRInspectionViewer_1.jsx",
+    "name": "VRInspectionViewer_1.jsx",
+    "ext": ".jsx",
+    "size": 9527
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\VRTourLauncher_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\VRTourLauncher_1.jsx",
+    "name": "VRTourLauncher_1.jsx",
+    "ext": ".jsx",
+    "size": 2610
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\__smoke__.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\__smoke__.test_1.ts",
+    "name": "__smoke__.test_1.ts",
+    "ext": ".ts",
+    "size": 808
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\$I2H07PR_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\$I2H07PR_1.ts",
+    "name": "$I2H07PR_1.ts",
+    "ext": ".ts",
+    "size": 224
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\$I2H07PR.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\$I2H07PR.test_1.ts",
+    "name": "$I2H07PR.test_1.ts",
+    "ext": ".ts",
+    "size": 39
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\$I2H07PR.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\$I2H07PR.test.ts",
+    "name": "$I2H07PR.test.ts",
+    "ext": ".ts",
+    "size": 39
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\$I2H07PR.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\$I2H07PR.ts",
+    "name": "$I2H07PR.ts",
+    "ext": ".ts",
+    "size": 224
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\$I2TCQIF_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\$I2TCQIF_1.ts",
+    "name": "$I2TCQIF_1.ts",
+    "ext": ".ts",
+    "size": 236
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\$I2TCQIF.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\$I2TCQIF.test_1.ts",
+    "name": "$I2TCQIF.test_1.ts",
+    "ext": ".ts",
+    "size": 39
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\$I2TCQIF.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\$I2TCQIF.test.ts",
+    "name": "$I2TCQIF.test.ts",
+    "ext": ".ts",
+    "size": 39
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\$I2TCQIF.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\$I2TCQIF.ts",
+    "name": "$I2TCQIF.ts",
+    "ext": ".ts",
+    "size": 236
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\$I6521SG_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\$I6521SG_1.ts",
+    "name": "$I6521SG_1.ts",
+    "ext": ".ts",
+    "size": 220
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\$I6521SG.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\$I6521SG.test_1.ts",
+    "name": "$I6521SG.test_1.ts",
+    "ext": ".ts",
+    "size": 39
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\$I6521SG.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\$I6521SG.test.ts",
+    "name": "$I6521SG.test.ts",
+    "ext": ".ts",
+    "size": 39
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\$I6521SG.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\$I6521SG.ts",
+    "name": "$I6521SG.ts",
+    "ext": ".ts",
+    "size": 220
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\$I7Q64XR_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\$I7Q64XR_1.ts",
+    "name": "$I7Q64XR_1.ts",
+    "ext": ".ts",
+    "size": 210
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\$I7Q64XR.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\$I7Q64XR.test_1.ts",
+    "name": "$I7Q64XR.test_1.ts",
+    "ext": ".ts",
+    "size": 39
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\$I7Q64XR.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\$I7Q64XR.test.ts",
+    "name": "$I7Q64XR.test.ts",
+    "ext": ".ts",
+    "size": 39
+  }
+]

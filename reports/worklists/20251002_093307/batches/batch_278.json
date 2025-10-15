@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\ts\\ts_and_test_file_sorted_by_name_v1.md",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\ts\\ts_and_test_file_sorted_by_name_v1.md",
+    "name": "ts_and_test_file_sorted_by_name_v1.md",
+    "ext": ".md",
+    "size": 363089
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\ts\\ts_non_test_sorted_v1.md",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\ts\\ts_non_test_sorted_v1.md",
+    "name": "ts_non_test_sorted_v1.md",
+    "ext": ".md",
+    "size": 291584
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\tsx\\test_tsx_grouped_by_filename_only_v2.md",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\tsx\\test_tsx_grouped_by_filename_only_v2.md",
+    "name": "test_tsx_grouped_by_filename_only_v2.md",
+    "ext": ".md",
+    "size": 70886
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\tsx\\test_tsx_grouped_by_filename_v1.md",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\tsx\\test_tsx_grouped_by_filename_v1.md",
+    "name": "test_tsx_grouped_by_filename_v1.md",
+    "ext": ".md",
+    "size": 70855
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\tsx\\tsx_grouped_by_filename_v1.md",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\tsx\\tsx_grouped_by_filename_v1.md",
+    "name": "tsx_grouped_by_filename_v1.md",
+    "ext": ".md",
+    "size": 47443
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\tsx\\tsx_non_test_sorted_v1.md",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\tsx\\tsx_non_test_sorted_v1.md",
+    "name": "tsx_non_test_sorted_v1.md",
+    "ext": ".md",
+    "size": 38516
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\AdminNotificationCenter.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\AdminNotificationCenter.tsx",
+    "name": "AdminNotificationCenter.tsx",
+    "ext": ".tsx",
+    "size": 664
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\AdminNotificationCenterGrokOld.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\AdminNotificationCenterGrokOld.tsx",
+    "name": "AdminNotificationCenterGrokOld.tsx",
+    "ext": ".tsx",
+    "size": 692
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\AdminPaymentOverview.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\AdminPaymentOverview.tsx",
+    "name": "AdminPaymentOverview.tsx",
+    "ext": ".tsx",
+    "size": 652
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\AdminReportExport.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\AdminReportExport.tsx",
+    "name": "AdminReportExport.tsx",
+    "ext": ".tsx",
+    "size": 640
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\AdminReports.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\AdminReports.tsx",
+    "name": "AdminReports.tsx",
+    "ext": ".tsx",
+    "size": 620
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\AdminRoleAnalytics.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\AdminRoleAnalytics.tsx",
+    "name": "AdminRoleAnalytics.tsx",
+    "ext": ".tsx",
+    "size": 644
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\AdminSummaryPanel.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\AdminSummaryPanel.tsx",
+    "name": "AdminSummaryPanel.tsx",
+    "ext": ".tsx",
+    "size": 640
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\AdminSupportTickets.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\AdminSupportTickets.tsx",
+    "name": "AdminSupportTickets.tsx",
+    "ext": ".tsx",
+    "size": 648
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\AdminSystemHealth.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\AdminSystemHealth.tsx",
+    "name": "AdminSystemHealth.tsx",
+    "ext": ".tsx",
+    "size": 640
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\AdminTitleDashboard.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\AdminTitleDashboard.tsx",
+    "name": "AdminTitleDashboard.tsx",
+    "ext": ".tsx",
+    "size": 648
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\AdminUserManager.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\AdminUserManager.tsx",
+    "name": "AdminUserManager.tsx",
+    "ext": ".tsx",
+    "size": 636
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\AdvancedSmartRecommendations.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\AdvancedSmartRecommendations.tsx",
+    "name": "AdvancedSmartRecommendations.tsx",
+    "ext": ".tsx",
+    "size": 684
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\ai.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\ai.tsx",
+    "name": "ai.tsx",
+    "ext": ".tsx",
+    "size": 580
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\AIAuctionSimulator.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\AIAuctionSimulator.tsx",
+    "name": "AIAuctionSimulator.tsx",
+    "ext": ".tsx",
+    "size": 644
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\AIBadgeOverlay.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\AIBadgeOverlay.tsx",
+    "name": "AIBadgeOverlay.tsx",
+    "ext": ".tsx",
+    "size": 628
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\AIDisputePredictorGrokOld (2).tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\AIDisputePredictorGrokOld (2).tsx",
+    "name": "AIDisputePredictorGrokOld (2).tsx",
+    "ext": ".tsx",
+    "size": 688
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\AIDisputePredictorGrokOld4.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\AIDisputePredictorGrokOld4.tsx",
+    "name": "AIDisputePredictorGrokOld4.tsx",
+    "ext": ".tsx",
+    "size": 676
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\AIEquityFinancer.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\AIEquityFinancer.tsx",
+    "name": "AIEquityFinancer.tsx",
+    "ext": ".tsx",
+    "size": 636
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\AIFraudDetectionGrokOld2.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\AIFraudDetectionGrokOld2.tsx",
+    "name": "AIFraudDetectionGrokOld2.tsx",
+    "ext": ".tsx",
+    "size": 668
+  }
+]

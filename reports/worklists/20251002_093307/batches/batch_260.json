@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\JudgeDashboard.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\JudgeDashboard.copy.js",
+    "name": "JudgeDashboard.copy.js",
+    "ext": ".js",
+    "size": 3023
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\JudgeDisputeVote.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\JudgeDisputeVote.copy.js",
+    "name": "JudgeDisputeVote.copy.js",
+    "ext": ".js",
+    "size": 1183
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\JudgeLeaderboard.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\JudgeLeaderboard.copy.js",
+    "name": "JudgeLeaderboard.copy.js",
+    "ext": ".js",
+    "size": 2003
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\judgeRoutes.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\judgeRoutes.copy.js",
+    "name": "judgeRoutes.copy.js",
+    "ext": ".js",
+    "size": 1525
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\JudgeVotePanel.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\JudgeVotePanel.copy.js",
+    "name": "JudgeVotePanel.copy.js",
+    "ext": ".js",
+    "size": 2796
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\LaunchChecklist.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\LaunchChecklist.copy.js",
+    "name": "LaunchChecklist.copy.js",
+    "ext": ".js",
+    "size": 2319
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\LeaveReview.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\LeaveReview.copy.js",
+    "name": "LeaveReview.copy.js",
+    "ext": ".js",
+    "size": 2593
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\LenderAnalyticsDashboard.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\LenderAnalyticsDashboard.copy.js",
+    "name": "LenderAnalyticsDashboard.copy.js",
+    "ext": ".js",
+    "size": 3304
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\LenderAuctionHistory.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\LenderAuctionHistory.copy.js",
+    "name": "LenderAuctionHistory.copy.js",
+    "ext": ".js",
+    "size": 2517
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\LenderBidDetailCard.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\LenderBidDetailCard.copy.js",
+    "name": "LenderBidDetailCard.copy.js",
+    "ext": ".js",
+    "size": 2259
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\LenderBiddingDashboard.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\LenderBiddingDashboard.copy.js",
+    "name": "LenderBiddingDashboard.copy.js",
+    "ext": ".js",
+    "size": 2797
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\LenderBidInterface.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\LenderBidInterface.copy.js",
+    "name": "LenderBidInterface.copy.js",
+    "ext": ".js",
+    "size": 4630
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\lenderBucket.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\lenderBucket.copy.js",
+    "name": "lenderBucket.copy.js",
+    "ext": ".js",
+    "size": 5966
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\LenderContractReview.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\LenderContractReview.copy.js",
+    "name": "LenderContractReview.copy.js",
+    "ext": ".js",
+    "size": 2952
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\LenderContractSummary.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\LenderContractSummary.copy.js",
+    "name": "LenderContractSummary.copy.js",
+    "ext": ".js",
+    "size": 4903
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\LenderDashboard.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\LenderDashboard.copy.js",
+    "name": "LenderDashboard.copy.js",
+    "ext": ".js",
+    "size": 5343
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\LenderExportCenter.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\LenderExportCenter.copy.js",
+    "name": "LenderExportCenter.copy.js",
+    "ext": ".js",
+    "size": 4711
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\LenderExportPanel.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\LenderExportPanel.copy.js",
+    "name": "LenderExportPanel.copy.js",
+    "ext": ".js",
+    "size": 3115
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\LenderInsightsPanel.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\LenderInsightsPanel.copy.js",
+    "name": "LenderInsightsPanel.copy.js",
+    "ext": ".js",
+    "size": 3258
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\LenderMatchEngineGrokOld4.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\LenderMatchEngineGrokOld4.copy.js",
+    "name": "LenderMatchEngineGrokOld4.copy.js",
+    "ext": ".js",
+    "size": 2375
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\LenderMatchListView.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\LenderMatchListView.copy.js",
+    "name": "LenderMatchListView.copy.js",
+    "ext": ".js",
+    "size": 1758
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\LenderMatchPreviewCard.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\LenderMatchPreviewCard.copy.js",
+    "name": "LenderMatchPreviewCard.copy.js",
+    "ext": ".js",
+    "size": 2355
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\LenderOnboardingForm.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\LenderOnboardingForm.copy.js",
+    "name": "LenderOnboardingForm.copy.js",
+    "ext": ".js",
+    "size": 4622
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\LenderPreApprovalDashboard.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\LenderPreApprovalDashboard.copy.js",
+    "name": "LenderPreApprovalDashboard.copy.js",
+    "ext": ".js",
+    "size": 5247
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\LenderProfilePage.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\LenderProfilePage.copy.js",
+    "name": "LenderProfilePage.copy.js",
+    "ext": ".js",
+    "size": 4355
+  }
+]

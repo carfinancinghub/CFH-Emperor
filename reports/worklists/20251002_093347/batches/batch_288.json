@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\inspectionPdfController.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\inspectionPdfController.tsx",
+    "name": "inspectionPdfController.tsx",
+    "ext": ".tsx",
+    "size": 664
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\InspectionReportList.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\InspectionReportList.tsx",
+    "name": "InspectionReportList.tsx",
+    "ext": ".tsx",
+    "size": 652
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\inspectionReportRoutes.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\inspectionReportRoutes.tsx",
+    "name": "inspectionReportRoutes.tsx",
+    "ext": ".tsx",
+    "size": 660
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\InspectionReportViewer.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\InspectionReportViewer.tsx",
+    "name": "InspectionReportViewer.tsx",
+    "ext": ".tsx",
+    "size": 660
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\InspectionReportViewerPage.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\InspectionReportViewerPage.tsx",
+    "name": "InspectionReportViewerPage.tsx",
+    "ext": ".tsx",
+    "size": 676
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\inspectionRoutes.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\inspectionRoutes.tsx",
+    "name": "inspectionRoutes.tsx",
+    "ext": ".tsx",
+    "size": 636
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\inspections.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\inspections.tsx",
+    "name": "inspections.tsx",
+    "ext": ".tsx",
+    "size": 616
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\InspectionSearchBar.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\InspectionSearchBar.tsx",
+    "name": "InspectionSearchBar.tsx",
+    "ext": ".tsx",
+    "size": 648
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\inspectionSubmitRoute.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\inspectionSubmitRoute.tsx",
+    "name": "inspectionSubmitRoute.tsx",
+    "ext": ".tsx",
+    "size": 656
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\InstitutionalWaiverModal.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\InstitutionalWaiverModal.tsx",
+    "name": "InstitutionalWaiverModal.tsx",
+    "ext": ".tsx",
+    "size": 668
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\InsuranceBidPortal.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\InsuranceBidPortal.tsx",
+    "name": "InsuranceBidPortal.tsx",
+    "ext": ".tsx",
+    "size": 644
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\InsuranceDashboard.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\InsuranceDashboard.tsx",
+    "name": "InsuranceDashboard.tsx",
+    "ext": ".tsx",
+    "size": 644
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\InsuranceDeploymentChecklist.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\InsuranceDeploymentChecklist.tsx",
+    "name": "InsuranceDeploymentChecklist.tsx",
+    "ext": ".tsx",
+    "size": 684
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\InsuranceProvider.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\InsuranceProvider.tsx",
+    "name": "InsuranceProvider.tsx",
+    "ext": ".tsx",
+    "size": 640
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\InsuranceProviderDashboard.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\InsuranceProviderDashboard.tsx",
+    "name": "InsuranceProviderDashboard.tsx",
+    "ext": ".tsx",
+    "size": 676
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\insuranceRoutes.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\insuranceRoutes.tsx",
+    "name": "insuranceRoutes.tsx",
+    "ext": ".tsx",
+    "size": 632
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\insurerBucket.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\insurerBucket.tsx",
+    "name": "insurerBucket.tsx",
+    "ext": ".tsx",
+    "size": 624
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\InsurerDashboard.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\InsurerDashboard.tsx",
+    "name": "InsurerDashboard.tsx",
+    "ext": ".tsx",
+    "size": 636
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\integrationReportValidation.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\integrationReportValidation.tsx",
+    "name": "integrationReportValidation.tsx",
+    "ext": ".tsx",
+    "size": 680
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\Judge.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\Judge.tsx",
+    "name": "Judge.tsx",
+    "ext": ".tsx",
+    "size": 592
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\JudgeBadgeRenderer.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\JudgeBadgeRenderer.tsx",
+    "name": "JudgeBadgeRenderer.tsx",
+    "ext": ".tsx",
+    "size": 644
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\judgeBucket.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\judgeBucket.tsx",
+    "name": "judgeBucket.tsx",
+    "ext": ".tsx",
+    "size": 616
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\JudgeController.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\JudgeController.tsx",
+    "name": "JudgeController.tsx",
+    "ext": ".tsx",
+    "size": 632
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\JudgeDashboard.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\JudgeDashboard.tsx",
+    "name": "JudgeDashboard.tsx",
+    "ext": ".tsx",
+    "size": 628
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\JudgeDisputeVote.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\JudgeDisputeVote.tsx",
+    "name": "JudgeDisputeVote.tsx",
+    "ext": ".tsx",
+    "size": 636
+  }
+]

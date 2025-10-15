@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AuctionNotifier.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AuctionNotifier.test.ts",
+    "name": "AuctionNotifier.test.ts",
+    "ext": ".ts",
+    "size": 46
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AuctionPerformance_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AuctionPerformance_1.ts",
+    "name": "AuctionPerformance_1.ts",
+    "ext": ".ts",
+    "size": 2724
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AuctionPerformance.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AuctionPerformance.test_1.ts",
+    "name": "AuctionPerformance.test_1.ts",
+    "ext": ".ts",
+    "size": 49
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AuctionPerformance.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AuctionPerformance.test.ts",
+    "name": "AuctionPerformance.test.ts",
+    "ext": ".ts",
+    "size": 49
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AuctionPerformance.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AuctionPerformance.ts",
+    "name": "AuctionPerformance.ts",
+    "ext": ".ts",
+    "size": 2724
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AuctionReputationTracker_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AuctionReputationTracker_1.ts",
+    "name": "AuctionReputationTracker_1.ts",
+    "ext": ".ts",
+    "size": 3678
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AuctionReputationTracker.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AuctionReputationTracker.test_1.ts",
+    "name": "AuctionReputationTracker.test_1.ts",
+    "ext": ".ts",
+    "size": 3288
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AuctionReputationTracker.test.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AuctionReputationTracker.test.test_1.ts",
+    "name": "AuctionReputationTracker.test.test_1.ts",
+    "ext": ".ts",
+    "size": 60
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AuctionReputationTracker.test.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AuctionReputationTracker.test.test.ts",
+    "name": "AuctionReputationTracker.test.test.ts",
+    "ext": ".ts",
+    "size": 60
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AuctionReputationTracker.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AuctionReputationTracker.test.ts",
+    "name": "AuctionReputationTracker.test.ts",
+    "ext": ".ts",
+    "size": 55
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AuctionReputationTracker.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AuctionReputationTracker.ts",
+    "name": "AuctionReputationTracker.ts",
+    "ext": ".ts",
+    "size": 3678
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\auctionRoutes.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\auctionRoutes.test_1.ts",
+    "name": "auctionRoutes.test_1.ts",
+    "ext": ".ts",
+    "size": 7703
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\auctions_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\auctions_1.ts",
+    "name": "auctions_1.ts",
+    "ext": ".ts",
+    "size": 3237
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\auctions.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\auctions.test_1.ts",
+    "name": "auctions.test_1.ts",
+    "ext": ".ts",
+    "size": 2783
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\auctions.test.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\auctions.test.test_1.ts",
+    "name": "auctions.test.test_1.ts",
+    "ext": ".ts",
+    "size": 44
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\auctions.test.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\auctions.test.test.ts",
+    "name": "auctions.test.test.ts",
+    "ext": ".ts",
+    "size": 44
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\auctions.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\auctions.ts",
+    "name": "auctions.ts",
+    "ext": ".ts",
+    "size": 3237
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AuctionScheduler_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AuctionScheduler_1.ts",
+    "name": "AuctionScheduler_1.ts",
+    "ext": ".ts",
+    "size": 2461
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AuctionScheduler.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AuctionScheduler.test_1.ts",
+    "name": "AuctionScheduler.test_1.ts",
+    "ext": ".ts",
+    "size": 4362
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AuctionScheduler.test.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AuctionScheduler.test.test_1.ts",
+    "name": "AuctionScheduler.test.test_1.ts",
+    "ext": ".ts",
+    "size": 52
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AuctionScheduler.test.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AuctionScheduler.test.test.ts",
+    "name": "AuctionScheduler.test.test.ts",
+    "ext": ".ts",
+    "size": 52
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AuctionScheduler.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AuctionScheduler.test.ts",
+    "name": "AuctionScheduler.test.ts",
+    "ext": ".ts",
+    "size": 47
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\auctionService_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\auctionService_1.ts",
+    "name": "auctionService_1.ts",
+    "ext": ".ts",
+    "size": 12937
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AuctionTemplateEngine_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AuctionTemplateEngine_1.ts",
+    "name": "AuctionTemplateEngine_1.ts",
+    "ext": ".ts",
+    "size": 2093
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AuctionTemplateEngine.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AuctionTemplateEngine.test_1.ts",
+    "name": "AuctionTemplateEngine.test_1.ts",
+    "ext": ".ts",
+    "size": 52
+  }
+]

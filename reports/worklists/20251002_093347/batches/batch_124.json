@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\Button_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\Button_1.ts",
+    "name": "Button_1.ts",
+    "ext": ".ts",
+    "size": 1742
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\Button.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\Button.test_1.ts",
+    "name": "Button.test_1.ts",
+    "ext": ".ts",
+    "size": 37
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\Button.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\Button.test.ts",
+    "name": "Button.test.ts",
+    "ext": ".ts",
+    "size": 37
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\Button.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\Button.ts",
+    "name": "Button.ts",
+    "ext": ".ts",
+    "size": 1742
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\BuyerAuctionHistory_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\BuyerAuctionHistory_1.ts",
+    "name": "BuyerAuctionHistory_1.ts",
+    "ext": ".ts",
+    "size": 2754
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\BuyerAuctionHistory.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\BuyerAuctionHistory.test_1.ts",
+    "name": "BuyerAuctionHistory.test_1.ts",
+    "ext": ".ts",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\BuyerAuctionHistory.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\BuyerAuctionHistory.test.ts",
+    "name": "BuyerAuctionHistory.test.ts",
+    "ext": ".ts",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\BuyerCarCompare_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\BuyerCarCompare_1.ts",
+    "name": "BuyerCarCompare_1.ts",
+    "ext": ".ts",
+    "size": 9632
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\BuyerCarCompare.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\BuyerCarCompare.test_1.ts",
+    "name": "BuyerCarCompare.test_1.ts",
+    "ext": ".ts",
+    "size": 46
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\BuyerCarCompare.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\BuyerCarCompare.test.ts",
+    "name": "BuyerCarCompare.test.ts",
+    "ext": ".ts",
+    "size": 46
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\buyerExportUtils_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\buyerExportUtils_1.ts",
+    "name": "buyerExportUtils_1.ts",
+    "ext": ".ts",
+    "size": 303
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\BuyerInspectionStatus_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\BuyerInspectionStatus_1.ts",
+    "name": "BuyerInspectionStatus_1.ts",
+    "ext": ".ts",
+    "size": 4500
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\BuyerInspectionStatus.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\BuyerInspectionStatus.test_1.ts",
+    "name": "BuyerInspectionStatus.test_1.ts",
+    "ext": ".ts",
+    "size": 52
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\BuyerInspectionStatus.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\BuyerInspectionStatus.test.ts",
+    "name": "BuyerInspectionStatus.test.ts",
+    "ext": ".ts",
+    "size": 52
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\BuyerInspectionStatus.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\BuyerInspectionStatus.ts",
+    "name": "BuyerInspectionStatus.ts",
+    "ext": ".ts",
+    "size": 4500
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\BuyerLenderResults.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\BuyerLenderResults.test_1.ts",
+    "name": "BuyerLenderResults.test_1.ts",
+    "ext": ".ts",
+    "size": 3310
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\BuyerLenderResults.test.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\BuyerLenderResults.test.test_1.ts",
+    "name": "BuyerLenderResults.test.test_1.ts",
+    "ext": ".ts",
+    "size": 54
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\BuyerLenderResults.test.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\BuyerLenderResults.test.test.ts",
+    "name": "BuyerLenderResults.test.test.ts",
+    "ext": ".ts",
+    "size": 54
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\cacheManager_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\cacheManager_1.ts",
+    "name": "cacheManager_1.ts",
+    "ext": ".ts",
+    "size": 215
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\CacheService_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\CacheService_1.ts",
+    "name": "CacheService_1.ts",
+    "ext": ".ts",
+    "size": 167
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\car.validation_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\car.validation_1.ts",
+    "name": "car.validation_1.ts",
+    "ext": ".ts",
+    "size": 2100
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\carController_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\carController_1.ts",
+    "name": "carController_1.ts",
+    "ext": ".ts",
+    "size": 1877
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\carController.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\carController.test_1.ts",
+    "name": "carController.test_1.ts",
+    "ext": ".ts",
+    "size": 44
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\carController.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\carController.test.ts",
+    "name": "carController.test.ts",
+    "ext": ".ts",
+    "size": 44
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\carController.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\carController.ts",
+    "name": "carController.ts",
+    "ext": ".ts",
+    "size": 1877
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\EquityFlowOrchestrator_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\EquityFlowOrchestrator_1.ts",
+    "name": "EquityFlowOrchestrator_1.ts",
+    "ext": ".ts",
+    "size": 198
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\equityFlowTasks_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\equityFlowTasks_1.ts",
+    "name": "equityFlowTasks_1.ts",
+    "ext": ".ts",
+    "size": 1729
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\equityFlowTasks.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\equityFlowTasks.test_1.ts",
+    "name": "equityFlowTasks.test_1.ts",
+    "ext": ".ts",
+    "size": 46
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\equityFlowTasks.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\equityFlowTasks.test.ts",
+    "name": "equityFlowTasks.test.ts",
+    "ext": ".ts",
+    "size": 46
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\equityFlowTasks.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\equityFlowTasks.ts",
+    "name": "equityFlowTasks.ts",
+    "ext": ".ts",
+    "size": 1729
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\equityHubRoutes_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\equityHubRoutes_1.ts",
+    "name": "equityHubRoutes_1.ts",
+    "ext": ".ts",
+    "size": 1804
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\equityHubRoutes.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\equityHubRoutes.test_1.ts",
+    "name": "equityHubRoutes.test_1.ts",
+    "ext": ".ts",
+    "size": 46
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\equityHubRoutes.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\equityHubRoutes.test.ts",
+    "name": "equityHubRoutes.test.ts",
+    "ext": ".ts",
+    "size": 46
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\equityHubRoutes.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\equityHubRoutes.ts",
+    "name": "equityHubRoutes.ts",
+    "ext": ".ts",
+    "size": 1804
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\ErrorHandler_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\ErrorHandler_1.ts",
+    "name": "ErrorHandler_1.ts",
+    "ext": ".ts",
+    "size": 1798
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\ErrorHandler.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\ErrorHandler.test_1.ts",
+    "name": "ErrorHandler.test_1.ts",
+    "ext": ".ts",
+    "size": 3212
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\ErrorHandler.test.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\ErrorHandler.test.test_1.ts",
+    "name": "ErrorHandler.test.test_1.ts",
+    "ext": ".ts",
+    "size": 48
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\ErrorHandler.test.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\ErrorHandler.test.test.ts",
+    "name": "ErrorHandler.test.test.ts",
+    "ext": ".ts",
+    "size": 48
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\ErrorHandler.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\ErrorHandler.test.ts",
+    "name": "ErrorHandler.test.ts",
+    "ext": ".ts",
+    "size": 43
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\ErrorHandler.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\ErrorHandler.ts",
+    "name": "ErrorHandler.ts",
+    "ext": ".ts",
+    "size": 1798
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\errors_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\errors_1.ts",
+    "name": "errors_1.ts",
+    "ext": ".ts",
+    "size": 139
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\escrow.integration.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\escrow.integration.test_1.ts",
+    "name": "escrow.integration.test_1.ts",
+    "ext": ".ts",
+    "size": 627
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\escrow.model_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\escrow.model_1.ts",
+    "name": "escrow.model_1.ts",
+    "ext": ".ts",
+    "size": 110
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\escrow.model.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\escrow.model.test_1.ts",
+    "name": "escrow.model.test_1.ts",
+    "ext": ".ts",
+    "size": 43
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\escrow.model.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\escrow.model.test.ts",
+    "name": "escrow.model.test.ts",
+    "ext": ".ts",
+    "size": 43
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\escrow.model.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\escrow.model.ts",
+    "name": "escrow.model.ts",
+    "ext": ".ts",
+    "size": 110
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\escrow.repository_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\escrow.repository_1.ts",
+    "name": "escrow.repository_1.ts",
+    "ext": ".ts",
+    "size": 861
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\escrow.repository.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\escrow.repository.test_1.ts",
+    "name": "escrow.repository.test_1.ts",
+    "ext": ".ts",
+    "size": 48
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\escrow.repository.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\escrow.repository.test.ts",
+    "name": "escrow.repository.test.ts",
+    "ext": ".ts",
+    "size": 48
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\escrow.repository.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\escrow.repository.ts",
+    "name": "escrow.repository.ts",
+    "ext": ".ts",
+    "size": 861
+  }
+]

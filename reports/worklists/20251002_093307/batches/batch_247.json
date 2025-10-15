@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\vote.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\vote.ts",
+    "name": "vote.ts",
+    "ext": ".ts",
+    "size": 2628
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\VRService.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\VRService.ts",
+    "name": "VRService.ts",
+    "ext": ".ts",
+    "size": 1464
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\watchlist.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\watchlist.ts",
+    "name": "watchlist.ts",
+    "ext": ".ts",
+    "size": 3230
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\watchlistController.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\watchlistController.ts",
+    "name": "watchlistController.ts",
+    "ext": ".ts",
+    "size": 2742
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\watchlistFlow.spec.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\watchlistFlow.spec.ts",
+    "name": "watchlistFlow.spec.ts",
+    "ext": ".ts",
+    "size": 1275
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\WatchlistPage.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\WatchlistPage.tsx",
+    "name": "WatchlistPage.tsx",
+    "ext": ".tsx",
+    "size": 2028
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\watchlistRoutes.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\watchlistRoutes.ts",
+    "name": "watchlistRoutes.ts",
+    "ext": ".ts",
+    "size": 941
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TSX\\AdminUserManagerPage.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TSX\\AdminUserManagerPage.tsx",
+    "name": "AdminUserManagerPage.tsx",
+    "ext": ".tsx",
+    "size": 7702
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TSX\\AuctionDetailPage.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TSX\\AuctionDetailPage.tsx",
+    "name": "AuctionDetailPage.tsx",
+    "ext": ".tsx",
+    "size": 9471
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TSX\\AuctionListPage.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TSX\\AuctionListPage.tsx",
+    "name": "AuctionListPage.tsx",
+    "ext": ".tsx",
+    "size": 6229
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TSX\\AuctionPage.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TSX\\AuctionPage.tsx",
+    "name": "AuctionPage.tsx",
+    "ext": ".tsx",
+    "size": 3700
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TSX\\ConversationView.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TSX\\ConversationView.tsx",
+    "name": "ConversationView.tsx",
+    "ext": ".tsx",
+    "size": 2337
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TSX\\ForumPage.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TSX\\ForumPage.tsx",
+    "name": "ForumPage.tsx",
+    "ext": ".tsx",
+    "size": 2461
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TSX\\ListingForm.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TSX\\ListingForm.tsx",
+    "name": "ListingForm.tsx",
+    "ext": ".tsx",
+    "size": 11081
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TSX\\ManageListings.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TSX\\ManageListings.tsx",
+    "name": "ManageListings.tsx",
+    "ext": ".tsx",
+    "size": 4785
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TSX\\MessagingInbox.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TSX\\MessagingInbox.tsx",
+    "name": "MessagingInbox.tsx",
+    "ext": ".tsx",
+    "size": 2097
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TSX\\MyDisputesPage.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TSX\\MyDisputesPage.tsx",
+    "name": "MyDisputesPage.tsx",
+    "ext": ".tsx",
+    "size": 2602
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TSX\\Onboarding.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TSX\\Onboarding.test.tsx",
+    "name": "Onboarding.test.tsx",
+    "ext": ".tsx",
+    "size": 3180
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TSX\\Onboarding.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TSX\\Onboarding.tsx",
+    "name": "Onboarding.tsx",
+    "ext": ".tsx",
+    "size": 2672
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TSX\\PaymentForm.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TSX\\PaymentForm.test.tsx",
+    "name": "PaymentForm.test.tsx",
+    "ext": ".tsx",
+    "size": 3207
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TSX\\ProfilePage.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TSX\\ProfilePage.tsx",
+    "name": "ProfilePage.tsx",
+    "ext": ".tsx",
+    "size": 7716
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TSX\\RewardContext.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TSX\\RewardContext.tsx",
+    "name": "RewardContext.tsx",
+    "ext": ".tsx",
+    "size": 3551
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TSX\\SellerListingsPage.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TSX\\SellerListingsPage.tsx",
+    "name": "SellerListingsPage.tsx",
+    "ext": ".tsx",
+    "size": 3135
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TSX\\SocialShare.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TSX\\SocialShare.tsx",
+    "name": "SocialShare.tsx",
+    "ext": ".tsx",
+    "size": 3097
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TSX\\TransactionDetailPage.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TSX\\TransactionDetailPage.tsx",
+    "name": "TransactionDetailPage.tsx",
+    "ext": ".tsx",
+    "size": 3759
+  }
+]

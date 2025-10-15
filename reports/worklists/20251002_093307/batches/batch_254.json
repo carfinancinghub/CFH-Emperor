@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\ContractIndexViewer.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\ContractIndexViewer.copy.js",
+    "name": "ContractIndexViewer.copy.js",
+    "ext": ".js",
+    "size": 3224
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\ContractPDFViewer.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\ContractPDFViewer.copy.js",
+    "name": "ContractPDFViewer.copy.js",
+    "ext": ".js",
+    "size": 1666
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\contractReviewController.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\contractReviewController.copy.js",
+    "name": "contractReviewController.copy.js",
+    "ext": ".js",
+    "size": 2145
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\ContractReviewPortal.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\ContractReviewPortal.copy.js",
+    "name": "ContractReviewPortal.copy.js",
+    "ext": ".js",
+    "size": 2437
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\ContractSignaturePad.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\ContractSignaturePad.copy.js",
+    "name": "ContractSignaturePad.copy.js",
+    "ext": ".js",
+    "size": 2043
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\ContractSigningPanel.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\ContractSigningPanel.copy.js",
+    "name": "ContractSigningPanel.copy.js",
+    "ext": ".js",
+    "size": 1959
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\ContractViewer.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\ContractViewer.copy.js",
+    "name": "ContractViewer.copy.js",
+    "ext": ".js",
+    "size": 3090
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\ContractViewerGrokOld.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\ContractViewerGrokOld.copy.js",
+    "name": "ContractViewerGrokOld.copy.js",
+    "ext": ".js",
+    "size": 3101
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\conversations.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\conversations.copy.js",
+    "name": "conversations.copy.js",
+    "ext": ".js",
+    "size": 1410
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\createAdminUser.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\createAdminUser.copy.js",
+    "name": "createAdminUser.copy.js",
+    "ext": ".js",
+    "size": 1369
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\CreateListing.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\CreateListing.copy.js",
+    "name": "CreateListing.copy.js",
+    "ext": ".js",
+    "size": 2439
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\CreateListingForm.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\CreateListingForm.copy.js",
+    "name": "CreateListingForm.copy.js",
+    "ext": ".js",
+    "size": 1505
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\cronEscrowAudit.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\cronEscrowAudit.copy.js",
+    "name": "cronEscrowAudit.copy.js",
+    "ext": ".js",
+    "size": 1251
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\CrossBorderCommerce.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\CrossBorderCommerce.copy.js",
+    "name": "CrossBorderCommerce.copy.js",
+    "ext": ".js",
+    "size": 2508
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\CryptoPayment.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\CryptoPayment.copy.js",
+    "name": "CryptoPayment.copy.js",
+    "ext": ".js",
+    "size": 1835
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\css-placeholder-shown.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\css-placeholder-shown.copy.js",
+    "name": "css-placeholder-shown.copy.js",
+    "ext": ".js",
+    "size": 1930
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\css-placeholder.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\css-placeholder.copy.js",
+    "name": "css-placeholder.copy.js",
+    "ext": ".js",
+    "size": 1946
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\Dashboard.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\Dashboard.copy.js",
+    "name": "Dashboard.copy.js",
+    "ext": ".js",
+    "size": 1504
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\db.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\db.copy.js",
+    "name": "db.copy.js",
+    "ext": ".js",
+    "size": 1248
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\DDoSProtector.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\DDoSProtector.copy.js",
+    "name": "DDoSProtector.copy.js",
+    "ext": ".js",
+    "size": 1640
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\deliveries.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\deliveries.copy.js",
+    "name": "deliveries.copy.js",
+    "ext": ".js",
+    "size": 1636
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\Delivery.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\Delivery.copy.js",
+    "name": "Delivery.copy.js",
+    "ext": ".js",
+    "size": 1031
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\deliveryClaimRoutes.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\deliveryClaimRoutes.copy.js",
+    "name": "deliveryClaimRoutes.copy.js",
+    "ext": ".js",
+    "size": 1138
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\DeliveryModal.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\DeliveryModal.copy.js",
+    "name": "DeliveryModal.copy.js",
+    "ext": ".js",
+    "size": 2165
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\Dispute.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\Dispute.copy.js",
+    "name": "Dispute.copy.js",
+    "ext": ".js",
+    "size": 1515
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\buyer\\BuyerCarCompare.css",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\buyer\\BuyerCarCompare.css",
+    "name": "BuyerCarCompare.css",
+    "ext": ".css",
+    "size": 2042
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\buyer\\BuyerCarCompare.js",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\buyer\\BuyerCarCompare.js",
+    "name": "BuyerCarCompare.js",
+    "ext": ".js",
+    "size": 9557
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\buyer\\BuyerCarCompare.ts",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\buyer\\BuyerCarCompare.ts",
+    "name": "BuyerCarCompare.ts",
+    "ext": ".ts",
+    "size": 12187
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\buyer\\BuyerCommunityForum.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\buyer\\BuyerCommunityForum.jsx",
+    "name": "BuyerCommunityForum.jsx",
+    "ext": ".jsx",
+    "size": 4629
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\buyer\\BuyerCommunityForum.tsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\buyer\\BuyerCommunityForum.tsx",
+    "name": "BuyerCommunityForum.tsx",
+    "ext": ".tsx",
+    "size": 6172
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\buyer\\BuyerContractPreviewer.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\buyer\\BuyerContractPreviewer.jsx",
+    "name": "BuyerContractPreviewer.jsx",
+    "ext": ".jsx",
+    "size": 5655
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\buyer\\BuyerContractPreviewer.tsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\buyer\\BuyerContractPreviewer.tsx",
+    "name": "BuyerContractPreviewer.tsx",
+    "ext": ".tsx",
+    "size": 7383
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\buyer\\BuyerDashboard.css",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\buyer\\BuyerDashboard.css",
+    "name": "BuyerDashboard.css",
+    "ext": ".css",
+    "size": 2149
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\buyer\\BuyerDashboard.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\buyer\\BuyerDashboard.jsx",
+    "name": "BuyerDashboard.jsx",
+    "ext": ".jsx",
+    "size": 20734
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\buyer\\BuyerDeliveryConfirmation.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\buyer\\BuyerDeliveryConfirmation.jsx",
+    "name": "BuyerDeliveryConfirmation.jsx",
+    "ext": ".jsx",
+    "size": 1718
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\buyer\\BuyerEmailSettings.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\buyer\\BuyerEmailSettings.jsx",
+    "name": "BuyerEmailSettings.jsx",
+    "ext": ".jsx",
+    "size": 4501
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\buyer\\BuyerEscrowStatus.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\buyer\\BuyerEscrowStatus.jsx",
+    "name": "BuyerEscrowStatus.jsx",
+    "ext": ".jsx",
+    "size": 5261
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\buyer\\BuyerFinancingModal.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\buyer\\BuyerFinancingModal.jsx",
+    "name": "BuyerFinancingModal.jsx",
+    "ext": ".jsx",
+    "size": 4087
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\buyer\\BuyerInspectionStatus.js",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\buyer\\BuyerInspectionStatus.js",
+    "name": "BuyerInspectionStatus.js",
+    "ext": ".js",
+    "size": 4419
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\buyer\\BuyerLenderResults.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\buyer\\BuyerLenderResults.jsx",
+    "name": "BuyerLenderResults.jsx",
+    "ext": ".jsx",
+    "size": 5062
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\buyer\\BuyerLoyaltyDashboard.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\buyer\\BuyerLoyaltyDashboard.jsx",
+    "name": "BuyerLoyaltyDashboard.jsx",
+    "ext": ".jsx",
+    "size": 7476
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\buyer\\BuyerNotificationCenter.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\buyer\\BuyerNotificationCenter.jsx",
+    "name": "BuyerNotificationCenter.jsx",
+    "ext": ".jsx",
+    "size": 6536
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\buyer\\BuyerOnboardingGuide.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\buyer\\BuyerOnboardingGuide.jsx",
+    "name": "BuyerOnboardingGuide.jsx",
+    "ext": ".jsx",
+    "size": 8088
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\buyer\\BuyerPreferencesForm.css",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\buyer\\BuyerPreferencesForm.css",
+    "name": "BuyerPreferencesForm.css",
+    "ext": ".css",
+    "size": 1384
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\buyer\\BuyerPreferencesForm.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\buyer\\BuyerPreferencesForm.jsx",
+    "name": "BuyerPreferencesForm.jsx",
+    "ext": ".jsx",
+    "size": 5503
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\buyer\\BuyerProgressBar.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\buyer\\BuyerProgressBar.jsx",
+    "name": "BuyerProgressBar.jsx",
+    "ext": ".jsx",
+    "size": 1020
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\buyer\\BuyerSearchPreferences.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\buyer\\BuyerSearchPreferences.jsx",
+    "name": "BuyerSearchPreferences.jsx",
+    "ext": ".jsx",
+    "size": 4102
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\buyer\\FinancingOffer.js",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\buyer\\FinancingOffer.js",
+    "name": "FinancingOffer.js",
+    "ext": ".js",
+    "size": 1078
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\buyer\\FinancingOptionsChart.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\buyer\\FinancingOptionsChart.jsx",
+    "name": "FinancingOptionsChart.jsx",
+    "ext": ".jsx",
+    "size": 3769
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\chat\\AuditTrail.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\chat\\AuditTrail.jsx",
+    "name": "AuditTrail.jsx",
+    "ext": ".jsx",
+    "size": 921
+  }
+]

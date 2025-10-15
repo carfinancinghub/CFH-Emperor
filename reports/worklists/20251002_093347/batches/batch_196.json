@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\BuyerDashboard_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\BuyerDashboard_1.tsx",
+    "name": "BuyerDashboard_1.tsx",
+    "ext": ".tsx",
+    "size": 20809
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\BuyerDashboard.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\BuyerDashboard.test_1.tsx",
+    "name": "BuyerDashboard.test_1.tsx",
+    "ext": ".tsx",
+    "size": 46
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\BuyerDashboard.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\BuyerDashboard.test.tsx",
+    "name": "BuyerDashboard.test.tsx",
+    "ext": ".tsx",
+    "size": 46
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\BuyerDeliveryConfirmation_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\BuyerDeliveryConfirmation_1.tsx",
+    "name": "BuyerDeliveryConfirmation_1.tsx",
+    "ext": ".tsx",
+    "size": 1804
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\BuyerDeliveryConfirmation.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\BuyerDeliveryConfirmation.test_1.tsx",
+    "name": "BuyerDeliveryConfirmation.test_1.tsx",
+    "ext": ".tsx",
+    "size": 57
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\BuyerDeliveryConfirmation.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\BuyerDeliveryConfirmation.test.tsx",
+    "name": "BuyerDeliveryConfirmation.test.tsx",
+    "ext": ".tsx",
+    "size": 57
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\BuyerDeliveryTracker.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\BuyerDeliveryTracker.test_1.tsx",
+    "name": "BuyerDeliveryTracker.test_1.tsx",
+    "ext": ".tsx",
+    "size": 1759
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\BuyerDeliveryTracker.test.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\BuyerDeliveryTracker.test.test_1.tsx",
+    "name": "BuyerDeliveryTracker.test.test_1.tsx",
+    "ext": ".tsx",
+    "size": 57
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\BuyerDeliveryTracker.test.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\BuyerDeliveryTracker.test.test.tsx",
+    "name": "BuyerDeliveryTracker.test.test.tsx",
+    "ext": ".tsx",
+    "size": 57
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\BuyerDeliveryTracker.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\BuyerDeliveryTracker.test.tsx",
+    "name": "BuyerDeliveryTracker.test.tsx",
+    "ext": ".tsx",
+    "size": 1759
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\BuyerEmailSettings_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\BuyerEmailSettings_1.tsx",
+    "name": "BuyerEmailSettings_1.tsx",
+    "ext": ".tsx",
+    "size": 4580
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\BuyerEmailSettings.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\BuyerEmailSettings.test_1.tsx",
+    "name": "BuyerEmailSettings.test_1.tsx",
+    "ext": ".tsx",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\BuyerEmailSettings.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\BuyerEmailSettings.test.tsx",
+    "name": "BuyerEmailSettings.test.tsx",
+    "ext": ".tsx",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\BuyerEmailSettings.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\BuyerEmailSettings.tsx",
+    "name": "BuyerEmailSettings.tsx",
+    "ext": ".tsx",
+    "size": 4580
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\BuyerEscrowStatus_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\BuyerEscrowStatus_1.tsx",
+    "name": "BuyerEscrowStatus_1.tsx",
+    "ext": ".tsx",
+    "size": 5339
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\BuyerEscrowStatus.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\BuyerEscrowStatus.test_1.tsx",
+    "name": "BuyerEscrowStatus.test_1.tsx",
+    "ext": ".tsx",
+    "size": 49
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\BuyerEscrowStatus.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\BuyerEscrowStatus.test.tsx",
+    "name": "BuyerEscrowStatus.test.tsx",
+    "ext": ".tsx",
+    "size": 49
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\BuyerEscrowStatus.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\BuyerEscrowStatus.tsx",
+    "name": "BuyerEscrowStatus.tsx",
+    "ext": ".tsx",
+    "size": 5339
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\BuyerFinancingModal_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\BuyerFinancingModal_1.tsx",
+    "name": "BuyerFinancingModal_1.tsx",
+    "ext": ".tsx",
+    "size": 4167
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\BuyerFinancingModal.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\BuyerFinancingModal.test_1.tsx",
+    "name": "BuyerFinancingModal.test_1.tsx",
+    "ext": ".tsx",
+    "size": 51
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\BuyerFinancingModal.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\BuyerFinancingModal.test.tsx",
+    "name": "BuyerFinancingModal.test.tsx",
+    "ext": ".tsx",
+    "size": 51
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\BuyerFinancingModal.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\BuyerFinancingModal.tsx",
+    "name": "BuyerFinancingModal.tsx",
+    "ext": ".tsx",
+    "size": 4167
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\BuyerFinancingOffers.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\BuyerFinancingOffers.test_1.tsx",
+    "name": "BuyerFinancingOffers.test_1.tsx",
+    "ext": ".tsx",
+    "size": 1813
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\BuyerFinancingOffers.test.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\BuyerFinancingOffers.test.test_1.tsx",
+    "name": "BuyerFinancingOffers.test.test_1.tsx",
+    "ext": ".tsx",
+    "size": 57
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\BuyerFinancingOffers.test.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\BuyerFinancingOffers.test.test.tsx",
+    "name": "BuyerFinancingOffers.test.test.tsx",
+    "ext": ".tsx",
+    "size": 57
+  }
+]

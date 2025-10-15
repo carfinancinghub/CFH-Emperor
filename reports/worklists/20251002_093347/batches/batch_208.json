@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\HaulerSummaryCard_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\HaulerSummaryCard_1.tsx",
+    "name": "HaulerSummaryCard_1.tsx",
+    "ext": ".tsx",
+    "size": 2353
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\HaulerSummaryCard.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\HaulerSummaryCard.test_1.tsx",
+    "name": "HaulerSummaryCard.test_1.tsx",
+    "ext": ".tsx",
+    "size": 49
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\HaulerSummaryCard.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\HaulerSummaryCard.test.tsx",
+    "name": "HaulerSummaryCard.test.tsx",
+    "ext": ".tsx",
+    "size": 49
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\HaulerSummaryCard.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\HaulerSummaryCard.tsx",
+    "name": "HaulerSummaryCard.tsx",
+    "ext": ".tsx",
+    "size": 2353
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\HeatmapChart_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\HeatmapChart_1.tsx",
+    "name": "HeatmapChart_1.tsx",
+    "ext": ".tsx",
+    "size": 2176
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\HeatmapChart.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\HeatmapChart.test_1.tsx",
+    "name": "HeatmapChart.test_1.tsx",
+    "ext": ".tsx",
+    "size": 44
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\HeatmapChart.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\HeatmapChart.test.tsx",
+    "name": "HeatmapChart.test.tsx",
+    "ext": ".tsx",
+    "size": 44
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\HeatmapChart.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\HeatmapChart.tsx",
+    "name": "HeatmapChart.tsx",
+    "ext": ".tsx",
+    "size": 2176
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\ImageUploader_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\ImageUploader_1.tsx",
+    "name": "ImageUploader_1.tsx",
+    "ext": ".tsx",
+    "size": 2067
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\ImageUploader.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\ImageUploader.test_1.tsx",
+    "name": "ImageUploader.test_1.tsx",
+    "ext": ".tsx",
+    "size": 45
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\ImageUploader.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\ImageUploader.test.tsx",
+    "name": "ImageUploader.test.tsx",
+    "ext": ".tsx",
+    "size": 45
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\index_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\index_1.tsx",
+    "name": "index_1.tsx",
+    "ext": ".tsx",
+    "size": 754
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\index.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\index.test_1.tsx",
+    "name": "index.test_1.tsx",
+    "ext": ".tsx",
+    "size": 37
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\index.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\index.test.tsx",
+    "name": "index.test.tsx",
+    "ext": ".tsx",
+    "size": 37
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\Input_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\Input_1.tsx",
+    "name": "Input_1.tsx",
+    "ext": ".tsx",
+    "size": 1365
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\Input.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\Input.test_1.tsx",
+    "name": "Input.test_1.tsx",
+    "ext": ".tsx",
+    "size": 37
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\Input.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\Input.test.tsx",
+    "name": "Input.test.tsx",
+    "ext": ".tsx",
+    "size": 37
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\InspectionPhotoPreviewer_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\InspectionPhotoPreviewer_1.tsx",
+    "name": "InspectionPhotoPreviewer_1.tsx",
+    "ext": ".tsx",
+    "size": 4502
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\InspectionPhotoPreviewer.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\InspectionPhotoPreviewer.test_1.tsx",
+    "name": "InspectionPhotoPreviewer.test_1.tsx",
+    "ext": ".tsx",
+    "size": 1182
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\InspectionPhotoPreviewer.test.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\InspectionPhotoPreviewer.test.test_1.tsx",
+    "name": "InspectionPhotoPreviewer.test.test_1.tsx",
+    "ext": ".tsx",
+    "size": 61
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\InspectionPhotoPreviewer.test.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\InspectionPhotoPreviewer.test.test.tsx",
+    "name": "InspectionPhotoPreviewer.test.test.tsx",
+    "ext": ".tsx",
+    "size": 61
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\InspectionPhotoPreviewer.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\InspectionPhotoPreviewer.test.tsx",
+    "name": "InspectionPhotoPreviewer.test.tsx",
+    "ext": ".tsx",
+    "size": 56
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\InspectionPhotoPreviewer.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\InspectionPhotoPreviewer.tsx",
+    "name": "InspectionPhotoPreviewer.tsx",
+    "ext": ".tsx",
+    "size": 4502
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\InspectionReportPanel_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\InspectionReportPanel_1.tsx",
+    "name": "InspectionReportPanel_1.tsx",
+    "ext": ".tsx",
+    "size": 2714
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\InspectionReportPanel.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\InspectionReportPanel.test_1.tsx",
+    "name": "InspectionReportPanel.test_1.tsx",
+    "ext": ".tsx",
+    "size": 53
+  }
+]

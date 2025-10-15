@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\AIAuctionSimulator.test_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\AIAuctionSimulator.test_1.js",
+    "name": "AIAuctionSimulator.test_1.js",
+    "ext": ".js",
+    "size": 3898
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\AIBadgeOverlay_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\AIBadgeOverlay_1.js",
+    "name": "AIBadgeOverlay_1.js",
+    "ext": ".js",
+    "size": 2332
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\AIBadgeOverlay.test_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\AIBadgeOverlay.test_1.js",
+    "name": "AIBadgeOverlay.test_1.js",
+    "ext": ".js",
+    "size": 1326
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\AIBadgePredictor_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\AIBadgePredictor_1.js",
+    "name": "AIBadgePredictor_1.js",
+    "ext": ".js",
+    "size": 1967
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\AIBadgePredictor.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\AIBadgePredictor.js",
+    "name": "AIBadgePredictor.js",
+    "ext": ".js",
+    "size": 1967
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\AIBidStarter_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\AIBidStarter_1.js",
+    "name": "AIBidStarter_1.js",
+    "ext": ".js",
+    "size": 1856
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\AIEquityFinancer_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\AIEquityFinancer_1.js",
+    "name": "AIEquityFinancer_1.js",
+    "ext": ".js",
+    "size": 1718
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\AIInsightBuyer_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\AIInsightBuyer_1.js",
+    "name": "AIInsightBuyer_1.js",
+    "ext": ".js",
+    "size": 2857
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\AIInsightBuyer.test_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\AIInsightBuyer.test_1.js",
+    "name": "AIInsightBuyer.test_1.js",
+    "ext": ".js",
+    "size": 4236
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\AIInsights_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\AIInsights_1.js",
+    "name": "AIInsights_1.js",
+    "ext": ".js",
+    "size": 688
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\AIInsightSeller_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\AIInsightSeller_1.js",
+    "name": "AIInsightSeller_1.js",
+    "ext": ".js",
+    "size": 3046
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\AIInsightSeller.test_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\AIInsightSeller.test_1.js",
+    "name": "AIInsightSeller.test_1.js",
+    "ext": ".js",
+    "size": 4254
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\AIRecommendationEngine_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\AIRecommendationEngine_1.js",
+    "name": "AIRecommendationEngine_1.js",
+    "ext": ".js",
+    "size": 1670
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\AIRecommendations_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\AIRecommendations_1.js",
+    "name": "AIRecommendations_1.js",
+    "ext": ".js",
+    "size": 742
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\aiReviewRoute_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\aiReviewRoute_1.js",
+    "name": "aiReviewRoute_1.js",
+    "ext": ".js",
+    "size": 1003
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\aiReviewRoute.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\aiReviewRoute.js",
+    "name": "aiReviewRoute.js",
+    "ext": ".js",
+    "size": 1003
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\AIScorePanel_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\AIScorePanel_1.js",
+    "name": "AIScorePanel_1.js",
+    "ext": ".js",
+    "size": 2311
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\AIScorePanel.test_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\AIScorePanel.test_1.js",
+    "name": "AIScorePanel.test_1.js",
+    "ext": ".js",
+    "size": 1222
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\AISuggestionEngine_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\AISuggestionEngine_1.js",
+    "name": "AISuggestionEngine_1.js",
+    "ext": ".js",
+    "size": 2034
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\alerts_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\alerts_1.js",
+    "name": "alerts_1.js",
+    "ext": ".js",
+    "size": 1141
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\alerts.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\alerts.js",
+    "name": "alerts.js",
+    "ext": ".js",
+    "size": 1141
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\aliasCheck_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\aliasCheck_1.js",
+    "name": "aliasCheck_1.js",
+    "ext": ".js",
+    "size": 321
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\analytics.routes_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\analytics.routes_1.js",
+    "name": "analytics.routes_1.js",
+    "ext": ".js",
+    "size": 3527
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\analytics.routes.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\analytics.routes.js",
+    "name": "analytics.routes.js",
+    "ext": ".js",
+    "size": 3527
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\analytics.service_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\analytics.service_1.js",
+    "name": "analytics.service_1.js",
+    "ext": ".js",
+    "size": 963
+  }
+]

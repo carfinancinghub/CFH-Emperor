@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\Cod1HaulerDeploymentChecklist.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\Cod1HaulerDeploymentChecklist.test_1.ts",
+    "name": "Cod1HaulerDeploymentChecklist.test_1.ts",
+    "ext": ".ts",
+    "size": 60
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\Cod1HaulerDeploymentChecklist.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\Cod1HaulerDeploymentChecklist.test.ts",
+    "name": "Cod1HaulerDeploymentChecklist.test.ts",
+    "ext": ".ts",
+    "size": 60
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\Cod1HaulerDeploymentChecklist.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\Cod1HaulerDeploymentChecklist.ts",
+    "name": "Cod1HaulerDeploymentChecklist.ts",
+    "ext": ".ts",
+    "size": 1966
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\cod1HaulerReviewAI_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\cod1HaulerReviewAI_1.ts",
+    "name": "cod1HaulerReviewAI_1.ts",
+    "ext": ".ts",
+    "size": 184
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\CollaborationChat.cy05040109_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\CollaborationChat.cy05040109_1.ts",
+    "name": "CollaborationChat.cy05040109_1.ts",
+    "ext": ".ts",
+    "size": 5445
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\CollaborationChat.cy05040109.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\CollaborationChat.cy05040109.test_1.ts",
+    "name": "CollaborationChat.cy05040109.test_1.ts",
+    "ext": ".ts",
+    "size": 59
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\CollaborationChat.cy05040109.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\CollaborationChat.cy05040109.test.ts",
+    "name": "CollaborationChat.cy05040109.test.ts",
+    "ext": ".ts",
+    "size": 59
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\CollaborationChat.cy05040109.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\CollaborationChat.cy05040109.ts",
+    "name": "CollaborationChat.cy05040109.ts",
+    "ext": ".ts",
+    "size": 5445
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\CollaborationChat.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\CollaborationChat.test_1.ts",
+    "name": "CollaborationChat.test_1.ts",
+    "ext": ".ts",
+    "size": 3809
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\CollaborationChat.test.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\CollaborationChat.test.test_1.ts",
+    "name": "CollaborationChat.test.test_1.ts",
+    "ext": ".ts",
+    "size": 53
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\CollaborationChat.test.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\CollaborationChat.test.test.ts",
+    "name": "CollaborationChat.test.test.ts",
+    "ext": ".ts",
+    "size": 53
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\CollaborationChat.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\CollaborationChat.test.ts",
+    "name": "CollaborationChat.test.ts",
+    "ext": ".ts",
+    "size": 3809
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\commands_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\commands_1.ts",
+    "name": "commands_1.ts",
+    "ext": ".ts",
+    "size": 929
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\commands.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\commands.test_1.ts",
+    "name": "commands.test_1.ts",
+    "ext": ".ts",
+    "size": 39
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\commands.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\commands.test.ts",
+    "name": "commands.test.ts",
+    "ext": ".ts",
+    "size": 39
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\commands.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\commands.ts",
+    "name": "commands.ts",
+    "ext": ".ts",
+    "size": 929
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\CommunityDashboard_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\CommunityDashboard_1.ts",
+    "name": "CommunityDashboard_1.ts",
+    "ext": ".ts",
+    "size": 2918
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\CommunityDashboard.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\CommunityDashboard.test_1.ts",
+    "name": "CommunityDashboard.test_1.ts",
+    "ext": ".ts",
+    "size": 49
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\CommunityDashboard.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\CommunityDashboard.test.ts",
+    "name": "CommunityDashboard.test.ts",
+    "ext": ".ts",
+    "size": 49
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\CommunityDashboard.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\CommunityDashboard.ts",
+    "name": "CommunityDashboard.ts",
+    "ext": ".ts",
+    "size": 2918
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\CommunityHub_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\CommunityHub_1.ts",
+    "name": "CommunityHub_1.ts",
+    "ext": ".ts",
+    "size": 797
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\CommunityHub.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\CommunityHub.test_1.ts",
+    "name": "CommunityHub.test_1.ts",
+    "ext": ".ts",
+    "size": 43
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\CommunityHub.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\CommunityHub.test.ts",
+    "name": "CommunityHub.test.ts",
+    "ext": ".ts",
+    "size": 43
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\CommunityHub.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\CommunityHub.ts",
+    "name": "CommunityHub.ts",
+    "ext": ".ts",
+    "size": 797
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\CommunityHubEnhanced_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\CommunityHubEnhanced_1.ts",
+    "name": "CommunityHubEnhanced_1.ts",
+    "ext": ".ts",
+    "size": 952
+  }
+]

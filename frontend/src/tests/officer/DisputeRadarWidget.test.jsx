@@ -132,7 +132,7 @@ describe('DisputeRadarWidget', () => {
     render(<DisputeRadarWidget officerId="officer123" isPremium={true} filters={{ timeframe: 'all', type: 'all', severity: 'all' }} />);
     socket.on.mock.calls[1][1]({ message: 'Connection failed' });
     await waitFor(() => {
-      expect(screen.getByText(/Retrying \(1\/3\)/)).toBeInTheDocument();
+      expect(screen.getByText(/Retrying \(1\/3)/)).toBeInTheDocument();
       expect(logger.error).toHaveBeenCalledWith(expect.stringContaining('WebSocket error'));
     });
   });
@@ -141,7 +141,7 @@ describe('DisputeRadarWidget', () => {
     render(<DisputeRadarWidget officerId="officer123" isPremium={true} filters={{ timeframe: 'all', type: 'all', severity: 'all' }} />);
     socket.on.mock.calls[1][1]({ message: 'Connection failed' });
     await waitFor(() => {
-      expect(screen.getByText(/Retrying \(1\/3\)/)).toBeInTheDocument();
+      expect(screen.getByText(/Retrying \(1\/3)/)).toBeInTheDocument();
     });
     socket.on.mock.calls[1][1]({ message: 'Connection failed' });
     socket.on.mock.calls[1][1]({ message: 'Connection failed' });

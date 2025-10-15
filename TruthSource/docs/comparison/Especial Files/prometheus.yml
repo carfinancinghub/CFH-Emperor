@@ -1,0 +1,72 @@
+# ----------------------------------------------------------------------
+# File: prometheus.yml
+# Path: monitoring/prometheus.yml
+# Author: Gemini & SG Man, System Architects
+# Created: August 13, 2025 at 17:25 PDT
+# Version: 1.0.1 (Enhanced with Service Discovery)
+# 👑 Cod1 Crown Certified
+# ----------------------------------------------------------------------
+#
+# @description
+# Prometheus configuration for monitoring the CFH platform, scraping metrics from all services.
+#
+# @architectural_notes
+# - **Scalable**: Uses DNS-based service discovery for Kubernetes compatibility.
+# - **Comprehensive**: Covers backend, frontend, MongoDB, and Redis metrics.
+# - **Extensible**: Supports additional exporters for observability.
+#
+# @todos
+# - @free:
+#   - [x] Configure scrape targets for core services.
+# - @premium:
+#   - [ ] ✨ Add custom metrics for premium features.
+# - @wow:
+#   - [ ] 🚀 Integrate AI-driven anomaly detection for metrics.
+#
+# ----------------------------------------------------------------------
+global:
+  scrape_interval: 15s
+  evaluation_interval: 15s
+
+scrape_configs:
+  - job_name: 'prometheus'
+    static_configs:
+      - targets: ['localhost:9090']
+
+  - job_name: 'cfh-backend'
+    kubernetes_sd_configs:
+      - role: service
+        namespaces:
+          names: ['cfh']
+    relabel_configs:
+      - source_labels: [__meta_kubernetes_service_name]
+        regex: cfh-backend-service
+        action: keep
+      - source_labels: [__meta_kubernetes_service_port_name]
+        regex: metrics
+        action: keep
+    metrics_path: /metrics
+
+  - job_name: 'cfh-frontend'
+    kubernetes_sd_configs:
+      - role: service
+        namespaces:
+          names: ['cfh']
+    relabel_configs:
+      - source_labels: [__meta_kubernetes_service_name]
+        regex: cfh-frontend-service
+        action: keep
+      - source_labels: [__meta_kubernetes_service_port_name]
+        regex: metrics
+        action: keep
+    metrics_path: /metrics
+
+  - job_name: 'mongodb'
+    static_configs:
+      - targets: ['mongodb-exporter:9216']
+    metrics_path: /metrics
+
+  - job_name: 'redis'
+    static_configs:
+      - targets: ['redis-exporter:9121']
+    metrics_path: /metrics

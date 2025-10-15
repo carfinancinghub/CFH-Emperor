@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\EstimateRequestForm_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\EstimateRequestForm_1.tsx",
+    "name": "EstimateRequestForm_1.tsx",
+    "ext": ".tsx",
+    "size": 21108
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\FeedbackForm_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\FeedbackForm_1.tsx",
+    "name": "FeedbackForm_1.tsx",
+    "ext": ".tsx",
+    "size": 3379
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\FeedbackForm.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\FeedbackForm.test_1.tsx",
+    "name": "FeedbackForm.test_1.tsx",
+    "ext": ".tsx",
+    "size": 44
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\FeedbackForm.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\FeedbackForm.test.tsx",
+    "name": "FeedbackForm.test.tsx",
+    "ext": ".tsx",
+    "size": 44
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\FeedbackForm.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\FeedbackForm.tsx",
+    "name": "FeedbackForm.tsx",
+    "ext": ".tsx",
+    "size": 3379
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\FilterPanel_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\FilterPanel_1.tsx",
+    "name": "FilterPanel_1.tsx",
+    "ext": ".tsx",
+    "size": 12954
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\FilterPanel.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\FilterPanel.test_1.tsx",
+    "name": "FilterPanel.test_1.tsx",
+    "ext": ".tsx",
+    "size": 849
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\FinanceRiskAssessment_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\FinanceRiskAssessment_1.tsx",
+    "name": "FinanceRiskAssessment_1.tsx",
+    "ext": ".tsx",
+    "size": 2041
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\FinanceRiskAssessment.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\FinanceRiskAssessment.test_1.tsx",
+    "name": "FinanceRiskAssessment.test_1.tsx",
+    "ext": ".tsx",
+    "size": 2039
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\FinanceRiskAssessment.test.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\FinanceRiskAssessment.test.test_1.tsx",
+    "name": "FinanceRiskAssessment.test.test_1.tsx",
+    "ext": ".tsx",
+    "size": 58
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\FinanceRiskAssessment.test.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\FinanceRiskAssessment.test.test.tsx",
+    "name": "FinanceRiskAssessment.test.test.tsx",
+    "ext": ".tsx",
+    "size": 58
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\FinanceRiskAssessment.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\FinanceRiskAssessment.test.tsx",
+    "name": "FinanceRiskAssessment.test.tsx",
+    "ext": ".tsx",
+    "size": 53
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\FinanceRiskAssessment.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\FinanceRiskAssessment.tsx",
+    "name": "FinanceRiskAssessment.tsx",
+    "ext": ".tsx",
+    "size": 2041
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\FinancingOptionsChart_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\FinancingOptionsChart_1.tsx",
+    "name": "FinancingOptionsChart_1.tsx",
+    "ext": ".tsx",
+    "size": 3851
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\FinancingOptionsChart.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\FinancingOptionsChart.test_1.tsx",
+    "name": "FinancingOptionsChart.test_1.tsx",
+    "ext": ".tsx",
+    "size": 53
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\FinancingOptionsChart.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\FinancingOptionsChart.test.tsx",
+    "name": "FinancingOptionsChart.test.tsx",
+    "ext": ".tsx",
+    "size": 53
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\FinancingOptionsChart.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\FinancingOptionsChart.tsx",
+    "name": "FinancingOptionsChart.tsx",
+    "ext": ".tsx",
+    "size": 3851
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\GuestDashboard_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\GuestDashboard_1.tsx",
+    "name": "GuestDashboard_1.tsx",
+    "ext": ".tsx",
+    "size": 6996
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\GuestDashboard.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\GuestDashboard.test_1.tsx",
+    "name": "GuestDashboard.test_1.tsx",
+    "ext": ".tsx",
+    "size": 5049
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\GuestDashboard.test.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\GuestDashboard.test.test_1.tsx",
+    "name": "GuestDashboard.test.test_1.tsx",
+    "ext": ".tsx",
+    "size": 51
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\GuestDashboard.test.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\GuestDashboard.test.test.tsx",
+    "name": "GuestDashboard.test.test.tsx",
+    "ext": ".tsx",
+    "size": 51
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\GuestDashboard.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\GuestDashboard.test.tsx",
+    "name": "GuestDashboard.test.tsx",
+    "ext": ".tsx",
+    "size": 46
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\GuestDashboard.test50000_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\GuestDashboard.test50000_1.tsx",
+    "name": "GuestDashboard.test50000_1.tsx",
+    "ext": ".tsx",
+    "size": 4321
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\GuestDashboard.test50000.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\GuestDashboard.test50000.test_1.tsx",
+    "name": "GuestDashboard.test50000.test_1.tsx",
+    "ext": ".tsx",
+    "size": 56
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\GuestDashboard.test50000.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\GuestDashboard.test50000.test.tsx",
+    "name": "GuestDashboard.test50000.test.tsx",
+    "ext": ".tsx",
+    "size": 56
+  }
+]

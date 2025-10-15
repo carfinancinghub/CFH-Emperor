@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\under 1 kb\\jest.config.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\under 1 kb\\jest.config.copy.js",
+    "name": "jest.config.copy.js",
+    "ext": ".js",
+    "size": 799
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\under 1 kb\\jest.setup.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\under 1 kb\\jest.setup.copy.js",
+    "name": "jest.setup.copy.js",
+    "ext": ".js",
+    "size": 240
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\under 1 kb\\js_files_with_docs_status_v1.md",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\under 1 kb\\js_files_with_docs_status_v1.md",
+    "name": "js_files_with_docs_status_v1.md",
+    "ext": ".md",
+    "size": 695
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\under 1 kb\\leaderboard.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\under 1 kb\\leaderboard.copy.js",
+    "name": "leaderboard.copy.js",
+    "ext": ".js",
+    "size": 483
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\under 1 kb\\Ledger.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\under 1 kb\\Ledger.copy.js",
+    "name": "Ledger.copy.js",
+    "ext": ".js",
+    "size": 621
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\under 1 kb\\lender-reputation.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\under 1 kb\\lender-reputation.copy.js",
+    "name": "lender-reputation.copy.js",
+    "ext": ".js",
+    "size": 706
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\under 1 kb\\Lender.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\under 1 kb\\Lender.copy.js",
+    "name": "Lender.copy.js",
+    "ext": ".js",
+    "size": 754
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\under 1 kb\\LenderExport.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\under 1 kb\\LenderExport.copy.js",
+    "name": "LenderExport.copy.js",
+    "ext": ".js",
+    "size": 773
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\under 1 kb\\LenderMatchEngineGrokOld.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\under 1 kb\\LenderMatchEngineGrokOld.copy.js",
+    "name": "LenderMatchEngineGrokOld.copy.js",
+    "ext": ".js",
+    "size": 268
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\under 1 kb\\LenderReputation.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\under 1 kb\\LenderReputation.copy.js",
+    "name": "LenderReputation.copy.js",
+    "ext": ".js",
+    "size": 856
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\under 1 kb\\LenderTermsExporterGrokOld.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\under 1 kb\\LenderTermsExporterGrokOld.copy.js",
+    "name": "LenderTermsExporterGrokOld.copy.js",
+    "ext": ".js",
+    "size": 290
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\under 1 kb\\lenderTermsHistoryRoute.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\under 1 kb\\lenderTermsHistoryRoute.copy.js",
+    "name": "lenderTermsHistoryRoute.copy.js",
+    "ext": ".js",
+    "size": 945
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\under 1 kb\\Listing.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\under 1 kb\\Listing.copy.js",
+    "name": "Listing.copy.js",
+    "ext": ".js",
+    "size": 926
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\under 1 kb\\Listings.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\under 1 kb\\Listings.copy.js",
+    "name": "Listings.copy.js",
+    "ext": ".js",
+    "size": 549
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\under 1 kb\\ListingsList.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\under 1 kb\\ListingsList.copy.js",
+    "name": "ListingsList.copy.js",
+    "ext": ".js",
+    "size": 850
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\under 1 kb\\LoadingSpinner.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\under 1 kb\\LoadingSpinner.copy.js",
+    "name": "LoadingSpinner.copy.js",
+    "ext": ".js",
+    "size": 802
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\under 1 kb\\Loan.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\under 1 kb\\Loan.copy.js",
+    "name": "Loan.copy.js",
+    "ext": ".js",
+    "size": 778
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\under 1 kb\\loanAiApprovalRoutes.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\under 1 kb\\loanAiApprovalRoutes.copy.js",
+    "name": "loanAiApprovalRoutes.copy.js",
+    "ext": ".js",
+    "size": 758
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\under 1 kb\\LoanCalculatorWidgetGrokOld.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\under 1 kb\\LoanCalculatorWidgetGrokOld.copy.js",
+    "name": "LoanCalculatorWidgetGrokOld.copy.js",
+    "ext": ".js",
+    "size": 273
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\under 1 kb\\loanMatchRoutes.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\under 1 kb\\loanMatchRoutes.copy.js",
+    "name": "loanMatchRoutes.copy.js",
+    "ext": ".js",
+    "size": 1006
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\under 1 kb\\loanoffers.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\under 1 kb\\loanoffers.copy.js",
+    "name": "loanoffers.copy.js",
+    "ext": ".js",
+    "size": 344
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\under 1 kb\\loans.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\under 1 kb\\loans.copy.js",
+    "name": "loans.copy.js",
+    "ext": ".js",
+    "size": 344
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\under 1 kb\\loyalty.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\under 1 kb\\loyalty.copy.js",
+    "name": "loyalty.copy.js",
+    "ext": ".js",
+    "size": 353
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\under 1 kb\\LoyaltyQuests.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\under 1 kb\\LoyaltyQuests.copy.js",
+    "name": "LoyaltyQuests.copy.js",
+    "ext": ".js",
+    "size": 768
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\under 1 kb\\main.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\under 1 kb\\main.copy.js",
+    "name": "main.copy.js",
+    "ext": ".js",
+    "size": 154
+  }
+]

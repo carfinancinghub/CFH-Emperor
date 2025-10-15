@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\VRTourLauncher_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\VRTourLauncher_1.tsx",
+    "name": "VRTourLauncher_1.tsx",
+    "ext": ".tsx",
+    "size": 2685
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\VRTourLauncher.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\VRTourLauncher.test_1.tsx",
+    "name": "VRTourLauncher.test_1.tsx",
+    "ext": ".tsx",
+    "size": 46
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\VRTourLauncher.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\VRTourLauncher.test.tsx",
+    "name": "VRTourLauncher.test.tsx",
+    "ext": ".tsx",
+    "size": 46
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\VRTourLauncher.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\VRTourLauncher.tsx",
+    "name": "VRTourLauncher.tsx",
+    "ext": ".tsx",
+    "size": 2537
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\WindowTintingScheduler_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\WindowTintingScheduler_1.tsx",
+    "name": "WindowTintingScheduler_1.tsx",
+    "ext": ".tsx",
+    "size": 4665
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted MD\\messaging-plan.md",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted MD\\messaging-plan.md",
+    "name": "messaging-plan.md",
+    "ext": ".md",
+    "size": 2421
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted MD\\notifications-plan.md",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted MD\\notifications-plan.md",
+    "name": "notifications-plan.md",
+    "ext": ".md",
+    "size": 2112
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted MD\\onboarding.md",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted MD\\onboarding.md",
+    "name": "onboarding.md",
+    "ext": ".md",
+    "size": 1561
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted MD\\profile-plan.md",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted MD\\profile-plan.md",
+    "name": "profile-plan.md",
+    "ext": ".md",
+    "size": 1855
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted MD\\ProjectCFH_FileIndex.md",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted MD\\ProjectCFH_FileIndex.md",
+    "name": "ProjectCFH_FileIndex.md",
+    "ext": ".md",
+    "size": 18088
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted MD\\ratings-plan.md",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted MD\\ratings-plan.md",
+    "name": "ratings-plan.md",
+    "ext": ".md",
+    "size": 2323
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted MD\\search-plan.md",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted MD\\search-plan.md",
+    "name": "search-plan.md",
+    "ext": ".md",
+    "size": 3158
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted MD\\virtual-auction-room.md",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted MD\\virtual-auction-room.md",
+    "name": "virtual-auction-room.md",
+    "ext": ".md",
+    "size": 1671
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted MD\\voice-bid-assistant.md",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted MD\\voice-bid-assistant.md",
+    "name": "voice-bid-assistant.md",
+    "ext": ".md",
+    "size": 1733
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted MD\\vr-inspection-component.md",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted MD\\vr-inspection-component.md",
+    "name": "vr-inspection-component.md",
+    "ext": ".md",
+    "size": 1426
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted MD\\vr-vehicle-tour.md",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted MD\\vr-vehicle-tour.md",
+    "name": "vr-vehicle-tour.md",
+    "ext": ".md",
+    "size": 1587
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted MD\\watchlist-plan.md",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted MD\\watchlist-plan.md",
+    "name": "watchlist-plan.md",
+    "ext": ".md",
+    "size": 1952
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted MD\\websocket.md",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted MD\\websocket.md",
+    "name": "websocket.md",
+    "ext": ".md",
+    "size": 1624
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TEST\\AdminService.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TEST\\AdminService.test.ts",
+    "name": "AdminService.test.ts",
+    "ext": ".ts",
+    "size": 5603
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TEST\\aiService.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TEST\\aiService.test.ts",
+    "name": "aiService.test.ts",
+    "ext": ".ts",
+    "size": 2238
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TEST\\AnalyticsService.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TEST\\AnalyticsService.test.ts",
+    "name": "AnalyticsService.test.ts",
+    "ext": ".ts",
+    "size": 981
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TEST\\AuctionPage.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TEST\\AuctionPage.test.tsx",
+    "name": "AuctionPage.test.tsx",
+    "ext": ".tsx",
+    "size": 1225
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TEST\\AuctionService.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TEST\\AuctionService.test.ts",
+    "name": "AuctionService.test.ts",
+    "ext": ".ts",
+    "size": 6590
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TEST\\authService.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TEST\\authService.test.ts",
+    "name": "authService.test.ts",
+    "ext": ".ts",
+    "size": 1178
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TEST\\ContractDashboard.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TEST\\ContractDashboard.test.tsx",
+    "name": "ContractDashboard.test.tsx",
+    "ext": ".tsx",
+    "size": 1457
+  }
+]

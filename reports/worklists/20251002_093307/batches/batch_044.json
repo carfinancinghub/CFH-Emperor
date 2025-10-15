@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\mechanic\\MechanicJobStatusBadge.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\mechanic\\MechanicJobStatusBadge.jsx",
+    "name": "MechanicJobStatusBadge.jsx",
+    "ext": ".jsx",
+    "size": 1423
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\mechanic\\MechanicMilestoneTracker.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\mechanic\\MechanicMilestoneTracker.jsx",
+    "name": "MechanicMilestoneTracker.jsx",
+    "ext": ".jsx",
+    "size": 2442
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\mechanic\\MechanicProgressReviewBoard.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\mechanic\\MechanicProgressReviewBoard.jsx",
+    "name": "MechanicProgressReviewBoard.jsx",
+    "ext": ".jsx",
+    "size": 3069
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\mechanic\\MechanicRepairHistoryTimeline.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\mechanic\\MechanicRepairHistoryTimeline.jsx",
+    "name": "MechanicRepairHistoryTimeline.jsx",
+    "ext": ".jsx",
+    "size": 2260
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\mechanic\\MechanicReportDashboard.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\mechanic\\MechanicReportDashboard.jsx",
+    "name": "MechanicReportDashboard.jsx",
+    "ext": ".jsx",
+    "size": 5862
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\mechanic\\MechanicReviewPanel.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\mechanic\\MechanicReviewPanel.jsx",
+    "name": "MechanicReviewPanel.jsx",
+    "ext": ".jsx",
+    "size": 1923
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\mechanic\\MechanicRewardConfetti.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\mechanic\\MechanicRewardConfetti.jsx",
+    "name": "MechanicRewardConfetti.jsx",
+    "ext": ".jsx",
+    "size": 1788
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\mechanic\\MechanicShiftPlanner.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\mechanic\\MechanicShiftPlanner.jsx",
+    "name": "MechanicShiftPlanner.jsx",
+    "ext": ".jsx",
+    "size": 1109
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\mechanic\\MechanicTaskHistoryTable.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\mechanic\\MechanicTaskHistoryTable.jsx",
+    "name": "MechanicTaskHistoryTable.jsx",
+    "ext": ".jsx",
+    "size": 2145
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\mechanic\\MechanicTaskOutcomeReporter.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\mechanic\\MechanicTaskOutcomeReporter.jsx",
+    "name": "MechanicTaskOutcomeReporter.jsx",
+    "ext": ".jsx",
+    "size": 2237
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\mechanic\\MechanicTaskReporter.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\mechanic\\MechanicTaskReporter.jsx",
+    "name": "MechanicTaskReporter.jsx",
+    "ext": ".jsx",
+    "size": 2600
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\mechanic\\MechanicTimelineCelebration.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\mechanic\\MechanicTimelineCelebration.jsx",
+    "name": "MechanicTimelineCelebration.jsx",
+    "ext": ".jsx",
+    "size": 2262
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\mechanic\\MechanicVRPhotoUploader.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\mechanic\\MechanicVRPhotoUploader.jsx",
+    "name": "MechanicVRPhotoUploader.jsx",
+    "ext": ".jsx",
+    "size": 2663
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\mechanic\\MechanicVRPreviewViewer.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\mechanic\\MechanicVRPreviewViewer.jsx",
+    "name": "MechanicVRPreviewViewer.jsx",
+    "ext": ".jsx",
+    "size": 2287
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\mechanic\\PremiumBadgeHintCard.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\mechanic\\PremiumBadgeHintCard.jsx",
+    "name": "PremiumBadgeHintCard.jsx",
+    "ext": ".jsx",
+    "size": 2320
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\mechanic\\RepairScheduler.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\mechanic\\RepairScheduler.jsx",
+    "name": "RepairScheduler.jsx",
+    "ext": ".jsx",
+    "size": 2692
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\mechanic\\SharedReportViewer.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\mechanic\\SharedReportViewer.jsx",
+    "name": "SharedReportViewer.jsx",
+    "ext": ".jsx",
+    "size": 1436
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\mechanic\\TaskCompletionButton.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\mechanic\\TaskCompletionButton.jsx",
+    "name": "TaskCompletionButton.jsx",
+    "ext": ".jsx",
+    "size": 2022
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\mechanic\\VehicleHealthTrendCharts.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\mechanic\\VehicleHealthTrendCharts.jsx",
+    "name": "VehicleHealthTrendCharts.jsx",
+    "ext": ".jsx",
+    "size": 1998
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\mechanic\\VehicleInspectionModule.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\mechanic\\VehicleInspectionModule.jsx",
+    "name": "VehicleInspectionModule.jsx",
+    "ext": ".jsx",
+    "size": 4574
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\mechanic\\VINDecoder.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\mechanic\\VINDecoder.jsx",
+    "name": "VINDecoder.jsx",
+    "ext": ".jsx",
+    "size": 1735
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\mechanic\\VRInspectionViewer.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\mechanic\\VRInspectionViewer.jsx",
+    "name": "VRInspectionViewer.jsx",
+    "ext": ".jsx",
+    "size": 9527
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\mobile\\MobileAnalytics.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\mobile\\MobileAnalytics.jsx",
+    "name": "MobileAnalytics.jsx",
+    "ext": ".jsx",
+    "size": 2482
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\mobile\\MobileAuctionView.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\mobile\\MobileAuctionView.jsx",
+    "name": "MobileAuctionView.jsx",
+    "ext": ".jsx",
+    "size": 2870
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\mock\\MockComponent.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\mock\\MockComponent.jsx",
+    "name": "MockComponent.jsx",
+    "ext": ".jsx",
+    "size": 4891
+  }
+]

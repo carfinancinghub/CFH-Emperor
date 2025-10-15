@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\scalabilityValidation.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\scalabilityValidation.copy.js",
+    "name": "scalabilityValidation.copy.js",
+    "ext": ".js",
+    "size": 6164
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\SecurityAudit.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\SecurityAudit.copy.js",
+    "name": "SecurityAudit.copy.js",
+    "ext": ".js",
+    "size": 2234
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\SecurityLogger.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\SecurityLogger.copy.js",
+    "name": "SecurityLogger.copy.js",
+    "ext": ".js",
+    "size": 1643
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\seed.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\seed.copy.js",
+    "name": "seed.copy.js",
+    "ext": ".js",
+    "size": 2458
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\seedAuctions.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\seedAuctions.copy.js",
+    "name": "seedAuctions.copy.js",
+    "ext": ".js",
+    "size": 1217
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\sellerBucket.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\sellerBucket.copy.js",
+    "name": "sellerBucket.copy.js",
+    "ext": ".js",
+    "size": 3629
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\SellerDashboardGrokOld.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\SellerDashboardGrokOld.copy.js",
+    "name": "SellerDashboardGrokOld.copy.js",
+    "ext": ".js",
+    "size": 2101
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\SellerEditListing.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\SellerEditListing.copy.js",
+    "name": "SellerEditListing.copy.js",
+    "ext": ".js",
+    "size": 3446
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\SellerPricingTool.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\SellerPricingTool.copy.js",
+    "name": "SellerPricingTool.copy.js",
+    "ext": ".js",
+    "size": 2598
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\sellerReputationMeta.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\sellerReputationMeta.copy.js",
+    "name": "sellerReputationMeta.copy.js",
+    "ext": ".js",
+    "size": 2068
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\sellerReputationMeta.GrokOld.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\sellerReputationMeta.GrokOld.copy.js",
+    "name": "sellerReputationMeta.GrokOld.copy.js",
+    "ext": ".js",
+    "size": 1440
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\sellerReputationMetaGrokOld.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\sellerReputationMetaGrokOld.copy.js",
+    "name": "sellerReputationMetaGrokOld.copy.js",
+    "ext": ".js",
+    "size": 1740
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\sellerRoutes.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\sellerRoutes.copy.js",
+    "name": "sellerRoutes.copy.js",
+    "ext": ".js",
+    "size": 2344
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\SellerViewListings.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\SellerViewListings.copy.js",
+    "name": "SellerViewListings.copy.js",
+    "ext": ".js",
+    "size": 3514
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\SEOHelper.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\SEOHelper.copy.js",
+    "name": "SEOHelper.copy.js",
+    "ext": ".js",
+    "size": 2056
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\server.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\server.copy.js",
+    "name": "server.copy.js",
+    "ext": ".js",
+    "size": 3202
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\SessionValidator.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\SessionValidator.copy.js",
+    "name": "SessionValidator.copy.js",
+    "ext": ".js",
+    "size": 3511
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\SessionValidatorOld.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\SessionValidatorOld.copy.js",
+    "name": "SessionValidatorOld.copy.js",
+    "ext": ".js",
+    "size": 2028
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\shiftRoutes.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\shiftRoutes.copy.js",
+    "name": "shiftRoutes.copy.js",
+    "ext": ".js",
+    "size": 1483
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\Sidebar.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\Sidebar.copy.js",
+    "name": "Sidebar.copy.js",
+    "ext": ".js",
+    "size": 1780
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\SmartDelayPredictor.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\SmartDelayPredictor.copy.js",
+    "name": "SmartDelayPredictor.copy.js",
+    "ext": ".js",
+    "size": 1182
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\SmartInsightsWidget.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\SmartInsightsWidget.copy.js",
+    "name": "SmartInsightsWidget.copy.js",
+    "ext": ".js",
+    "size": 2771
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\SmartRecommendations.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\SmartRecommendations.copy.js",
+    "name": "SmartRecommendations.copy.js",
+    "ext": ".js",
+    "size": 3577
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\SocialGamification.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\SocialGamification.copy.js",
+    "name": "SocialGamification.copy.js",
+    "ext": ".js",
+    "size": 6491
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\SocialGamificationOld.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\SocialGamificationOld.copy.js",
+    "name": "SocialGamificationOld.copy.js",
+    "ext": ".js",
+    "size": 3545
+  }
+]

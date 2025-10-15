@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\AuditLogViewer_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\AuditLogViewer_1.js",
+    "name": "AuditLogViewer_1.js",
+    "ext": ".js",
+    "size": 2533
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\AuditLogViewer.test_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\AuditLogViewer.test_1.js",
+    "name": "AuditLogViewer.test_1.js",
+    "ext": ".js",
+    "size": 3839
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\authController_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\authController_1.js",
+    "name": "authController_1.js",
+    "ext": ".js",
+    "size": 2204
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\authController.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\authController.js",
+    "name": "authController.js",
+    "ext": ".js",
+    "size": 2204
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\AutomationAgent_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\AutomationAgent_1.js",
+    "name": "AutomationAgent_1.js",
+    "ext": ".js",
+    "size": 730
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\backend_middleware_auth_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\backend_middleware_auth_1.js",
+    "name": "backend_middleware_auth_1.js",
+    "ext": ".js",
+    "size": 797
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\backend_middleware_auth.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\backend_middleware_auth.js",
+    "name": "backend_middleware_auth.js",
+    "ext": ".js",
+    "size": 797
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\backend_models_Dispute_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\backend_models_Dispute_1.js",
+    "name": "backend_models_Dispute_1.js",
+    "ext": ".js",
+    "size": 900
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\backend_models_Dispute.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\backend_models_Dispute.js",
+    "name": "backend_models_Dispute.js",
+    "ext": ".js",
+    "size": 900
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\backend_models_escrow_EscrowTransaction_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\backend_models_escrow_EscrowTransaction_1.js",
+    "name": "backend_models_escrow_EscrowTransaction_1.js",
+    "ext": ".js",
+    "size": 1038
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\backend_models_escrow_EscrowTransaction.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\backend_models_escrow_EscrowTransaction.js",
+    "name": "backend_models_escrow_EscrowTransaction.js",
+    "ext": ".js",
+    "size": 1038
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\BadgeDisplay_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\BadgeDisplay_1.js",
+    "name": "BadgeDisplay_1.js",
+    "ext": ".js",
+    "size": 614
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\badgeRoutes_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\badgeRoutes_1.js",
+    "name": "badgeRoutes_1.js",
+    "ext": ".js",
+    "size": 1917
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\badgeRoutes.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\badgeRoutes.js",
+    "name": "badgeRoutes.js",
+    "ext": ".js",
+    "size": 1917
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\Bid_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\Bid_1.js",
+    "name": "Bid_1.js",
+    "ext": ".js",
+    "size": 591
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\Bid.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\Bid.js",
+    "name": "Bid.js",
+    "ext": ".js",
+    "size": 591
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\BidDetailViewer_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\BidDetailViewer_1.js",
+    "name": "BidDetailViewer_1.js",
+    "ext": ".js",
+    "size": 2022
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\BidHeatmapEngine_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\BidHeatmapEngine_1.js",
+    "name": "BidHeatmapEngine_1.js",
+    "ext": ".js",
+    "size": 2589
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\BidValidator_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\BidValidator_1.js",
+    "name": "BidValidator_1.js",
+    "ext": ".js",
+    "size": 1991
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\BidValidator.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\BidValidator.js",
+    "name": "BidValidator.js",
+    "ext": ".js",
+    "size": 1991
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\BidValidator.test_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\BidValidator.test_1.js",
+    "name": "BidValidator.test_1.js",
+    "ext": ".js",
+    "size": 2464
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\BlindInvestor_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\BlindInvestor_1.js",
+    "name": "BlindInvestor_1.js",
+    "ext": ".js",
+    "size": 2906
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\BlockchainAdapter_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\BlockchainAdapter_1.js",
+    "name": "BlockchainAdapter_1.js",
+    "ext": ".js",
+    "size": 8066
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\BlockchainAudit_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\BlockchainAudit_1.js",
+    "name": "BlockchainAudit_1.js",
+    "ext": ".js",
+    "size": 2559
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\BlockchainAudit.test_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\BlockchainAudit.test_1.js",
+    "name": "BlockchainAudit.test_1.js",
+    "ext": ".js",
+    "size": 3935
+  }
+]

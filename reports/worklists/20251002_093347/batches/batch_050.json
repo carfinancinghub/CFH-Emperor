@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\seller\\StartAuctionForm.js",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\seller\\StartAuctionForm.js",
+    "name": "StartAuctionForm.js",
+    "ext": ".js",
+    "size": 1761
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\storage\\StorageARNavigationApp.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\storage\\StorageARNavigationApp.jsx",
+    "name": "StorageARNavigationApp.jsx",
+    "ext": ".jsx",
+    "size": 1557
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\storage\\StorageAssignmentForm.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\storage\\StorageAssignmentForm.jsx",
+    "name": "StorageAssignmentForm.jsx",
+    "ext": ".jsx",
+    "size": 1995
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\storage\\StorageHostDashboard.js",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\storage\\StorageHostDashboard.js",
+    "name": "StorageHostDashboard.js",
+    "ext": ".js",
+    "size": 3185
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\storage\\StorageInventoryTracker.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\storage\\StorageInventoryTracker.jsx",
+    "name": "StorageInventoryTracker.jsx",
+    "ext": ".jsx",
+    "size": 3328
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\support\\SupportDashboard.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\support\\SupportDashboard.jsx",
+    "name": "SupportDashboard.jsx",
+    "ext": ".jsx",
+    "size": 5954
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\support\\SupportTicketAnalytics.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\support\\SupportTicketAnalytics.jsx",
+    "name": "SupportTicketAnalytics.jsx",
+    "ext": ".jsx",
+    "size": 7574
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\support\\SupportTicketForm.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\support\\SupportTicketForm.jsx",
+    "name": "SupportTicketForm.jsx",
+    "ext": ".jsx",
+    "size": 2666
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\support\\SupportTicketFormInLineFromGrok.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\support\\SupportTicketFormInLineFromGrok.jsx",
+    "name": "SupportTicketFormInLineFromGrok.jsx",
+    "ext": ".jsx",
+    "size": 2666
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\tinting\\TintingServiceDiscovery.tsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\tinting\\TintingServiceDiscovery.tsx",
+    "name": "TintingServiceDiscovery.tsx",
+    "ext": ".tsx",
+    "size": 5570
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\tinting\\WindowTintingScheduler.tsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\tinting\\WindowTintingScheduler.tsx",
+    "name": "WindowTintingScheduler.tsx",
+    "ext": ".tsx",
+    "size": 4665
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\title\\TitleAgentDashboard.js",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\title\\TitleAgentDashboard.js",
+    "name": "TitleAgentDashboard.js",
+    "ext": ".js",
+    "size": 4202
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\title\\TitleTransferQueue.js",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\title\\TitleTransferQueue.js",
+    "name": "TitleTransferQueue.js",
+    "ext": ".js",
+    "size": 2542
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\title\\TitleVerificationForm.js",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\title\\TitleVerificationForm.js",
+    "name": "TitleVerificationForm.js",
+    "ext": ".js",
+    "size": 2757
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\user\\PointsHistory.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\user\\PointsHistory.jsx",
+    "name": "PointsHistory.jsx",
+    "ext": ".jsx",
+    "size": 4105
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\user\\UserProfilePage.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\user\\UserProfilePage.jsx",
+    "name": "UserProfilePage.jsx",
+    "ext": ".jsx",
+    "size": 5289
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\valuation\\ARConditionScanner.test.tsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\valuation\\ARConditionScanner.test.tsx",
+    "name": "ARConditionScanner.test.tsx",
+    "ext": ".tsx",
+    "size": 2183
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\valuation\\ARConditionScanner.tsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\valuation\\ARConditionScanner.tsx",
+    "name": "ARConditionScanner.tsx",
+    "ext": ".tsx",
+    "size": 1867
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\valuation\\ValuationPortfolio.test.tsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\valuation\\ValuationPortfolio.test.tsx",
+    "name": "ValuationPortfolio.test.tsx",
+    "ext": ".tsx",
+    "size": 2175
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\valuation\\ValuationPortfolio.tsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\valuation\\ValuationPortfolio.tsx",
+    "name": "ValuationPortfolio.tsx",
+    "ext": ".tsx",
+    "size": 2203
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\valuation\\ValuationReport.test.tsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\valuation\\ValuationReport.test.tsx",
+    "name": "ValuationReport.test.tsx",
+    "ext": ".tsx",
+    "size": 2851
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\valuation\\ValuationReport.tsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\valuation\\ValuationReport.tsx",
+    "name": "ValuationReport.tsx",
+    "ext": ".tsx",
+    "size": 1984
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\valuation\\VehicleValuation.test.tsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\valuation\\VehicleValuation.test.tsx",
+    "name": "VehicleValuation.test.tsx",
+    "ext": ".tsx",
+    "size": 2925
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\valuation\\VehicleValuation.tsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\valuation\\VehicleValuation.tsx",
+    "name": "VehicleValuation.tsx",
+    "ext": ".tsx",
+    "size": 3932
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\hooks\\escrow\\EscrowOfficerHook.js",
+    "full_path": "C:\\CFH\\frontend\\src\\hooks\\escrow\\EscrowOfficerHook.js",
+    "name": "EscrowOfficerHook.js",
+    "ext": ".js",
+    "size": 1047
+  }
+]

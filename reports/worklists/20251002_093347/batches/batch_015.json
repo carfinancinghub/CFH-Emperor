@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\performanceValidation.js",
+    "full_path": "C:\\CFH\\backend\\tests\\performanceValidation.js",
+    "name": "performanceValidation.js",
+    "ext": ".js",
+    "size": 5665
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\premium\\AIAuctionSimulator.test.js",
+    "full_path": "C:\\CFH\\backend\\tests\\premium\\AIAuctionSimulator.test.js",
+    "name": "AIAuctionSimulator.test.js",
+    "ext": ".js",
+    "size": 3898
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\premium\\AIInsightBuyer.test.js",
+    "full_path": "C:\\CFH\\backend\\tests\\premium\\AIInsightBuyer.test.js",
+    "name": "AIInsightBuyer.test.js",
+    "ext": ".js",
+    "size": 4236
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\premium\\AIInsightSeller.test.js",
+    "full_path": "C:\\CFH\\backend\\tests\\premium\\AIInsightSeller.test.js",
+    "name": "AIInsightSeller.test.js",
+    "ext": ".js",
+    "size": 4254
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\premium\\ARVehicleView.test.js",
+    "full_path": "C:\\CFH\\backend\\tests\\premium\\ARVehicleView.test.js",
+    "name": "ARVehicleView.test.js",
+    "ext": ".js",
+    "size": 3256
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\premium\\BlockchainAudit.test.js",
+    "full_path": "C:\\CFH\\backend\\tests\\premium\\BlockchainAudit.test.js",
+    "name": "BlockchainAudit.test.js",
+    "ext": ".js",
+    "size": 3935
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\premium\\CrossBorderCommerce.test.js",
+    "full_path": "C:\\CFH\\backend\\tests\\premium\\CrossBorderCommerce.test.js",
+    "name": "CrossBorderCommerce.test.js",
+    "ext": ".js",
+    "size": 3919
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\premium\\DynamicPricing.test.js",
+    "full_path": "C:\\CFH\\backend\\tests\\premium\\DynamicPricing.test.js",
+    "name": "DynamicPricing.test.js",
+    "ext": ".js",
+    "size": 4123
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\premium\\LoyaltyRewards.test.js",
+    "full_path": "C:\\CFH\\backend\\tests\\premium\\LoyaltyRewards.test.js",
+    "name": "LoyaltyRewards.test.js",
+    "ext": ".js",
+    "size": 4034
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\premium\\PostAuctionInsights.test.js",
+    "full_path": "C:\\CFH\\backend\\tests\\premium\\PostAuctionInsights.test.js",
+    "name": "PostAuctionInsights.test.js",
+    "ext": ".js",
+    "size": 4711
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\premium\\PremiumSupportChat.test.js",
+    "full_path": "C:\\CFH\\backend\\tests\\premium\\PremiumSupportChat.test.js",
+    "name": "PremiumSupportChat.test.js",
+    "ext": ".js",
+    "size": 3881
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\premium\\RealTimePredictor.test.js",
+    "full_path": "C:\\CFH\\backend\\tests\\premium\\RealTimePredictor.test.js",
+    "name": "RealTimePredictor.test.js",
+    "ext": ".js",
+    "size": 4209
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\premium\\SocialGamification.test.js",
+    "full_path": "C:\\CFH\\backend\\tests\\premium\\SocialGamification.test.js",
+    "name": "SocialGamification.test.js",
+    "ext": ".js",
+    "size": 3488
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\premium\\VirtualAuctionRoom.test.js",
+    "full_path": "C:\\CFH\\backend\\tests\\premium\\VirtualAuctionRoom.test.js",
+    "name": "VirtualAuctionRoom.test.js",
+    "ext": ".js",
+    "size": 3990
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\premium\\VoiceBidAssistant.test.js",
+    "full_path": "C:\\CFH\\backend\\tests\\premium\\VoiceBidAssistant.test.js",
+    "name": "VoiceBidAssistant.test.js",
+    "ext": ".js",
+    "size": 4515
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\premium\\VRVehicleTour.test.js",
+    "full_path": "C:\\CFH\\backend\\tests\\premium\\VRVehicleTour.test.js",
+    "name": "VRVehicleTour.test.js",
+    "ext": ".js",
+    "size": 3791
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\regression\\WowRegression.test.js",
+    "full_path": "C:\\CFH\\backend\\tests\\regression\\WowRegression.test.js",
+    "name": "WowRegression.test.js",
+    "ext": ".js",
+    "size": 147
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\routes\\ai\\insights.test.js",
+    "full_path": "C:\\CFH\\backend\\tests\\routes\\ai\\insights.test.js",
+    "name": "insights.test.js",
+    "ext": ".js",
+    "size": 3807
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\routes\\auctions\\auctionManagement.test.ts",
+    "full_path": "C:\\CFH\\backend\\tests\\routes\\auctions\\auctionManagement.test.ts",
+    "name": "auctionManagement.test.ts",
+    "ext": ".ts",
+    "size": 17597
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\routes\\auctions\\auctionRoutes.test.ts",
+    "full_path": "C:\\CFH\\backend\\tests\\routes\\auctions\\auctionRoutes.test.ts",
+    "name": "auctionRoutes.test.ts",
+    "ext": ".ts",
+    "size": 7703
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\routes\\bodyshop\\estimateRoutes.test.ts",
+    "full_path": "C:\\CFH\\backend\\tests\\routes\\bodyshop\\estimateRoutes.test.ts",
+    "name": "estimateRoutes.test.ts",
+    "ext": ".ts",
+    "size": 20949
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\routes\\disputes\\analytics\\arbitrator-performance.test.js",
+    "full_path": "C:\\CFH\\backend\\tests\\routes\\disputes\\analytics\\arbitrator-performance.test.js",
+    "name": "arbitrator-performance.test.js",
+    "ext": ".js",
+    "size": 2735
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\routes\\escrow\\EscrowRoutes.test.ts",
+    "full_path": "C:\\CFH\\backend\\tests\\routes\\escrow\\EscrowRoutes.test.ts",
+    "name": "EscrowRoutes.test.ts",
+    "ext": ".ts",
+    "size": 1373
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\scalabilityValidation.js",
+    "full_path": "C:\\CFH\\backend\\tests\\scalabilityValidation.js",
+    "name": "scalabilityValidation.js",
+    "ext": ".js",
+    "size": 6164
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\security\\RateLimiter.test.js",
+    "full_path": "C:\\CFH\\backend\\tests\\security\\RateLimiter.test.js",
+    "name": "RateLimiter.test.js",
+    "ext": ".js",
+    "size": 2763
+  }
+]

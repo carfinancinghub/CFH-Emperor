@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\Backup_Projects",
+    "rel_path": "CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\buyercommunityforum.test.skip.tsx",
+    "full_path": "C:\\Backup_Projects\\CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\buyercommunityforum.test.skip.tsx",
+    "name": "buyercommunityforum.test.skip.tsx",
+    "ext": ".tsx",
+    "size": 162
+  },
+  {
+    "root": "C:\\Backup_Projects",
+    "rel_path": "CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\buyerlenderresults.test.skip.ts",
+    "full_path": "C:\\Backup_Projects\\CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\buyerlenderresults.test.skip.ts",
+    "name": "buyerlenderresults.test.skip.ts",
+    "ext": ".ts",
+    "size": 160
+  },
+  {
+    "root": "C:\\Backup_Projects",
+    "rel_path": "CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\buyersearchpreferences.test.skip.tsx",
+    "full_path": "C:\\Backup_Projects\\CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\buyersearchpreferences.test.skip.tsx",
+    "name": "buyersearchpreferences.test.skip.tsx",
+    "ext": ".tsx",
+    "size": 165
+  },
+  {
+    "root": "C:\\Backup_Projects",
+    "rel_path": "CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\cartransportcoordination.test.skip.ts",
+    "full_path": "C:\\Backup_Projects\\CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\cartransportcoordination.test.skip.ts",
+    "name": "cartransportcoordination.test.skip.ts",
+    "ext": ".ts",
+    "size": 166
+  },
+  {
+    "root": "C:\\Backup_Projects",
+    "rel_path": "CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\collaborationchat.test.skip.ts",
+    "full_path": "C:\\Backup_Projects\\CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\collaborationchat.test.skip.ts",
+    "name": "collaborationchat.test.skip.ts",
+    "ext": ".ts",
+    "size": 159
+  },
+  {
+    "root": "C:\\Backup_Projects",
+    "rel_path": "CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\components\\userprofilepage.test.skip.tsx",
+    "full_path": "C:\\Backup_Projects\\CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\components\\userprofilepage.test.skip.tsx",
+    "name": "userprofilepage.test.skip.tsx",
+    "ext": ".tsx",
+    "size": 158
+  },
+  {
+    "root": "C:\\Backup_Projects",
+    "rel_path": "CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\contracts\\contractsummary.test.skip.tsx",
+    "full_path": "C:\\Backup_Projects\\CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\contracts\\contractsummary.test.skip.tsx",
+    "name": "contractsummary.test.skip.tsx",
+    "ext": ".tsx",
+    "size": 158
+  },
+  {
+    "root": "C:\\Backup_Projects",
+    "rel_path": "CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\equity-hub\\equityintelligencehub.test.skip.tsx",
+    "full_path": "C:\\Backup_Projects\\CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\equity-hub\\equityintelligencehub.test.skip.tsx",
+    "name": "equityintelligencehub.test.skip.tsx",
+    "ext": ".tsx",
+    "size": 164
+  },
+  {
+    "root": "C:\\Backup_Projects",
+    "rel_path": "CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\escrow\\escrowofficerdashboard.test.skip.tsx",
+    "full_path": "C:\\Backup_Projects\\CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\escrow\\escrowofficerdashboard.test.skip.tsx",
+    "name": "escrowofficerdashboard.test.skip.tsx",
+    "ext": ".tsx",
+    "size": 165
+  },
+  {
+    "root": "C:\\Backup_Projects",
+    "rel_path": "CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\escrow\\escrowstatusviewer.test.skip.tsx",
+    "full_path": "C:\\Backup_Projects\\CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\escrow\\escrowstatusviewer.test.skip.tsx",
+    "name": "escrowstatusviewer.test.skip.tsx",
+    "ext": ".tsx",
+    "size": 161
+  },
+  {
+    "root": "C:\\Backup_Projects",
+    "rel_path": "CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\escrow\\escrowsyncadminpanel.test.skip.tsx",
+    "full_path": "C:\\Backup_Projects\\CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\escrow\\escrowsyncadminpanel.test.skip.tsx",
+    "name": "escrowsyncadminpanel.test.skip.tsx",
+    "ext": ".tsx",
+    "size": 163
+  },
+  {
+    "root": "C:\\Backup_Projects",
+    "rel_path": "CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\escrowstatussync.test.skip.tsx",
+    "full_path": "C:\\Backup_Projects\\CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\escrowstatussync.test.skip.tsx",
+    "name": "escrowstatussync.test.skip.tsx",
+    "ext": ".tsx",
+    "size": 159
+  },
+  {
+    "root": "C:\\Backup_Projects",
+    "rel_path": "CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\escrowstatustracker.test.skip.tsx",
+    "full_path": "C:\\Backup_Projects\\CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\escrowstatustracker.test.skip.tsx",
+    "name": "escrowstatustracker.test.skip.tsx",
+    "ext": ".tsx",
+    "size": 162
+  },
+  {
+    "root": "C:\\Backup_Projects",
+    "rel_path": "CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\finance\\financeriskassessment.test.skip.tsx",
+    "full_path": "C:\\Backup_Projects\\CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\finance\\financeriskassessment.test.skip.tsx",
+    "name": "financeriskassessment.test.skip.tsx",
+    "ext": ".tsx",
+    "size": 164
+  },
+  {
+    "root": "C:\\Backup_Projects",
+    "rel_path": "CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\gamification\\achievementpopup.test.skip.tsx",
+    "full_path": "C:\\Backup_Projects\\CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\gamification\\achievementpopup.test.skip.tsx",
+    "name": "achievementpopup.test.skip.tsx",
+    "ext": ".tsx",
+    "size": 159
+  },
+  {
+    "root": "C:\\Backup_Projects",
+    "rel_path": "CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\gamification\\badgestorefront.test.skip.tsx",
+    "full_path": "C:\\Backup_Projects\\CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\gamification\\badgestorefront.test.skip.tsx",
+    "name": "badgestorefront.test.skip.tsx",
+    "ext": ".tsx",
+    "size": 158
+  },
+  {
+    "root": "C:\\Backup_Projects",
+    "rel_path": "CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\guestdashboard.test.skip.tsx",
+    "full_path": "C:\\Backup_Projects\\CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\guestdashboard.test.skip.tsx",
+    "name": "guestdashboard.test.skip.tsx",
+    "ext": ".tsx",
+    "size": 157
+  },
+  {
+    "root": "C:\\Backup_Projects",
+    "rel_path": "CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\hauler\\haulerauctiondelivery.test.skip.tsx",
+    "full_path": "C:\\Backup_Projects\\CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\hauler\\haulerauctiondelivery.test.skip.tsx",
+    "name": "haulerauctiondelivery.test.skip.tsx",
+    "ext": ".tsx",
+    "size": 164
+  },
+  {
+    "root": "C:\\Backup_Projects",
+    "rel_path": "CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\haulercollaboration.test.skip.tsx",
+    "full_path": "C:\\Backup_Projects\\CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\haulercollaboration.test.skip.tsx",
+    "name": "haulercollaboration.test.skip.tsx",
+    "ext": ".tsx",
+    "size": 162
+  },
+  {
+    "root": "C:\\Backup_Projects",
+    "rel_path": "CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\haulercommunityboard.test.skip.tsx",
+    "full_path": "C:\\Backup_Projects\\CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\haulercommunityboard.test.skip.tsx",
+    "name": "haulercommunityboard.test.skip.tsx",
+    "ext": ".tsx",
+    "size": 163
+  },
+  {
+    "root": "C:\\Backup_Projects",
+    "rel_path": "CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\inspectionphotopreviewer.test.skip.tsx",
+    "full_path": "C:\\Backup_Projects\\CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\inspectionphotopreviewer.test.skip.tsx",
+    "name": "inspectionphotopreviewer.test.skip.tsx",
+    "ext": ".tsx",
+    "size": 167
+  },
+  {
+    "root": "C:\\Backup_Projects",
+    "rel_path": "CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\insurance\\insuranceaimodelperformance.test.skip.tsx",
+    "full_path": "C:\\Backup_Projects\\CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\insurance\\insuranceaimodelperformance.test.skip.tsx",
+    "name": "insuranceaimodelperformance.test.skip.tsx",
+    "ext": ".tsx",
+    "size": 170
+  },
+  {
+    "root": "C:\\Backup_Projects",
+    "rel_path": "CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\insurance\\insuranceclaimsanalytics.test.skip.tsx",
+    "full_path": "C:\\Backup_Projects\\CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\insurance\\insuranceclaimsanalytics.test.skip.tsx",
+    "name": "insuranceclaimsanalytics.test.skip.tsx",
+    "ext": ".tsx",
+    "size": 167
+  },
+  {
+    "root": "C:\\Backup_Projects",
+    "rel_path": "CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\insurance\\insuranceclaimsprocessor.test.skip.tsx",
+    "full_path": "C:\\Backup_Projects\\CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\insurance\\insuranceclaimsprocessor.test.skip.tsx",
+    "name": "insuranceclaimsprocessor.test.skip.tsx",
+    "ext": ".tsx",
+    "size": 167
+  },
+  {
+    "root": "C:\\Backup_Projects",
+    "rel_path": "CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\insurance\\insuranceofficerdashboard.test.skip.tsx",
+    "full_path": "C:\\Backup_Projects\\CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\insurance\\insuranceofficerdashboard.test.skip.tsx",
+    "name": "insuranceofficerdashboard.test.skip.tsx",
+    "ext": ".tsx",
+    "size": 168
+  }
+]

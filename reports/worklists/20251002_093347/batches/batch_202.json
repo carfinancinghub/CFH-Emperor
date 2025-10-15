@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\DisputeSummaryView.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\DisputeSummaryView.test_1.tsx",
+    "name": "DisputeSummaryView.test_1.tsx",
+    "ext": ".tsx",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\DisputeSummaryView.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\DisputeSummaryView.test.tsx",
+    "name": "DisputeSummaryView.test.tsx",
+    "ext": ".tsx",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\DisputeSummaryView.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\DisputeSummaryView.tsx",
+    "name": "DisputeSummaryView.tsx",
+    "ext": ".tsx",
+    "size": 2109
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\DocumentUploader_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\DocumentUploader_1.tsx",
+    "name": "DocumentUploader_1.tsx",
+    "ext": ".tsx",
+    "size": 4309
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\DocumentUploader.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\DocumentUploader.test_1.tsx",
+    "name": "DocumentUploader.test_1.tsx",
+    "ext": ".tsx",
+    "size": 48
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\DocumentUploader.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\DocumentUploader.test.tsx",
+    "name": "DocumentUploader.test.tsx",
+    "ext": ".tsx",
+    "size": 48
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\EquityIntelligenceHub_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\EquityIntelligenceHub_1.tsx",
+    "name": "EquityIntelligenceHub_1.tsx",
+    "ext": ".tsx",
+    "size": 4100
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\EquityIntelligenceHub.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\EquityIntelligenceHub.test_1.tsx",
+    "name": "EquityIntelligenceHub.test_1.tsx",
+    "ext": ".tsx",
+    "size": 2619
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\EquityIntelligenceHub.test.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\EquityIntelligenceHub.test.test_1.tsx",
+    "name": "EquityIntelligenceHub.test.test_1.tsx",
+    "ext": ".tsx",
+    "size": 58
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\EquityIntelligenceHub.test.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\EquityIntelligenceHub.test.test.tsx",
+    "name": "EquityIntelligenceHub.test.test.tsx",
+    "ext": ".tsx",
+    "size": 58
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\EquityIntelligenceHub.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\EquityIntelligenceHub.test.tsx",
+    "name": "EquityIntelligenceHub.test.tsx",
+    "ext": ".tsx",
+    "size": 53
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\EquityIntelligenceHub.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\EquityIntelligenceHub.tsx",
+    "name": "EquityIntelligenceHub.tsx",
+    "ext": ".tsx",
+    "size": 4100
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\ErrorBoundary_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\ErrorBoundary_1.tsx",
+    "name": "ErrorBoundary_1.tsx",
+    "ext": ".tsx",
+    "size": 1543
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\EscrowAuditLogViewer_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\EscrowAuditLogViewer_1.tsx",
+    "name": "EscrowAuditLogViewer_1.tsx",
+    "ext": ".tsx",
+    "size": 1166
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\EscrowAuditLogViewer.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\EscrowAuditLogViewer.test_1.tsx",
+    "name": "EscrowAuditLogViewer.test_1.tsx",
+    "ext": ".tsx",
+    "size": 52
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\EscrowAuditLogViewer.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\EscrowAuditLogViewer.test.tsx",
+    "name": "EscrowAuditLogViewer.test.tsx",
+    "ext": ".tsx",
+    "size": 52
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\EscrowAuditLogViewer.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\EscrowAuditLogViewer.tsx",
+    "name": "EscrowAuditLogViewer.tsx",
+    "ext": ".tsx",
+    "size": 1166
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\EscrowConditionChecklist_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\EscrowConditionChecklist_1.tsx",
+    "name": "EscrowConditionChecklist_1.tsx",
+    "ext": ".tsx",
+    "size": 4824
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\EscrowConditionChecklist.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\EscrowConditionChecklist.test_1.tsx",
+    "name": "EscrowConditionChecklist.test_1.tsx",
+    "ext": ".tsx",
+    "size": 56
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\EscrowConditionChecklist.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\EscrowConditionChecklist.test.tsx",
+    "name": "EscrowConditionChecklist.test.tsx",
+    "ext": ".tsx",
+    "size": 56
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\EscrowConditionChecklist.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\EscrowConditionChecklist.tsx",
+    "name": "EscrowConditionChecklist.tsx",
+    "ext": ".tsx",
+    "size": 4824
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\EscrowDashboard_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\EscrowDashboard_1.tsx",
+    "name": "EscrowDashboard_1.tsx",
+    "ext": ".tsx",
+    "size": 7266
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\EscrowDashboard.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\EscrowDashboard.test_1.tsx",
+    "name": "EscrowDashboard.test_1.tsx",
+    "ext": ".tsx",
+    "size": 47
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\EscrowDashboard.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\EscrowDashboard.test.tsx",
+    "name": "EscrowDashboard.test.tsx",
+    "ext": ".tsx",
+    "size": 47
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\EscrowDocumentGallery_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\EscrowDocumentGallery_1.tsx",
+    "name": "EscrowDocumentGallery_1.tsx",
+    "ext": ".tsx",
+    "size": 6192
+  }
+]

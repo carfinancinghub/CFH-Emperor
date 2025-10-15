@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\NotificationsComponent_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\NotificationsComponent_1.tsx",
+    "name": "NotificationsComponent_1.tsx",
+    "ext": ".tsx",
+    "size": 8759
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\OfficerDashboard.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\OfficerDashboard.test_1.tsx",
+    "name": "OfficerDashboard.test_1.tsx",
+    "ext": ".tsx",
+    "size": 3195
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\OfficerDashboard.test.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\OfficerDashboard.test.test_1.tsx",
+    "name": "OfficerDashboard.test.test_1.tsx",
+    "ext": ".tsx",
+    "size": 53
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\OfficerDashboard.test.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\OfficerDashboard.test.test.tsx",
+    "name": "OfficerDashboard.test.test.tsx",
+    "ext": ".tsx",
+    "size": 53
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\OfficerDashboard.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\OfficerDashboard.test.tsx",
+    "name": "OfficerDashboard.test.tsx",
+    "ext": ".tsx",
+    "size": 3195
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\OnboardingTrigger_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\OnboardingTrigger_1.tsx",
+    "name": "OnboardingTrigger_1.tsx",
+    "ext": ".tsx",
+    "size": 2442
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\OnboardingTrigger.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\OnboardingTrigger.test_1.tsx",
+    "name": "OnboardingTrigger.test_1.tsx",
+    "ext": ".tsx",
+    "size": 49
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\OnboardingTrigger.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\OnboardingTrigger.test.tsx",
+    "name": "OnboardingTrigger.test.tsx",
+    "ext": ".tsx",
+    "size": 49
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\OnboardingWizard_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\OnboardingWizard_1.tsx",
+    "name": "OnboardingWizard_1.tsx",
+    "ext": ".tsx",
+    "size": 4531
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\OnboardingWizard.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\OnboardingWizard.test_1.tsx",
+    "name": "OnboardingWizard.test_1.tsx",
+    "ext": ".tsx",
+    "size": 3182
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\OnboardingWizard.test.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\OnboardingWizard.test.test_1.tsx",
+    "name": "OnboardingWizard.test.test_1.tsx",
+    "ext": ".tsx",
+    "size": 53
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\OnboardingWizard.test.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\OnboardingWizard.test.test.tsx",
+    "name": "OnboardingWizard.test.test.tsx",
+    "ext": ".tsx",
+    "size": 53
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\OnboardingWizard.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\OnboardingWizard.test.tsx",
+    "name": "OnboardingWizard.test.tsx",
+    "ext": ".tsx",
+    "size": 48
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\OnboardingWizard.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\OnboardingWizard.tsx",
+    "name": "OnboardingWizard.tsx",
+    "ext": ".tsx",
+    "size": 4531
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\PartnerPortal_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\PartnerPortal_1.tsx",
+    "name": "PartnerPortal_1.tsx",
+    "ext": ".tsx",
+    "size": 1055
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\PartnerPortal.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\PartnerPortal.test_1.tsx",
+    "name": "PartnerPortal.test_1.tsx",
+    "ext": ".tsx",
+    "size": 45
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\PartnerPortal.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\PartnerPortal.test.tsx",
+    "name": "PartnerPortal.test.tsx",
+    "ext": ".tsx",
+    "size": 45
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\PartnerPortal.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\PartnerPortal.tsx",
+    "name": "PartnerPortal.tsx",
+    "ext": ".tsx",
+    "size": 1055
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\PartsOrderForm.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\PartsOrderForm.test_1.tsx",
+    "name": "PartsOrderForm.test_1.tsx",
+    "ext": ".tsx",
+    "size": 10037
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\PDFPreviewModal_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\PDFPreviewModal_1.tsx",
+    "name": "PDFPreviewModal_1.tsx",
+    "ext": ".tsx",
+    "size": 2824
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\PDFPreviewModal.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\PDFPreviewModal.test_1.tsx",
+    "name": "PDFPreviewModal.test_1.tsx",
+    "ext": ".tsx",
+    "size": 47
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\PDFPreviewModal.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\PDFPreviewModal.test.tsx",
+    "name": "PDFPreviewModal.test.tsx",
+    "ext": ".tsx",
+    "size": 47
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\PDFPreviewModal.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\PDFPreviewModal.tsx",
+    "name": "PDFPreviewModal.tsx",
+    "ext": ".tsx",
+    "size": 2824
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\PhotoProofUpload_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\PhotoProofUpload_1.tsx",
+    "name": "PhotoProofUpload_1.tsx",
+    "ext": ".tsx",
+    "size": 2570
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\PhotoProofUpload.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\PhotoProofUpload.test_1.tsx",
+    "name": "PhotoProofUpload.test_1.tsx",
+    "ext": ".tsx",
+    "size": 48
+  }
+]

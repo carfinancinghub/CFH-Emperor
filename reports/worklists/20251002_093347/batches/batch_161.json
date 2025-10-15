@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\notifications.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\notifications.test.ts",
+    "name": "notifications.test.ts",
+    "ext": ".ts",
+    "size": 44
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\notifications.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\notifications.ts",
+    "name": "notifications.ts",
+    "ext": ".ts",
+    "size": 5619
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\NotificationService_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\NotificationService_1.ts",
+    "name": "NotificationService_1.ts",
+    "ext": ".ts",
+    "size": 2748
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\NotificationService.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\NotificationService.test_1.ts",
+    "name": "NotificationService.test_1.ts",
+    "ext": ".ts",
+    "size": 2099
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\notificationTestValidation_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\notificationTestValidation_1.ts",
+    "name": "notificationTestValidation_1.ts",
+    "ext": ".ts",
+    "size": 5470
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\notificationTestValidation.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\notificationTestValidation.test_1.ts",
+    "name": "notificationTestValidation.test_1.ts",
+    "ext": ".ts",
+    "size": 57
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\notificationTestValidation.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\notificationTestValidation.test.ts",
+    "name": "notificationTestValidation.test.ts",
+    "ext": ".ts",
+    "size": 57
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\notificationTestValidation.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\notificationTestValidation.ts",
+    "name": "notificationTestValidation.ts",
+    "ext": ".ts",
+    "size": 5470
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\notificationTrigger_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\notificationTrigger_1.ts",
+    "name": "notificationTrigger_1.ts",
+    "ext": ".ts",
+    "size": 227
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\NotificationWorker.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\NotificationWorker.test_1.ts",
+    "name": "NotificationWorker.test_1.ts",
+    "ext": ".ts",
+    "size": 680
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\onboardingController_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\onboardingController_1.ts",
+    "name": "onboardingController_1.ts",
+    "ext": ".ts",
+    "size": 1193
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\onboardingController.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\onboardingController.test_1.ts",
+    "name": "onboardingController.test_1.ts",
+    "ext": ".ts",
+    "size": 51
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\onboardingController.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\onboardingController.test.ts",
+    "name": "onboardingController.test.ts",
+    "ext": ".ts",
+    "size": 51
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\onboardingController.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\onboardingController.ts",
+    "name": "onboardingController.ts",
+    "ext": ".ts",
+    "size": 1193
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\OnboardingGuide_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\OnboardingGuide_1.ts",
+    "name": "OnboardingGuide_1.ts",
+    "ext": ".ts",
+    "size": 1243
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\OnboardingGuide.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\OnboardingGuide.test_1.ts",
+    "name": "OnboardingGuide.test_1.ts",
+    "ext": ".ts",
+    "size": 46
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\OnboardingGuide.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\OnboardingGuide.test.ts",
+    "name": "OnboardingGuide.test.ts",
+    "ext": ".ts",
+    "size": 46
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\OnboardingGuide.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\OnboardingGuide.ts",
+    "name": "OnboardingGuide.ts",
+    "ext": ".ts",
+    "size": 1243
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\partsOrderingService_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\partsOrderingService_1.ts",
+    "name": "partsOrderingService_1.ts",
+    "ext": ".ts",
+    "size": 8407
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\partsOrderingService.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\partsOrderingService.test_1.ts",
+    "name": "partsOrderingService.test_1.ts",
+    "ext": ".ts",
+    "size": 9939
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\PartsOrderService_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\PartsOrderService_1.ts",
+    "name": "PartsOrderService_1.ts",
+    "ext": ".ts",
+    "size": 7925
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\PartsOrderService.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\PartsOrderService.test_1.ts",
+    "name": "PartsOrderService.test_1.ts",
+    "ext": ".ts",
+    "size": 8767
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\pathFixPrep_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\pathFixPrep_1.ts",
+    "name": "pathFixPrep_1.ts",
+    "ext": ".ts",
+    "size": 5338
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\pathFixPrep.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\pathFixPrep.test_1.ts",
+    "name": "pathFixPrep.test_1.ts",
+    "ext": ".ts",
+    "size": 42
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\pathFixPrep.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\pathFixPrep.test.ts",
+    "name": "pathFixPrep.test.ts",
+    "ext": ".ts",
+    "size": 42
+  }
+]

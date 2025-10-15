@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\performanceValidation.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\performanceValidation.test.ts",
+    "name": "performanceValidation.test.ts",
+    "ext": ".ts",
+    "size": 52
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\performanceValidation.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\performanceValidation.ts",
+    "name": "performanceValidation.ts",
+    "ext": ".ts",
+    "size": 5746
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\photoEvidenceRoutes_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\photoEvidenceRoutes_1.ts",
+    "name": "photoEvidenceRoutes_1.ts",
+    "ext": ".ts",
+    "size": 1239
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\photoEvidenceRoutes.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\photoEvidenceRoutes.test_1.ts",
+    "name": "photoEvidenceRoutes.test_1.ts",
+    "ext": ".ts",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\photoEvidenceRoutes.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\photoEvidenceRoutes.test.ts",
+    "name": "photoEvidenceRoutes.test.ts",
+    "ext": ".ts",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\photoEvidenceRoutes.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\photoEvidenceRoutes.ts",
+    "name": "photoEvidenceRoutes.ts",
+    "ext": ".ts",
+    "size": 1239
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\PhotoEvidenceViewer_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\PhotoEvidenceViewer_1.ts",
+    "name": "PhotoEvidenceViewer_1.ts",
+    "ext": ".ts",
+    "size": 2587
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\PhotoEvidenceViewer.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\PhotoEvidenceViewer.test_1.ts",
+    "name": "PhotoEvidenceViewer.test_1.ts",
+    "ext": ".ts",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\PhotoEvidenceViewer.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\PhotoEvidenceViewer.test.ts",
+    "name": "PhotoEvidenceViewer.test.ts",
+    "ext": ".ts",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\PhotoEvidenceViewer.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\PhotoEvidenceViewer.ts",
+    "name": "PhotoEvidenceViewer.ts",
+    "ext": ".ts",
+    "size": 2587
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\photoRoutes_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\photoRoutes_1.ts",
+    "name": "photoRoutes_1.ts",
+    "ext": ".ts",
+    "size": 1717
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\photoRoutes.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\photoRoutes.test_1.ts",
+    "name": "photoRoutes.test_1.ts",
+    "ext": ".ts",
+    "size": 42
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\photoRoutes.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\photoRoutes.test.ts",
+    "name": "photoRoutes.test.ts",
+    "ext": ".ts",
+    "size": 42
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\photoRoutes.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\photoRoutes.ts",
+    "name": "photoRoutes.ts",
+    "ext": ".ts",
+    "size": 1717
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\photoUploadRoutes_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\photoUploadRoutes_1.ts",
+    "name": "photoUploadRoutes_1.ts",
+    "ext": ".ts",
+    "size": 1612
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\photoUploadRoutes.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\photoUploadRoutes.test_1.ts",
+    "name": "photoUploadRoutes.test_1.ts",
+    "ext": ".ts",
+    "size": 48
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\photoUploadRoutes.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\photoUploadRoutes.test.ts",
+    "name": "photoUploadRoutes.test.ts",
+    "ext": ".ts",
+    "size": 48
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\photoUploadRoutes.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\photoUploadRoutes.ts",
+    "name": "photoUploadRoutes.ts",
+    "ext": ".ts",
+    "size": 1612
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\PlatformMonitor_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\PlatformMonitor_1.ts",
+    "name": "PlatformMonitor_1.ts",
+    "ext": ".ts",
+    "size": 2556
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\PlatformMonitor.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\PlatformMonitor.test_1.ts",
+    "name": "PlatformMonitor.test_1.ts",
+    "ext": ".ts",
+    "size": 4077
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\PlatformMonitor.test.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\PlatformMonitor.test.test_1.ts",
+    "name": "PlatformMonitor.test.test_1.ts",
+    "ext": ".ts",
+    "size": 51
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\PlatformMonitor.test.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\PlatformMonitor.test.test.ts",
+    "name": "PlatformMonitor.test.test.ts",
+    "ext": ".ts",
+    "size": 51
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\PlatformMonitor.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\PlatformMonitor.test.ts",
+    "name": "PlatformMonitor.test.ts",
+    "ext": ".ts",
+    "size": 46
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\PlatformMonitor.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\PlatformMonitor.ts",
+    "name": "PlatformMonitor.ts",
+    "ext": ".ts",
+    "size": 2556
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\PolicyReviewQueue_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\PolicyReviewQueue_1.ts",
+    "name": "PolicyReviewQueue_1.ts",
+    "ext": ".ts",
+    "size": 2959
+  }
+]

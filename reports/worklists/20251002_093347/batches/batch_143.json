@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\HaulerReputationTracker.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\HaulerReputationTracker.test_1.ts",
+    "name": "HaulerReputationTracker.test_1.ts",
+    "ext": ".ts",
+    "size": 54
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\HaulerReputationTracker.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\HaulerReputationTracker.test.ts",
+    "name": "HaulerReputationTracker.test.ts",
+    "ext": ".ts",
+    "size": 54
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\HaulerReputationTracker.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\HaulerReputationTracker.ts",
+    "name": "HaulerReputationTracker.ts",
+    "ext": ".ts",
+    "size": 2346
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\HaulerRequest_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\HaulerRequest_1.ts",
+    "name": "HaulerRequest_1.ts",
+    "ext": ".ts",
+    "size": 2320
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\HaulerRequest.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\HaulerRequest.test_1.ts",
+    "name": "HaulerRequest.test_1.ts",
+    "ext": ".ts",
+    "size": 44
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\HaulerRequest.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\HaulerRequest.test.ts",
+    "name": "HaulerRequest.test.ts",
+    "ext": ".ts",
+    "size": 44
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\HaulerRequest.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\HaulerRequest.ts",
+    "name": "HaulerRequest.ts",
+    "ext": ".ts",
+    "size": 2320
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\health_test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\health_test_1.ts",
+    "name": "health_test_1.ts",
+    "ext": ".ts",
+    "size": 157
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\health_test.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\health_test.test_1.ts",
+    "name": "health_test.test_1.ts",
+    "ext": ".ts",
+    "size": 42
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\health_test.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\health_test.test.ts",
+    "name": "health_test.test.ts",
+    "ext": ".ts",
+    "size": 42
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\health_test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\health_test.ts",
+    "name": "health_test.ts",
+    "ext": ".ts",
+    "size": 157
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\healthCheck_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\healthCheck_1.ts",
+    "name": "healthCheck_1.ts",
+    "ext": ".ts",
+    "size": 2136
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\healthCheck.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\healthCheck.test_1.ts",
+    "name": "healthCheck.test_1.ts",
+    "ext": ".ts",
+    "size": 42
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\healthCheck.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\healthCheck.test.ts",
+    "name": "healthCheck.test.ts",
+    "ext": ".ts",
+    "size": 42
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\healthCheck.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\healthCheck.ts",
+    "name": "healthCheck.ts",
+    "ext": ".ts",
+    "size": 2136
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\healthCheckFast_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\healthCheckFast_1.ts",
+    "name": "healthCheckFast_1.ts",
+    "ext": ".ts",
+    "size": 2040
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\healthCheckFast.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\healthCheckFast.test_1.ts",
+    "name": "healthCheckFast.test_1.ts",
+    "ext": ".ts",
+    "size": 46
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\healthCheckFast.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\healthCheckFast.test.ts",
+    "name": "healthCheckFast.test.ts",
+    "ext": ".ts",
+    "size": 46
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\healthCheckFast.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\healthCheckFast.ts",
+    "name": "healthCheckFast.ts",
+    "ext": ".ts",
+    "size": 2040
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\healthCheckValidation_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\healthCheckValidation_1.ts",
+    "name": "healthCheckValidation_1.ts",
+    "ext": ".ts",
+    "size": 6239
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\healthCheckValidation.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\healthCheckValidation.test_1.ts",
+    "name": "healthCheckValidation.test_1.ts",
+    "ext": ".ts",
+    "size": 52
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\healthCheckValidation.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\healthCheckValidation.test.ts",
+    "name": "healthCheckValidation.test.ts",
+    "ext": ".ts",
+    "size": 52
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\healthCheckValidation.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\healthCheckValidation.ts",
+    "name": "healthCheckValidation.ts",
+    "ext": ".ts",
+    "size": 6239
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\Heatmap_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\Heatmap_1.ts",
+    "name": "Heatmap_1.ts",
+    "ext": ".ts",
+    "size": 1305
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\Heatmap.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\Heatmap.test_1.ts",
+    "name": "Heatmap.test_1.ts",
+    "ext": ".ts",
+    "size": 2397
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\EscrowTransactionPDFExporter.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\EscrowTransactionPDFExporter.test_1.ts",
+    "name": "EscrowTransactionPDFExporter.test_1.ts",
+    "ext": ".ts",
+    "size": 59
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\EscrowTransactionPDFExporter.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\EscrowTransactionPDFExporter.test.ts",
+    "name": "EscrowTransactionPDFExporter.test.ts",
+    "ext": ".ts",
+    "size": 59
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\EscrowWarningEngine_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\EscrowWarningEngine_1.ts",
+    "name": "EscrowWarningEngine_1.ts",
+    "ext": ".ts",
+    "size": 618
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\estimateRoutes.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\estimateRoutes.test_1.ts",
+    "name": "estimateRoutes.test_1.ts",
+    "ext": ".ts",
+    "size": 20949
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\estimateService_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\estimateService_1.ts",
+    "name": "estimateService_1.ts",
+    "ext": ".ts",
+    "size": 19056
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\estimateService.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\estimateService.test_1.ts",
+    "name": "estimateService.test_1.ts",
+    "ext": ".ts",
+    "size": 16768
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\estimateValidation_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\estimateValidation_1.ts",
+    "name": "estimateValidation_1.ts",
+    "ext": ".ts",
+    "size": 8002
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\estimateValidation.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\estimateValidation.test_1.ts",
+    "name": "estimateValidation.test_1.ts",
+    "ext": ".ts",
+    "size": 14198
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\evidence.validation_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\evidence.validation_1.ts",
+    "name": "evidence.validation_1.ts",
+    "ext": ".ts",
+    "size": 735
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\evidenceController_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\evidenceController_1.ts",
+    "name": "evidenceController_1.ts",
+    "ext": ".ts",
+    "size": 2406
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\evidenceController.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\evidenceController.test_1.ts",
+    "name": "evidenceController.test_1.ts",
+    "ext": ".ts",
+    "size": 49
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\evidenceController.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\evidenceController.test.ts",
+    "name": "evidenceController.test.ts",
+    "ext": ".ts",
+    "size": 49
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\evidenceController.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\evidenceController.ts",
+    "name": "evidenceController.ts",
+    "ext": ".ts",
+    "size": 2406
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\export_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\export_1.ts",
+    "name": "export_1.ts",
+    "ext": ".ts",
+    "size": 665
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\export_delivery_pdf_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\export_delivery_pdf_1.ts",
+    "name": "export_delivery_pdf_1.ts",
+    "ext": ".ts",
+    "size": 2779
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\export_delivery_pdf_test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\export_delivery_pdf_test_1.ts",
+    "name": "export_delivery_pdf_test_1.ts",
+    "ext": ".ts",
+    "size": 2359
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\export_delivery_pdf_test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\export_delivery_pdf_test.ts",
+    "name": "export_delivery_pdf_test.ts",
+    "ext": ".ts",
+    "size": 2359
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\export.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\export.test_1.ts",
+    "name": "export.test_1.ts",
+    "ext": ".ts",
+    "size": 37
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\export.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\export.test.ts",
+    "name": "export.test.ts",
+    "ext": ".ts",
+    "size": 37
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\export.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\export.ts",
+    "name": "export.ts",
+    "ext": ".ts",
+    "size": 665
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\exportController_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\exportController_1.ts",
+    "name": "exportController_1.ts",
+    "ext": ".ts",
+    "size": 2928
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\exportController.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\exportController.test_1.ts",
+    "name": "exportController.test_1.ts",
+    "ext": ".ts",
+    "size": 47
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\exportController.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\exportController.test.ts",
+    "name": "exportController.test.ts",
+    "ext": ".ts",
+    "size": 47
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\exportController.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\exportController.ts",
+    "name": "exportController.ts",
+    "ext": ".ts",
+    "size": 2928
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\exportDeliveryPDF_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\exportDeliveryPDF_1.ts",
+    "name": "exportDeliveryPDF_1.ts",
+    "ext": ".ts",
+    "size": 2754
+  }
+]

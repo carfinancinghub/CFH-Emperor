@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\VinDecoderService_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\VinDecoderService_1.ts",
+    "name": "VinDecoderService_1.ts",
+    "ext": ".ts",
+    "size": 1211
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\VinDecoderService.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\VinDecoderService.test_1.ts",
+    "name": "VinDecoderService.test_1.ts",
+    "ext": ".ts",
+    "size": 883
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\VirtualAuctionRoom_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\VirtualAuctionRoom_1.ts",
+    "name": "VirtualAuctionRoom_1.ts",
+    "ext": ".ts",
+    "size": 2191
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\VirtualAuctionRoom.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\VirtualAuctionRoom.test_1.ts",
+    "name": "VirtualAuctionRoom.test_1.ts",
+    "ext": ".ts",
+    "size": 4073
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\VirtualAuctionRoom.test.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\VirtualAuctionRoom.test.test_1.ts",
+    "name": "VirtualAuctionRoom.test.test_1.ts",
+    "ext": ".ts",
+    "size": 54
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\VirtualAuctionRoom.test.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\VirtualAuctionRoom.test.test.ts",
+    "name": "VirtualAuctionRoom.test.test.ts",
+    "ext": ".ts",
+    "size": 54
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\VirtualAuctionRoom.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\VirtualAuctionRoom.test.ts",
+    "name": "VirtualAuctionRoom.test.ts",
+    "ext": ".ts",
+    "size": 49
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\VirtualAuctionRoom.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\VirtualAuctionRoom.ts",
+    "name": "VirtualAuctionRoom.ts",
+    "ext": ".ts",
+    "size": 2191
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\vite.config_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\vite.config_1.ts",
+    "name": "vite.config_1.ts",
+    "ext": ".ts",
+    "size": 632
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\vite.config.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\vite.config.test_1.ts",
+    "name": "vite.config.test_1.ts",
+    "ext": ".ts",
+    "size": 42
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\vite.config.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\vite.config.test.ts",
+    "name": "vite.config.test.ts",
+    "ext": ".ts",
+    "size": 42
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\VoiceBidAssistant_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\VoiceBidAssistant_1.ts",
+    "name": "VoiceBidAssistant_1.ts",
+    "ext": ".ts",
+    "size": 2932
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\VoiceBidAssistant.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\VoiceBidAssistant.test_1.ts",
+    "name": "VoiceBidAssistant.test_1.ts",
+    "ext": ".ts",
+    "size": 4597
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\VoiceBidAssistant.test.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\VoiceBidAssistant.test.test_1.ts",
+    "name": "VoiceBidAssistant.test.test_1.ts",
+    "ext": ".ts",
+    "size": 53
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\VoiceBidAssistant.test.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\VoiceBidAssistant.test.test.ts",
+    "name": "VoiceBidAssistant.test.test.ts",
+    "ext": ".ts",
+    "size": 53
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\VoiceBidAssistant.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\VoiceBidAssistant.test.ts",
+    "name": "VoiceBidAssistant.test.ts",
+    "ext": ".ts",
+    "size": 48
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\VoiceBidAssistant.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\VoiceBidAssistant.ts",
+    "name": "VoiceBidAssistant.ts",
+    "ext": ".ts",
+    "size": 2932
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\VoiceInteraction_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\VoiceInteraction_1.ts",
+    "name": "VoiceInteraction_1.ts",
+    "ext": ".ts",
+    "size": 695
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\VoiceInteraction.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\VoiceInteraction.test_1.ts",
+    "name": "VoiceInteraction.test_1.ts",
+    "ext": ".ts",
+    "size": 47
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\VoiceInteraction.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\VoiceInteraction.test.ts",
+    "name": "VoiceInteraction.test.ts",
+    "ext": ".ts",
+    "size": 47
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\VoiceInteraction.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\VoiceInteraction.ts",
+    "name": "VoiceInteraction.ts",
+    "ext": ".ts",
+    "size": 695
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\votingController_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\votingController_1.ts",
+    "name": "votingController_1.ts",
+    "ext": ".ts",
+    "size": 3372
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\votingController.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\votingController.test_1.ts",
+    "name": "votingController.test_1.ts",
+    "ext": ".ts",
+    "size": 3765
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\votingController.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\votingController.test.ts",
+    "name": "votingController.test.ts",
+    "ext": ".ts",
+    "size": 3765
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\votingController.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\votingController.ts",
+    "name": "votingController.ts",
+    "ext": ".ts",
+    "size": 3372
+  }
+]

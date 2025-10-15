@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "utils\\LoyaltyProgramEngine.ts",
+    "full_path": "C:\\CFH\\backend\\utils\\LoyaltyProgramEngine.ts",
+    "name": "LoyaltyProgramEngine.ts",
+    "ext": ".ts",
+    "size": 326
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "utils\\mechanic\\MechanicAIRepairRecommender.ts",
+    "full_path": "C:\\CFH\\backend\\utils\\mechanic\\MechanicAIRepairRecommender.ts",
+    "name": "MechanicAIRepairRecommender.ts",
+    "ext": ".ts",
+    "size": 238
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "utils\\mechanic\\MechanicBadgeCelebrationLogic.ts",
+    "full_path": "C:\\CFH\\backend\\utils\\mechanic\\MechanicBadgeCelebrationLogic.ts",
+    "name": "MechanicBadgeCelebrationLogic.ts",
+    "ext": ".ts",
+    "size": 215
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "utils\\mechanic\\MechanicLeaderboard.ts",
+    "full_path": "C:\\CFH\\backend\\utils\\mechanic\\MechanicLeaderboard.ts",
+    "name": "MechanicLeaderboard.ts",
+    "ext": ".ts",
+    "size": 199
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "utils\\mechanic\\MechanicVoiceDictation.ts",
+    "full_path": "C:\\CFH\\backend\\utils\\mechanic\\MechanicVoiceDictation.ts",
+    "name": "MechanicVoiceDictation.ts",
+    "ext": ".ts",
+    "size": 216
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "utils\\mechanic\\RepairCostPredictor.ts",
+    "full_path": "C:\\CFH\\backend\\utils\\mechanic\\RepairCostPredictor.ts",
+    "name": "RepairCostPredictor.ts",
+    "ext": ".ts",
+    "size": 256
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "utils\\mechanic\\ReportSharer.ts",
+    "full_path": "C:\\CFH\\backend\\utils\\mechanic\\ReportSharer.ts",
+    "name": "ReportSharer.ts",
+    "ext": ".ts",
+    "size": 209
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "utils\\notificationDispatcher.ts",
+    "full_path": "C:\\CFH\\backend\\utils\\notificationDispatcher.ts",
+    "name": "notificationDispatcher.ts",
+    "ext": ".ts",
+    "size": 352
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "utils\\notificationEnhancer.ts",
+    "full_path": "C:\\CFH\\backend\\utils\\notificationEnhancer.ts",
+    "name": "notificationEnhancer.ts",
+    "ext": ".ts",
+    "size": 388
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "utils\\notificationQueue.ts",
+    "full_path": "C:\\CFH\\backend\\utils\\notificationQueue.ts",
+    "name": "notificationQueue.ts",
+    "ext": ".ts",
+    "size": 822
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "utils\\notificationTrigger.ts",
+    "full_path": "C:\\CFH\\backend\\utils\\notificationTrigger.ts",
+    "name": "notificationTrigger.ts",
+    "ext": ".ts",
+    "size": 227
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "utils\\pdfGenerator.ts",
+    "full_path": "C:\\CFH\\backend\\utils\\pdfGenerator.ts",
+    "name": "pdfGenerator.ts",
+    "ext": ".ts",
+    "size": 190
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "utils\\PremiumChecker.ts",
+    "full_path": "C:\\CFH\\backend\\utils\\PremiumChecker.ts",
+    "name": "PremiumChecker.ts",
+    "ext": ".ts",
+    "size": 371
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "utils\\PushNotificationService.ts",
+    "full_path": "C:\\CFH\\backend\\utils\\PushNotificationService.ts",
+    "name": "PushNotificationService.ts",
+    "ext": ".ts",
+    "size": 297
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "utils\\redisClient.ts",
+    "full_path": "C:\\CFH\\backend\\utils\\redisClient.ts",
+    "name": "redisClient.ts",
+    "ext": ".ts",
+    "size": 320
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "utils\\reputationEngine.ts",
+    "full_path": "C:\\CFH\\backend\\utils\\reputationEngine.ts",
+    "name": "reputationEngine.ts",
+    "ext": ".ts",
+    "size": 252
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "utils\\RiskAssessmentEngine.test.ts",
+    "full_path": "C:\\CFH\\backend\\utils\\RiskAssessmentEngine.test.ts",
+    "name": "RiskAssessmentEngine.test.ts",
+    "ext": ".ts",
+    "size": 4579
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "utils\\RiskAssessmentEngine.ts",
+    "full_path": "C:\\CFH\\backend\\utils\\RiskAssessmentEngine.ts",
+    "name": "RiskAssessmentEngine.ts",
+    "ext": ".ts",
+    "size": 4413
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "utils\\scalabilityManager.ts",
+    "full_path": "C:\\CFH\\backend\\utils\\scalabilityManager.ts",
+    "name": "scalabilityManager.ts",
+    "ext": ".ts",
+    "size": 194
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "utils\\scoreUtils.ts",
+    "full_path": "C:\\CFH\\backend\\utils\\scoreUtils.ts",
+    "name": "scoreUtils.ts",
+    "ext": ".ts",
+    "size": 242
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "utils\\SellerBadgeEngine.ts",
+    "full_path": "C:\\CFH\\backend\\utils\\SellerBadgeEngine.ts",
+    "name": "SellerBadgeEngine.ts",
+    "ext": ".ts",
+    "size": 258
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "utils\\SmartDelayPredictor.test.ts",
+    "full_path": "C:\\CFH\\backend\\utils\\SmartDelayPredictor.test.ts",
+    "name": "SmartDelayPredictor.test.ts",
+    "ext": ".ts",
+    "size": 323
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "utils\\SmartDelayPredictor.ts",
+    "full_path": "C:\\CFH\\backend\\utils\\SmartDelayPredictor.ts",
+    "name": "SmartDelayPredictor.ts",
+    "ext": ".ts",
+    "size": 84
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "utils\\timeUtils.ts",
+    "full_path": "C:\\CFH\\backend\\utils\\timeUtils.ts",
+    "name": "timeUtils.ts",
+    "ext": ".ts",
+    "size": 428
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "utils\\validateInput.ts",
+    "full_path": "C:\\CFH\\backend\\utils\\validateInput.ts",
+    "name": "validateInput.ts",
+    "ext": ".ts",
+    "size": 189
+  }
+]

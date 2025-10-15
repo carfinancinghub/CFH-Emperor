@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\LenderTermsExporterGrokOld2.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\LenderTermsExporterGrokOld2.tsx",
+    "name": "LenderTermsExporterGrokOld2.tsx",
+    "ext": ".tsx",
+    "size": 680
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\lenderTermsHistoryRouteOld.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\lenderTermsHistoryRouteOld.tsx",
+    "name": "lenderTermsHistoryRouteOld.tsx",
+    "ext": ".tsx",
+    "size": 676
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\listing-suggestions.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\listing-suggestions.tsx",
+    "name": "listing-suggestions.tsx",
+    "ext": ".tsx",
+    "size": 648
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\ListingApproval.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\ListingApproval.tsx",
+    "name": "ListingApproval.tsx",
+    "ext": ".tsx",
+    "size": 632
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\listingController.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\listingController.tsx",
+    "name": "listingController.tsx",
+    "ext": ".tsx",
+    "size": 640
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\ListingDetails.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\ListingDetails.tsx",
+    "name": "ListingDetails.tsx",
+    "ext": ".tsx",
+    "size": 628
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\LiveStreamAuction.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\LiveStreamAuction.tsx",
+    "name": "LiveStreamAuction.tsx",
+    "ext": ".tsx",
+    "size": 640
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\LoanComparison.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\LoanComparison.tsx",
+    "name": "LoanComparison.tsx",
+    "ext": ".tsx",
+    "size": 628
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\LoanMatchEngine.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\LoanMatchEngine.tsx",
+    "name": "LoanMatchEngine.tsx",
+    "ext": ".tsx",
+    "size": 632
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\LoanOffer.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\LoanOffer.tsx",
+    "name": "LoanOffer.tsx",
+    "ext": ".tsx",
+    "size": 608
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\loanOfferController.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\loanOfferController.tsx",
+    "name": "loanOfferController.tsx",
+    "ext": ".tsx",
+    "size": 648
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\LoanRequest.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\LoanRequest.tsx",
+    "name": "LoanRequest.tsx",
+    "ext": ".tsx",
+    "size": 616
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\LoyaltyProgramEngineGrokOld.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\LoyaltyProgramEngineGrokOld.tsx",
+    "name": "LoyaltyProgramEngineGrokOld.tsx",
+    "ext": ".tsx",
+    "size": 680
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\LoyaltyRewards.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\LoyaltyRewards.tsx",
+    "name": "LoyaltyRewards.tsx",
+    "ext": ".tsx",
+    "size": 628
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\main.02538dfd.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\main.02538dfd.tsx",
+    "name": "main.02538dfd.tsx",
+    "ext": ".tsx",
+    "size": 624
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\main.d73b4b69.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\main.d73b4b69.tsx",
+    "name": "main.d73b4b69.tsx",
+    "ext": ".tsx",
+    "size": 624
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\MarketplaceInsightsDashboard.cy.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\MarketplaceInsightsDashboard.cy.tsx",
+    "name": "MarketplaceInsightsDashboard.cy.tsx",
+    "ext": ".tsx",
+    "size": 696
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\MechanicAIRepairRecommender.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\MechanicAIRepairRecommender.tsx",
+    "name": "MechanicAIRepairRecommender.tsx",
+    "ext": ".tsx",
+    "size": 680
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\MechanicAuctionHistory.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\MechanicAuctionHistory.tsx",
+    "name": "MechanicAuctionHistory.tsx",
+    "ext": ".tsx",
+    "size": 660
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\MechanicBadgeCelebrationLogic.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\MechanicBadgeCelebrationLogic.tsx",
+    "name": "MechanicBadgeCelebrationLogic.tsx",
+    "ext": ".tsx",
+    "size": 688
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\mechanicBucket.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\mechanicBucket.tsx",
+    "name": "mechanicBucket.tsx",
+    "ext": ".tsx",
+    "size": 628
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\MechanicDashboard.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\MechanicDashboard.tsx",
+    "name": "MechanicDashboard.tsx",
+    "ext": ".tsx",
+    "size": 640
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\MechanicFeedbackLogger.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\MechanicFeedbackLogger.tsx",
+    "name": "MechanicFeedbackLogger.tsx",
+    "ext": ".tsx",
+    "size": 660
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\MechanicFeedbackLoggerOld.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\MechanicFeedbackLoggerOld.tsx",
+    "name": "MechanicFeedbackLoggerOld.tsx",
+    "ext": ".tsx",
+    "size": 672
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\mechanicHealthCheck.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\mechanicHealthCheck.tsx",
+    "name": "mechanicHealthCheck.tsx",
+    "ext": ".tsx",
+    "size": 648
+  }
+]

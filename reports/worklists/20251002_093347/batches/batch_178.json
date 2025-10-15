@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\useAuth.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\useAuth.test_1.ts",
+    "name": "useAuth.test_1.ts",
+    "ext": ".ts",
+    "size": 38
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\useAuth.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\useAuth.test.ts",
+    "name": "useAuth.test.ts",
+    "ext": ".ts",
+    "size": 38
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\useMechanicSocket_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\useMechanicSocket_1.ts",
+    "name": "useMechanicSocket_1.ts",
+    "ext": ".ts",
+    "size": 838
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\useMechanicSocket.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\useMechanicSocket.test_1.ts",
+    "name": "useMechanicSocket.test_1.ts",
+    "ext": ".ts",
+    "size": 48
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\user_profile_routes_test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\user_profile_routes_test_1.ts",
+    "name": "user_profile_routes_test_1.ts",
+    "ext": ".ts",
+    "size": 4537
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\user_profile_routes_test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\user_profile_routes_test.ts",
+    "name": "user_profile_routes_test.ts",
+    "ext": ".ts",
+    "size": 4537
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\user.validation_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\user.validation_1.ts",
+    "name": "user.validation_1.ts",
+    "ext": ".ts",
+    "size": 1022
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\UserActivity_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\UserActivity_1.ts",
+    "name": "UserActivity_1.ts",
+    "ext": ".ts",
+    "size": 311
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\UserActivity.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\UserActivity.test_1.ts",
+    "name": "UserActivity.test_1.ts",
+    "ext": ".ts",
+    "size": 2548
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\UserActivity.test.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\UserActivity.test.test_1.ts",
+    "name": "UserActivity.test.test_1.ts",
+    "ext": ".ts",
+    "size": 48
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\UserActivity.test.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\UserActivity.test.test.ts",
+    "name": "UserActivity.test.test.ts",
+    "ext": ".ts",
+    "size": 48
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\UserActivity.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\UserActivity.test.ts",
+    "name": "UserActivity.test.ts",
+    "ext": ".ts",
+    "size": 2548
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\UserAnalyticsReport_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\UserAnalyticsReport_1.ts",
+    "name": "UserAnalyticsReport_1.ts",
+    "ext": ".ts",
+    "size": 2573
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\UserAnalyticsReport.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\UserAnalyticsReport.test_1.ts",
+    "name": "UserAnalyticsReport.test_1.ts",
+    "ext": ".ts",
+    "size": 2960
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\UserAnalyticsReport.test.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\UserAnalyticsReport.test.test_1.ts",
+    "name": "UserAnalyticsReport.test.test_1.ts",
+    "ext": ".ts",
+    "size": 55
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\UserAnalyticsReport.test.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\UserAnalyticsReport.test.test.ts",
+    "name": "UserAnalyticsReport.test.test.ts",
+    "ext": ".ts",
+    "size": 55
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\UserAnalyticsReport.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\UserAnalyticsReport.test.ts",
+    "name": "UserAnalyticsReport.test.ts",
+    "ext": ".ts",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\UserAnalyticsReport.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\UserAnalyticsReport.ts",
+    "name": "UserAnalyticsReport.ts",
+    "ext": ".ts",
+    "size": 2573
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\UserAuth_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\UserAuth_1.ts",
+    "name": "UserAuth_1.ts",
+    "ext": ".ts",
+    "size": 343
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\UserAuth.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\UserAuth.test_1.ts",
+    "name": "UserAuth.test_1.ts",
+    "ext": ".ts",
+    "size": 3031
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\UserAuth.test.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\UserAuth.test.test_1.ts",
+    "name": "UserAuth.test.test_1.ts",
+    "ext": ".ts",
+    "size": 44
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\UserAuth.test.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\UserAuth.test.test.ts",
+    "name": "UserAuth.test.test.ts",
+    "ext": ".ts",
+    "size": 44
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\UserAuth.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\UserAuth.test.ts",
+    "name": "UserAuth.test.ts",
+    "ext": ".ts",
+    "size": 3031
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\UserBehaviorTracker_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\UserBehaviorTracker_1.ts",
+    "name": "UserBehaviorTracker_1.ts",
+    "ext": ".ts",
+    "size": 2116
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\UserBehaviorTracker.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\UserBehaviorTracker.test_1.ts",
+    "name": "UserBehaviorTracker.test_1.ts",
+    "ext": ".ts",
+    "size": 50
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\tests\\buyer\\BuyerBidModal.test.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\tests\\buyer\\BuyerBidModal.test.jsx",
+    "name": "BuyerBidModal.test.jsx",
+    "ext": ".jsx",
+    "size": 2705
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\tests\\buyer\\BuyerContractView.test.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\tests\\buyer\\BuyerContractView.test.jsx",
+    "name": "BuyerContractView.test.jsx",
+    "ext": ".jsx",
+    "size": 1738
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\tests\\buyer\\BuyerDeliveryTracker.test.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\tests\\buyer\\BuyerDeliveryTracker.test.jsx",
+    "name": "BuyerDeliveryTracker.test.jsx",
+    "ext": ".jsx",
+    "size": 1673
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\tests\\buyer\\BuyerFinancingOffers.test.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\tests\\buyer\\BuyerFinancingOffers.test.jsx",
+    "name": "BuyerFinancingOffers.test.jsx",
+    "ext": ".jsx",
+    "size": 1727
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\tests\\buyer\\BuyerTitleTracker.test.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\tests\\buyer\\BuyerTitleTracker.test.jsx",
+    "name": "BuyerTitleTracker.test.jsx",
+    "ext": ".jsx",
+    "size": 1594
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\tests\\BuyerCommunityForum.test.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\tests\\BuyerCommunityForum.test.jsx",
+    "name": "BuyerCommunityForum.test.jsx",
+    "ext": ".jsx",
+    "size": 2602
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\tests\\BuyerCommunityForum.test.tsx",
+    "full_path": "C:\\CFH\\frontend\\src\\tests\\BuyerCommunityForum.test.tsx",
+    "name": "BuyerCommunityForum.test.tsx",
+    "ext": ".tsx",
+    "size": 3750
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\tests\\BuyerLenderResults.test.js",
+    "full_path": "C:\\CFH\\frontend\\src\\tests\\BuyerLenderResults.test.js",
+    "name": "BuyerLenderResults.test.js",
+    "ext": ".js",
+    "size": 3227
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\tests\\BuyerLenderResults.test.ts",
+    "full_path": "C:\\CFH\\frontend\\src\\tests\\BuyerLenderResults.test.ts",
+    "name": "BuyerLenderResults.test.ts",
+    "ext": ".ts",
+    "size": 4620
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\tests\\BuyerSearchPreferences.test.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\tests\\BuyerSearchPreferences.test.jsx",
+    "name": "BuyerSearchPreferences.test.jsx",
+    "ext": ".jsx",
+    "size": 4671
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\tests\\CarTransportCoordination.test.js",
+    "full_path": "C:\\CFH\\frontend\\src\\tests\\CarTransportCoordination.test.js",
+    "name": "CarTransportCoordination.test.js",
+    "ext": ".js",
+    "size": 6925
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\tests\\CollaborationChat.test.js",
+    "full_path": "C:\\CFH\\frontend\\src\\tests\\CollaborationChat.test.js",
+    "name": "CollaborationChat.test.js",
+    "ext": ".js",
+    "size": 3727
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\tests\\components\\auction\\AuctionItemListing.test.tsx",
+    "full_path": "C:\\CFH\\frontend\\src\\tests\\components\\auction\\AuctionItemListing.test.tsx",
+    "name": "AuctionItemListing.test.tsx",
+    "ext": ".tsx",
+    "size": 10868
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\tests\\components\\auctions\\LiveAuctionStream.test.tsx",
+    "full_path": "C:\\CFH\\frontend\\src\\tests\\components\\auctions\\LiveAuctionStream.test.tsx",
+    "name": "LiveAuctionStream.test.tsx",
+    "ext": ".tsx",
+    "size": 9574
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\tests\\components\\common\\CurrencyConverterWidget.test.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\tests\\components\\common\\CurrencyConverterWidget.test.jsx",
+    "name": "CurrencyConverterWidget.test.jsx",
+    "ext": ".jsx",
+    "size": 1913
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\tests\\components\\common\\PredictiveGraph.test.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\tests\\components\\common\\PredictiveGraph.test.jsx",
+    "name": "PredictiveGraph.test.jsx",
+    "ext": ".jsx",
+    "size": 2208
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\tests\\components\\common\\ValuationDisplay.test.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\tests\\components\\common\\ValuationDisplay.test.jsx",
+    "name": "ValuationDisplay.test.jsx",
+    "ext": ".jsx",
+    "size": 2327
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\tests\\contracts\\ContractSummary.test.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\tests\\contracts\\ContractSummary.test.jsx",
+    "name": "ContractSummary.test.jsx",
+    "ext": ".jsx",
+    "size": 2291
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\tests\\equity-hub\\EquityIntelligenceHub.test.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\tests\\equity-hub\\EquityIntelligenceHub.test.jsx",
+    "name": "EquityIntelligenceHub.test.jsx",
+    "ext": ".jsx",
+    "size": 2532
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\tests\\escrow\\EscrowOfficerDashboard.test.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\tests\\escrow\\EscrowOfficerDashboard.test.jsx",
+    "name": "EscrowOfficerDashboard.test.jsx",
+    "ext": ".jsx",
+    "size": 2428
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\tests\\escrow\\EscrowStatusViewer.test.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\tests\\escrow\\EscrowStatusViewer.test.jsx",
+    "name": "EscrowStatusViewer.test.jsx",
+    "ext": ".jsx",
+    "size": 4181
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\tests\\escrow\\EscrowSyncAdminPanel.test.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\tests\\escrow\\EscrowSyncAdminPanel.test.jsx",
+    "name": "EscrowSyncAdminPanel.test.jsx",
+    "ext": ".jsx",
+    "size": 5011
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\tests\\escrow\\EscrowTransaction.test.tsx",
+    "full_path": "C:\\CFH\\frontend\\src\\tests\\escrow\\EscrowTransaction.test.tsx",
+    "name": "EscrowTransaction.test.tsx",
+    "ext": ".tsx",
+    "size": 2305
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\tests\\EscrowStatusSync.test.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\tests\\EscrowStatusSync.test.jsx",
+    "name": "EscrowStatusSync.test.jsx",
+    "ext": ".jsx",
+    "size": 857
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\tests\\EscrowStatusTracker.test.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\tests\\EscrowStatusTracker.test.jsx",
+    "name": "EscrowStatusTracker.test.jsx",
+    "ext": ".jsx",
+    "size": 4941
+  }
+]

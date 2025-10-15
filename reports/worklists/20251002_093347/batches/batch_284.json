@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\DeliveryModal.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\DeliveryModal.tsx",
+    "name": "DeliveryModal.tsx",
+    "ext": ".tsx",
+    "size": 624
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\Dispute.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\Dispute.tsx",
+    "name": "Dispute.tsx",
+    "ext": ".tsx",
+    "size": 600
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\DisputeCenter.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\DisputeCenter.tsx",
+    "name": "DisputeCenter.tsx",
+    "ext": ".tsx",
+    "size": 624
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\disputeController.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\disputeController.tsx",
+    "name": "disputeController.tsx",
+    "ext": ".tsx",
+    "size": 640
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\DisputeDashboard.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\DisputeDashboard.tsx",
+    "name": "DisputeDashboard.tsx",
+    "ext": ".tsx",
+    "size": 636
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\DisputeEvidenceUploader.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\DisputeEvidenceUploader.tsx",
+    "name": "DisputeEvidenceUploader.tsx",
+    "ext": ".tsx",
+    "size": 664
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\disputeFlowController.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\disputeFlowController.tsx",
+    "name": "disputeFlowController.tsx",
+    "ext": ".tsx",
+    "size": 656
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\DisputeManager.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\DisputeManager.tsx",
+    "name": "DisputeManager.tsx",
+    "ext": ".tsx",
+    "size": 628
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\disputePdfController.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\disputePdfController.tsx",
+    "name": "disputePdfController.tsx",
+    "ext": ".tsx",
+    "size": 652
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\DisputeResolution.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\DisputeResolution.tsx",
+    "name": "DisputeResolution.tsx",
+    "ext": ".tsx",
+    "size": 640
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\DisputeReview.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\DisputeReview.tsx",
+    "name": "DisputeReview.tsx",
+    "ext": ".tsx",
+    "size": 624
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\disputesGrokOld.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\disputesGrokOld.tsx",
+    "name": "disputesGrokOld.tsx",
+    "ext": ".tsx",
+    "size": 632
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\disputeSummaryPDF.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\disputeSummaryPDF.tsx",
+    "name": "disputeSummaryPDF.tsx",
+    "ext": ".tsx",
+    "size": 640
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\DisputeTimeline.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\DisputeTimeline.tsx",
+    "name": "DisputeTimeline.tsx",
+    "ext": ".tsx",
+    "size": 632
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\DocumentUploader.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\DocumentUploader.tsx",
+    "name": "DocumentUploader.tsx",
+    "ext": ".tsx",
+    "size": 636
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\DownloadCaseBundleButton.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\DownloadCaseBundleButton.tsx",
+    "name": "DownloadCaseBundleButton.tsx",
+    "ext": ".tsx",
+    "size": 668
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\DownloadDisputePDFButton.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\DownloadDisputePDFButton.tsx",
+    "name": "DownloadDisputePDFButton.tsx",
+    "ext": ".tsx",
+    "size": 668
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\embedMapSnapshotPDF.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\embedMapSnapshotPDF.tsx",
+    "name": "embedMapSnapshotPDF.tsx",
+    "ext": ".tsx",
+    "size": 648
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\equityFlowTasks.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\equityFlowTasks.tsx",
+    "name": "equityFlowTasks.tsx",
+    "ext": ".tsx",
+    "size": 632
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\equityHubRoutes.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\equityHubRoutes.tsx",
+    "name": "equityHubRoutes.tsx",
+    "ext": ".tsx",
+    "size": 632
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\ErrorHandler.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\ErrorHandler.tsx",
+    "name": "ErrorHandler.tsx",
+    "ext": ".tsx",
+    "size": 620
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\escrow-transactions.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\escrow-transactions.tsx",
+    "name": "escrow-transactions.tsx",
+    "ext": ".tsx",
+    "size": 648
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\escrow.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\escrow.tsx",
+    "name": "escrow.tsx",
+    "ext": ".tsx",
+    "size": 596
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\escrow.validation.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\escrow.validation.tsx",
+    "name": "escrow.validation.tsx",
+    "ext": ".tsx",
+    "size": 640
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\EscrowAPIController.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\EscrowAPIController.tsx",
+    "name": "EscrowAPIController.tsx",
+    "ext": ".tsx",
+    "size": 648
+  }
+]

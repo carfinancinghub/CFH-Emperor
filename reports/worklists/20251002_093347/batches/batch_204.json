@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\EscrowRoleGuard_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\EscrowRoleGuard_1.tsx",
+    "name": "EscrowRoleGuard_1.tsx",
+    "ext": ".tsx",
+    "size": 540
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\EscrowRoleGuard.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\EscrowRoleGuard.test_1.tsx",
+    "name": "EscrowRoleGuard.test_1.tsx",
+    "ext": ".tsx",
+    "size": 47
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\EscrowRoleGuard.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\EscrowRoleGuard.test.tsx",
+    "name": "EscrowRoleGuard.test.tsx",
+    "ext": ".tsx",
+    "size": 47
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\EscrowRoleGuard.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\EscrowRoleGuard.tsx",
+    "name": "EscrowRoleGuard.tsx",
+    "ext": ".tsx",
+    "size": 540
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\EscrowSEOHead_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\EscrowSEOHead_1.tsx",
+    "name": "EscrowSEOHead_1.tsx",
+    "ext": ".tsx",
+    "size": 808
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\EscrowSEOHead.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\EscrowSEOHead.test_1.tsx",
+    "name": "EscrowSEOHead.test_1.tsx",
+    "ext": ".tsx",
+    "size": 45
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\EscrowSEOHead.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\EscrowSEOHead.test.tsx",
+    "name": "EscrowSEOHead.test.tsx",
+    "ext": ".tsx",
+    "size": 45
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\EscrowSEOHead.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\EscrowSEOHead.tsx",
+    "name": "EscrowSEOHead.tsx",
+    "ext": ".tsx",
+    "size": 808
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\EscrowStatusNotifier_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\EscrowStatusNotifier_1.tsx",
+    "name": "EscrowStatusNotifier_1.tsx",
+    "ext": ".tsx",
+    "size": 6970
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\EscrowStatusNotifier.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\EscrowStatusNotifier.test_1.tsx",
+    "name": "EscrowStatusNotifier.test_1.tsx",
+    "ext": ".tsx",
+    "size": 52
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\EscrowStatusNotifier.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\EscrowStatusNotifier.test.tsx",
+    "name": "EscrowStatusNotifier.test.tsx",
+    "ext": ".tsx",
+    "size": 52
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\EscrowStatusNotifier.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\EscrowStatusNotifier.tsx",
+    "name": "EscrowStatusNotifier.tsx",
+    "ext": ".tsx",
+    "size": 6970
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\EscrowStatusSync_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\EscrowStatusSync_1.tsx",
+    "name": "EscrowStatusSync_1.tsx",
+    "ext": ".tsx",
+    "size": 1404
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\EscrowStatusSync.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\EscrowStatusSync.test_1.tsx",
+    "name": "EscrowStatusSync.test_1.tsx",
+    "ext": ".tsx",
+    "size": 939
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\EscrowStatusSync.test.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\EscrowStatusSync.test.test_1.tsx",
+    "name": "EscrowStatusSync.test.test_1.tsx",
+    "ext": ".tsx",
+    "size": 53
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\EscrowStatusSync.test.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\EscrowStatusSync.test.test.tsx",
+    "name": "EscrowStatusSync.test.test.tsx",
+    "ext": ".tsx",
+    "size": 53
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\EscrowStatusSync.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\EscrowStatusSync.test.tsx",
+    "name": "EscrowStatusSync.test.tsx",
+    "ext": ".tsx",
+    "size": 48
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\EscrowStatusSync.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\EscrowStatusSync.tsx",
+    "name": "EscrowStatusSync.tsx",
+    "ext": ".tsx",
+    "size": 1404
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\EscrowStatusTracker_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\EscrowStatusTracker_1.tsx",
+    "name": "EscrowStatusTracker_1.tsx",
+    "ext": ".tsx",
+    "size": 4323
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\EscrowStatusTracker.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\EscrowStatusTracker.test_1.tsx",
+    "name": "EscrowStatusTracker.test_1.tsx",
+    "ext": ".tsx",
+    "size": 5026
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\EscrowStatusTracker.test.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\EscrowStatusTracker.test.test_1.tsx",
+    "name": "EscrowStatusTracker.test.test_1.tsx",
+    "ext": ".tsx",
+    "size": 56
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\EscrowStatusTracker.test.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\EscrowStatusTracker.test.test.tsx",
+    "name": "EscrowStatusTracker.test.test.tsx",
+    "ext": ".tsx",
+    "size": 56
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\EscrowStatusTracker.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\EscrowStatusTracker.test.tsx",
+    "name": "EscrowStatusTracker.test.tsx",
+    "ext": ".tsx",
+    "size": 51
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\EscrowStatusTracker.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\EscrowStatusTracker.tsx",
+    "name": "EscrowStatusTracker.tsx",
+    "ext": ".tsx",
+    "size": 4323
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\EscrowStatusViewer_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\EscrowStatusViewer_1.tsx",
+    "name": "EscrowStatusViewer_1.tsx",
+    "ext": ".tsx",
+    "size": 4245
+  }
+]

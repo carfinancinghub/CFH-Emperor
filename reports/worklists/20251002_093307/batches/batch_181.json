@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\UserSettings.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\UserSettings.test.ts",
+    "name": "UserSettings.test.ts",
+    "ext": ".ts",
+    "size": 3429
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\utils.d_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\utils.d_1.ts",
+    "name": "utils.d_1.ts",
+    "ext": ".ts",
+    "size": 4993
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\validate_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\validate_1.ts",
+    "name": "validate_1.ts",
+    "ext": ".ts",
+    "size": 795
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\validate.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\validate.test_1.ts",
+    "name": "validate.test_1.ts",
+    "ext": ".ts",
+    "size": 39
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\validate.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\validate.test.ts",
+    "name": "validate.test.ts",
+    "ext": ".ts",
+    "size": 39
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\validate.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\validate.ts",
+    "name": "validate.ts",
+    "ext": ".ts",
+    "size": 795
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\validateInput_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\validateInput_1.ts",
+    "name": "validateInput_1.ts",
+    "ext": ".ts",
+    "size": 189
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\validation_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\validation_1.ts",
+    "name": "validation_1.ts",
+    "ext": ".ts",
+    "size": 5075
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\valuation_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\valuation_1.ts",
+    "name": "valuation_1.ts",
+    "ext": ".ts",
+    "size": 663
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\valuation.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\valuation.ts",
+    "name": "valuation.ts",
+    "ext": ".ts",
+    "size": 663
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\ValuationForecastingService_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\ValuationForecastingService_1.ts",
+    "name": "ValuationForecastingService_1.ts",
+    "ext": ".ts",
+    "size": 1020
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\ValuationForecastingService.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\ValuationForecastingService.test_1.ts",
+    "name": "ValuationForecastingService.test_1.ts",
+    "ext": ".ts",
+    "size": 808
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\ValuationMetricsService_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\ValuationMetricsService_1.ts",
+    "name": "ValuationMetricsService_1.ts",
+    "ext": ".ts",
+    "size": 3392
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\ValuationMetricsService.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\ValuationMetricsService.test_1.ts",
+    "name": "ValuationMetricsService.test_1.ts",
+    "ext": ".ts",
+    "size": 54
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\ValuationMetricsService.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\ValuationMetricsService.test.ts",
+    "name": "ValuationMetricsService.test.ts",
+    "ext": ".ts",
+    "size": 54
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\valuationRoutes_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\valuationRoutes_1.ts",
+    "name": "valuationRoutes_1.ts",
+    "ext": ".ts",
+    "size": 2203
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\valuationRoutes.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\valuationRoutes.test_1.ts",
+    "name": "valuationRoutes.test_1.ts",
+    "ext": ".ts",
+    "size": 1762
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\ValuationService_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\ValuationService_1.ts",
+    "name": "ValuationService_1.ts",
+    "ext": ".ts",
+    "size": 1537
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\ValuationService.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\ValuationService.test_1.ts",
+    "name": "ValuationService.test_1.ts",
+    "ext": ".ts",
+    "size": 1245
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\vehicleUtils_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\vehicleUtils_1.ts",
+    "name": "vehicleUtils_1.ts",
+    "ext": ".ts",
+    "size": 103
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\verification.validation_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\verification.validation_1.ts",
+    "name": "verification.validation_1.ts",
+    "ext": ".ts",
+    "size": 1050
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\verificationController_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\verificationController_1.ts",
+    "name": "verificationController_1.ts",
+    "ext": ".ts",
+    "size": 1145
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\verificationController.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\verificationController.test_1.ts",
+    "name": "verificationController.test_1.ts",
+    "ext": ".ts",
+    "size": 53
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\verificationController.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\verificationController.test.ts",
+    "name": "verificationController.test.ts",
+    "ext": ".ts",
+    "size": 53
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\verificationController.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\verificationController.ts",
+    "name": "verificationController.ts",
+    "ext": ".ts",
+    "size": 1145
+  }
+]

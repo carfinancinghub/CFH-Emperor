@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\common\\NotificationPreferences.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\common\\NotificationPreferences.jsx",
+    "name": "NotificationPreferences.jsx",
+    "ext": ".jsx",
+    "size": 5100
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\common\\PDFPreviewModal.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\common\\PDFPreviewModal.jsx",
+    "name": "PDFPreviewModal.jsx",
+    "ext": ".jsx",
+    "size": 2748
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\common\\PhotoProofUpload.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\common\\PhotoProofUpload.jsx",
+    "name": "PhotoProofUpload.jsx",
+    "ext": ".jsx",
+    "size": 2493
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\common\\PredictiveGraph.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\common\\PredictiveGraph.jsx",
+    "name": "PredictiveGraph.jsx",
+    "ext": ".jsx",
+    "size": 4126
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\common\\PremiumFeature.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\common\\PremiumFeature.jsx",
+    "name": "PremiumFeature.jsx",
+    "ext": ".jsx",
+    "size": 1903
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\common\\ProtectedRoute.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\common\\ProtectedRoute.jsx",
+    "name": "ProtectedRoute.jsx",
+    "ext": ".jsx",
+    "size": 402
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\common\\security\\UserSecuritySettings.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\common\\security\\UserSecuritySettings.jsx",
+    "name": "UserSecuritySettings.jsx",
+    "ext": ".jsx",
+    "size": 7035
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\common\\SEOHead.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\common\\SEOHead.jsx",
+    "name": "SEOHead.jsx",
+    "ext": ".jsx",
+    "size": 1707
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\common\\ToastManager.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\common\\ToastManager.jsx",
+    "name": "ToastManager.jsx",
+    "ext": ".jsx",
+    "size": 720
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\common\\ToastWrapper.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\common\\ToastWrapper.jsx",
+    "name": "ToastWrapper.jsx",
+    "ext": ".jsx",
+    "size": 320
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\common\\TrustAndAIExplainer.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\common\\TrustAndAIExplainer.jsx",
+    "name": "TrustAndAIExplainer.jsx",
+    "ext": ".jsx",
+    "size": 3257
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\common\\UnifiedNotificationCenter.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\common\\UnifiedNotificationCenter.jsx",
+    "name": "UnifiedNotificationCenter.jsx",
+    "ext": ".jsx",
+    "size": 6205
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\common\\UnreadNotificationBadge.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\common\\UnreadNotificationBadge.jsx",
+    "name": "UnreadNotificationBadge.jsx",
+    "ext": ".jsx",
+    "size": 1506
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\common\\UserTrustBadges.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\common\\UserTrustBadges.jsx",
+    "name": "UserTrustBadges.jsx",
+    "ext": ".jsx",
+    "size": 1088
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\common\\ValuationDisplay.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\common\\ValuationDisplay.jsx",
+    "name": "ValuationDisplay.jsx",
+    "ext": ".jsx",
+    "size": 3744
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\common\\ValuationDisplay.tsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\common\\ValuationDisplay.tsx",
+    "name": "ValuationDisplay.tsx",
+    "ext": ".tsx",
+    "size": 769
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\community\\CommunityForum.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\community\\CommunityForum.jsx",
+    "name": "CommunityForum.jsx",
+    "ext": ".jsx",
+    "size": 5948
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\community\\CommunityLeaderboard.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\community\\CommunityLeaderboard.jsx",
+    "name": "CommunityLeaderboard.jsx",
+    "ext": ".jsx",
+    "size": 5673
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\contract\\ContractPDFViewer.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\contract\\ContractPDFViewer.jsx",
+    "name": "ContractPDFViewer.jsx",
+    "ext": ".jsx",
+    "size": 1670
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\contract\\ContractSignaturePad.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\contract\\ContractSignaturePad.jsx",
+    "name": "ContractSignaturePad.jsx",
+    "ext": ".jsx",
+    "size": 2049
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\contract\\ContractSummary.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\contract\\ContractSummary.jsx",
+    "name": "ContractSummary.jsx",
+    "ext": ".jsx",
+    "size": 2730
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\contract\\ContractViewer.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\contract\\ContractViewer.jsx",
+    "name": "ContractViewer.jsx",
+    "ext": ".jsx",
+    "size": 1684
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\disputes\\DisputeAnalytics.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\disputes\\DisputeAnalytics.jsx",
+    "name": "DisputeAnalytics.jsx",
+    "ext": ".jsx",
+    "size": 5657
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\disputes\\DisputeSimulator.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\disputes\\DisputeSimulator.jsx",
+    "name": "DisputeSimulator.jsx",
+    "ext": ".jsx",
+    "size": 5459
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\disputes\\DisputeTimelineViewer.js",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\disputes\\DisputeTimelineViewer.js",
+    "name": "DisputeTimelineViewer.js",
+    "ext": ".js",
+    "size": 952
+  }
+]

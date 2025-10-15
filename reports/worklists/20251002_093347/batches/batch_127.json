@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\CommunityHubEnhanced.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\CommunityHubEnhanced.test_1.ts",
+    "name": "CommunityHubEnhanced.test_1.ts",
+    "ext": ".ts",
+    "size": 51
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\CommunityHubEnhanced.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\CommunityHubEnhanced.test.ts",
+    "name": "CommunityHubEnhanced.test.ts",
+    "ext": ".ts",
+    "size": 51
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\CommunityHubEnhanced.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\CommunityHubEnhanced.ts",
+    "name": "CommunityHubEnhanced.ts",
+    "ext": ".ts",
+    "size": 952
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\CommunityModeratorDashboard_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\CommunityModeratorDashboard_1.ts",
+    "name": "CommunityModeratorDashboard_1.ts",
+    "ext": ".ts",
+    "size": 878
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\CommunityModeratorDashboard.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\CommunityModeratorDashboard.test_1.ts",
+    "name": "CommunityModeratorDashboard.test_1.ts",
+    "ext": ".ts",
+    "size": 58
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\CommunityModeratorDashboard.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\CommunityModeratorDashboard.test.ts",
+    "name": "CommunityModeratorDashboard.test.ts",
+    "ext": ".ts",
+    "size": 58
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\CommunityModeratorDashboard.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\CommunityModeratorDashboard.ts",
+    "name": "CommunityModeratorDashboard.ts",
+    "ext": ".ts",
+    "size": 878
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\ComplianceChecker_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\ComplianceChecker_1.ts",
+    "name": "ComplianceChecker_1.ts",
+    "ext": ".ts",
+    "size": 2988
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\ComplianceChecker.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\ComplianceChecker.test_1.ts",
+    "name": "ComplianceChecker.test_1.ts",
+    "ext": ".ts",
+    "size": 4557
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\ComplianceChecker.test.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\ComplianceChecker.test.test_1.ts",
+    "name": "ComplianceChecker.test.test_1.ts",
+    "ext": ".ts",
+    "size": 53
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\ComplianceChecker.test.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\ComplianceChecker.test.test.ts",
+    "name": "ComplianceChecker.test.test.ts",
+    "ext": ".ts",
+    "size": 53
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\ComplianceChecker.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\ComplianceChecker.test.ts",
+    "name": "ComplianceChecker.test.ts",
+    "ext": ".ts",
+    "size": 48
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\ComplianceChecker.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\ComplianceChecker.ts",
+    "name": "ComplianceChecker.ts",
+    "ext": ".ts",
+    "size": 2988
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\ComplianceEnhancer_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\ComplianceEnhancer_1.ts",
+    "name": "ComplianceEnhancer_1.ts",
+    "ext": ".ts",
+    "size": 2363
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\ComplianceEnhancer.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\ComplianceEnhancer.test_1.ts",
+    "name": "ComplianceEnhancer.test_1.ts",
+    "ext": ".ts",
+    "size": 3173
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\ComplianceEnhancer.test.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\ComplianceEnhancer.test.test_1.ts",
+    "name": "ComplianceEnhancer.test.test_1.ts",
+    "ext": ".ts",
+    "size": 54
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\ComplianceEnhancer.test.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\ComplianceEnhancer.test.test.ts",
+    "name": "ComplianceEnhancer.test.test.ts",
+    "ext": ".ts",
+    "size": 54
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\ComplianceEnhancer.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\ComplianceEnhancer.test.ts",
+    "name": "ComplianceEnhancer.test.ts",
+    "ext": ".ts",
+    "size": 49
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\ComplianceEnhancer.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\ComplianceEnhancer.ts",
+    "name": "ComplianceEnhancer.ts",
+    "ext": ".ts",
+    "size": 2363
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\ComplianceReviewerDashboard_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\ComplianceReviewerDashboard_1.ts",
+    "name": "ComplianceReviewerDashboard_1.ts",
+    "ext": ".ts",
+    "size": 916
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\ComplianceReviewerDashboard.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\ComplianceReviewerDashboard.test_1.ts",
+    "name": "ComplianceReviewerDashboard.test_1.ts",
+    "ext": ".ts",
+    "size": 58
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\ComplianceReviewerDashboard.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\ComplianceReviewerDashboard.test.ts",
+    "name": "ComplianceReviewerDashboard.test.ts",
+    "ext": ".ts",
+    "size": 58
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\ComplianceReviewerDashboard.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\ComplianceReviewerDashboard.ts",
+    "name": "ComplianceReviewerDashboard.ts",
+    "ext": ".ts",
+    "size": 916
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\constants_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\constants_1.ts",
+    "name": "constants_1.ts",
+    "ext": ".ts",
+    "size": 312
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\ContractAuditTrail_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\ContractAuditTrail_1.ts",
+    "name": "ContractAuditTrail_1.ts",
+    "ext": ".ts",
+    "size": 2569
+  }
+]

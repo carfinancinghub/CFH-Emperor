@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\TrustAndAIExplainer.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\TrustAndAIExplainer.tsx",
+    "name": "TrustAndAIExplainer.tsx",
+    "ext": ".tsx",
+    "size": 3337
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\TrustScoreViewer_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\TrustScoreViewer_1.tsx",
+    "name": "TrustScoreViewer_1.tsx",
+    "ext": ".tsx",
+    "size": 3983
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\TrustScoreViewer.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\TrustScoreViewer.test_1.tsx",
+    "name": "TrustScoreViewer.test_1.tsx",
+    "ext": ".tsx",
+    "size": 3633
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\TrustScoreViewer.test.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\TrustScoreViewer.test.test_1.tsx",
+    "name": "TrustScoreViewer.test.test_1.tsx",
+    "ext": ".tsx",
+    "size": 53
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\TrustScoreViewer.test.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\TrustScoreViewer.test.test.tsx",
+    "name": "TrustScoreViewer.test.test.tsx",
+    "ext": ".tsx",
+    "size": 53
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\TrustScoreViewer.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\TrustScoreViewer.test.tsx",
+    "name": "TrustScoreViewer.test.tsx",
+    "ext": ".tsx",
+    "size": 48
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\Unauthorized_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\Unauthorized_1.tsx",
+    "name": "Unauthorized_1.tsx",
+    "ext": ".tsx",
+    "size": 780
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\Unauthorized.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\Unauthorized.test_1.tsx",
+    "name": "Unauthorized.test_1.tsx",
+    "ext": ".tsx",
+    "size": 44
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\Unauthorized.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\Unauthorized.test.tsx",
+    "name": "Unauthorized.test.tsx",
+    "ext": ".tsx",
+    "size": 44
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\UnifiedNotificationCenter_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\UnifiedNotificationCenter_1.tsx",
+    "name": "UnifiedNotificationCenter_1.tsx",
+    "ext": ".tsx",
+    "size": 6291
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\UnifiedNotificationCenter.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\UnifiedNotificationCenter.test_1.tsx",
+    "name": "UnifiedNotificationCenter.test_1.tsx",
+    "ext": ".tsx",
+    "size": 57
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\UnifiedNotificationCenter.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\UnifiedNotificationCenter.test.tsx",
+    "name": "UnifiedNotificationCenter.test.tsx",
+    "ext": ".tsx",
+    "size": 57
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\UnifiedNotificationCenter.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\UnifiedNotificationCenter.tsx",
+    "name": "UnifiedNotificationCenter.tsx",
+    "ext": ".tsx",
+    "size": 6291
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\UnreadNotificationBadge_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\UnreadNotificationBadge_1.tsx",
+    "name": "UnreadNotificationBadge_1.tsx",
+    "ext": ".tsx",
+    "size": 2110
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\UnreadNotificationBadge.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\UnreadNotificationBadge.test_1.tsx",
+    "name": "UnreadNotificationBadge.test_1.tsx",
+    "ext": ".tsx",
+    "size": 55
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\UnreadNotificationBadge.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\UnreadNotificationBadge.test.tsx",
+    "name": "UnreadNotificationBadge.test.tsx",
+    "ext": ".tsx",
+    "size": 55
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\UserProfilePage_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\UserProfilePage_1.tsx",
+    "name": "UserProfilePage_1.tsx",
+    "ext": ".tsx",
+    "size": 5365
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\UserProfilePage.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\UserProfilePage.test_1.tsx",
+    "name": "UserProfilePage.test_1.tsx",
+    "ext": ".tsx",
+    "size": 4065
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\UserProfilePage.test.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\UserProfilePage.test.test_1.tsx",
+    "name": "UserProfilePage.test.test_1.tsx",
+    "ext": ".tsx",
+    "size": 52
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\UserProfilePage.test.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\UserProfilePage.test.test.tsx",
+    "name": "UserProfilePage.test.test.tsx",
+    "ext": ".tsx",
+    "size": 52
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\UserProfilePage.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\UserProfilePage.test.tsx",
+    "name": "UserProfilePage.test.tsx",
+    "ext": ".tsx",
+    "size": 47
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\UserProfilePage.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\UserProfilePage.tsx",
+    "name": "UserProfilePage.tsx",
+    "ext": ".tsx",
+    "size": 5365
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\UserSecuritySettings_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\UserSecuritySettings_1.tsx",
+    "name": "UserSecuritySettings_1.tsx",
+    "ext": ".tsx",
+    "size": 7116
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\UserSecuritySettings.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\UserSecuritySettings.test_1.tsx",
+    "name": "UserSecuritySettings.test_1.tsx",
+    "ext": ".tsx",
+    "size": 52
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\UserSecuritySettings.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\UserSecuritySettings.test.tsx",
+    "name": "UserSecuritySettings.test.tsx",
+    "ext": ".tsx",
+    "size": 52
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\GuestDashboard.test50000.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\GuestDashboard.test50000.tsx",
+    "name": "GuestDashboard.test50000.tsx",
+    "ext": ".tsx",
+    "size": 4321
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\GuestDashboard.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\GuestDashboard.tsx",
+    "name": "GuestDashboard.tsx",
+    "ext": ".tsx",
+    "size": 6996
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\hauler_job_details_page_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\hauler_job_details_page_1.tsx",
+    "name": "hauler_job_details_page_1.tsx",
+    "ext": ".tsx",
+    "size": 4197
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\HaulerAuctionDelivery_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\HaulerAuctionDelivery_1.tsx",
+    "name": "HaulerAuctionDelivery_1.tsx",
+    "ext": ".tsx",
+    "size": 3241
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\HaulerAuctionDelivery.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\HaulerAuctionDelivery.test_1.tsx",
+    "name": "HaulerAuctionDelivery.test_1.tsx",
+    "ext": ".tsx",
+    "size": 3469
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\HaulerAuctionDelivery.test.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\HaulerAuctionDelivery.test.test_1.tsx",
+    "name": "HaulerAuctionDelivery.test.test_1.tsx",
+    "ext": ".tsx",
+    "size": 58
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\HaulerAuctionDelivery.test.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\HaulerAuctionDelivery.test.test.tsx",
+    "name": "HaulerAuctionDelivery.test.test.tsx",
+    "ext": ".tsx",
+    "size": 58
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\HaulerAuctionDelivery.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\HaulerAuctionDelivery.test.tsx",
+    "name": "HaulerAuctionDelivery.test.tsx",
+    "ext": ".tsx",
+    "size": 53
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\HaulerAuctionDelivery.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\HaulerAuctionDelivery.tsx",
+    "name": "HaulerAuctionDelivery.tsx",
+    "ext": ".tsx",
+    "size": 3241
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\HaulerCollaboration_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\HaulerCollaboration_1.tsx",
+    "name": "HaulerCollaboration_1.tsx",
+    "ext": ".tsx",
+    "size": 3433
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\HaulerCollaboration.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\HaulerCollaboration.test_1.tsx",
+    "name": "HaulerCollaboration.test_1.tsx",
+    "ext": ".tsx",
+    "size": 985
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\HaulerCollaboration.test.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\HaulerCollaboration.test.test_1.tsx",
+    "name": "HaulerCollaboration.test.test_1.tsx",
+    "ext": ".tsx",
+    "size": 56
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\HaulerCollaboration.test.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\HaulerCollaboration.test.test.tsx",
+    "name": "HaulerCollaboration.test.test.tsx",
+    "ext": ".tsx",
+    "size": 56
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\HaulerCollaboration.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\HaulerCollaboration.test.tsx",
+    "name": "HaulerCollaboration.test.tsx",
+    "ext": ".tsx",
+    "size": 51
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\HaulerCollaboration.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\HaulerCollaboration.tsx",
+    "name": "HaulerCollaboration.tsx",
+    "ext": ".tsx",
+    "size": 3433
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\HaulerCommunityBoard_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\HaulerCommunityBoard_1.tsx",
+    "name": "HaulerCommunityBoard_1.tsx",
+    "ext": ".tsx",
+    "size": 2996
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\HaulerCommunityBoard.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\HaulerCommunityBoard.test_1.tsx",
+    "name": "HaulerCommunityBoard.test_1.tsx",
+    "ext": ".tsx",
+    "size": 542
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\HaulerCommunityBoard.test.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\HaulerCommunityBoard.test.test_1.tsx",
+    "name": "HaulerCommunityBoard.test.test_1.tsx",
+    "ext": ".tsx",
+    "size": 57
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\HaulerCommunityBoard.test.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\HaulerCommunityBoard.test.test.tsx",
+    "name": "HaulerCommunityBoard.test.test.tsx",
+    "ext": ".tsx",
+    "size": 57
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\HaulerCommunityBoard.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\HaulerCommunityBoard.test.tsx",
+    "name": "HaulerCommunityBoard.test.tsx",
+    "ext": ".tsx",
+    "size": 52
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\HaulerCommunityBoard.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\HaulerCommunityBoard.tsx",
+    "name": "HaulerCommunityBoard.tsx",
+    "ext": ".tsx",
+    "size": 2996
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\HaulerLoyaltyDashboard_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\HaulerLoyaltyDashboard_1.tsx",
+    "name": "HaulerLoyaltyDashboard_1.tsx",
+    "ext": ".tsx",
+    "size": 7097
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\HaulerLoyaltyDashboard.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\HaulerLoyaltyDashboard.test_1.tsx",
+    "name": "HaulerLoyaltyDashboard.test_1.tsx",
+    "ext": ".tsx",
+    "size": 54
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\HaulerLoyaltyDashboard.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\HaulerLoyaltyDashboard.test.tsx",
+    "name": "HaulerLoyaltyDashboard.test.tsx",
+    "ext": ".tsx",
+    "size": 54
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\HaulerLoyaltyDashboard.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\HaulerLoyaltyDashboard.tsx",
+    "name": "HaulerLoyaltyDashboard.tsx",
+    "ext": ".tsx",
+    "size": 7097
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\MechanicAIExplainer_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\MechanicAIExplainer_1.ts",
+    "name": "MechanicAIExplainer_1.ts",
+    "ext": ".ts",
+    "size": 149
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\MechanicAIRepairRecommender_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\MechanicAIRepairRecommender_1.ts",
+    "name": "MechanicAIRepairRecommender_1.ts",
+    "ext": ".ts",
+    "size": 2706
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\MechanicAIRepairRecommender.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\MechanicAIRepairRecommender.test_1.ts",
+    "name": "MechanicAIRepairRecommender.test_1.ts",
+    "ext": ".ts",
+    "size": 58
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\MechanicAIRepairRecommender.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\MechanicAIRepairRecommender.test.ts",
+    "name": "MechanicAIRepairRecommender.test.ts",
+    "ext": ".ts",
+    "size": 58
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\MechanicBadgeCelebrationLogic_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\MechanicBadgeCelebrationLogic_1.ts",
+    "name": "MechanicBadgeCelebrationLogic_1.ts",
+    "ext": ".ts",
+    "size": 1640
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\MechanicBadgeCelebrationLogic.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\MechanicBadgeCelebrationLogic.test_1.ts",
+    "name": "MechanicBadgeCelebrationLogic.test_1.ts",
+    "ext": ".ts",
+    "size": 60
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\MechanicBadgeCelebrationLogic.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\MechanicBadgeCelebrationLogic.test.ts",
+    "name": "MechanicBadgeCelebrationLogic.test.ts",
+    "ext": ".ts",
+    "size": 60
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\MechanicFeedbackLogger_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\MechanicFeedbackLogger_1.ts",
+    "name": "MechanicFeedbackLogger_1.ts",
+    "ext": ".ts",
+    "size": 1755
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\MechanicFeedbackLogger.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\MechanicFeedbackLogger.test_1.ts",
+    "name": "MechanicFeedbackLogger.test_1.ts",
+    "ext": ".ts",
+    "size": 53
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\MechanicFeedbackLogger.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\MechanicFeedbackLogger.test.ts",
+    "name": "MechanicFeedbackLogger.test.ts",
+    "ext": ".ts",
+    "size": 53
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\MechanicFeedbackLogger.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\MechanicFeedbackLogger.ts",
+    "name": "MechanicFeedbackLogger.ts",
+    "ext": ".ts",
+    "size": 1755
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\mechanicFeedbackService_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\mechanicFeedbackService_1.ts",
+    "name": "mechanicFeedbackService_1.ts",
+    "ext": ".ts",
+    "size": 5058
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\mechanicHealthCheck_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\mechanicHealthCheck_1.ts",
+    "name": "mechanicHealthCheck_1.ts",
+    "ext": ".ts",
+    "size": 1452
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\mechanicHealthCheck.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\mechanicHealthCheck.test_1.ts",
+    "name": "mechanicHealthCheck.test_1.ts",
+    "ext": ".ts",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\mechanicHealthCheck.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\mechanicHealthCheck.test.ts",
+    "name": "mechanicHealthCheck.test.ts",
+    "ext": ".ts",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\mechanicHealthCheck.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\mechanicHealthCheck.ts",
+    "name": "mechanicHealthCheck.ts",
+    "ext": ".ts",
+    "size": 1452
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\MechanicInspectionDetail_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\MechanicInspectionDetail_1.ts",
+    "name": "MechanicInspectionDetail_1.ts",
+    "ext": ".ts",
+    "size": 3846
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\MechanicInspectionDetail.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\MechanicInspectionDetail.test_1.ts",
+    "name": "MechanicInspectionDetail.test_1.ts",
+    "ext": ".ts",
+    "size": 55
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\MechanicInspectionDetail.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\MechanicInspectionDetail.test.ts",
+    "name": "MechanicInspectionDetail.test.ts",
+    "ext": ".ts",
+    "size": 55
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\MechanicInspectionDetail.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\MechanicInspectionDetail.ts",
+    "name": "MechanicInspectionDetail.ts",
+    "ext": ".ts",
+    "size": 3846
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\MechanicLeaderboard_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\MechanicLeaderboard_1.ts",
+    "name": "MechanicLeaderboard_1.ts",
+    "ext": ".ts",
+    "size": 199
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\mechanicMilestoneTracker_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\mechanicMilestoneTracker_1.ts",
+    "name": "mechanicMilestoneTracker_1.ts",
+    "ext": ".ts",
+    "size": 1656
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\mechanicMilestoneTracker.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\mechanicMilestoneTracker.test_1.ts",
+    "name": "mechanicMilestoneTracker.test_1.ts",
+    "ext": ".ts",
+    "size": 55
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\mechanicMilestoneTracker.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\mechanicMilestoneTracker.test.ts",
+    "name": "mechanicMilestoneTracker.test.ts",
+    "ext": ".ts",
+    "size": 55
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\mechanicMilestoneTracker.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\mechanicMilestoneTracker.ts",
+    "name": "mechanicMilestoneTracker.ts",
+    "ext": ".ts",
+    "size": 1656
+  }
+]

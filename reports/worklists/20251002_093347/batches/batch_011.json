@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\security\\SessionValidator.js",
+    "full_path": "C:\\CFH\\backend\\services\\security\\SessionValidator.js",
+    "name": "SessionValidator.js",
+    "ext": ".js",
+    "size": 3511
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\seo\\SEOHelper.js",
+    "full_path": "C:\\CFH\\backend\\services\\seo\\SEOHelper.js",
+    "name": "SEOHelper.js",
+    "ext": ".js",
+    "size": 2056
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\storage\\StorageAuction.js",
+    "full_path": "C:\\CFH\\backend\\services\\storage\\StorageAuction.js",
+    "name": "StorageAuction.js",
+    "ext": ".js",
+    "size": 4565
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\streaming\\liveStreamService.ts",
+    "full_path": "C:\\CFH\\backend\\services\\streaming\\liveStreamService.ts",
+    "name": "liveStreamService.ts",
+    "ext": ".ts",
+    "size": 6151
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\user\\UserActivity.js",
+    "full_path": "C:\\CFH\\backend\\services\\user\\UserActivity.js",
+    "name": "UserActivity.js",
+    "ext": ".js",
+    "size": 1474
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\user\\UserActivity.ts",
+    "full_path": "C:\\CFH\\backend\\services\\user\\UserActivity.ts",
+    "name": "UserActivity.ts",
+    "ext": ".ts",
+    "size": 311
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\user\\UserAuth.js",
+    "full_path": "C:\\CFH\\backend\\services\\user\\UserAuth.js",
+    "name": "UserAuth.js",
+    "ext": ".js",
+    "size": 2224
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\user\\UserAuth.ts",
+    "full_path": "C:\\CFH\\backend\\services\\user\\UserAuth.ts",
+    "name": "UserAuth.ts",
+    "ext": ".ts",
+    "size": 343
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\user\\UserNotifications.js",
+    "full_path": "C:\\CFH\\backend\\services\\user\\UserNotifications.js",
+    "name": "UserNotifications.js",
+    "ext": ".js",
+    "size": 2790
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\user\\UserNotifications.ts",
+    "full_path": "C:\\CFH\\backend\\services\\user\\UserNotifications.ts",
+    "name": "UserNotifications.ts",
+    "ext": ".ts",
+    "size": 209
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\user\\UserPreferences.js",
+    "full_path": "C:\\CFH\\backend\\services\\user\\UserPreferences.js",
+    "name": "UserPreferences.js",
+    "ext": ".js",
+    "size": 2310
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\user\\UserPreferences.ts",
+    "full_path": "C:\\CFH\\backend\\services\\user\\UserPreferences.ts",
+    "name": "UserPreferences.ts",
+    "ext": ".ts",
+    "size": 207
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\user\\UserSettings.js",
+    "full_path": "C:\\CFH\\backend\\services\\user\\UserSettings.js",
+    "name": "UserSettings.js",
+    "ext": ".js",
+    "size": 2173
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\user\\UserSettings.ts",
+    "full_path": "C:\\CFH\\backend\\services\\user\\UserSettings.ts",
+    "name": "UserSettings.ts",
+    "ext": ".ts",
+    "size": 203
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\userProfileService.ts",
+    "full_path": "C:\\CFH\\backend\\services\\userProfileService.ts",
+    "name": "userProfileService.ts",
+    "ext": ".ts",
+    "size": 1998
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\valuation\\ReportService.ts",
+    "full_path": "C:\\CFH\\backend\\services\\valuation\\ReportService.ts",
+    "name": "ReportService.ts",
+    "ext": ".ts",
+    "size": 1907
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\valuation\\ValuationService.ts",
+    "full_path": "C:\\CFH\\backend\\services\\valuation\\ValuationService.ts",
+    "name": "ValuationService.ts",
+    "ext": ".ts",
+    "size": 1537
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\vin\\VinDecoderService.ts",
+    "full_path": "C:\\CFH\\backend\\services\\vin\\VinDecoderService.ts",
+    "name": "VinDecoderService.ts",
+    "ext": ".ts",
+    "size": 1211
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\websocket\\WebSocketCluster.js",
+    "full_path": "C:\\CFH\\backend\\services\\websocket\\WebSocketCluster.js",
+    "name": "WebSocketCluster.js",
+    "ext": ".js",
+    "size": 1330
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\websocket\\WebSocketService.js",
+    "full_path": "C:\\CFH\\backend\\services\\websocket\\WebSocketService.js",
+    "name": "WebSocketService.js",
+    "ext": ".js",
+    "size": 1715
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "socket.js",
+    "full_path": "C:\\CFH\\backend\\socket.js",
+    "name": "socket.js",
+    "ext": ".js",
+    "size": 3732
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "socket.ts",
+    "full_path": "C:\\CFH\\backend\\socket.ts",
+    "name": "socket.ts",
+    "ext": ".ts",
+    "size": 5947
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "socket\\index.js",
+    "full_path": "C:\\CFH\\backend\\socket\\index.js",
+    "name": "index.js",
+    "ext": ".js",
+    "size": 237
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "socket\\taskSocketEmitter.js",
+    "full_path": "C:\\CFH\\backend\\socket\\taskSocketEmitter.js",
+    "name": "taskSocketEmitter.js",
+    "ext": ".js",
+    "size": 889
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "socket\\taskSocketEmitter.ts",
+    "full_path": "C:\\CFH\\backend\\socket\\taskSocketEmitter.ts",
+    "name": "taskSocketEmitter.ts",
+    "ext": ".ts",
+    "size": 2673
+  }
+]

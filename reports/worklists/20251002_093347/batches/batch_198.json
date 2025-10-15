@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\BuyerSearchPreferences.test.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\BuyerSearchPreferences.test.test_1.tsx",
+    "name": "BuyerSearchPreferences.test.test_1.tsx",
+    "ext": ".tsx",
+    "size": 59
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\BuyerSearchPreferences.test.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\BuyerSearchPreferences.test.test.tsx",
+    "name": "BuyerSearchPreferences.test.test.tsx",
+    "ext": ".tsx",
+    "size": 59
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\BuyerSearchPreferences.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\BuyerSearchPreferences.test.tsx",
+    "name": "BuyerSearchPreferences.test.tsx",
+    "ext": ".tsx",
+    "size": 54
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\BuyerSearchPreferences.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\BuyerSearchPreferences.tsx",
+    "name": "BuyerSearchPreferences.tsx",
+    "ext": ".tsx",
+    "size": 4185
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\BuyerTitleTracker.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\BuyerTitleTracker.test_1.tsx",
+    "name": "BuyerTitleTracker.test_1.tsx",
+    "ext": ".tsx",
+    "size": 1677
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\BuyerTitleTracker.test.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\BuyerTitleTracker.test.test_1.tsx",
+    "name": "BuyerTitleTracker.test.test_1.tsx",
+    "ext": ".tsx",
+    "size": 54
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\BuyerTitleTracker.test.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\BuyerTitleTracker.test.test.tsx",
+    "name": "BuyerTitleTracker.test.test.tsx",
+    "ext": ".tsx",
+    "size": 54
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\BuyerTitleTracker.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\BuyerTitleTracker.test.tsx",
+    "name": "BuyerTitleTracker.test.tsx",
+    "ext": ".tsx",
+    "size": 1677
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\Card_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\Card_1.tsx",
+    "name": "Card_1.tsx",
+    "ext": ".tsx",
+    "size": 488
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\Card.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\Card.test_1.tsx",
+    "name": "Card.test_1.tsx",
+    "ext": ".tsx",
+    "size": 36
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\Card.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\Card.test.tsx",
+    "name": "Card.test.tsx",
+    "ext": ".tsx",
+    "size": 36
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\Card.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\Card.tsx",
+    "name": "Card.tsx",
+    "ext": ".tsx",
+    "size": 488
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\CarTransportCoordination_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\CarTransportCoordination_1.tsx",
+    "name": "CarTransportCoordination_1.tsx",
+    "ext": ".tsx",
+    "size": 17798
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\CarTransportCoordination.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\CarTransportCoordination.test_1.tsx",
+    "name": "CarTransportCoordination.test_1.tsx",
+    "ext": ".tsx",
+    "size": 56
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\CarTransportCoordination.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\CarTransportCoordination.test.tsx",
+    "name": "CarTransportCoordination.test.tsx",
+    "ext": ".tsx",
+    "size": 56
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\CarTransportCoordination.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\CarTransportCoordination.tsx",
+    "name": "CarTransportCoordination.tsx",
+    "ext": ".tsx",
+    "size": 17798
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\ChartWidget_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\ChartWidget_1.tsx",
+    "name": "ChartWidget_1.tsx",
+    "ext": ".tsx",
+    "size": 7883
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\ChartWidget.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\ChartWidget.test_1.tsx",
+    "name": "ChartWidget.test_1.tsx",
+    "ext": ".tsx",
+    "size": 620
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\ChatAttachmentPreviewer_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\ChatAttachmentPreviewer_1.tsx",
+    "name": "ChatAttachmentPreviewer_1.tsx",
+    "ext": ".tsx",
+    "size": 1221
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\ChatAttachmentPreviewer.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\ChatAttachmentPreviewer.test_1.tsx",
+    "name": "ChatAttachmentPreviewer.test_1.tsx",
+    "ext": ".tsx",
+    "size": 55
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\ChatAttachmentPreviewer.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\ChatAttachmentPreviewer.test.tsx",
+    "name": "ChatAttachmentPreviewer.test.tsx",
+    "ext": ".tsx",
+    "size": 55
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\ChatAttachmentUploader_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\ChatAttachmentUploader_1.tsx",
+    "name": "ChatAttachmentUploader_1.tsx",
+    "ext": ".tsx",
+    "size": 2022
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\ChatAttachmentUploader.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\ChatAttachmentUploader.test_1.tsx",
+    "name": "ChatAttachmentUploader.test_1.tsx",
+    "ext": ".tsx",
+    "size": 54
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\ChatAttachmentUploader.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\ChatAttachmentUploader.test.tsx",
+    "name": "ChatAttachmentUploader.test.tsx",
+    "ext": ".tsx",
+    "size": 54
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\ChatInterface_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\ChatInterface_1.tsx",
+    "name": "ChatInterface_1.tsx",
+    "ext": ".tsx",
+    "size": 3349
+  }
+]

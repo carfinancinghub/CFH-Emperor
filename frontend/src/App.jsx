@@ -8,7 +8,7 @@
  */
 
 import React, { Suspense, lazy } from 'react';
-import { BrowserRouter as Router, Routes, Route, Navigate, Outlet } from 'react-router-dom';
+import { Routes, Route, Navigate, Outlet } from 'react-router-dom';
 
 // --- Core Components ---
 import Navbar from '@/components/common/Navbar.jsx';
@@ -51,7 +51,7 @@ const NotFoundPage = () => (
 
 // --- Main App Router ---
 const App = () => (
-  <Router>
+  <>
     <Navbar />
     <NavbarMobileToggle />
 
@@ -101,7 +101,8 @@ const App = () => (
         </Routes>
       </div>
     </Suspense>
-  </Router>
+  </>
 );
 
 export default App;
+

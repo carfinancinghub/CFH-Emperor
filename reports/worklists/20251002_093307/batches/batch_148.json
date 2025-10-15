@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\integrationReport.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\integrationReport.ts",
+    "name": "integrationReport.ts",
+    "ext": ".ts",
+    "size": 2123
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\integrationReportValidation_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\integrationReportValidation_1.ts",
+    "name": "integrationReportValidation_1.ts",
+    "ext": ".ts",
+    "size": 5045
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\integrationReportValidation.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\integrationReportValidation.test_1.ts",
+    "name": "integrationReportValidation.test_1.ts",
+    "ext": ".ts",
+    "size": 58
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\integrationReportValidation.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\integrationReportValidation.test.ts",
+    "name": "integrationReportValidation.test.ts",
+    "ext": ".ts",
+    "size": 58
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\integrationReportValidation.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\integrationReportValidation.ts",
+    "name": "integrationReportValidation.ts",
+    "ext": ".ts",
+    "size": 5041
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\jest.config_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\jest.config_1.ts",
+    "name": "jest.config_1.ts",
+    "ext": ".ts",
+    "size": 594
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\jest.config.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\jest.config.test_1.ts",
+    "name": "jest.config.test_1.ts",
+    "ext": ".ts",
+    "size": 42
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\jest.config.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\jest.config.test.ts",
+    "name": "jest.config.test.ts",
+    "ext": ".ts",
+    "size": 42
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\jest.config.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\jest.config.ts",
+    "name": "jest.config.ts",
+    "ext": ".ts",
+    "size": 594
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\jest.setup_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\jest.setup_1.ts",
+    "name": "jest.setup_1.ts",
+    "ext": ".ts",
+    "size": 316
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\jest.setup.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\jest.setup.test_1.ts",
+    "name": "jest.setup.test_1.ts",
+    "ext": ".ts",
+    "size": 41
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\jest.setup.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\jest.setup.test.ts",
+    "name": "jest.setup.test.ts",
+    "ext": ".ts",
+    "size": 41
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\jest.setup.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\jest.setup.ts",
+    "name": "jest.setup.ts",
+    "ext": ".ts",
+    "size": 316
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\jobService_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\jobService_1.ts",
+    "name": "jobService_1.ts",
+    "ext": ".ts",
+    "size": 18860
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\judgeApiTests_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\judgeApiTests_1.ts",
+    "name": "judgeApiTests_1.ts",
+    "ext": ".ts",
+    "size": 7616
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\judgeApiTests.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\judgeApiTests.test_1.ts",
+    "name": "judgeApiTests.test_1.ts",
+    "ext": ".ts",
+    "size": 44
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\judgeApiTests.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\judgeApiTests.test.ts",
+    "name": "judgeApiTests.test.ts",
+    "ext": ".ts",
+    "size": 44
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\judgeApiTests.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\judgeApiTests.ts",
+    "name": "judgeApiTests.ts",
+    "ext": ".ts",
+    "size": 7616
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\JudgeBadgeRenderer_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\JudgeBadgeRenderer_1.ts",
+    "name": "JudgeBadgeRenderer_1.ts",
+    "ext": ".ts",
+    "size": 1490
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\JudgeBadgeRenderer.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\JudgeBadgeRenderer.test_1.ts",
+    "name": "JudgeBadgeRenderer.test_1.ts",
+    "ext": ".ts",
+    "size": 49
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\JudgeBadgeRenderer.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\JudgeBadgeRenderer.test.ts",
+    "name": "JudgeBadgeRenderer.test.ts",
+    "ext": ".ts",
+    "size": 49
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\JudgeBadgeRenderer.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\JudgeBadgeRenderer.ts",
+    "name": "JudgeBadgeRenderer.ts",
+    "ext": ".ts",
+    "size": 1490
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\JudgeController_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\JudgeController_1.ts",
+    "name": "JudgeController_1.ts",
+    "ext": ".ts",
+    "size": 3760
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\JudgeController.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\JudgeController.test_1.ts",
+    "name": "JudgeController.test_1.ts",
+    "ext": ".ts",
+    "size": 46
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\JudgeController.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\JudgeController.test.ts",
+    "name": "JudgeController.test.ts",
+    "ext": ".ts",
+    "size": 46
+  }
+]

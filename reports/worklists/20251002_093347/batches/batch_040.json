@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\escrow\\EscrowUserAnalyticsPanel.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\escrow\\EscrowUserAnalyticsPanel.jsx",
+    "name": "EscrowUserAnalyticsPanel.jsx",
+    "ext": ".jsx",
+    "size": 784
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\finance\\FinanceRiskAssessment.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\finance\\FinanceRiskAssessment.jsx",
+    "name": "FinanceRiskAssessment.jsx",
+    "ext": ".jsx",
+    "size": 1959
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\gamification\\AchievementPopup.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\gamification\\AchievementPopup.jsx",
+    "name": "AchievementPopup.jsx",
+    "ext": ".jsx",
+    "size": 1639
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\gamification\\BadgeStorefront.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\gamification\\BadgeStorefront.jsx",
+    "name": "BadgeStorefront.jsx",
+    "ext": ".jsx",
+    "size": 2564
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\gamification\\LeaderboardWidget.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\gamification\\LeaderboardWidget.jsx",
+    "name": "LeaderboardWidget.jsx",
+    "ext": ".jsx",
+    "size": 2076
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\guest\\GuestDashboard.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\guest\\GuestDashboard.jsx",
+    "name": "GuestDashboard.jsx",
+    "ext": ".jsx",
+    "size": 6921
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\hauler\\BookingModal.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\hauler\\BookingModal.jsx",
+    "name": "BookingModal.jsx",
+    "ext": ".jsx",
+    "size": 3302
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\hauler\\BookingModal.tsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\hauler\\BookingModal.tsx",
+    "name": "BookingModal.tsx",
+    "ext": ".tsx",
+    "size": 3924
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\hauler\\CarTransportCoordination.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\hauler\\CarTransportCoordination.jsx",
+    "name": "CarTransportCoordination.jsx",
+    "ext": ".jsx",
+    "size": 17713
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\hauler\\GeoStatusPanel.js",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\hauler\\GeoStatusPanel.js",
+    "name": "GeoStatusPanel.js",
+    "ext": ".js",
+    "size": 1470
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\hauler\\hauler_job_details_page.tsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\hauler\\hauler_job_details_page.tsx",
+    "name": "hauler_job_details_page.tsx",
+    "ext": ".tsx",
+    "size": 4197
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\hauler\\HaulerAuctionDelivery.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\hauler\\HaulerAuctionDelivery.jsx",
+    "name": "HaulerAuctionDelivery.jsx",
+    "ext": ".jsx",
+    "size": 3159
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\hauler\\HaulerCommunityBoard.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\hauler\\HaulerCommunityBoard.jsx",
+    "name": "HaulerCommunityBoard.jsx",
+    "ext": ".jsx",
+    "size": 2915
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\hauler\\HaulerDashboard.css",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\hauler\\HaulerDashboard.css",
+    "name": "HaulerDashboard.css",
+    "ext": ".css",
+    "size": 1126
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\hauler\\HaulerJobUploadForm.js",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\hauler\\HaulerJobUploadForm.js",
+    "name": "HaulerJobUploadForm.js",
+    "ext": ".js",
+    "size": 3739
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\hauler\\HaulerLoyaltyDashboard.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\hauler\\HaulerLoyaltyDashboard.jsx",
+    "name": "HaulerLoyaltyDashboard.jsx",
+    "ext": ".jsx",
+    "size": 7014
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\hauler\\HaulerReputationTracker.js",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\hauler\\HaulerReputationTracker.js",
+    "name": "HaulerReputationTracker.js",
+    "ext": ".js",
+    "size": 2263
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\hauler\\MissionCompletionLeaderboard.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\hauler\\MissionCompletionLeaderboard.jsx",
+    "name": "MissionCompletionLeaderboard.jsx",
+    "ext": ".jsx",
+    "size": 3967
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\hauler\\PhotoEvidenceViewer.js",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\hauler\\PhotoEvidenceViewer.js",
+    "name": "PhotoEvidenceViewer.js",
+    "ext": ".js",
+    "size": 2508
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\hauler\\RouteRiskAnalysis.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\hauler\\RouteRiskAnalysis.jsx",
+    "name": "RouteRiskAnalysis.jsx",
+    "ext": ".jsx",
+    "size": 2753
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\hauler\\TransporterJobStatus.js",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\hauler\\TransporterJobStatus.js",
+    "name": "TransporterJobStatus.js",
+    "ext": ".js",
+    "size": 3363
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\hauler\\TransporterLiveTracking.js",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\hauler\\TransporterLiveTracking.js",
+    "name": "TransporterLiveTracking.js",
+    "ext": ".js",
+    "size": 3064
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\inspections\\InspectionIndexPage.js",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\inspections\\InspectionIndexPage.js",
+    "name": "InspectionIndexPage.js",
+    "ext": ".js",
+    "size": 4293
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\inspections\\InspectionReportList.js",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\inspections\\InspectionReportList.js",
+    "name": "InspectionReportList.js",
+    "ext": ".js",
+    "size": 3365
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\inspections\\InspectionReportViewerPage.js",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\inspections\\InspectionReportViewerPage.js",
+    "name": "InspectionReportViewerPage.js",
+    "ext": ".js",
+    "size": 6942
+  }
+]

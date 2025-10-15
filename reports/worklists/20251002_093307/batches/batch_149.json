@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\JudgeController.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\JudgeController.ts",
+    "name": "JudgeController.ts",
+    "ext": ".ts",
+    "size": 3760
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\JudgeDashboard_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\JudgeDashboard_1.ts",
+    "name": "JudgeDashboard_1.ts",
+    "ext": ".ts",
+    "size": 6395
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\JudgeDashboard.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\JudgeDashboard.test_1.ts",
+    "name": "JudgeDashboard.test_1.ts",
+    "ext": ".ts",
+    "size": 45
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\JudgeDashboard.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\JudgeDashboard.test.ts",
+    "name": "JudgeDashboard.test.ts",
+    "ext": ".ts",
+    "size": 45
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\JudgeDashboard.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\JudgeDashboard.ts",
+    "name": "JudgeDashboard.ts",
+    "ext": ".ts",
+    "size": 6395
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\JudgeLeaderboard_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\JudgeLeaderboard_1.ts",
+    "name": "JudgeLeaderboard_1.ts",
+    "ext": ".ts",
+    "size": 2079
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\JudgeLeaderboard.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\JudgeLeaderboard.test_1.ts",
+    "name": "JudgeLeaderboard.test_1.ts",
+    "ext": ".ts",
+    "size": 47
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\JudgeLeaderboard.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\JudgeLeaderboard.test.ts",
+    "name": "JudgeLeaderboard.test.ts",
+    "ext": ".ts",
+    "size": 47
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\JudgeLeaderboard.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\JudgeLeaderboard.ts",
+    "name": "JudgeLeaderboard.ts",
+    "ext": ".ts",
+    "size": 2079
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\judgeModelUtils_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\judgeModelUtils_1.ts",
+    "name": "judgeModelUtils_1.ts",
+    "ext": ".ts",
+    "size": 259
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\judgeRoutes_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\judgeRoutes_1.ts",
+    "name": "judgeRoutes_1.ts",
+    "ext": ".ts",
+    "size": 1596
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\judgeRoutes.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\judgeRoutes.test_1.ts",
+    "name": "judgeRoutes.test_1.ts",
+    "ext": ".ts",
+    "size": 42
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\judgeRoutes.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\judgeRoutes.test.ts",
+    "name": "judgeRoutes.test.ts",
+    "ext": ".ts",
+    "size": 42
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\judgeRoutes.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\judgeRoutes.ts",
+    "name": "judgeRoutes.ts",
+    "ext": ".ts",
+    "size": 1596
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\LaunchChecklist_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\LaunchChecklist_1.ts",
+    "name": "LaunchChecklist_1.ts",
+    "ext": ".ts",
+    "size": 2394
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\LaunchChecklist.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\LaunchChecklist.test_1.ts",
+    "name": "LaunchChecklist.test_1.ts",
+    "ext": ".ts",
+    "size": 3746
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\LaunchChecklist.test.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\LaunchChecklist.test.test_1.ts",
+    "name": "LaunchChecklist.test.test_1.ts",
+    "ext": ".ts",
+    "size": 51
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\LaunchChecklist.test.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\LaunchChecklist.test.test.ts",
+    "name": "LaunchChecklist.test.test.ts",
+    "ext": ".ts",
+    "size": 51
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\LaunchChecklist.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\LaunchChecklist.test.ts",
+    "name": "LaunchChecklist.test.ts",
+    "ext": ".ts",
+    "size": 46
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\LaunchChecklist.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\LaunchChecklist.ts",
+    "name": "LaunchChecklist.ts",
+    "ext": ".ts",
+    "size": 2394
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\Leaderboard_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\Leaderboard_1.ts",
+    "name": "Leaderboard_1.ts",
+    "ext": ".ts",
+    "size": 819
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\Leaderboard.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\Leaderboard.test_1.ts",
+    "name": "Leaderboard.test_1.ts",
+    "ext": ".ts",
+    "size": 42
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\Leaderboard.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\Leaderboard.test.ts",
+    "name": "Leaderboard.test.ts",
+    "ext": ".ts",
+    "size": 42
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\Leaderboard.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\Leaderboard.ts",
+    "name": "Leaderboard.ts",
+    "ext": ".ts",
+    "size": 819
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\LeaveReview_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\LeaveReview_1.ts",
+    "name": "LeaveReview_1.ts",
+    "ext": ".ts",
+    "size": 2664
+  }
+]

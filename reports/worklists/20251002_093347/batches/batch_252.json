@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\BidValidator.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\BidValidator.copy.js",
+    "name": "BidValidator.copy.js",
+    "ext": ".js",
+    "size": 1991
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\BlindInvestor.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\BlindInvestor.copy.js",
+    "name": "BlindInvestor.copy.js",
+    "ext": ".js",
+    "size": 2906
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\BlockchainAdapter.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\BlockchainAdapter.copy.js",
+    "name": "BlockchainAdapter.copy.js",
+    "ext": ".js",
+    "size": 8066
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\BlockchainAdapterOld.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\BlockchainAdapterOld.copy.js",
+    "name": "BlockchainAdapterOld.copy.js",
+    "ext": ".js",
+    "size": 6469
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\BlockchainLedger.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\BlockchainLedger.copy.js",
+    "name": "BlockchainLedger.copy.js",
+    "ext": ".js",
+    "size": 2267
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\budgetauditlog.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\budgetauditlog.copy.js",
+    "name": "budgetauditlog.copy.js",
+    "ext": ".js",
+    "size": 1169
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\BulkUpload.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\BulkUpload.copy.js",
+    "name": "BulkUpload.copy.js",
+    "ext": ".js",
+    "size": 1960
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\Button.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\Button.copy.js",
+    "name": "Button.copy.js",
+    "ext": ".js",
+    "size": 1288
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\BuyerAuctionHistory.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\BuyerAuctionHistory.copy.js",
+    "name": "BuyerAuctionHistory.copy.js",
+    "ext": ".js",
+    "size": 2675
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\buyerBucket.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\buyerBucket.copy.js",
+    "name": "buyerBucket.copy.js",
+    "ext": ".js",
+    "size": 2860
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\BuyerCarCompare.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\BuyerCarCompare.copy.js",
+    "name": "BuyerCarCompare.copy.js",
+    "ext": ".js",
+    "size": 9557
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\BuyerContractView.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\BuyerContractView.copy.js",
+    "name": "BuyerContractView.copy.js",
+    "ext": ".js",
+    "size": 4283
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\BuyerDashboard.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\BuyerDashboard.copy.js",
+    "name": "BuyerDashboard.copy.js",
+    "ext": ".js",
+    "size": 5418
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\BuyerDashboardGrokOld.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\BuyerDashboardGrokOld.copy.js",
+    "name": "BuyerDashboardGrokOld.copy.js",
+    "ext": ".js",
+    "size": 1102
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\BuyerDeliveryConfirmation.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\BuyerDeliveryConfirmation.copy.js",
+    "name": "BuyerDeliveryConfirmation.copy.js",
+    "ext": ".js",
+    "size": 3035
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\BuyerDeliveryTracker.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\BuyerDeliveryTracker.copy.js",
+    "name": "BuyerDeliveryTracker.copy.js",
+    "ext": ".js",
+    "size": 5342
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\BuyerEscrowClaimPanel.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\BuyerEscrowClaimPanel.copy.js",
+    "name": "BuyerEscrowClaimPanel.copy.js",
+    "ext": ".js",
+    "size": 3169
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\BuyerFinancingOffers.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\BuyerFinancingOffers.copy.js",
+    "name": "BuyerFinancingOffers.copy.js",
+    "ext": ".js",
+    "size": 3703
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\BuyerInspectionStatus.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\BuyerInspectionStatus.copy.js",
+    "name": "BuyerInspectionStatus.copy.js",
+    "ext": ".js",
+    "size": 4419
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\BuyerLoanApplications.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\BuyerLoanApplications.copy.js",
+    "name": "BuyerLoanApplications.copy.js",
+    "ext": ".js",
+    "size": 3462
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\BuyerPreferencesForm.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\BuyerPreferencesForm.copy.js",
+    "name": "BuyerPreferencesForm.copy.js",
+    "ext": ".js",
+    "size": 5495
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\BuyerProgressBar.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\BuyerProgressBar.copy.js",
+    "name": "BuyerProgressBar.copy.js",
+    "ext": ".js",
+    "size": 1848
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\BuyerTitleTracker.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\BuyerTitleTracker.copy.js",
+    "name": "BuyerTitleTracker.copy.js",
+    "ext": ".js",
+    "size": 2459
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\Car.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\Car.copy.js",
+    "name": "Car.copy.js",
+    "ext": ".js",
+    "size": 1684
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\carController.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\carController.copy.js",
+    "name": "carController.copy.js",
+    "ext": ".js",
+    "size": 1804
+  }
+]

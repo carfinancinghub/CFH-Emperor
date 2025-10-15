@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\JudgePanelControls.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\JudgePanelControls.test.tsx",
+    "name": "JudgePanelControls.test.tsx",
+    "ext": ".tsx",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\JudgePanelControls.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\JudgePanelControls.tsx",
+    "name": "JudgePanelControls.tsx",
+    "ext": ".tsx",
+    "size": 1509
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\LanguageSelector_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\LanguageSelector_1.tsx",
+    "name": "LanguageSelector_1.tsx",
+    "ext": ".tsx",
+    "size": 1042
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\LanguageSelector.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\LanguageSelector.test_1.tsx",
+    "name": "LanguageSelector.test_1.tsx",
+    "ext": ".tsx",
+    "size": 48
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\LanguageSelector.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\LanguageSelector.test.tsx",
+    "name": "LanguageSelector.test.tsx",
+    "ext": ".tsx",
+    "size": 48
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\LanguageSelector.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\LanguageSelector.tsx",
+    "name": "LanguageSelector.tsx",
+    "ext": ".tsx",
+    "size": 1042
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\LeaderboardDisplay_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\LeaderboardDisplay_1.tsx",
+    "name": "LeaderboardDisplay_1.tsx",
+    "ext": ".tsx",
+    "size": 2633
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\LeaderboardDisplay.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\LeaderboardDisplay.test_1.tsx",
+    "name": "LeaderboardDisplay.test_1.tsx",
+    "ext": ".tsx",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\LeaderboardDisplay.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\LeaderboardDisplay.test.tsx",
+    "name": "LeaderboardDisplay.test.tsx",
+    "ext": ".tsx",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\LeaderboardDisplay.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\LeaderboardDisplay.tsx",
+    "name": "LeaderboardDisplay.tsx",
+    "ext": ".tsx",
+    "size": 2633
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\LeaderboardWidget_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\LeaderboardWidget_1.tsx",
+    "name": "LeaderboardWidget_1.tsx",
+    "ext": ".tsx",
+    "size": 2154
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\LeaderboardWidget.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\LeaderboardWidget.test_1.tsx",
+    "name": "LeaderboardWidget.test_1.tsx",
+    "ext": ".tsx",
+    "size": 49
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\LeaderboardWidget.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\LeaderboardWidget.test.tsx",
+    "name": "LeaderboardWidget.test.tsx",
+    "ext": ".tsx",
+    "size": 49
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\LeaderboardWidget.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\LeaderboardWidget.tsx",
+    "name": "LeaderboardWidget.tsx",
+    "ext": ".tsx",
+    "size": 2154
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\LenderDashboard_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\LenderDashboard_1.tsx",
+    "name": "LenderDashboard_1.tsx",
+    "ext": ".tsx",
+    "size": 7183
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\LenderDashboard.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\LenderDashboard.test_1.tsx",
+    "name": "LenderDashboard.test_1.tsx",
+    "ext": ".tsx",
+    "size": 47
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\LenderDashboard.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\LenderDashboard.test.tsx",
+    "name": "LenderDashboard.test.tsx",
+    "ext": ".tsx",
+    "size": 47
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\LenderExportPanel_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\LenderExportPanel_1.tsx",
+    "name": "LenderExportPanel_1.tsx",
+    "ext": ".tsx",
+    "size": 5066
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\LenderExportPanel.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\LenderExportPanel.test_1.tsx",
+    "name": "LenderExportPanel.test_1.tsx",
+    "ext": ".tsx",
+    "size": 49
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\LenderExportPanel.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\LenderExportPanel.test.tsx",
+    "name": "LenderExportPanel.test.tsx",
+    "ext": ".tsx",
+    "size": 49
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\LenderLoyaltyDashboard_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\LenderLoyaltyDashboard_1.tsx",
+    "name": "LenderLoyaltyDashboard_1.tsx",
+    "ext": ".tsx",
+    "size": 7065
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\LenderLoyaltyDashboard.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\LenderLoyaltyDashboard.test_1.tsx",
+    "name": "LenderLoyaltyDashboard.test_1.tsx",
+    "ext": ".tsx",
+    "size": 54
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\LenderLoyaltyDashboard.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\LenderLoyaltyDashboard.test.tsx",
+    "name": "LenderLoyaltyDashboard.test.tsx",
+    "ext": ".tsx",
+    "size": 54
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\LenderLoyaltyDashboard.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\LenderLoyaltyDashboard.tsx",
+    "name": "LenderLoyaltyDashboard.tsx",
+    "ext": ".tsx",
+    "size": 7065
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\LenderTermsHistoryViewer_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\LenderTermsHistoryViewer_1.tsx",
+    "name": "LenderTermsHistoryViewer_1.tsx",
+    "ext": ".tsx",
+    "size": 1585
+  }
+]

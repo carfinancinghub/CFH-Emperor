@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SupportChatWidget.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SupportChatWidget.tsx",
+    "name": "SupportChatWidget.tsx",
+    "ext": ".tsx",
+    "size": 4303
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SupportDashboard_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SupportDashboard_1.tsx",
+    "name": "SupportDashboard_1.tsx",
+    "ext": ".tsx",
+    "size": 6031
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SupportDashboard.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SupportDashboard.test_1.tsx",
+    "name": "SupportDashboard.test_1.tsx",
+    "ext": ".tsx",
+    "size": 2679
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SupportDashboard.test.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SupportDashboard.test.test_1.tsx",
+    "name": "SupportDashboard.test.test_1.tsx",
+    "ext": ".tsx",
+    "size": 53
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SupportDashboard.test.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SupportDashboard.test.test.tsx",
+    "name": "SupportDashboard.test.test.tsx",
+    "ext": ".tsx",
+    "size": 53
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SupportDashboard.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SupportDashboard.test.tsx",
+    "name": "SupportDashboard.test.tsx",
+    "ext": ".tsx",
+    "size": 48
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SupportDashboard.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SupportDashboard.tsx",
+    "name": "SupportDashboard.tsx",
+    "ext": ".tsx",
+    "size": 6031
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SupportTicketAnalytics_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SupportTicketAnalytics_1.tsx",
+    "name": "SupportTicketAnalytics_1.tsx",
+    "ext": ".tsx",
+    "size": 7657
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SupportTicketAnalytics.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SupportTicketAnalytics.test_1.tsx",
+    "name": "SupportTicketAnalytics.test_1.tsx",
+    "ext": ".tsx",
+    "size": 6363
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SupportTicketAnalytics.test.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SupportTicketAnalytics.test.test_1.tsx",
+    "name": "SupportTicketAnalytics.test.test_1.tsx",
+    "ext": ".tsx",
+    "size": 59
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SupportTicketAnalytics.test.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SupportTicketAnalytics.test.test.tsx",
+    "name": "SupportTicketAnalytics.test.test.tsx",
+    "ext": ".tsx",
+    "size": 59
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SupportTicketAnalytics.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SupportTicketAnalytics.test.tsx",
+    "name": "SupportTicketAnalytics.test.tsx",
+    "ext": ".tsx",
+    "size": 54
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SupportTicketAnalytics.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SupportTicketAnalytics.tsx",
+    "name": "SupportTicketAnalytics.tsx",
+    "ext": ".tsx",
+    "size": 7657
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SupportTicketForm_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SupportTicketForm_1.tsx",
+    "name": "SupportTicketForm_1.tsx",
+    "ext": ".tsx",
+    "size": 2744
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SupportTicketForm.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SupportTicketForm.test_1.tsx",
+    "name": "SupportTicketForm.test_1.tsx",
+    "ext": ".tsx",
+    "size": 2049
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SupportTicketForm.test.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SupportTicketForm.test.test_1.tsx",
+    "name": "SupportTicketForm.test.test_1.tsx",
+    "ext": ".tsx",
+    "size": 54
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SupportTicketForm.test.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SupportTicketForm.test.test.tsx",
+    "name": "SupportTicketForm.test.test.tsx",
+    "ext": ".tsx",
+    "size": 54
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SupportTicketForm.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SupportTicketForm.test.tsx",
+    "name": "SupportTicketForm.test.tsx",
+    "ext": ".tsx",
+    "size": 49
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SupportTicketForm.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SupportTicketForm.tsx",
+    "name": "SupportTicketForm.tsx",
+    "ext": ".tsx",
+    "size": 2744
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SupportTicketFormInLineFromGrok_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SupportTicketFormInLineFromGrok_1.tsx",
+    "name": "SupportTicketFormInLineFromGrok_1.tsx",
+    "ext": ".tsx",
+    "size": 2758
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SupportTicketFormInLineFromGrok.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SupportTicketFormInLineFromGrok.test_1.tsx",
+    "name": "SupportTicketFormInLineFromGrok.test_1.tsx",
+    "ext": ".tsx",
+    "size": 63
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SupportTicketFormInLineFromGrok.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SupportTicketFormInLineFromGrok.test.tsx",
+    "name": "SupportTicketFormInLineFromGrok.test.tsx",
+    "ext": ".tsx",
+    "size": 63
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SupportTicketFormInLineFromGrok.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SupportTicketFormInLineFromGrok.tsx",
+    "name": "SupportTicketFormInLineFromGrok.tsx",
+    "ext": ".tsx",
+    "size": 2758
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SustainabilityMetrics_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SustainabilityMetrics_1.tsx",
+    "name": "SustainabilityMetrics_1.tsx",
+    "ext": ".tsx",
+    "size": 3143
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SustainabilityMetrics.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SustainabilityMetrics.test_1.tsx",
+    "name": "SustainabilityMetrics.test_1.tsx",
+    "ext": ".tsx",
+    "size": 53
+  }
+]

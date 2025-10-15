@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "utils\\CrownAutoWire.ts",
+    "full_path": "C:\\CFH\\backend\\utils\\CrownAutoWire.ts",
+    "name": "CrownAutoWire.ts",
+    "ext": ".ts",
+    "size": 348
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "utils\\crypto.ts",
+    "full_path": "C:\\CFH\\backend\\utils\\crypto.ts",
+    "name": "crypto.ts",
+    "ext": ".ts",
+    "size": 113
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "utils\\DisputeResolutionHelper.ts",
+    "full_path": "C:\\CFH\\backend\\utils\\DisputeResolutionHelper.ts",
+    "name": "DisputeResolutionHelper.ts",
+    "ext": ".ts",
+    "size": 445
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "utils\\disputeUtils.ts",
+    "full_path": "C:\\CFH\\backend\\utils\\disputeUtils.ts",
+    "name": "disputeUtils.ts",
+    "ext": ".ts",
+    "size": 115
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "utils\\EmailDigestScheduler.ts",
+    "full_path": "C:\\CFH\\backend\\utils\\EmailDigestScheduler.ts",
+    "name": "EmailDigestScheduler.ts",
+    "ext": ".ts",
+    "size": 200
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "utils\\EquityFlowOrchestrator.ts",
+    "full_path": "C:\\CFH\\backend\\utils\\EquityFlowOrchestrator.ts",
+    "name": "EquityFlowOrchestrator.ts",
+    "ext": ".ts",
+    "size": 198
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "utils\\errors.ts",
+    "full_path": "C:\\CFH\\backend\\utils\\errors.ts",
+    "name": "errors.ts",
+    "ext": ".ts",
+    "size": 139
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "utils\\escrow\\EscrowAuditLogStore.ts",
+    "full_path": "C:\\CFH\\backend\\utils\\escrow\\EscrowAuditLogStore.ts",
+    "name": "EscrowAuditLogStore.ts",
+    "ext": ".ts",
+    "size": 159
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "utils\\escrow\\EscrowAutoReleaseEngine.ts",
+    "full_path": "C:\\CFH\\backend\\utils\\escrow\\EscrowAutoReleaseEngine.ts",
+    "name": "EscrowAutoReleaseEngine.ts",
+    "ext": ".ts",
+    "size": 234
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "utils\\escrow\\EscrowBlockchainExporter.ts",
+    "full_path": "C:\\CFH\\backend\\utils\\escrow\\EscrowBlockchainExporter.ts",
+    "name": "EscrowBlockchainExporter.ts",
+    "ext": ".ts",
+    "size": 244
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "utils\\escrow\\EscrowDisputeLinker.ts",
+    "full_path": "C:\\CFH\\backend\\utils\\escrow\\EscrowDisputeLinker.ts",
+    "name": "EscrowDisputeLinker.ts",
+    "ext": ".ts",
+    "size": 318
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "utils\\escrow\\EscrowFinalizationChecklist.ts",
+    "full_path": "C:\\CFH\\backend\\utils\\escrow\\EscrowFinalizationChecklist.ts",
+    "name": "EscrowFinalizationChecklist.ts",
+    "ext": ".ts",
+    "size": 2110
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "utils\\escrow\\EscrowTransactionPDFExporter.ts",
+    "full_path": "C:\\CFH\\backend\\utils\\escrow\\EscrowTransactionPDFExporter.ts",
+    "name": "EscrowTransactionPDFExporter.ts",
+    "ext": ".ts",
+    "size": 282
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "utils\\escrowLogic.ts",
+    "full_path": "C:\\CFH\\backend\\utils\\escrowLogic.ts",
+    "name": "escrowLogic.ts",
+    "ext": ".ts",
+    "size": 307
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "utils\\EscrowWarningEngine.ts",
+    "full_path": "C:\\CFH\\backend\\utils\\EscrowWarningEngine.ts",
+    "name": "EscrowWarningEngine.ts",
+    "ext": ".ts",
+    "size": 618
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "utils\\exportUtils\\pdfExportService.ts",
+    "full_path": "C:\\CFH\\backend\\utils\\exportUtils\\pdfExportService.ts",
+    "name": "pdfExportService.ts",
+    "ext": ".ts",
+    "size": 190
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "utils\\HaulerMissionsEngine.test.ts",
+    "full_path": "C:\\CFH\\backend\\utils\\HaulerMissionsEngine.test.ts",
+    "name": "HaulerMissionsEngine.test.ts",
+    "ext": ".ts",
+    "size": 283
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "utils\\HaulerMissionsEngine.ts",
+    "full_path": "C:\\CFH\\backend\\utils\\HaulerMissionsEngine.ts",
+    "name": "HaulerMissionsEngine.ts",
+    "ext": ".ts",
+    "size": 385
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "utils\\insurance\\InsuranceMarketPredictor.ts",
+    "full_path": "C:\\CFH\\backend\\utils\\insurance\\InsuranceMarketPredictor.ts",
+    "name": "InsuranceMarketPredictor.ts",
+    "ext": ".ts",
+    "size": 361
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "utils\\insurance\\InsuranceQuoteAnalyzer.ts",
+    "full_path": "C:\\CFH\\backend\\utils\\insurance\\InsuranceQuoteAnalyzer.ts",
+    "name": "InsuranceQuoteAnalyzer.ts",
+    "ext": ".ts",
+    "size": 203
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "utils\\judgeModelUtils.ts",
+    "full_path": "C:\\CFH\\backend\\utils\\judgeModelUtils.ts",
+    "name": "judgeModelUtils.ts",
+    "ext": ".ts",
+    "size": 259
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "utils\\lenderExportUtils.ts",
+    "full_path": "C:\\CFH\\backend\\utils\\lenderExportUtils.ts",
+    "name": "lenderExportUtils.ts",
+    "ext": ".ts",
+    "size": 258
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "utils\\LenderMatchEngine.ts",
+    "full_path": "C:\\CFH\\backend\\utils\\LenderMatchEngine.ts",
+    "name": "LenderMatchEngine.ts",
+    "ext": ".ts",
+    "size": 342
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "utils\\LoanCalculatorWidget.ts",
+    "full_path": "C:\\CFH\\backend\\utils\\LoanCalculatorWidget.ts",
+    "name": "LoanCalculatorWidget.ts",
+    "ext": ".ts",
+    "size": 221
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "utils\\LoanMatchEngine.ts",
+    "full_path": "C:\\CFH\\backend\\utils\\LoanMatchEngine.ts",
+    "name": "LoanMatchEngine.ts",
+    "ext": ".ts",
+    "size": 273
+  }
+]

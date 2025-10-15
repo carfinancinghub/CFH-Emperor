@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\UserSecuritySettings.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\UserSecuritySettings.tsx",
+    "name": "UserSecuritySettings.tsx",
+    "ext": ".tsx",
+    "size": 7116
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\UserTrustBadges_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\UserTrustBadges_1.tsx",
+    "name": "UserTrustBadges_1.tsx",
+    "ext": ".tsx",
+    "size": 1164
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\UserTrustBadges.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\UserTrustBadges.test_1.tsx",
+    "name": "UserTrustBadges.test_1.tsx",
+    "ext": ".tsx",
+    "size": 47
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\UserTrustBadges.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\UserTrustBadges.test.tsx",
+    "name": "UserTrustBadges.test.tsx",
+    "ext": ".tsx",
+    "size": 47
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\UserTrustBadges.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\UserTrustBadges.tsx",
+    "name": "UserTrustBadges.tsx",
+    "ext": ".tsx",
+    "size": 1164
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\ValuationAssistant_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\ValuationAssistant_1.tsx",
+    "name": "ValuationAssistant_1.tsx",
+    "ext": ".tsx",
+    "size": 2522
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\ValuationAssistant.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\ValuationAssistant.test_1.tsx",
+    "name": "ValuationAssistant.test_1.tsx",
+    "ext": ".tsx",
+    "size": 3059
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\ValuationAssistant.test.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\ValuationAssistant.test.test_1.tsx",
+    "name": "ValuationAssistant.test.test_1.tsx",
+    "ext": ".tsx",
+    "size": 55
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\ValuationAssistant.test.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\ValuationAssistant.test.test.tsx",
+    "name": "ValuationAssistant.test.test.tsx",
+    "ext": ".tsx",
+    "size": 55
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\ValuationAssistant.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\ValuationAssistant.test.tsx",
+    "name": "ValuationAssistant.test.tsx",
+    "ext": ".tsx",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\ValuationDisplay_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\ValuationDisplay_1.tsx",
+    "name": "ValuationDisplay_1.tsx",
+    "ext": ".tsx",
+    "size": 769
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\ValuationDisplay.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\ValuationDisplay.test_1.tsx",
+    "name": "ValuationDisplay.test_1.tsx",
+    "ext": ".tsx",
+    "size": 2409
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\ValuationDisplay.test.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\ValuationDisplay.test.test_1.tsx",
+    "name": "ValuationDisplay.test.test_1.tsx",
+    "ext": ".tsx",
+    "size": 53
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\ValuationDisplay.test.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\ValuationDisplay.test.test.tsx",
+    "name": "ValuationDisplay.test.test.tsx",
+    "ext": ".tsx",
+    "size": 53
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\ValuationDisplay.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\ValuationDisplay.test.tsx",
+    "name": "ValuationDisplay.test.tsx",
+    "ext": ".tsx",
+    "size": 2409
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\ValuationLiveFeed_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\ValuationLiveFeed_1.tsx",
+    "name": "ValuationLiveFeed_1.tsx",
+    "ext": ".tsx",
+    "size": 3379
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\ValuationLiveFeed.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\ValuationLiveFeed.test_1.tsx",
+    "name": "ValuationLiveFeed.test_1.tsx",
+    "ext": ".tsx",
+    "size": 14133
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\ValuationLiveFeed.test.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\ValuationLiveFeed.test.test_1.tsx",
+    "name": "ValuationLiveFeed.test.test_1.tsx",
+    "ext": ".tsx",
+    "size": 54
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\ValuationLiveFeed.test.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\ValuationLiveFeed.test.test.tsx",
+    "name": "ValuationLiveFeed.test.test.tsx",
+    "ext": ".tsx",
+    "size": 54
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\ValuationLiveFeed.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\ValuationLiveFeed.test.tsx",
+    "name": "ValuationLiveFeed.test.tsx",
+    "ext": ".tsx",
+    "size": 49
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\ValuationPortfolio_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\ValuationPortfolio_1.tsx",
+    "name": "ValuationPortfolio_1.tsx",
+    "ext": ".tsx",
+    "size": 2203
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\ValuationPortfolio.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\ValuationPortfolio.test_1.tsx",
+    "name": "ValuationPortfolio.test_1.tsx",
+    "ext": ".tsx",
+    "size": 2175
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\ValuationReport_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\ValuationReport_1.tsx",
+    "name": "ValuationReport_1.tsx",
+    "ext": ".tsx",
+    "size": 1984
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\ValuationReport.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\ValuationReport.test_1.tsx",
+    "name": "ValuationReport.test_1.tsx",
+    "ext": ".tsx",
+    "size": 2851
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\VehicleHealthTrendCharts_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\VehicleHealthTrendCharts_1.tsx",
+    "name": "VehicleHealthTrendCharts_1.tsx",
+    "ext": ".tsx",
+    "size": 2083
+  }
+]

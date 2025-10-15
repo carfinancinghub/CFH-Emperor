@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\SecurityLogger_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\SecurityLogger_1.js",
+    "name": "SecurityLogger_1.js",
+    "ext": ".js",
+    "size": 1643
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\SecurityLogger.test_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\SecurityLogger.test_1.js",
+    "name": "SecurityLogger.test_1.js",
+    "ext": ".js",
+    "size": 2936
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\SellerCreateListing_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\SellerCreateListing_1.js",
+    "name": "SellerCreateListing_1.js",
+    "ext": ".js",
+    "size": 2094
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\SellerDashboard_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\SellerDashboard_1.js",
+    "name": "SellerDashboard_1.js",
+    "ext": ".js",
+    "size": 865
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\SellerPricingTool_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\SellerPricingTool_1.js",
+    "name": "SellerPricingTool_1.js",
+    "ext": ".js",
+    "size": 2598
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\SellerReputationDashboard.test_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\SellerReputationDashboard.test_1.js",
+    "name": "SellerReputationDashboard.test_1.js",
+    "ext": ".js",
+    "size": 3216
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\SEOHelper_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\SEOHelper_1.js",
+    "name": "SEOHelper_1.js",
+    "ext": ".js",
+    "size": 2056
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\SessionValidator_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\SessionValidator_1.js",
+    "name": "SessionValidator_1.js",
+    "ext": ".js",
+    "size": 3511
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\SessionValidator.test_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\SessionValidator.test_1.js",
+    "name": "SessionValidator.test_1.js",
+    "ext": ".js",
+    "size": 3198
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\shareReport_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\shareReport_1.js",
+    "name": "shareReport_1.js",
+    "ext": ".js",
+    "size": 803
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\shareReport.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\shareReport.js",
+    "name": "shareReport.js",
+    "ext": ".js",
+    "size": 803
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\shiftRoutes_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\shiftRoutes_1.js",
+    "name": "shiftRoutes_1.js",
+    "ext": ".js",
+    "size": 1483
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\shiftRoutes.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\shiftRoutes.js",
+    "name": "shiftRoutes.js",
+    "ext": ".js",
+    "size": 1483
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\signatureInit_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\signatureInit_1.js",
+    "name": "signatureInit_1.js",
+    "ext": ".js",
+    "size": 969
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\signatureInit.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\signatureInit.js",
+    "name": "signatureInit.js",
+    "ext": ".js",
+    "size": 969
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\SmartDelayPredictor_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\SmartDelayPredictor_1.js",
+    "name": "SmartDelayPredictor_1.js",
+    "ext": ".js",
+    "size": 1182
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\SmartDelayPredictor.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\SmartDelayPredictor.js",
+    "name": "SmartDelayPredictor.js",
+    "ext": ".js",
+    "size": 1182
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\SmartInsightsWidget_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\SmartInsightsWidget_1.js",
+    "name": "SmartInsightsWidget_1.js",
+    "ext": ".js",
+    "size": 2771
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\SmartInsightsWidget.test_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\SmartInsightsWidget.test_1.js",
+    "name": "SmartInsightsWidget.test_1.js",
+    "ext": ".js",
+    "size": 1706
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\SmartRecommendations_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\SmartRecommendations_1.js",
+    "name": "SmartRecommendations_1.js",
+    "ext": ".js",
+    "size": 3577
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\SmartSearchBar_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\SmartSearchBar_1.js",
+    "name": "SmartSearchBar_1.js",
+    "ext": ".js",
+    "size": 508
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\SmartSearchBar.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\SmartSearchBar.js",
+    "name": "SmartSearchBar.js",
+    "ext": ".js",
+    "size": 508
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\SocialGamification_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\SocialGamification_1.js",
+    "name": "SocialGamification_1.js",
+    "ext": ".js",
+    "size": 6491
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\SocialGamification.test_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\SocialGamification.test_1.js",
+    "name": "SocialGamification.test_1.js",
+    "ext": ".js",
+    "size": 3488
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\SocialShareHelper_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\SocialShareHelper_1.js",
+    "name": "SocialShareHelper_1.js",
+    "ext": ".js",
+    "size": 7023
+  }
+]

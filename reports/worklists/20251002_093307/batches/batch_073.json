@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\HaulerJobReview.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\HaulerJobReview.js",
+    "name": "HaulerJobReview.js",
+    "ext": ".js",
+    "size": 2672
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\HaulerJobStatus_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\HaulerJobStatus_1.js",
+    "name": "HaulerJobStatus_1.js",
+    "ext": ".js",
+    "size": 1537
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\HaulerJobStatus.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\HaulerJobStatus.js",
+    "name": "HaulerJobStatus.js",
+    "ext": ".js",
+    "size": 1537
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\HaulerJobUploadForm_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\HaulerJobUploadForm_1.js",
+    "name": "HaulerJobUploadForm_1.js",
+    "ext": ".js",
+    "size": 3739
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\haulerProofRoutes_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\haulerProofRoutes_1.js",
+    "name": "haulerProofRoutes_1.js",
+    "ext": ".js",
+    "size": 712
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\haulerProofRoutes.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\haulerProofRoutes.js",
+    "name": "haulerProofRoutes.js",
+    "ext": ".js",
+    "size": 712
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\haulerReputationController_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\haulerReputationController_1.js",
+    "name": "haulerReputationController_1.js",
+    "ext": ".js",
+    "size": 1108
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\HaulerReputationTracker_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\HaulerReputationTracker_1.js",
+    "name": "HaulerReputationTracker_1.js",
+    "ext": ".js",
+    "size": 2263
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\HaulerRequest_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\HaulerRequest_1.js",
+    "name": "HaulerRequest_1.js",
+    "ext": ".js",
+    "size": 2247
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\HaulerRequest.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\HaulerRequest.js",
+    "name": "HaulerRequest.js",
+    "ext": ".js",
+    "size": 2247
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\health_test_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\health_test_1.js",
+    "name": "health_test_1.js",
+    "ext": ".js",
+    "size": 86
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\health_test.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\health_test.js",
+    "name": "health_test.js",
+    "ext": ".js",
+    "size": 86
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\healthCheck_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\healthCheck_1.js",
+    "name": "healthCheck_1.js",
+    "ext": ".js",
+    "size": 2065
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\healthCheckFast_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\healthCheckFast_1.js",
+    "name": "healthCheckFast_1.js",
+    "ext": ".js",
+    "size": 1965
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\healthCheckValidation_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\healthCheckValidation_1.js",
+    "name": "healthCheckValidation_1.js",
+    "ext": ".js",
+    "size": 6158
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\Heatmap_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\Heatmap_1.js",
+    "name": "Heatmap_1.js",
+    "ext": ".js",
+    "size": 1238
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\Heatmap.test_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\Heatmap.test_1.js",
+    "name": "Heatmap.test_1.js",
+    "ext": ".js",
+    "size": 2325
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\index_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\index_1.js",
+    "name": "index_1.js",
+    "ext": ".js",
+    "size": 350
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\InsightGenerator_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\InsightGenerator_1.js",
+    "name": "InsightGenerator_1.js",
+    "ext": ".js",
+    "size": 2739
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\insights_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\insights_1.js",
+    "name": "insights_1.js",
+    "ext": ".js",
+    "size": 1896
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\insights.test_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\insights.test_1.js",
+    "name": "insights.test_1.js",
+    "ext": ".js",
+    "size": 2326
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\InsightsService_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\InsightsService_1.js",
+    "name": "InsightsService_1.js",
+    "ext": ".js",
+    "size": 2913
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\InsightsService.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\InsightsService.js",
+    "name": "InsightsService.js",
+    "ext": ".js",
+    "size": 2913
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\inspectionController_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\inspectionController_1.js",
+    "name": "inspectionController_1.js",
+    "ext": ".js",
+    "size": 2694
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\inspectionController.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\inspectionController.js",
+    "name": "inspectionController.js",
+    "ext": ".js",
+    "size": 2694
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\body-shop\\RepairJourneyShare.tsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\body-shop\\RepairJourneyShare.tsx",
+    "name": "RepairJourneyShare.tsx",
+    "ext": ".tsx",
+    "size": 7754
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\body-shop\\ShopOwnerDashboard.tsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\body-shop\\ShopOwnerDashboard.tsx",
+    "name": "ShopOwnerDashboard.tsx",
+    "ext": ".tsx",
+    "size": 18672
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\body-shop\\VirtualShopTour360.tsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\body-shop\\VirtualShopTour360.tsx",
+    "name": "VirtualShopTour360.tsx",
+    "ext": ".tsx",
+    "size": 13730
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\buyer\\AdminSmartAlertEngine.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\buyer\\AdminSmartAlertEngine.jsx",
+    "name": "AdminSmartAlertEngine.jsx",
+    "ext": ".jsx",
+    "size": 4682
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\buyer\\AdminSmartAlertEngine.tsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\buyer\\AdminSmartAlertEngine.tsx",
+    "name": "AdminSmartAlertEngine.tsx",
+    "ext": ".tsx",
+    "size": 6064
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\buyer\\ARCarPreview.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\buyer\\ARCarPreview.jsx",
+    "name": "ARCarPreview.jsx",
+    "ext": ".jsx",
+    "size": 8708
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\buyer\\ARCarPreview.tsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\buyer\\ARCarPreview.tsx",
+    "name": "ARCarPreview.tsx",
+    "ext": ".tsx",
+    "size": 10845
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\buyer\\AuctionResultsViewer.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\buyer\\AuctionResultsViewer.jsx",
+    "name": "AuctionResultsViewer.jsx",
+    "ext": ".jsx",
+    "size": 2971
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\buyer\\AuctionResultsViewer.tsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\buyer\\AuctionResultsViewer.tsx",
+    "name": "AuctionResultsViewer.tsx",
+    "ext": ".tsx",
+    "size": 3486
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\buyer\\BidAssistantSimulator.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\buyer\\BidAssistantSimulator.jsx",
+    "name": "BidAssistantSimulator.jsx",
+    "ext": ".jsx",
+    "size": 4012
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\buyer\\BidAssistantSimulator.tsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\buyer\\BidAssistantSimulator.tsx",
+    "name": "BidAssistantSimulator.tsx",
+    "ext": ".tsx",
+    "size": 4902
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\buyer\\BuyerAISuggestionEngine.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\buyer\\BuyerAISuggestionEngine.jsx",
+    "name": "BuyerAISuggestionEngine.jsx",
+    "ext": ".jsx",
+    "size": 4527
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\buyer\\BuyerAISuggestionEngine.tsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\buyer\\BuyerAISuggestionEngine.tsx",
+    "name": "BuyerAISuggestionEngine.tsx",
+    "ext": ".tsx",
+    "size": 6225
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\buyer\\BuyerAnalyticsDashboard.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\buyer\\BuyerAnalyticsDashboard.jsx",
+    "name": "BuyerAnalyticsDashboard.jsx",
+    "ext": ".jsx",
+    "size": 6659
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\buyer\\BuyerAnalyticsDashboard.tsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\buyer\\BuyerAnalyticsDashboard.tsx",
+    "name": "BuyerAnalyticsDashboard.tsx",
+    "ext": ".tsx",
+    "size": 8076
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\buyer\\BuyerAuctionHistory.js",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\buyer\\BuyerAuctionHistory.js",
+    "name": "BuyerAuctionHistory.js",
+    "ext": ".js",
+    "size": 2675
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\buyer\\BuyerAuctionHistory.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\buyer\\BuyerAuctionHistory.jsx",
+    "name": "BuyerAuctionHistory.jsx",
+    "ext": ".jsx",
+    "size": 3466
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\buyer\\BuyerAuctionHistory.ts",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\buyer\\BuyerAuctionHistory.ts",
+    "name": "BuyerAuctionHistory.ts",
+    "ext": ".ts",
+    "size": 4698
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\buyer\\BuyerAuctionHistory.tsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\buyer\\BuyerAuctionHistory.tsx",
+    "name": "BuyerAuctionHistory.tsx",
+    "ext": ".tsx",
+    "size": 4842
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\buyer\\BuyerBehaviorTracker.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\buyer\\BuyerBehaviorTracker.jsx",
+    "name": "BuyerBehaviorTracker.jsx",
+    "ext": ".jsx",
+    "size": 2958
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\buyer\\BuyerBehaviorTracker.tsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\buyer\\BuyerBehaviorTracker.tsx",
+    "name": "BuyerBehaviorTracker.tsx",
+    "ext": ".tsx",
+    "size": 4174
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\buyer\\BuyerBidHistory.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\buyer\\BuyerBidHistory.jsx",
+    "name": "BuyerBidHistory.jsx",
+    "ext": ".jsx",
+    "size": 5529
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\buyer\\BuyerBidHistory.tsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\buyer\\BuyerBidHistory.tsx",
+    "name": "BuyerBidHistory.tsx",
+    "ext": ".tsx",
+    "size": 7022
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\buyer\\BuyerBidModal.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\buyer\\BuyerBidModal.jsx",
+    "name": "BuyerBidModal.jsx",
+    "ext": ".jsx",
+    "size": 3263
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\buyer\\BuyerBidModal.tsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\buyer\\BuyerBidModal.tsx",
+    "name": "BuyerBidModal.tsx",
+    "ext": ".tsx",
+    "size": 5033
+  }
+]

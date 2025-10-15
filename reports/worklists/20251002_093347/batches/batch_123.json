@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\BlockchainAudit.test.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\BlockchainAudit.test.test.ts",
+    "name": "BlockchainAudit.test.test.ts",
+    "ext": ".ts",
+    "size": 51
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\BlockchainAudit.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\BlockchainAudit.test.ts",
+    "name": "BlockchainAudit.test.ts",
+    "ext": ".ts",
+    "size": 46
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\BlockchainAudit.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\BlockchainAudit.ts",
+    "name": "BlockchainAudit.ts",
+    "ext": ".ts",
+    "size": 2634
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\BlockchainEscrowAudit_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\BlockchainEscrowAudit_1.ts",
+    "name": "BlockchainEscrowAudit_1.ts",
+    "ext": ".ts",
+    "size": 444
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\BlockchainInspectionAudit_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\BlockchainInspectionAudit_1.ts",
+    "name": "BlockchainInspectionAudit_1.ts",
+    "ext": ".ts",
+    "size": 3404
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\BlockchainInspectionAudit.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\BlockchainInspectionAudit.test_1.ts",
+    "name": "BlockchainInspectionAudit.test_1.ts",
+    "ext": ".ts",
+    "size": 1311
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\BlockchainInspectionAudit.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\BlockchainInspectionAudit.test.ts",
+    "name": "BlockchainInspectionAudit.test.ts",
+    "ext": ".ts",
+    "size": 1311
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\BlockchainLedger_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\BlockchainLedger_1.ts",
+    "name": "BlockchainLedger_1.ts",
+    "ext": ".ts",
+    "size": 2343
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\BlockchainLedger.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\BlockchainLedger.test_1.ts",
+    "name": "BlockchainLedger.test_1.ts",
+    "ext": ".ts",
+    "size": 47
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\BlockchainLedger.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\BlockchainLedger.test.ts",
+    "name": "BlockchainLedger.test.ts",
+    "ext": ".ts",
+    "size": 47
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\BlockchainLedger.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\BlockchainLedger.ts",
+    "name": "BlockchainLedger.ts",
+    "ext": ".ts",
+    "size": 2343
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\blurDetector_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\blurDetector_1.ts",
+    "name": "blurDetector_1.ts",
+    "ext": ".ts",
+    "size": 1212
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\blurDetector.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\blurDetector.test_1.ts",
+    "name": "blurDetector.test_1.ts",
+    "ext": ".ts",
+    "size": 1826
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\bulkTestRunner_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\bulkTestRunner_1.ts",
+    "name": "bulkTestRunner_1.ts",
+    "ext": ".ts",
+    "size": 2173
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\bulkTestRunner.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\bulkTestRunner.test_1.ts",
+    "name": "bulkTestRunner.test_1.ts",
+    "ext": ".ts",
+    "size": 45
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\bulkTestRunner.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\bulkTestRunner.test.ts",
+    "name": "bulkTestRunner.test.ts",
+    "ext": ".ts",
+    "size": 45
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\bulkTestRunner.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\bulkTestRunner.ts",
+    "name": "bulkTestRunner.ts",
+    "ext": ".ts",
+    "size": 2173
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\bulkTestValidation_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\bulkTestValidation_1.ts",
+    "name": "bulkTestValidation_1.ts",
+    "ext": ".ts",
+    "size": 5383
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\bulkTestValidation.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\bulkTestValidation.test_1.ts",
+    "name": "bulkTestValidation.test_1.ts",
+    "ext": ".ts",
+    "size": 49
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\bulkTestValidation.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\bulkTestValidation.test.ts",
+    "name": "bulkTestValidation.test.ts",
+    "ext": ".ts",
+    "size": 49
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\bulkTestValidation.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\bulkTestValidation.ts",
+    "name": "bulkTestValidation.ts",
+    "ext": ".ts",
+    "size": 5383
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\BulkUpload_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\BulkUpload_1.ts",
+    "name": "BulkUpload_1.ts",
+    "ext": ".ts",
+    "size": 2030
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\BulkUpload.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\BulkUpload.test_1.ts",
+    "name": "BulkUpload.test_1.ts",
+    "ext": ".ts",
+    "size": 41
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\BulkUpload.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\BulkUpload.test.ts",
+    "name": "BulkUpload.test.ts",
+    "ext": ".ts",
+    "size": 41
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\BulkUpload.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\BulkUpload.ts",
+    "name": "BulkUpload.ts",
+    "ext": ".ts",
+    "size": 2030
+  }
+]

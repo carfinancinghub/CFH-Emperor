@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\EscrowStatusViewer.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\EscrowStatusViewer.test_1.tsx",
+    "name": "EscrowStatusViewer.test_1.tsx",
+    "ext": ".tsx",
+    "size": 4265
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\EscrowStatusViewer.test.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\EscrowStatusViewer.test.test_1.tsx",
+    "name": "EscrowStatusViewer.test.test_1.tsx",
+    "ext": ".tsx",
+    "size": 55
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\EscrowStatusViewer.test.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\EscrowStatusViewer.test.test.tsx",
+    "name": "EscrowStatusViewer.test.test.tsx",
+    "ext": ".tsx",
+    "size": 55
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\EscrowStatusViewer.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\EscrowStatusViewer.test.tsx",
+    "name": "EscrowStatusViewer.test.tsx",
+    "ext": ".tsx",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\EscrowStatusViewer.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\EscrowStatusViewer.tsx",
+    "name": "EscrowStatusViewer.tsx",
+    "ext": ".tsx",
+    "size": 4245
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\EscrowSyncAdminPanel_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\EscrowSyncAdminPanel_1.tsx",
+    "name": "EscrowSyncAdminPanel_1.tsx",
+    "ext": ".tsx",
+    "size": 6078
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\EscrowSyncAdminPanel.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\EscrowSyncAdminPanel.test_1.tsx",
+    "name": "EscrowSyncAdminPanel.test_1.tsx",
+    "ext": ".tsx",
+    "size": 5097
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\EscrowSyncAdminPanel.test.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\EscrowSyncAdminPanel.test.test_1.tsx",
+    "name": "EscrowSyncAdminPanel.test.test_1.tsx",
+    "ext": ".tsx",
+    "size": 57
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\EscrowSyncAdminPanel.test.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\EscrowSyncAdminPanel.test.test.tsx",
+    "name": "EscrowSyncAdminPanel.test.test.tsx",
+    "ext": ".tsx",
+    "size": 57
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\EscrowSyncAdminPanel.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\EscrowSyncAdminPanel.test.tsx",
+    "name": "EscrowSyncAdminPanel.test.tsx",
+    "ext": ".tsx",
+    "size": 52
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\EscrowSyncAdminPanel.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\EscrowSyncAdminPanel.tsx",
+    "name": "EscrowSyncAdminPanel.tsx",
+    "ext": ".tsx",
+    "size": 6078
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\EscrowTransaction_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\EscrowTransaction_1.tsx",
+    "name": "EscrowTransaction_1.tsx",
+    "ext": ".tsx",
+    "size": 4969
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\EscrowTransaction.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\EscrowTransaction.test_1.tsx",
+    "name": "EscrowTransaction.test_1.tsx",
+    "ext": ".tsx",
+    "size": 2305
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\EscrowTransactionDetailModal_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\EscrowTransactionDetailModal_1.tsx",
+    "name": "EscrowTransactionDetailModal_1.tsx",
+    "ext": ".tsx",
+    "size": 3120
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\EscrowTransactionDetailModal.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\EscrowTransactionDetailModal.test_1.tsx",
+    "name": "EscrowTransactionDetailModal.test_1.tsx",
+    "ext": ".tsx",
+    "size": 60
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\EscrowTransactionDetailModal.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\EscrowTransactionDetailModal.test.tsx",
+    "name": "EscrowTransactionDetailModal.test.tsx",
+    "ext": ".tsx",
+    "size": 60
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\EscrowTransactionDetailModal.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\EscrowTransactionDetailModal.tsx",
+    "name": "EscrowTransactionDetailModal.tsx",
+    "ext": ".tsx",
+    "size": 3120
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\EscrowTransactionSearch_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\EscrowTransactionSearch_1.tsx",
+    "name": "EscrowTransactionSearch_1.tsx",
+    "ext": ".tsx",
+    "size": 2901
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\EscrowTransactionSearch.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\EscrowTransactionSearch.test_1.tsx",
+    "name": "EscrowTransactionSearch.test_1.tsx",
+    "ext": ".tsx",
+    "size": 55
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\EscrowTransactionSearch.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\EscrowTransactionSearch.test.tsx",
+    "name": "EscrowTransactionSearch.test.tsx",
+    "ext": ".tsx",
+    "size": 55
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\EscrowTransactionSearch.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\EscrowTransactionSearch.tsx",
+    "name": "EscrowTransactionSearch.tsx",
+    "ext": ".tsx",
+    "size": 2901
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\EscrowUserAnalyticsPanel_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\EscrowUserAnalyticsPanel_1.tsx",
+    "name": "EscrowUserAnalyticsPanel_1.tsx",
+    "ext": ".tsx",
+    "size": 869
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\EscrowUserAnalyticsPanel.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\EscrowUserAnalyticsPanel.test_1.tsx",
+    "name": "EscrowUserAnalyticsPanel.test_1.tsx",
+    "ext": ".tsx",
+    "size": 56
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\EscrowUserAnalyticsPanel.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\EscrowUserAnalyticsPanel.test.tsx",
+    "name": "EscrowUserAnalyticsPanel.test.tsx",
+    "ext": ".tsx",
+    "size": 56
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\EscrowUserAnalyticsPanel.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\EscrowUserAnalyticsPanel.tsx",
+    "name": "EscrowUserAnalyticsPanel.tsx",
+    "ext": ".tsx",
+    "size": 869
+  }
+]

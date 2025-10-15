@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\under 1 kb\\AIInsight.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\under 1 kb\\AIInsight.copy.js",
+    "name": "AIInsight.copy.js",
+    "ext": ".js",
+    "size": 1024
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\under 1 kb\\AIInsights.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\under 1 kb\\AIInsights.copy.js",
+    "name": "AIInsights.copy.js",
+    "ext": ".js",
+    "size": 688
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\under 1 kb\\AIRecommendations.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\under 1 kb\\AIRecommendations.copy.js",
+    "name": "AIRecommendations.copy.js",
+    "ext": ".js",
+    "size": 742
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\under 1 kb\\aiReviewRoute.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\under 1 kb\\aiReviewRoute.copy.js",
+    "name": "aiReviewRoute.copy.js",
+    "ext": ".js",
+    "size": 1003
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\under 1 kb\\aliasCheck.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\under 1 kb\\aliasCheck.copy.js",
+    "name": "aliasCheck.copy.js",
+    "ext": ".js",
+    "size": 321
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\under 1 kb\\analytics.service.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\under 1 kb\\analytics.service.copy.js",
+    "name": "analytics.service.copy.js",
+    "ext": ".js",
+    "size": 963
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\under 1 kb\\analytics.validation.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\under 1 kb\\analytics.validation.copy.js",
+    "name": "analytics.validation.copy.js",
+    "ext": ".js",
+    "size": 735
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\under 1 kb\\anomalies.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\under 1 kb\\anomalies.copy.js",
+    "name": "anomalies.copy.js",
+    "ext": ".js",
+    "size": 972
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\under 1 kb\\ar.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\under 1 kb\\ar.copy.js",
+    "name": "ar.copy.js",
+    "ext": ".js",
+    "size": 372
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\under 1 kb\\arbitratorController.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\under 1 kb\\arbitratorController.copy.js",
+    "name": "arbitratorController.copy.js",
+    "ext": ".js",
+    "size": 568
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\under 1 kb\\arbitrators.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\under 1 kb\\arbitrators.copy.js",
+    "name": "arbitrators.copy.js",
+    "ext": ".js",
+    "size": 324
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\under 1 kb\\asyncHandler.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\under 1 kb\\asyncHandler.copy.js",
+    "name": "asyncHandler.copy.js",
+    "ext": ".js",
+    "size": 138
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\under 1 kb\\Auction.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\under 1 kb\\Auction.copy.js",
+    "name": "Auction.copy.js",
+    "ext": ".js",
+    "size": 546
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\under 1 kb\\AuditLog.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\under 1 kb\\AuditLog.copy.js",
+    "name": "AuditLog.copy.js",
+    "ext": ".js",
+    "size": 604
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\under 1 kb\\auditRoutes.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\under 1 kb\\auditRoutes.copy.js",
+    "name": "auditRoutes.copy.js",
+    "ext": ".js",
+    "size": 780
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\under 1 kb\\AuditTrail.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\under 1 kb\\AuditTrail.copy.js",
+    "name": "AuditTrail.copy.js",
+    "ext": ".js",
+    "size": 921
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\under 1 kb\\authenticate.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\under 1 kb\\authenticate.copy.js",
+    "name": "authenticate.copy.js",
+    "ext": ".js",
+    "size": 528
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\under 1 kb\\authMiddleware.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\under 1 kb\\authMiddleware.copy.js",
+    "name": "authMiddleware.copy.js",
+    "ext": ".js",
+    "size": 993
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\under 1 kb\\authorize.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\under 1 kb\\authorize.copy.js",
+    "name": "authorize.copy.js",
+    "ext": ".js",
+    "size": 803
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\under 1 kb\\automation.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\under 1 kb\\automation.copy.js",
+    "name": "automation.copy.js",
+    "ext": ".js",
+    "size": 352
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\under 1 kb\\AutomationAgent.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\under 1 kb\\AutomationAgent.copy.js",
+    "name": "AutomationAgent.copy.js",
+    "ext": ".js",
+    "size": 730
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\under 1 kb\\backend_middleware_auth.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\under 1 kb\\backend_middleware_auth.copy.js",
+    "name": "backend_middleware_auth.copy.js",
+    "ext": ".js",
+    "size": 797
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\under 1 kb\\backend_models_Dispute.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\under 1 kb\\backend_models_Dispute.copy.js",
+    "name": "backend_models_Dispute.copy.js",
+    "ext": ".js",
+    "size": 900
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\under 1 kb\\badgeAudit.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\under 1 kb\\badgeAudit.copy.js",
+    "name": "badgeAudit.copy.js",
+    "ext": ".js",
+    "size": 707
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\under 1 kb\\BadgeAuditLog.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\under 1 kb\\BadgeAuditLog.copy.js",
+    "name": "BadgeAuditLog.copy.js",
+    "ext": ".js",
+    "size": 786
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SellerReviewSummary.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SellerReviewSummary.tsx",
+    "name": "SellerReviewSummary.tsx",
+    "ext": ".tsx",
+    "size": 3988
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SellerRewardsBadgeDisplay_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SellerRewardsBadgeDisplay_1.tsx",
+    "name": "SellerRewardsBadgeDisplay_1.tsx",
+    "ext": ".tsx",
+    "size": 5192
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SellerRewardsBadgeDisplay.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SellerRewardsBadgeDisplay.test_1.tsx",
+    "name": "SellerRewardsBadgeDisplay.test_1.tsx",
+    "ext": ".tsx",
+    "size": 57
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SellerRewardsBadgeDisplay.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SellerRewardsBadgeDisplay.test.tsx",
+    "name": "SellerRewardsBadgeDisplay.test.tsx",
+    "ext": ".tsx",
+    "size": 57
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SellerRewardsBadgeDisplay.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SellerRewardsBadgeDisplay.tsx",
+    "name": "SellerRewardsBadgeDisplay.tsx",
+    "ext": ".tsx",
+    "size": 5192
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SellerSalesAnalytics_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SellerSalesAnalytics_1.tsx",
+    "name": "SellerSalesAnalytics_1.tsx",
+    "ext": ".tsx",
+    "size": 3110
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SellerSalesAnalytics.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SellerSalesAnalytics.test_1.tsx",
+    "name": "SellerSalesAnalytics.test_1.tsx",
+    "ext": ".tsx",
+    "size": 52
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SellerSalesAnalytics.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SellerSalesAnalytics.test.tsx",
+    "name": "SellerSalesAnalytics.test.tsx",
+    "ext": ".tsx",
+    "size": 52
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SellerSalesAnalytics.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SellerSalesAnalytics.tsx",
+    "name": "SellerSalesAnalytics.tsx",
+    "ext": ".tsx",
+    "size": 3110
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SellerSalesFunnelOverview_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SellerSalesFunnelOverview_1.tsx",
+    "name": "SellerSalesFunnelOverview_1.tsx",
+    "ext": ".tsx",
+    "size": 5009
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SellerSalesFunnelOverview.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SellerSalesFunnelOverview.test_1.tsx",
+    "name": "SellerSalesFunnelOverview.test_1.tsx",
+    "ext": ".tsx",
+    "size": 57
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SellerSalesFunnelOverview.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SellerSalesFunnelOverview.test.tsx",
+    "name": "SellerSalesFunnelOverview.test.tsx",
+    "ext": ".tsx",
+    "size": 57
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SellerSalesFunnelOverview.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SellerSalesFunnelOverview.tsx",
+    "name": "SellerSalesFunnelOverview.tsx",
+    "ext": ".tsx",
+    "size": 5009
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SellerSmartBadgeSystem_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SellerSmartBadgeSystem_1.tsx",
+    "name": "SellerSmartBadgeSystem_1.tsx",
+    "ext": ".tsx",
+    "size": 7011
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SellerSmartBadgeSystem.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SellerSmartBadgeSystem.test_1.tsx",
+    "name": "SellerSmartBadgeSystem.test_1.tsx",
+    "ext": ".tsx",
+    "size": 54
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SellerSmartBadgeSystem.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SellerSmartBadgeSystem.test.tsx",
+    "name": "SellerSmartBadgeSystem.test.tsx",
+    "ext": ".tsx",
+    "size": 54
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SellerSmartBadgeSystem.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SellerSmartBadgeSystem.tsx",
+    "name": "SellerSmartBadgeSystem.tsx",
+    "ext": ".tsx",
+    "size": 7011
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SellerSuccessTips_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SellerSuccessTips_1.tsx",
+    "name": "SellerSuccessTips_1.tsx",
+    "ext": ".tsx",
+    "size": 3002
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SellerSuccessTips.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SellerSuccessTips.test_1.tsx",
+    "name": "SellerSuccessTips.test_1.tsx",
+    "ext": ".tsx",
+    "size": 49
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SellerSuccessTips.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SellerSuccessTips.test.tsx",
+    "name": "SellerSuccessTips.test.tsx",
+    "ext": ".tsx",
+    "size": 49
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SellerSuccessTips.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SellerSuccessTips.tsx",
+    "name": "SellerSuccessTips.tsx",
+    "ext": ".tsx",
+    "size": 3002
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SellerViewListing_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SellerViewListing_1.tsx",
+    "name": "SellerViewListing_1.tsx",
+    "ext": ".tsx",
+    "size": 5520
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SellerViewListing.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SellerViewListing.test_1.tsx",
+    "name": "SellerViewListing.test_1.tsx",
+    "ext": ".tsx",
+    "size": 49
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SellerViewListing.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SellerViewListing.test.tsx",
+    "name": "SellerViewListing.test.tsx",
+    "ext": ".tsx",
+    "size": 49
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SellerViewListing.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SellerViewListing.tsx",
+    "name": "SellerViewListing.tsx",
+    "ext": ".tsx",
+    "size": 5520
+  }
+]

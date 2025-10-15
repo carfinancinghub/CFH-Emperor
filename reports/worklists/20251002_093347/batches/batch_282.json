@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\Car.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\Car.tsx",
+    "name": "Car.tsx",
+    "ext": ".tsx",
+    "size": 584
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\carController.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\carController.tsx",
+    "name": "carController.tsx",
+    "ext": ".tsx",
+    "size": 624
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\cars.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\cars.tsx",
+    "name": "cars.tsx",
+    "ext": ".tsx",
+    "size": 588
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\CarTransportCoordination.cy.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\CarTransportCoordination.cy.tsx",
+    "name": "CarTransportCoordination.cy.tsx",
+    "ext": ".tsx",
+    "size": 680
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\CaseBundleExporter.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\CaseBundleExporter.tsx",
+    "name": "CaseBundleExporter.tsx",
+    "ext": ".tsx",
+    "size": 644
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\ChatAttachmentPreviewer.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\ChatAttachmentPreviewer.tsx",
+    "name": "ChatAttachmentPreviewer.tsx",
+    "ext": ".tsx",
+    "size": 664
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\ChatAttachmentUploader.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\ChatAttachmentUploader.tsx",
+    "name": "ChatAttachmentUploader.tsx",
+    "ext": ".tsx",
+    "size": 660
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\ChatInterface.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\ChatInterface.tsx",
+    "name": "ChatInterface.tsx",
+    "ext": ".tsx",
+    "size": 624
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\ChatInterfaceGrokOld.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\ChatInterfaceGrokOld.tsx",
+    "name": "ChatInterfaceGrokOld.tsx",
+    "ext": ".tsx",
+    "size": 652
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\ChatSummaryPanel.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\ChatSummaryPanel.tsx",
+    "name": "ChatSummaryPanel.tsx",
+    "ext": ".tsx",
+    "size": 636
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\coachPlanRoute.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\coachPlanRoute.tsx",
+    "name": "coachPlanRoute.tsx",
+    "ext": ".tsx",
+    "size": 628
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\Cod1HaulerDeploymentChecklist.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\Cod1HaulerDeploymentChecklist.tsx",
+    "name": "Cod1HaulerDeploymentChecklist.tsx",
+    "ext": ".tsx",
+    "size": 688
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\cod1HaulerReviewAI.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\cod1HaulerReviewAI.tsx",
+    "name": "cod1HaulerReviewAI.tsx",
+    "ext": ".tsx",
+    "size": 644
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\ColdObservable.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\ColdObservable.tsx",
+    "name": "ColdObservable.tsx",
+    "ext": ".tsx",
+    "size": 628
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\CollaborationChat.cy.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\CollaborationChat.cy.tsx",
+    "name": "CollaborationChat.cy.tsx",
+    "ext": ".tsx",
+    "size": 652
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\CollaborationChat.cy05040109.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\CollaborationChat.cy05040109.tsx",
+    "name": "CollaborationChat.cy05040109.tsx",
+    "ext": ".tsx",
+    "size": 684
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\comments.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\comments.tsx",
+    "name": "comments.tsx",
+    "ext": ".tsx",
+    "size": 604
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\CommunityDashboard.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\CommunityDashboard.tsx",
+    "name": "CommunityDashboard.tsx",
+    "ext": ".tsx",
+    "size": 644
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\ComplianceChecker.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\ComplianceChecker.tsx",
+    "name": "ComplianceChecker.tsx",
+    "ext": ".tsx",
+    "size": 640
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\ComplianceEnhancer.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\ComplianceEnhancer.tsx",
+    "name": "ComplianceEnhancer.tsx",
+    "ext": ".tsx",
+    "size": 644
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\confirmDeliveryRoute.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\confirmDeliveryRoute.tsx",
+    "name": "confirmDeliveryRoute.tsx",
+    "ext": ".tsx",
+    "size": 652
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\ContractAuditTrail.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\ContractAuditTrail.tsx",
+    "name": "ContractAuditTrail.tsx",
+    "ext": ".tsx",
+    "size": 644
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\ContractAuditViewer.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\ContractAuditViewer.tsx",
+    "name": "ContractAuditViewer.tsx",
+    "ext": ".tsx",
+    "size": 648
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\contractBadgeTrigger.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\contractBadgeTrigger.tsx",
+    "name": "contractBadgeTrigger.tsx",
+    "ext": ".tsx",
+    "size": 652
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\ContractCard.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\ContractCard.tsx",
+    "name": "ContractCard.tsx",
+    "ext": ".tsx",
+    "size": 620
+  }
+]

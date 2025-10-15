@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AuctionLiveBidTracker.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AuctionLiveBidTracker.test_1.tsx",
+    "name": "AuctionLiveBidTracker.test_1.tsx",
+    "ext": ".tsx",
+    "size": 53
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AuctionLiveBidTracker.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AuctionLiveBidTracker.test.tsx",
+    "name": "AuctionLiveBidTracker.test.tsx",
+    "ext": ".tsx",
+    "size": 53
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AuctionManagement_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AuctionManagement_1.tsx",
+    "name": "AuctionManagement_1.tsx",
+    "ext": ".tsx",
+    "size": 23075
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AuctionPremiumInsightsPanel_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AuctionPremiumInsightsPanel_1.tsx",
+    "name": "AuctionPremiumInsightsPanel_1.tsx",
+    "ext": ".tsx",
+    "size": 4349
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AuctionPremiumInsightsPanel.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AuctionPremiumInsightsPanel.test_1.tsx",
+    "name": "AuctionPremiumInsightsPanel.test_1.tsx",
+    "ext": ".tsx",
+    "size": 3708
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AuctionPremiumInsightsPanel.test.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AuctionPremiumInsightsPanel.test.test_1.tsx",
+    "name": "AuctionPremiumInsightsPanel.test.test_1.tsx",
+    "ext": ".tsx",
+    "size": 64
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AuctionPremiumInsightsPanel.test.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AuctionPremiumInsightsPanel.test.test.tsx",
+    "name": "AuctionPremiumInsightsPanel.test.test.tsx",
+    "ext": ".tsx",
+    "size": 64
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AuctionPremiumInsightsPanel.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AuctionPremiumInsightsPanel.test.tsx",
+    "name": "AuctionPremiumInsightsPanel.test.tsx",
+    "ext": ".tsx",
+    "size": 59
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AuctionResultsViewer_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AuctionResultsViewer_1.tsx",
+    "name": "AuctionResultsViewer_1.tsx",
+    "ext": ".tsx",
+    "size": 3052
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AuctionResultsViewer.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AuctionResultsViewer.test_1.tsx",
+    "name": "AuctionResultsViewer.test_1.tsx",
+    "ext": ".tsx",
+    "size": 52
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AuctionResultsViewer.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AuctionResultsViewer.test.tsx",
+    "name": "AuctionResultsViewer.test.tsx",
+    "ext": ".tsx",
+    "size": 52
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AuctionSEOHead_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AuctionSEOHead_1.tsx",
+    "name": "AuctionSEOHead_1.tsx",
+    "ext": ".tsx",
+    "size": 2898
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AuctionSEOHead.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AuctionSEOHead.test_1.tsx",
+    "name": "AuctionSEOHead.test_1.tsx",
+    "ext": ".tsx",
+    "size": 46
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AuctionSEOHead.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AuctionSEOHead.test.tsx",
+    "name": "AuctionSEOHead.test.tsx",
+    "ext": ".tsx",
+    "size": 46
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AuditTrail_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AuditTrail_1.tsx",
+    "name": "AuditTrail_1.tsx",
+    "ext": ".tsx",
+    "size": 992
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AuditTrail.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AuditTrail.test_1.tsx",
+    "name": "AuditTrail.test_1.tsx",
+    "ext": ".tsx",
+    "size": 42
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AuditTrail.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AuditTrail.test.tsx",
+    "name": "AuditTrail.test.tsx",
+    "ext": ".tsx",
+    "size": 42
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AuditTrail.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AuditTrail.tsx",
+    "name": "AuditTrail.tsx",
+    "ext": ".tsx",
+    "size": 992
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\BadgeDisplay_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\BadgeDisplay_1.tsx",
+    "name": "BadgeDisplay_1.tsx",
+    "ext": ".tsx",
+    "size": 2523
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\BadgeDisplay.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\BadgeDisplay.test_1.tsx",
+    "name": "BadgeDisplay.test_1.tsx",
+    "ext": ".tsx",
+    "size": 2378
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\BadgeDisplay.test.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\BadgeDisplay.test.test_1.tsx",
+    "name": "BadgeDisplay.test.test_1.tsx",
+    "ext": ".tsx",
+    "size": 49
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\BadgeDisplay.test.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\BadgeDisplay.test.test.tsx",
+    "name": "BadgeDisplay.test.test.tsx",
+    "ext": ".tsx",
+    "size": 49
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\BadgeDisplay.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\BadgeDisplay.test.tsx",
+    "name": "BadgeDisplay.test.tsx",
+    "ext": ".tsx",
+    "size": 44
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\BadgeDisplay.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\BadgeDisplay.tsx",
+    "name": "BadgeDisplay.tsx",
+    "ext": ".tsx",
+    "size": 2523
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\BadgeDisplayPanel_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\BadgeDisplayPanel_1.tsx",
+    "name": "BadgeDisplayPanel_1.tsx",
+    "ext": ".tsx",
+    "size": 1872
+  }
+]

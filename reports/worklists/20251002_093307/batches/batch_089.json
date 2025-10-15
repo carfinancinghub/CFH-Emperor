@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\AuctionIntelligenceDashboard.test_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\AuctionIntelligenceDashboard.test_1.jsx",
+    "name": "AuctionIntelligenceDashboard.test_1.jsx",
+    "ext": ".jsx",
+    "size": 3689
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\AuctionListingForm_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\AuctionListingForm_1.jsx",
+    "name": "AuctionListingForm_1.jsx",
+    "ext": ".jsx",
+    "size": 4288
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\AuctionListingForm.test_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\AuctionListingForm.test_1.jsx",
+    "name": "AuctionListingForm.test_1.jsx",
+    "ext": ".jsx",
+    "size": 2599
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\AuctionLiveBidTracker_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\AuctionLiveBidTracker_1.jsx",
+    "name": "AuctionLiveBidTracker_1.jsx",
+    "ext": ".jsx",
+    "size": 2893
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\AuctionPremiumInsightsPanel_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\AuctionPremiumInsightsPanel_1.jsx",
+    "name": "AuctionPremiumInsightsPanel_1.jsx",
+    "ext": ".jsx",
+    "size": 4261
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\AuctionPremiumInsightsPanel.test_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\AuctionPremiumInsightsPanel.test_1.jsx",
+    "name": "AuctionPremiumInsightsPanel.test_1.jsx",
+    "ext": ".jsx",
+    "size": 3615
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\AuctionResultsViewer_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\AuctionResultsViewer_1.jsx",
+    "name": "AuctionResultsViewer_1.jsx",
+    "ext": ".jsx",
+    "size": 2971
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\AuctionSEOHead_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\AuctionSEOHead_1.jsx",
+    "name": "AuctionSEOHead_1.jsx",
+    "ext": ".jsx",
+    "size": 2823
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\AuditTrail_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\AuditTrail_1.jsx",
+    "name": "AuditTrail_1.jsx",
+    "ext": ".jsx",
+    "size": 921
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\BadgeDisplay_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\BadgeDisplay_1.jsx",
+    "name": "BadgeDisplay_1.jsx",
+    "ext": ".jsx",
+    "size": 2450
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\BadgeDisplay.test_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\BadgeDisplay.test_1.jsx",
+    "name": "BadgeDisplay.test_1.jsx",
+    "ext": ".jsx",
+    "size": 2300
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\BadgeDisplayPanel_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\BadgeDisplayPanel_1.jsx",
+    "name": "BadgeDisplayPanel_1.jsx",
+    "ext": ".jsx",
+    "size": 1794
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\BadgeStorefront_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\BadgeStorefront_1.jsx",
+    "name": "BadgeStorefront_1.jsx",
+    "ext": ".jsx",
+    "size": 2564
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\BadgeStorefront.test_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\BadgeStorefront.test_1.jsx",
+    "name": "BadgeStorefront.test_1.jsx",
+    "ext": ".jsx",
+    "size": 3282
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\BestFinancingDealCard_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\BestFinancingDealCard_1.jsx",
+    "name": "BestFinancingDealCard_1.jsx",
+    "ext": ".jsx",
+    "size": 2222
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\BidAssistantSimulator_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\BidAssistantSimulator_1.jsx",
+    "name": "BidAssistantSimulator_1.jsx",
+    "ext": ".jsx",
+    "size": 4012
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\BidConfidenceMeter_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\BidConfidenceMeter_1.jsx",
+    "name": "BidConfidenceMeter_1.jsx",
+    "ext": ".jsx",
+    "size": 3655
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\BidConfidenceMeter.test_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\BidConfidenceMeter.test_1.jsx",
+    "name": "BidConfidenceMeter.test_1.jsx",
+    "ext": ".jsx",
+    "size": 3360
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\BidStrategyAdvisor_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\BidStrategyAdvisor_1.jsx",
+    "name": "BidStrategyAdvisor_1.jsx",
+    "ext": ".jsx",
+    "size": 2683
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\BidStrategyAdvisor.test_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\BidStrategyAdvisor.test_1.jsx",
+    "name": "BidStrategyAdvisor.test_1.jsx",
+    "ext": ".jsx",
+    "size": 3423
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\BlockchainSnapshotViewer_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\BlockchainSnapshotViewer_1.jsx",
+    "name": "BlockchainSnapshotViewer_1.jsx",
+    "ext": ".jsx",
+    "size": 2180
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\BookingModal_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\BookingModal_1.jsx",
+    "name": "BookingModal_1.jsx",
+    "ext": ".jsx",
+    "size": 3302
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\BulkTitleTransfer_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\BulkTitleTransfer_1.jsx",
+    "name": "BulkTitleTransfer_1.jsx",
+    "ext": ".jsx",
+    "size": 5395
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\Button_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\Button_1.jsx",
+    "name": "Button_1.jsx",
+    "ext": ".jsx",
+    "size": 1288
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\BuyerAISuggestionEngine_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\BuyerAISuggestionEngine_1.jsx",
+    "name": "BuyerAISuggestionEngine_1.jsx",
+    "ext": ".jsx",
+    "size": 4527
+  }
+]

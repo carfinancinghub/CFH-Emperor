@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\RecommendedAuctions_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\RecommendedAuctions_1.tsx",
+    "name": "RecommendedAuctions_1.tsx",
+    "ext": ".tsx",
+    "size": 2847
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\RecommendedAuctions.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\RecommendedAuctions.test_1.tsx",
+    "name": "RecommendedAuctions.test_1.tsx",
+    "ext": ".tsx",
+    "size": 2671
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\RecommendedAuctions.test.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\RecommendedAuctions.test.test_1.tsx",
+    "name": "RecommendedAuctions.test.test_1.tsx",
+    "ext": ".tsx",
+    "size": 56
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\RecommendedAuctions.test.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\RecommendedAuctions.test.test.tsx",
+    "name": "RecommendedAuctions.test.test.tsx",
+    "ext": ".tsx",
+    "size": 56
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\RecommendedAuctions.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\RecommendedAuctions.test.tsx",
+    "name": "RecommendedAuctions.test.tsx",
+    "ext": ".tsx",
+    "size": 51
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\RecommendedAuctions.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\RecommendedAuctions.tsx",
+    "name": "RecommendedAuctions.tsx",
+    "ext": ".tsx",
+    "size": 2847
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\ReferralProgram_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\ReferralProgram_1.tsx",
+    "name": "ReferralProgram_1.tsx",
+    "ext": ".tsx",
+    "size": 3799
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\ReferralProgram.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\ReferralProgram.test_1.tsx",
+    "name": "ReferralProgram.test_1.tsx",
+    "ext": ".tsx",
+    "size": 47
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\ReferralProgram.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\ReferralProgram.test.tsx",
+    "name": "ReferralProgram.test.tsx",
+    "ext": ".tsx",
+    "size": 47
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\ReferralProgram.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\ReferralProgram.tsx",
+    "name": "ReferralProgram.tsx",
+    "ext": ".tsx",
+    "size": 3799
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\Register_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\Register_1.tsx",
+    "name": "Register_1.tsx",
+    "ext": ".tsx",
+    "size": 3210
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\Register.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\Register.test_1.tsx",
+    "name": "Register.test_1.tsx",
+    "ext": ".tsx",
+    "size": 40
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\Register.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\Register.test.tsx",
+    "name": "Register.test.tsx",
+    "ext": ".tsx",
+    "size": 40
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\RepairJourneyShare_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\RepairJourneyShare_1.tsx",
+    "name": "RepairJourneyShare_1.tsx",
+    "ext": ".tsx",
+    "size": 7754
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\RepairJourneyShare.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\RepairJourneyShare.test_1.tsx",
+    "name": "RepairJourneyShare.test_1.tsx",
+    "ext": ".tsx",
+    "size": 11515
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\RepairScheduler_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\RepairScheduler_1.tsx",
+    "name": "RepairScheduler_1.tsx",
+    "ext": ".tsx",
+    "size": 2768
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\RepairScheduler.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\RepairScheduler.test_1.tsx",
+    "name": "RepairScheduler.test_1.tsx",
+    "ext": ".tsx",
+    "size": 47
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\RepairScheduler.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\RepairScheduler.test.tsx",
+    "name": "RepairScheduler.test.tsx",
+    "ext": ".tsx",
+    "size": 47
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\RepairScheduler.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\RepairScheduler.tsx",
+    "name": "RepairScheduler.tsx",
+    "ext": ".tsx",
+    "size": 2768
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\RouteRiskAnalysis_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\RouteRiskAnalysis_1.tsx",
+    "name": "RouteRiskAnalysis_1.tsx",
+    "ext": ".tsx",
+    "size": 2831
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\RouteRiskAnalysis.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\RouteRiskAnalysis.test_1.tsx",
+    "name": "RouteRiskAnalysis.test_1.tsx",
+    "ext": ".tsx",
+    "size": 540
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\RouteRiskAnalysis.test.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\RouteRiskAnalysis.test.test_1.tsx",
+    "name": "RouteRiskAnalysis.test.test_1.tsx",
+    "ext": ".tsx",
+    "size": 54
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\RouteRiskAnalysis.test.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\RouteRiskAnalysis.test.test.tsx",
+    "name": "RouteRiskAnalysis.test.test.tsx",
+    "ext": ".tsx",
+    "size": 54
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\RouteRiskAnalysis.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\RouteRiskAnalysis.test.tsx",
+    "name": "RouteRiskAnalysis.test.tsx",
+    "ext": ".tsx",
+    "size": 49
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\RouteRiskAnalysis.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\RouteRiskAnalysis.tsx",
+    "name": "RouteRiskAnalysis.tsx",
+    "ext": ".tsx",
+    "size": 2831
+  }
+]

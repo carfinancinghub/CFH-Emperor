@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "functions\\analytics\\UserBehaviorTracker-functions.md",
+    "full_path": "C:\\CFH\\docs\\functions\\analytics\\UserBehaviorTracker-functions.md",
+    "name": "UserBehaviorTracker-functions.md",
+    "ext": ".md",
+    "size": 493
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "functions\\auction\\AuctionManager-functions.md",
+    "full_path": "C:\\CFH\\docs\\functions\\auction\\AuctionManager-functions.md",
+    "name": "AuctionManager-functions.md",
+    "ext": ".md",
+    "size": 652
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "functions\\auction\\AuctionMetrics-functions.md",
+    "full_path": "C:\\CFH\\docs\\functions\\auction\\AuctionMetrics-functions.md",
+    "name": "AuctionMetrics-functions.md",
+    "ext": ".md",
+    "size": 492
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "functions\\auction\\AuctionScheduler-functions.md",
+    "full_path": "C:\\CFH\\docs\\functions\\auction\\AuctionScheduler-functions.md",
+    "name": "AuctionScheduler-functions.md",
+    "ext": ".md",
+    "size": 516
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "functions\\buyer\\buyer-tools-delivery-summary-051925.md",
+    "full_path": "C:\\CFH\\docs\\functions\\buyer\\buyer-tools-delivery-summary-051925.md",
+    "name": "buyer-tools-delivery-summary-051925.md",
+    "ext": ".md",
+    "size": 1758
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "functions\\buyer\\BuyerAuctionHistory-functions.md",
+    "full_path": "C:\\CFH\\docs\\functions\\buyer\\BuyerAuctionHistory-functions.md",
+    "name": "BuyerAuctionHistory-functions.md",
+    "ext": ".md",
+    "size": 252
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "functions\\buyer\\BuyerBidModal-functions.md",
+    "full_path": "C:\\CFH\\docs\\functions\\buyer\\BuyerBidModal-functions.md",
+    "name": "BuyerBidModal-functions.md",
+    "ext": ".md",
+    "size": 1562
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "functions\\buyer\\BuyerBidModal.test-functions.md",
+    "full_path": "C:\\CFH\\docs\\functions\\buyer\\BuyerBidModal.test-functions.md",
+    "name": "BuyerBidModal.test-functions.md",
+    "ext": ".md",
+    "size": 1297
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "functions\\components\\CurrencyConverterWidget-functions.md",
+    "full_path": "C:\\CFH\\docs\\functions\\components\\CurrencyConverterWidget-functions.md",
+    "name": "CurrencyConverterWidget-functions.md",
+    "ext": ".md",
+    "size": 1113
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "functions\\components\\MarketplaceInsightsDashboard.functions.md",
+    "full_path": "C:\\CFH\\docs\\functions\\components\\MarketplaceInsightsDashboard.functions.md",
+    "name": "MarketplaceInsightsDashboard.functions.md",
+    "ext": ".md",
+    "size": 4813
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "functions\\components\\PredictiveGraph-functions.md",
+    "full_path": "C:\\CFH\\docs\\functions\\components\\PredictiveGraph-functions.md",
+    "name": "PredictiveGraph-functions.md",
+    "ext": ".md",
+    "size": 1095
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "functions\\components\\ValuationDisplay-functions.md",
+    "full_path": "C:\\CFH\\docs\\functions\\components\\ValuationDisplay-functions.md",
+    "name": "ValuationDisplay-functions.md",
+    "ext": ".md",
+    "size": 1121
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "functions\\escrow\\escrowAuditLogRoutes-functions.md",
+    "full_path": "C:\\CFH\\docs\\functions\\escrow\\escrowAuditLogRoutes-functions.md",
+    "name": "escrowAuditLogRoutes-functions.md",
+    "ext": ".md",
+    "size": 659
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "functions\\escrow\\escrowAuditLogRoutes.test-functions.md",
+    "full_path": "C:\\CFH\\docs\\functions\\escrow\\escrowAuditLogRoutes.test-functions.md",
+    "name": "escrowAuditLogRoutes.test-functions.md",
+    "ext": ".md",
+    "size": 824
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "functions\\escrow\\EscrowChainSync-functions.md",
+    "full_path": "C:\\CFH\\docs\\functions\\escrow\\EscrowChainSync-functions.md",
+    "name": "EscrowChainSync-functions.md",
+    "ext": ".md",
+    "size": 886
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "functions\\escrow\\EscrowChainSync.test-functions.md",
+    "full_path": "C:\\CFH\\docs\\functions\\escrow\\EscrowChainSync.test-functions.md",
+    "name": "EscrowChainSync.test-functions.md",
+    "ext": ".md",
+    "size": 823
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "functions\\escrow\\escrowNotifyRoutes-functions.md",
+    "full_path": "C:\\CFH\\docs\\functions\\escrow\\escrowNotifyRoutes-functions.md",
+    "name": "escrowNotifyRoutes-functions.md",
+    "ext": ".md",
+    "size": 708
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "functions\\escrow\\escrowNotifyRoutes.test-functions.md",
+    "full_path": "C:\\CFH\\docs\\functions\\escrow\\escrowNotifyRoutes.test-functions.md",
+    "name": "escrowNotifyRoutes.test-functions.md",
+    "ext": ".md",
+    "size": 1086
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "functions\\escrow\\escrowPaymentRoutes-functions.md",
+    "full_path": "C:\\CFH\\docs\\functions\\escrow\\escrowPaymentRoutes-functions.md",
+    "name": "escrowPaymentRoutes-functions.md",
+    "ext": ".md",
+    "size": 895
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "functions\\escrow\\escrowPaymentRoutes.test-functions.md",
+    "full_path": "C:\\CFH\\docs\\functions\\escrow\\escrowPaymentRoutes.test-functions.md",
+    "name": "escrowPaymentRoutes.test-functions.md",
+    "ext": ".md",
+    "size": 832
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "functions\\escrow\\escrowRoutes-functions.md",
+    "full_path": "C:\\CFH\\docs\\functions\\escrow\\escrowRoutes-functions.md",
+    "name": "escrowRoutes-functions.md",
+    "ext": ".md",
+    "size": 1067
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "functions\\escrow\\EscrowStatusViewer-functions.md",
+    "full_path": "C:\\CFH\\docs\\functions\\escrow\\EscrowStatusViewer-functions.md",
+    "name": "EscrowStatusViewer-functions.md",
+    "ext": ".md",
+    "size": 987
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "functions\\escrow\\EscrowSyncAdminPanel-functions.md",
+    "full_path": "C:\\CFH\\docs\\functions\\escrow\\EscrowSyncAdminPanel-functions.md",
+    "name": "EscrowSyncAdminPanel-functions.md",
+    "ext": ".md",
+    "size": 1556
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "functions\\escrow\\sync-functions.md",
+    "full_path": "C:\\CFH\\docs\\functions\\escrow\\sync-functions.md",
+    "name": "sync-functions.md",
+    "ext": ".md",
+    "size": 438
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "functions\\escrow\\sync.test-functions.md",
+    "full_path": "C:\\CFH\\docs\\functions\\escrow\\sync.test-functions.md",
+    "name": "sync.test-functions.md",
+    "ext": ".md",
+    "size": 673
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\escrow.routes_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\escrow.routes_1.ts",
+    "name": "escrow.routes_1.ts",
+    "ext": ".ts",
+    "size": 1439
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\escrow.routes.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\escrow.routes.ts",
+    "name": "escrow.routes.ts",
+    "ext": ".ts",
+    "size": 1439
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\escrow.service.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\escrow.service.test_1.ts",
+    "name": "escrow.service.test_1.ts",
+    "ext": ".ts",
+    "size": 2451
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\escrow.validation_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\escrow.validation_1.ts",
+    "name": "escrow.validation_1.ts",
+    "ext": ".ts",
+    "size": 1301
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\escrowApi_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\escrowApi_1.ts",
+    "name": "escrowApi_1.ts",
+    "ext": ".ts",
+    "size": 1344
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\EscrowAPIController_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\EscrowAPIController_1.ts",
+    "name": "EscrowAPIController_1.ts",
+    "ext": ".ts",
+    "size": 2063
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\EscrowAPIController.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\EscrowAPIController.test_1.ts",
+    "name": "EscrowAPIController.test_1.ts",
+    "ext": ".ts",
+    "size": 2568
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\EscrowAPIController.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\EscrowAPIController.test.ts",
+    "name": "EscrowAPIController.test.ts",
+    "ext": ".ts",
+    "size": 2568
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\EscrowAPIController.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\EscrowAPIController.ts",
+    "name": "EscrowAPIController.ts",
+    "ext": ".ts",
+    "size": 2063
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\escrowAuditLogRoutes_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\escrowAuditLogRoutes_1.ts",
+    "name": "escrowAuditLogRoutes_1.ts",
+    "ext": ".ts",
+    "size": 811
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\escrowAuditLogRoutes.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\escrowAuditLogRoutes.test_1.ts",
+    "name": "escrowAuditLogRoutes.test_1.ts",
+    "ext": ".ts",
+    "size": 760
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\escrowAuditLogRoutes.test.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\escrowAuditLogRoutes.test.test_1.ts",
+    "name": "escrowAuditLogRoutes.test.test_1.ts",
+    "ext": ".ts",
+    "size": 56
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\escrowAuditLogRoutes.test.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\escrowAuditLogRoutes.test.test.ts",
+    "name": "escrowAuditLogRoutes.test.test.ts",
+    "ext": ".ts",
+    "size": 56
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\escrowAuditLogRoutes.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\escrowAuditLogRoutes.test.ts",
+    "name": "escrowAuditLogRoutes.test.ts",
+    "ext": ".ts",
+    "size": 51
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\escrowAuditLogRoutes.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\escrowAuditLogRoutes.ts",
+    "name": "escrowAuditLogRoutes.ts",
+    "ext": ".ts",
+    "size": 811
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\EscrowAuditLogStore_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\EscrowAuditLogStore_1.ts",
+    "name": "EscrowAuditLogStore_1.ts",
+    "ext": ".ts",
+    "size": 159
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\EscrowAuditService_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\EscrowAuditService_1.ts",
+    "name": "EscrowAuditService_1.ts",
+    "ext": ".ts",
+    "size": 538
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\EscrowAuditService.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\EscrowAuditService.test_1.ts",
+    "name": "EscrowAuditService.test_1.ts",
+    "ext": ".ts",
+    "size": 898
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\EscrowAutoReleaseEngine_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\EscrowAutoReleaseEngine_1.ts",
+    "name": "EscrowAutoReleaseEngine_1.ts",
+    "ext": ".ts",
+    "size": 234
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\EscrowBlockchainExporter_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\EscrowBlockchainExporter_1.ts",
+    "name": "EscrowBlockchainExporter_1.ts",
+    "ext": ".ts",
+    "size": 244
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\EscrowChainSync_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\EscrowChainSync_1.ts",
+    "name": "EscrowChainSync_1.ts",
+    "ext": ".ts",
+    "size": 354
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\EscrowChainSync.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\EscrowChainSync.test_1.ts",
+    "name": "EscrowChainSync.test_1.ts",
+    "ext": ".ts",
+    "size": 3764
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\EscrowChainSync.test.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\EscrowChainSync.test.test_1.ts",
+    "name": "EscrowChainSync.test.test_1.ts",
+    "ext": ".ts",
+    "size": 51
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\EscrowChainSync.test.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\EscrowChainSync.test.test.ts",
+    "name": "EscrowChainSync.test.test.ts",
+    "ext": ".ts",
+    "size": 51
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\EscrowChainSync.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\EscrowChainSync.test.ts",
+    "name": "EscrowChainSync.test.ts",
+    "ext": ".ts",
+    "size": 3764
+  }
+]

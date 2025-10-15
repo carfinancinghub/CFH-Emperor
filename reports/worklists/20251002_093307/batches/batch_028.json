@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "functions\\premium\\VRVehicleTour-functions.md",
+    "full_path": "C:\\CFH\\docs\\functions\\premium\\VRVehicleTour-functions.md",
+    "name": "VRVehicleTour-functions.md",
+    "ext": ".md",
+    "size": 486
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "functions\\security\\DDoSProtector-functions.md",
+    "full_path": "C:\\CFH\\docs\\functions\\security\\DDoSProtector-functions.md",
+    "name": "DDoSProtector-functions.md",
+    "ext": ".md",
+    "size": 529
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "functions\\security\\RateLimiter-functions.md",
+    "full_path": "C:\\CFH\\docs\\functions\\security\\RateLimiter-functions.md",
+    "name": "RateLimiter-functions.md",
+    "ext": ".md",
+    "size": 508
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "functions\\seller\\SellerAnalyticsChart-functions.md",
+    "full_path": "C:\\CFH\\docs\\functions\\seller\\SellerAnalyticsChart-functions.md",
+    "name": "SellerAnalyticsChart-functions.md",
+    "ext": ".md",
+    "size": 269
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "functions\\seller\\SellerAuctionStatus-functions.md",
+    "full_path": "C:\\CFH\\docs\\functions\\seller\\SellerAuctionStatus-functions.md",
+    "name": "SellerAuctionStatus-functions.md",
+    "ext": ".md",
+    "size": 264
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "functions\\seller\\SellerDashboard-functions.md",
+    "full_path": "C:\\CFH\\docs\\functions\\seller\\SellerDashboard-functions.md",
+    "name": "SellerDashboard-functions.md",
+    "ext": ".md",
+    "size": 306
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "functions\\services\\BlockchainAdapter-functions.md",
+    "full_path": "C:\\CFH\\docs\\functions\\services\\BlockchainAdapter-functions.md",
+    "name": "BlockchainAdapter-functions.md",
+    "ext": ".md",
+    "size": 1990
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "functions\\services\\MLModel-functions.md",
+    "full_path": "C:\\CFH\\docs\\functions\\services\\MLModel-functions.md",
+    "name": "MLModel-functions.md",
+    "ext": ".md",
+    "size": 1778
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "functions\\services\\PredictionUpdatesWS-functions.md",
+    "full_path": "C:\\CFH\\docs\\functions\\services\\PredictionUpdatesWS-functions.md",
+    "name": "PredictionUpdatesWS-functions.md",
+    "ext": ".md",
+    "size": 1236
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "functions\\support\\SupportTicketAnalytics-functions.md",
+    "full_path": "C:\\CFH\\docs\\functions\\support\\SupportTicketAnalytics-functions.md",
+    "name": "SupportTicketAnalytics-functions.md",
+    "ext": ".md",
+    "size": 283
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "functions\\user\\UserAuth-functions.md",
+    "full_path": "C:\\CFH\\docs\\functions\\user\\UserAuth-functions.md",
+    "name": "UserAuth-functions.md",
+    "ext": ".md",
+    "size": 517
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "functions\\user\\UserNotifications-functions.md",
+    "full_path": "C:\\CFH\\docs\\functions\\user\\UserNotifications-functions.md",
+    "name": "UserNotifications-functions.md",
+    "ext": ".md",
+    "size": 546
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "functions\\user\\UserSettings-functions.md",
+    "full_path": "C:\\CFH\\docs\\functions\\user\\UserSettings-functions.md",
+    "name": "UserSettings-functions.md",
+    "ext": ".md",
+    "size": 464
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "functions\\utils\\auctionExportUtils-functions.md",
+    "full_path": "C:\\CFH\\docs\\functions\\utils\\auctionExportUtils-functions.md",
+    "name": "auctionExportUtils-functions.md",
+    "ext": ".md",
+    "size": 3780
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "functions\\utils\\GraphExportService-functions.md",
+    "full_path": "C:\\CFH\\docs\\functions\\utils\\GraphExportService-functions.md",
+    "name": "GraphExportService-functions.md",
+    "ext": ".md",
+    "size": 974
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "functions\\utils\\logger-functions.md",
+    "full_path": "C:\\CFH\\docs\\functions\\utils\\logger-functions.md",
+    "name": "logger-functions.md",
+    "ext": ".md",
+    "size": 2149
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "functions\\utils\\SocialShareHelper-functions.md",
+    "full_path": "C:\\CFH\\docs\\functions\\utils\\SocialShareHelper-functions.md",
+    "name": "SocialShareHelper-functions.md",
+    "ext": ".md",
+    "size": 1720
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "functions\\utils\\validateInput-functions.md",
+    "full_path": "C:\\CFH\\docs\\functions\\utils\\validateInput-functions.md",
+    "name": "validateInput-functions.md",
+    "ext": ".md",
+    "size": 1301
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "GraphExportService.md",
+    "full_path": "C:\\CFH\\docs\\GraphExportService.md",
+    "name": "GraphExportService.md",
+    "ext": ".md",
+    "size": 1151
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "hauler\\Hauler_Job_Details_Page.md",
+    "full_path": "C:\\CFH\\docs\\hauler\\Hauler_Job_Details_Page.md",
+    "name": "Hauler_Job_Details_Page.md",
+    "ext": ".md",
+    "size": 2163
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "internal\\Cod1HaulerDeploymentChecklist.js",
+    "full_path": "C:\\CFH\\docs\\internal\\Cod1HaulerDeploymentChecklist.js",
+    "name": "Cod1HaulerDeploymentChecklist.js",
+    "ext": ".js",
+    "size": 1877
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "internal\\InsuranceDeploymentChecklist.js",
+    "full_path": "C:\\CFH\\docs\\internal\\InsuranceDeploymentChecklist.js",
+    "name": "InsuranceDeploymentChecklist.js",
+    "ext": ".js",
+    "size": 3297
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "internal\\mechanic-readiness-checklist.md",
+    "full_path": "C:\\CFH\\docs\\internal\\mechanic-readiness-checklist.md",
+    "name": "mechanic-readiness-checklist.md",
+    "ext": ".md",
+    "size": 920
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "List files needs conversion to ts format.md",
+    "full_path": "C:\\CFH\\docs\\List files needs conversion to ts format.md",
+    "name": "List files needs conversion to ts format.md",
+    "ext": ".md",
+    "size": 43170
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "logger.md",
+    "full_path": "C:\\CFH\\docs\\logger.md",
+    "name": "logger.md",
+    "ext": ".md",
+    "size": 1665
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\DisputeEvidenceUploader.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\DisputeEvidenceUploader.ts",
+    "name": "DisputeEvidenceUploader.ts",
+    "ext": ".ts",
+    "size": 1742
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\disputeFlowController_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\disputeFlowController_1.ts",
+    "name": "disputeFlowController_1.ts",
+    "ext": ".ts",
+    "size": 3002
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\disputeFlowController.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\disputeFlowController.test_1.ts",
+    "name": "disputeFlowController.test_1.ts",
+    "ext": ".ts",
+    "size": 52
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\disputeFlowController.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\disputeFlowController.test.ts",
+    "name": "disputeFlowController.test.ts",
+    "ext": ".ts",
+    "size": 52
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\disputeFlowController.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\disputeFlowController.ts",
+    "name": "disputeFlowController.ts",
+    "ext": ".ts",
+    "size": 3002
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\DisputeManager_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\DisputeManager_1.ts",
+    "name": "DisputeManager_1.ts",
+    "ext": ".ts",
+    "size": 2839
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\DisputeManager.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\DisputeManager.test_1.ts",
+    "name": "DisputeManager.test_1.ts",
+    "ext": ".ts",
+    "size": 4437
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\DisputeManager.test.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\DisputeManager.test.test_1.ts",
+    "name": "DisputeManager.test.test_1.ts",
+    "ext": ".ts",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\DisputeManager.test.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\DisputeManager.test.test.ts",
+    "name": "DisputeManager.test.test.ts",
+    "ext": ".ts",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\DisputeManager.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\DisputeManager.test.ts",
+    "name": "DisputeManager.test.ts",
+    "ext": ".ts",
+    "size": 45
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\DisputeManager.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\DisputeManager.ts",
+    "name": "DisputeManager.ts",
+    "ext": ".ts",
+    "size": 2839
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\disputePdfController_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\disputePdfController_1.ts",
+    "name": "disputePdfController_1.ts",
+    "ext": ".ts",
+    "size": 1906
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\disputePdfController.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\disputePdfController.test_1.ts",
+    "name": "disputePdfController.test_1.ts",
+    "ext": ".ts",
+    "size": 51
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\disputePdfController.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\disputePdfController.test.ts",
+    "name": "disputePdfController.test.ts",
+    "ext": ".ts",
+    "size": 51
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\disputePdfController.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\disputePdfController.ts",
+    "name": "disputePdfController.ts",
+    "ext": ".ts",
+    "size": 1906
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\DisputeResolution_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\DisputeResolution_1.ts",
+    "name": "DisputeResolution_1.ts",
+    "ext": ".ts",
+    "size": 1824
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\DisputeResolution.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\DisputeResolution.test_1.ts",
+    "name": "DisputeResolution.test_1.ts",
+    "ext": ".ts",
+    "size": 48
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\DisputeResolution.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\DisputeResolution.test.ts",
+    "name": "DisputeResolution.test.ts",
+    "ext": ".ts",
+    "size": 48
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\DisputeResolution.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\DisputeResolution.ts",
+    "name": "DisputeResolution.ts",
+    "ext": ".ts",
+    "size": 1824
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\DisputeResolutionHelper_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\DisputeResolutionHelper_1.ts",
+    "name": "DisputeResolutionHelper_1.ts",
+    "ext": ".ts",
+    "size": 445
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\DisputeTimelineViewer_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\DisputeTimelineViewer_1.ts",
+    "name": "DisputeTimelineViewer_1.ts",
+    "ext": ".ts",
+    "size": 1033
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\DisputeTimelineViewer.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\DisputeTimelineViewer.test_1.ts",
+    "name": "DisputeTimelineViewer.test_1.ts",
+    "ext": ".ts",
+    "size": 52
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\DisputeTimelineViewer.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\DisputeTimelineViewer.test.ts",
+    "name": "DisputeTimelineViewer.test.ts",
+    "ext": ".ts",
+    "size": 52
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\DisputeTimelineViewer.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\DisputeTimelineViewer.ts",
+    "name": "DisputeTimelineViewer.ts",
+    "ext": ".ts",
+    "size": 1033
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\disputeUtils_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\disputeUtils_1.ts",
+    "name": "disputeUtils_1.ts",
+    "ext": ".ts",
+    "size": 115
+  }
+]

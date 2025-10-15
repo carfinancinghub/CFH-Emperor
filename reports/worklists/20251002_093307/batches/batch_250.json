@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\AILenderTermsAnalyzer.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\AILenderTermsAnalyzer.copy.js",
+    "name": "AILenderTermsAnalyzer.copy.js",
+    "ext": ".js",
+    "size": 1403
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\AILoanRecommenderGrokOld2.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\AILoanRecommenderGrokOld2.copy.js",
+    "name": "AILoanRecommenderGrokOld2.copy.js",
+    "ext": ".js",
+    "size": 1354
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\aiMatchmaker.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\aiMatchmaker.copy.js",
+    "name": "aiMatchmaker.copy.js",
+    "ext": ".js",
+    "size": 3906
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\AIPricingEngineGrokOld1.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\AIPricingEngineGrokOld1.copy.js",
+    "name": "AIPricingEngineGrokOld1.copy.js",
+    "ext": ".js",
+    "size": 1303
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\AIPricingEngineGrokOld2.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\AIPricingEngineGrokOld2.copy.js",
+    "name": "AIPricingEngineGrokOld2.copy.js",
+    "ext": ".js",
+    "size": 1041
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\AIRecommendationEngine.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\AIRecommendationEngine.copy.js",
+    "name": "AIRecommendationEngine.copy.js",
+    "ext": ".js",
+    "size": 1670
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\AIScorePanel.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\AIScorePanel.copy.js",
+    "name": "AIScorePanel.copy.js",
+    "ext": ".js",
+    "size": 2311
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\AISuggestionEngine.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\AISuggestionEngine.copy.js",
+    "name": "AISuggestionEngine.copy.js",
+    "ext": ".js",
+    "size": 2034
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\alerts.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\alerts.copy.js",
+    "name": "alerts.copy.js",
+    "ext": ".js",
+    "size": 1141
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\analytics.routes.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\analytics.routes.copy.js",
+    "name": "analytics.routes.copy.js",
+    "ext": ".js",
+    "size": 3612
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\analyticsExportUtilsGrokOld (2).copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\analyticsExportUtilsGrokOld (2).copy.js",
+    "name": "analyticsExportUtilsGrokOld (2).copy.js",
+    "ext": ".js",
+    "size": 3176
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\analyticsExportUtilsGrokOld.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\analyticsExportUtilsGrokOld.copy.js",
+    "name": "analyticsExportUtilsGrokOld.copy.js",
+    "ext": ".js",
+    "size": 2677
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\App.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\App.copy.js",
+    "name": "App.copy.js",
+    "ext": ".js",
+    "size": 2706
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\ArbitrationDashboard.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\ArbitrationDashboard.copy.js",
+    "name": "ArbitrationDashboard.copy.js",
+    "ext": ".js",
+    "size": 1084
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\arbitrationExportTools.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\arbitrationExportTools.copy.js",
+    "name": "arbitrationExportTools.copy.js",
+    "ext": ".js",
+    "size": 2534
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\arbitrator-performance.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\arbitrator-performance.copy.js",
+    "name": "arbitrator-performance.copy.js",
+    "ext": ".js",
+    "size": 4112
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\arbitratorBucket.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\arbitratorBucket.copy.js",
+    "name": "arbitratorBucket.copy.js",
+    "ext": ".js",
+    "size": 4396
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\ArbitratorDashboard.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\ArbitratorDashboard.copy.js",
+    "name": "ArbitratorDashboard.copy.js",
+    "ext": ".js",
+    "size": 3810
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\arbitratorRecognition.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\arbitratorRecognition.copy.js",
+    "name": "arbitratorRecognition.copy.js",
+    "ext": ".js",
+    "size": 1817
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\ARExperience.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\ARExperience.copy.js",
+    "name": "ARExperience.copy.js",
+    "ext": ".js",
+    "size": 2768
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\ARVehicleView.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\ARVehicleView.copy.js",
+    "name": "ARVehicleView.copy.js",
+    "ext": ".js",
+    "size": 1914
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\assignJudges.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\assignJudges.copy.js",
+    "name": "assignJudges.copy.js",
+    "ext": ".js",
+    "size": 1836
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\AssignJudgesForm.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\AssignJudgesForm.copy.js",
+    "name": "AssignJudgesForm.copy.js",
+    "ext": ".js",
+    "size": 3518
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\auctionController.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\auctionController.copy.js",
+    "name": "auctionController.copy.js",
+    "ext": ".js",
+    "size": 3878
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\AuctionDisputeDaemon.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\AuctionDisputeDaemon.copy.js",
+    "name": "AuctionDisputeDaemon.copy.js",
+    "ext": ".js",
+    "size": 1102
+  }
+]

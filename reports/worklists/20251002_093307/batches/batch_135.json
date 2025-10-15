@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\escrowController_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\escrowController_1.ts",
+    "name": "escrowController_1.ts",
+    "ext": ".ts",
+    "size": 2591
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\escrowController.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\escrowController.test_1.ts",
+    "name": "escrowController.test_1.ts",
+    "ext": ".ts",
+    "size": 47
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\escrowController.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\escrowController.test.ts",
+    "name": "escrowController.test.ts",
+    "ext": ".ts",
+    "size": 47
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\escrowController.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\escrowController.ts",
+    "name": "escrowController.ts",
+    "ext": ".ts",
+    "size": 2591
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\EscrowDashboard_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\EscrowDashboard_1.ts",
+    "name": "EscrowDashboard_1.ts",
+    "ext": ".ts",
+    "size": 3488
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\EscrowDashboard.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\EscrowDashboard.test_1.ts",
+    "name": "EscrowDashboard.test_1.ts",
+    "ext": ".ts",
+    "size": 46
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\EscrowDashboard.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\EscrowDashboard.test.ts",
+    "name": "EscrowDashboard.test.ts",
+    "ext": ".ts",
+    "size": 46
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\EscrowDashboard.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\EscrowDashboard.ts",
+    "name": "EscrowDashboard.ts",
+    "ext": ".ts",
+    "size": 3488
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\EscrowDisputeLinker_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\EscrowDisputeLinker_1.ts",
+    "name": "EscrowDisputeLinker_1.ts",
+    "ext": ".ts",
+    "size": 318
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\EscrowFinalizationChecklist_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\EscrowFinalizationChecklist_1.ts",
+    "name": "EscrowFinalizationChecklist_1.ts",
+    "ext": ".ts",
+    "size": 2110
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\EscrowInfoPanel_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\EscrowInfoPanel_1.ts",
+    "name": "EscrowInfoPanel_1.ts",
+    "ext": ".ts",
+    "size": 1847
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\EscrowInfoPanel.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\EscrowInfoPanel.test_1.ts",
+    "name": "EscrowInfoPanel.test_1.ts",
+    "ext": ".ts",
+    "size": 46
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\EscrowInfoPanel.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\EscrowInfoPanel.test.ts",
+    "name": "EscrowInfoPanel.test.ts",
+    "ext": ".ts",
+    "size": 46
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\EscrowInfoPanel.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\EscrowInfoPanel.ts",
+    "name": "EscrowInfoPanel.ts",
+    "ext": ".ts",
+    "size": 1847
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\EscrowIntegrationTest_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\EscrowIntegrationTest_1.ts",
+    "name": "EscrowIntegrationTest_1.ts",
+    "ext": ".ts",
+    "size": 2078
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\EscrowIntegrationTest.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\EscrowIntegrationTest.test_1.ts",
+    "name": "EscrowIntegrationTest.test_1.ts",
+    "ext": ".ts",
+    "size": 52
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\EscrowIntegrationTest.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\EscrowIntegrationTest.test.ts",
+    "name": "EscrowIntegrationTest.test.ts",
+    "ext": ".ts",
+    "size": 52
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\EscrowIntegrationTest.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\EscrowIntegrationTest.ts",
+    "name": "EscrowIntegrationTest.ts",
+    "ext": ".ts",
+    "size": 2078
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\escrowLogic_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\escrowLogic_1.ts",
+    "name": "escrowLogic_1.ts",
+    "ext": ".ts",
+    "size": 307
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\EscrowNotificationService_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\EscrowNotificationService_1.ts",
+    "name": "EscrowNotificationService_1.ts",
+    "ext": ".ts",
+    "size": 2869
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\EscrowNotificationService.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\EscrowNotificationService.test_1.ts",
+    "name": "EscrowNotificationService.test_1.ts",
+    "ext": ".ts",
+    "size": 494
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\EscrowNotificationService.test.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\EscrowNotificationService.test.test_1.ts",
+    "name": "EscrowNotificationService.test.test_1.ts",
+    "ext": ".ts",
+    "size": 61
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\EscrowNotificationService.test.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\EscrowNotificationService.test.test.ts",
+    "name": "EscrowNotificationService.test.test.ts",
+    "ext": ".ts",
+    "size": 61
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\EscrowNotificationService.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\EscrowNotificationService.test.ts",
+    "name": "EscrowNotificationService.test.ts",
+    "ext": ".ts",
+    "size": 56
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\EscrowNotificationService.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\EscrowNotificationService.ts",
+    "name": "EscrowNotificationService.ts",
+    "ext": ".ts",
+    "size": 2869
+  }
+]

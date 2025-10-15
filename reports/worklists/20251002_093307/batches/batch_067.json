@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\CollaborationChat.cy05040109.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\CollaborationChat.cy05040109.js",
+    "name": "CollaborationChat.cy05040109.js",
+    "ext": ".js",
+    "size": 5357
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\CollaborationChat.test_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\CollaborationChat.test_1.js",
+    "name": "CollaborationChat.test_1.js",
+    "ext": ".js",
+    "size": 3727
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\commands_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\commands_1.js",
+    "name": "commands_1.js",
+    "ext": ".js",
+    "size": 837
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\commands.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\commands.js",
+    "name": "commands.js",
+    "ext": ".js",
+    "size": 837
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\CommunityDashboard_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\CommunityDashboard_1.js",
+    "name": "CommunityDashboard_1.js",
+    "ext": ".js",
+    "size": 2840
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\CommunityHub_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\CommunityHub_1.js",
+    "name": "CommunityHub_1.js",
+    "ext": ".js",
+    "size": 725
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\CommunityHubEnhanced_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\CommunityHubEnhanced_1.js",
+    "name": "CommunityHubEnhanced_1.js",
+    "ext": ".js",
+    "size": 872
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\CommunityModeratorDashboard_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\CommunityModeratorDashboard_1.js",
+    "name": "CommunityModeratorDashboard_1.js",
+    "ext": ".js",
+    "size": 791
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\ComplianceChecker_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\ComplianceChecker_1.js",
+    "name": "ComplianceChecker_1.js",
+    "ext": ".js",
+    "size": 2911
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\ComplianceChecker.test_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\ComplianceChecker.test_1.js",
+    "name": "ComplianceChecker.test_1.js",
+    "ext": ".js",
+    "size": 4475
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\ComplianceEnhancer_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\ComplianceEnhancer_1.js",
+    "name": "ComplianceEnhancer_1.js",
+    "ext": ".js",
+    "size": 2285
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\ComplianceEnhancer.test_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\ComplianceEnhancer.test_1.js",
+    "name": "ComplianceEnhancer.test_1.js",
+    "ext": ".js",
+    "size": 3090
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\ComplianceReviewerDashboard_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\ComplianceReviewerDashboard_1.js",
+    "name": "ComplianceReviewerDashboard_1.js",
+    "ext": ".js",
+    "size": 829
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\ContractAuditTrail_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\ContractAuditTrail_1.js",
+    "name": "ContractAuditTrail_1.js",
+    "ext": ".js",
+    "size": 2491
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\ContractAuditTrail.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\ContractAuditTrail.js",
+    "name": "ContractAuditTrail.js",
+    "ext": ".js",
+    "size": 2491
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\ContractAuditViewer_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\ContractAuditViewer_1.js",
+    "name": "ContractAuditViewer_1.js",
+    "ext": ".js",
+    "size": 3684
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\ContractAuditViewer.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\ContractAuditViewer.js",
+    "name": "ContractAuditViewer.js",
+    "ext": ".js",
+    "size": 3684
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\ContractDashboard_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\ContractDashboard_1.js",
+    "name": "ContractDashboard_1.js",
+    "ext": ".js",
+    "size": 2600
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\ContractDashboard.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\ContractDashboard.js",
+    "name": "ContractDashboard.js",
+    "ext": ".js",
+    "size": 2600
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\ContractIndexViewer_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\ContractIndexViewer_1.js",
+    "name": "ContractIndexViewer_1.js",
+    "ext": ".js",
+    "size": 3224
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\ContractIndexViewer.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\ContractIndexViewer.js",
+    "name": "ContractIndexViewer.js",
+    "ext": ".js",
+    "size": 3224
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\contractReviewController_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\contractReviewController_1.js",
+    "name": "contractReviewController_1.js",
+    "ext": ".js",
+    "size": 2145
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\CreateListingForm_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\CreateListingForm_1.js",
+    "name": "CreateListingForm_1.js",
+    "ext": ".js",
+    "size": 1505
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\CrossBorderCommerce_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\CrossBorderCommerce_1.js",
+    "name": "CrossBorderCommerce_1.js",
+    "ext": ".js",
+    "size": 2508
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\CrossBorderCommerce.test_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\CrossBorderCommerce.test_1.js",
+    "name": "CrossBorderCommerce.test_1.js",
+    "ext": ".js",
+    "size": 3919
+  }
+]

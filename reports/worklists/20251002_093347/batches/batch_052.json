@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\tests\\ai\\AIBadgeOverlay.test.js",
+    "full_path": "C:\\CFH\\frontend\\src\\tests\\ai\\AIBadgeOverlay.test.js",
+    "name": "AIBadgeOverlay.test.js",
+    "ext": ".js",
+    "size": 1326
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\tests\\ai\\AIScorePanel.test.js",
+    "full_path": "C:\\CFH\\frontend\\src\\tests\\ai\\AIScorePanel.test.js",
+    "name": "AIScorePanel.test.js",
+    "ext": ".js",
+    "size": 1222
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\tests\\ai\\BidConfidenceMeter.test.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\tests\\ai\\BidConfidenceMeter.test.jsx",
+    "name": "BidConfidenceMeter.test.jsx",
+    "ext": ".jsx",
+    "size": 3360
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\tests\\ai\\BidStrategyAdvisor.test.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\tests\\ai\\BidStrategyAdvisor.test.jsx",
+    "name": "BidStrategyAdvisor.test.jsx",
+    "ext": ".jsx",
+    "size": 3423
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\tests\\ai\\PredictiveComparison.test.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\tests\\ai\\PredictiveComparison.test.jsx",
+    "name": "PredictiveComparison.test.jsx",
+    "ext": ".jsx",
+    "size": 13651
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\tests\\ai\\SmartInsightsWidget.test.js",
+    "full_path": "C:\\CFH\\frontend\\src\\tests\\ai\\SmartInsightsWidget.test.js",
+    "name": "SmartInsightsWidget.test.js",
+    "ext": ".js",
+    "size": 1706
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\tests\\ai\\TrustScoreViewer.test.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\tests\\ai\\TrustScoreViewer.test.jsx",
+    "name": "TrustScoreViewer.test.jsx",
+    "ext": ".jsx",
+    "size": 3551
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\tests\\ai\\ValuationAssistant.test.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\tests\\ai\\ValuationAssistant.test.jsx",
+    "name": "ValuationAssistant.test.jsx",
+    "ext": ".jsx",
+    "size": 2975
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\tests\\ai\\ValuationLiveFeed.test.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\tests\\ai\\ValuationLiveFeed.test.jsx",
+    "name": "ValuationLiveFeed.test.jsx",
+    "ext": ".jsx",
+    "size": 14050
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\tests\\AIDiagnosticsAssistant.test.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\tests\\AIDiagnosticsAssistant.test.jsx",
+    "name": "AIDiagnosticsAssistant.test.jsx",
+    "ext": ".jsx",
+    "size": 611
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\tests\\AIDiagnosticsAssistant.test.tsx",
+    "full_path": "C:\\CFH\\frontend\\src\\tests\\AIDiagnosticsAssistant.test.tsx",
+    "name": "AIDiagnosticsAssistant.test.tsx",
+    "ext": ".tsx",
+    "size": 1841
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\tests\\analytics\\AnalyticsDashboard.test.tsx",
+    "full_path": "C:\\CFH\\frontend\\src\\tests\\analytics\\AnalyticsDashboard.test.tsx",
+    "name": "AnalyticsDashboard.test.tsx",
+    "ext": ".tsx",
+    "size": 923
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\tests\\analytics\\ChartWidget.test.tsx",
+    "full_path": "C:\\CFH\\frontend\\src\\tests\\analytics\\ChartWidget.test.tsx",
+    "name": "ChartWidget.test.tsx",
+    "ext": ".tsx",
+    "size": 620
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\tests\\analytics\\FilterPanel.test.tsx",
+    "full_path": "C:\\CFH\\frontend\\src\\tests\\analytics\\FilterPanel.test.tsx",
+    "name": "FilterPanel.test.tsx",
+    "ext": ".tsx",
+    "size": 849
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\tests\\analytics\\test.tsx",
+    "full_path": "C:\\CFH\\frontend\\src\\tests\\analytics\\test.tsx",
+    "name": "test.tsx",
+    "ext": ".tsx",
+    "size": 8789
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\tests\\arbitrator\\ArbitratorAnalyticsPanel.test.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\tests\\arbitrator\\ArbitratorAnalyticsPanel.test.jsx",
+    "name": "ArbitratorAnalyticsPanel.test.jsx",
+    "ext": ".jsx",
+    "size": 2034
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\tests\\arbitrator\\ArbitratorDashboard.test.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\tests\\arbitrator\\ArbitratorDashboard.test.jsx",
+    "name": "ArbitratorDashboard.test.jsx",
+    "ext": ".jsx",
+    "size": 2387
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\tests\\auction\\AuctionIntegrationTest.js",
+    "full_path": "C:\\CFH\\frontend\\src\\tests\\auction\\AuctionIntegrationTest.js",
+    "name": "AuctionIntegrationTest.js",
+    "ext": ".js",
+    "size": 3536
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\tests\\auction\\AuctionIntelligenceDashboard.test.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\tests\\auction\\AuctionIntelligenceDashboard.test.jsx",
+    "name": "AuctionIntelligenceDashboard.test.jsx",
+    "ext": ".jsx",
+    "size": 3689
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\tests\\auction\\AuctionPremiumInsightsPanel.test.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\tests\\auction\\AuctionPremiumInsightsPanel.test.jsx",
+    "name": "AuctionPremiumInsightsPanel.test.jsx",
+    "ext": ".jsx",
+    "size": 3615
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\tests\\auction\\core\\AuctionHistoryTracker.test.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\tests\\auction\\core\\AuctionHistoryTracker.test.jsx",
+    "name": "AuctionHistoryTracker.test.jsx",
+    "ext": ".jsx",
+    "size": 2519
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\tests\\auction\\core\\AuctionListingForm.test.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\tests\\auction\\core\\AuctionListingForm.test.jsx",
+    "name": "AuctionListingForm.test.jsx",
+    "ext": ".jsx",
+    "size": 2599
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\tests\\auctionExportUtils.test.ts",
+    "full_path": "C:\\CFH\\frontend\\src\\tests\\auctionExportUtils.test.ts",
+    "name": "auctionExportUtils.test.ts",
+    "ext": ".ts",
+    "size": 3644
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\tests\\BookingModal.test.tsx",
+    "full_path": "C:\\CFH\\frontend\\src\\tests\\BookingModal.test.tsx",
+    "name": "BookingModal.test.tsx",
+    "ext": ".tsx",
+    "size": 4759
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\tests\\buyer\\BuyerAuctionHistory.test.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\tests\\buyer\\BuyerAuctionHistory.test.jsx",
+    "name": "BuyerAuctionHistory.test.jsx",
+    "ext": ".jsx",
+    "size": 2695
+  }
+]

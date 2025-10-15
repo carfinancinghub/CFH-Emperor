@@ -1,0 +1,179 @@
+<!--
+    File: file_scan_results_jsx_v1.md
+    Project: TruthSource
+    Path: C:\TruthSource\docs\file_scan_results_jsx_v1.md
+    Purpose: Inventory of all .tsx files in C:\, M:\, excluding standard/system/dev folders.
+    Scan Date: 2025-08-06 17:38:05
+-->
+# TSX File Inventory (C:\, M:\)
+
+_Excluded Folders: Python, node_modules, $Recycle.Bin, Windows, Program Files, AppData, ProgramData, .android, AndroidStudioProjects, .eclipse, eclipse-workspace, NetBeansProjects, .gradle, .p2, .vscode, HMFMH, Drivers, conversion, verification, Programming, Movies, Book, Utorrent, logs, New Project for Unique ID_
+
+---
+
+| File Path | Size (bytes) | Last Write Time |
+|-----------|--------------|-----------------|
+| C:\Backup_Projects\CFH\frontend\src\components\valuation\ARConditionScanner.test.tsx | 2183 | 06/30/2025 20:13:41 |
+| C:\Backup_Projects\CFH\frontend\src\components\valuation\ValuationPortfolio.test.tsx | 2175 | 06/30/2025 20:13:08 |
+| C:\Backup_Projects\CFH\frontend\src\components\valuation\ValuationReport.test.tsx | 2851 | 06/30/2025 20:12:37 |
+| C:\Backup_Projects\CFH\frontend\src\components\valuation\VehicleValuation.test.tsx | 2925 | 06/30/2025 20:11:59 |
+| C:\Backup_Projects\CFH\frontend\src\tests\analytics\AnalyticsDashboard.test.tsx | 923 | 06/12/2025 19:06:42 |
+| C:\Backup_Projects\CFH\frontend\src\tests\analytics\ChartWidget.test.tsx | 620 | 06/12/2025 19:06:49 |
+| C:\Backup_Projects\CFH\frontend\src\tests\analytics\FilterPanel.test.tsx | 849 | 06/12/2025 19:06:55 |
+| C:\Backup_Projects\CFH\frontend\src\tests\components\auction\AuctionItemListing.test.tsx | 10868 | 07/03/2025 14:22:53 |
+| C:\Backup_Projects\CFH\frontend\src\tests\components\auctions\AuctionItemListing.test.tsx | 9574 | 07/04/2025 01:08:07 |
+| C:\Backup_Projects\CFH\frontend\src\tests\components\auctions\LiveAuctionStream.test.tsx | 9574 | 07/04/2025 01:21:15 |
+| C:\Backup_Projects\CFH\frontend\src\tests\escrow\EscrowTransaction.test.tsx | 2305 | 06/10/2025 23:38:18 |
+| C:\Backup_Projects\CFH\frontend\tests\components\body-shop\AIDamageSummary.test.tsx | 7610 | 07/04/2025 18:25:11 |
+| C:\Backup_Projects\CFH\frontend\tests\components\body-shop\CompareShopsTable.test.tsx | 13865 | 07/05/2025 14:14:39 |
+| C:\Backup_Projects\CFH\frontend\tests\components\body-shop\JobTrackingView.test.tsx | 13687 | 07/04/2025 10:54:01 |
+| C:\Backup_Projects\CFH\frontend\tests\components\body-shop\PartsOrderForm.test.tsx | 10037 | 07/05/2025 10:57:27 |
+| C:\Backup_Projects\CFH\frontend\tests\components\body-shop\RepairJourneyShare.test.tsx | 11515 | 07/05/2025 11:15:13 |
+| C:\Backup_Projects\CFH\frontend\tests\components\body-shop\ShopOwnerDashboard.test.tsx | 14229 | 07/04/2025 10:48:42 |
+| C:\Backup_Projects\CFH\frontend\tests\components\body-shop\VirtualShopTour360.test.tsx | 11537 | 07/05/2025 10:51:24 |
+| C:\Backup_Projects\CFH_Backup_2025-08-02_15-36\frontend\src\components\valuation\ARConditionScanner.test.tsx | 2183 | 06/30/2025 20:13:41 |
+| C:\Backup_Projects\CFH_Backup_2025-08-02_15-36\frontend\src\components\valuation\ValuationPortfolio.test.tsx | 2175 | 06/30/2025 20:13:08 |
+| C:\Backup_Projects\CFH_Backup_2025-08-02_15-36\frontend\src\components\valuation\ValuationReport.test.tsx | 2851 | 06/30/2025 20:12:37 |
+| C:\Backup_Projects\CFH_Backup_2025-08-02_15-36\frontend\src\components\valuation\VehicleValuation.test.tsx | 2925 | 06/30/2025 20:11:59 |
+| C:\Backup_Projects\CFH_Backup_2025-08-02_15-36\frontend\src\tests\analytics\AnalyticsDashboard.test.tsx | 923 | 06/12/2025 19:06:42 |
+| C:\Backup_Projects\CFH_Backup_2025-08-02_15-36\frontend\src\tests\analytics\ChartWidget.test.tsx | 620 | 06/12/2025 19:06:49 |
+| C:\Backup_Projects\CFH_Backup_2025-08-02_15-36\frontend\src\tests\analytics\FilterPanel.test.tsx | 849 | 06/12/2025 19:06:55 |
+| C:\Backup_Projects\CFH_Backup_2025-08-02_15-36\frontend\src\tests\components\auction\AuctionItemListing.test.tsx | 10868 | 07/03/2025 14:22:53 |
+| C:\Backup_Projects\CFH_Backup_2025-08-02_15-36\frontend\src\tests\components\auctions\AuctionItemListing.test.tsx | 9574 | 07/04/2025 01:08:07 |
+| C:\Backup_Projects\CFH_Backup_2025-08-02_15-36\frontend\src\tests\components\auctions\LiveAuctionStream.test.tsx | 9574 | 07/04/2025 01:21:15 |
+| C:\Backup_Projects\CFH_Backup_2025-08-02_15-36\frontend\src\tests\escrow\EscrowTransaction.test.tsx | 2305 | 06/10/2025 23:38:18 |
+| C:\Backup_Projects\CFH_Backup_2025-08-02_15-36\frontend\tests\components\body-shop\AIDamageSummary.test.tsx | 7610 | 07/04/2025 18:25:11 |
+| C:\Backup_Projects\CFH_Backup_2025-08-02_15-36\frontend\tests\components\body-shop\CompareShopsTable.test.tsx | 13865 | 07/05/2025 14:14:39 |
+| C:\Backup_Projects\CFH_Backup_2025-08-02_15-36\frontend\tests\components\body-shop\JobTrackingView.test.tsx | 13687 | 07/04/2025 10:54:01 |
+| C:\Backup_Projects\CFH_Backup_2025-08-02_15-36\frontend\tests\components\body-shop\PartsOrderForm.test.tsx | 10037 | 07/05/2025 10:57:27 |
+| C:\Backup_Projects\CFH_Backup_2025-08-02_15-36\frontend\tests\components\body-shop\RepairJourneyShare.test.tsx | 11515 | 07/05/2025 11:15:13 |
+| C:\Backup_Projects\CFH_Backup_2025-08-02_15-36\frontend\tests\components\body-shop\ShopOwnerDashboard.test.tsx | 14229 | 07/04/2025 10:48:42 |
+| C:\Backup_Projects\CFH_Backup_2025-08-02_15-36\frontend\tests\components\body-shop\VirtualShopTour360.test.tsx | 11537 | 07/05/2025 10:51:24 |
+| C:\CFH\frontend\src\components\valuation\ARConditionScanner.test.tsx | 2183 | 06/30/2025 20:13:41 |
+| C:\CFH\frontend\src\components\valuation\ValuationPortfolio.test.tsx | 2175 | 06/30/2025 20:13:08 |
+| C:\CFH\frontend\src\components\valuation\ValuationReport.test.tsx | 2851 | 06/30/2025 20:12:37 |
+| C:\CFH\frontend\src\components\valuation\VehicleValuation.test.tsx | 2925 | 06/30/2025 20:11:59 |
+| C:\CFH\frontend\src\tests\analytics\AnalyticsDashboard.test.tsx | 923 | 06/12/2025 19:06:42 |
+| C:\CFH\frontend\src\tests\analytics\ChartWidget.test.tsx | 620 | 06/12/2025 19:06:49 |
+| C:\CFH\frontend\src\tests\analytics\FilterPanel.test.tsx | 849 | 06/12/2025 19:06:55 |
+| C:\CFH\frontend\src\tests\components\auction\AuctionItemListing.test.tsx | 10868 | 07/03/2025 14:22:53 |
+| C:\CFH\frontend\src\tests\components\auctions\AuctionItemListing.test.tsx | 9574 | 07/04/2025 01:08:07 |
+| C:\CFH\frontend\src\tests\components\auctions\LiveAuctionStream.test.tsx | 9574 | 07/04/2025 01:21:15 |
+| C:\CFH\frontend\src\tests\escrow\EscrowTransaction.test.tsx | 2305 | 06/10/2025 23:38:18 |
+| C:\CFH\frontend\tests\components\body-shop\AIDamageSummary.test.tsx | 7610 | 07/04/2025 18:25:11 |
+| C:\CFH\frontend\tests\components\body-shop\CompareShopsTable.test.tsx | 13865 | 07/05/2025 14:14:39 |
+| C:\CFH\frontend\tests\components\body-shop\JobTrackingView.test.tsx | 13687 | 07/04/2025 10:54:01 |
+| C:\CFH\frontend\tests\components\body-shop\PartsOrderForm.test.tsx | 10037 | 07/05/2025 10:57:27 |
+| C:\CFH\frontend\tests\components\body-shop\RepairJourneyShare.test.tsx | 11515 | 07/05/2025 11:15:13 |
+| C:\CFH\frontend\tests\components\body-shop\ShopOwnerDashboard.test.tsx | 14229 | 07/04/2025 10:48:42 |
+| C:\CFH\frontend\tests\components\body-shop\VirtualShopTour360.test.tsx | 11537 | 07/05/2025 10:51:24 |
+| C:\cfh_backup_20250713\CFH\frontend\src\components\valuation\ARConditionScanner.test.tsx | 2183 | 06/30/2025 20:13:41 |
+| C:\cfh_backup_20250713\CFH\frontend\src\components\valuation\ValuationPortfolio.test.tsx | 2175 | 06/30/2025 20:13:08 |
+| C:\cfh_backup_20250713\CFH\frontend\src\components\valuation\ValuationReport.test.tsx | 2851 | 06/30/2025 20:12:37 |
+| C:\cfh_backup_20250713\CFH\frontend\src\components\valuation\VehicleValuation.test.tsx | 2925 | 06/30/2025 20:11:59 |
+| C:\cfh_backup_20250713\CFH\frontend\src\tests\analytics\AnalyticsDashboard.test.tsx | 923 | 06/12/2025 19:06:42 |
+| C:\cfh_backup_20250713\CFH\frontend\src\tests\analytics\ChartWidget.test.tsx | 620 | 06/12/2025 19:06:49 |
+| C:\cfh_backup_20250713\CFH\frontend\src\tests\analytics\FilterPanel.test.tsx | 849 | 06/12/2025 19:06:55 |
+| C:\cfh_backup_20250713\CFH\frontend\src\tests\components\auction\AuctionItemListing.test.tsx | 10868 | 07/03/2025 14:22:53 |
+| C:\cfh_backup_20250713\CFH\frontend\src\tests\components\auctions\AuctionItemListing.test.tsx | 9574 | 07/04/2025 01:08:07 |
+| C:\cfh_backup_20250713\CFH\frontend\src\tests\components\auctions\LiveAuctionStream.test.tsx | 9574 | 07/04/2025 01:21:15 |
+| C:\cfh_backup_20250713\CFH\frontend\src\tests\escrow\EscrowTransaction.test.tsx | 2305 | 06/10/2025 23:38:18 |
+| C:\cfh_backup_20250713\CFH\frontend\tests\components\body-shop\AIDamageSummary.test.tsx | 7610 | 07/04/2025 18:25:11 |
+| C:\cfh_backup_20250713\CFH\frontend\tests\components\body-shop\CompareShopsTable.test.tsx | 13865 | 07/05/2025 14:14:39 |
+| C:\cfh_backup_20250713\CFH\frontend\tests\components\body-shop\JobTrackingView.test.tsx | 13687 | 07/04/2025 10:54:01 |
+| C:\cfh_backup_20250713\CFH\frontend\tests\components\body-shop\PartsOrderForm.test.tsx | 10037 | 07/05/2025 10:57:27 |
+| C:\cfh_backup_20250713\CFH\frontend\tests\components\body-shop\RepairJourneyShare.test.tsx | 11515 | 07/05/2025 11:15:13 |
+| C:\cfh_backup_20250713\CFH\frontend\tests\components\body-shop\ShopOwnerDashboard.test.tsx | 14229 | 07/04/2025 10:48:42 |
+| C:\cfh_backup_20250713\CFH\frontend\tests\components\body-shop\VirtualShopTour360.test.tsx | 11537 | 07/05/2025 10:51:24 |
+| C:\cfh_backup_20250713\frontend\src\components\valuation\ARConditionScanner.test.tsx | 2183 | 07/13/2025 20:26:57 |
+| C:\cfh_backup_20250713\frontend\src\components\valuation\ValuationPortfolio.test.tsx | 2175 | 07/13/2025 20:26:57 |
+| C:\cfh_backup_20250713\frontend\src\components\valuation\ValuationReport.test.tsx | 2851 | 07/13/2025 20:26:57 |
+| C:\cfh_backup_20250713\frontend\src\components\valuation\VehicleValuation.test.tsx | 2925 | 07/13/2025 20:26:57 |
+| C:\cfh_backup_20250713\frontend\src\tests\analytics\AnalyticsDashboard.test.tsx | 923 | 07/13/2025 20:26:57 |
+| C:\cfh_backup_20250713\frontend\src\tests\analytics\ChartWidget.test.tsx | 620 | 07/13/2025 20:26:57 |
+| C:\cfh_backup_20250713\frontend\src\tests\analytics\FilterPanel.test.tsx | 849 | 07/13/2025 20:26:57 |
+| C:\cfh_backup_20250713\frontend\src\tests\components\auction\AuctionItemListing.test.tsx | 10868 | 07/13/2025 20:26:57 |
+| C:\cfh_backup_20250713\frontend\src\tests\components\auctions\AuctionItemListing.test.tsx | 9574 | 07/13/2025 20:26:57 |
+| C:\cfh_backup_20250713\frontend\src\tests\components\auctions\LiveAuctionStream.test.tsx | 9574 | 07/13/2025 20:26:57 |
+| C:\cfh_backup_20250713\frontend\src\tests\escrow\EscrowTransaction.test.tsx | 2305 | 07/13/2025 20:26:57 |
+| C:\cfh_backup_20250713\frontend\tests\components\body-shop\AIDamageSummary.test.tsx | 7610 | 07/13/2025 20:26:57 |
+| C:\cfh_backup_20250713\frontend\tests\components\body-shop\CompareShopsTable.test.tsx | 13865 | 07/13/2025 20:26:57 |
+| C:\cfh_backup_20250713\frontend\tests\components\body-shop\JobTrackingView.test.tsx | 13687 | 07/13/2025 20:26:57 |
+| C:\cfh_backup_20250713\frontend\tests\components\body-shop\PartsOrderForm.test.tsx | 10037 | 07/13/2025 20:26:57 |
+| C:\cfh_backup_20250713\frontend\tests\components\body-shop\RepairJourneyShare.test.tsx | 11515 | 07/13/2025 20:26:57 |
+| C:\cfh_backup_20250713\frontend\tests\components\body-shop\ShopOwnerDashboard.test.tsx | 14229 | 07/13/2025 20:26:57 |
+| C:\cfh_backup_20250713\frontend\tests\components\body-shop\VirtualShopTour360.test.tsx | 11537 | 07/13/2025 20:26:57 |
+| C:\cfh_backup20250713\frontend\src\components\valuation\ARConditionScanner.test.tsx | 2183 | 06/30/2025 20:13:41 |
+| C:\cfh_backup20250713\frontend\src\components\valuation\ValuationPortfolio.test.tsx | 2175 | 06/30/2025 20:13:08 |
+| C:\cfh_backup20250713\frontend\src\components\valuation\ValuationReport.test.tsx | 2851 | 06/30/2025 20:12:37 |
+| C:\cfh_backup20250713\frontend\src\components\valuation\VehicleValuation.test.tsx | 2925 | 06/30/2025 20:11:59 |
+| C:\cfh_backup20250713\frontend\src\tests\analytics\AnalyticsDashboard.test.tsx | 923 | 06/12/2025 19:06:42 |
+| C:\cfh_backup20250713\frontend\src\tests\analytics\ChartWidget.test.tsx | 620 | 06/12/2025 19:06:49 |
+| C:\cfh_backup20250713\frontend\src\tests\analytics\FilterPanel.test.tsx | 849 | 06/12/2025 19:06:55 |
+| C:\cfh_backup20250713\frontend\src\tests\components\auction\AuctionItemListing.test.tsx | 10868 | 07/03/2025 14:22:53 |
+| C:\cfh_backup20250713\frontend\src\tests\components\auctions\AuctionItemListing.test.tsx | 9574 | 07/04/2025 01:08:07 |
+| C:\cfh_backup20250713\frontend\src\tests\components\auctions\LiveAuctionStream.test.tsx | 9574 | 07/04/2025 01:21:15 |
+| C:\cfh_backup20250713\frontend\src\tests\escrow\EscrowTransaction.test.tsx | 2305 | 06/10/2025 23:38:18 |
+| C:\cfh_backup20250713\frontend\tests\components\body-shop\AIDamageSummary.test.tsx | 7610 | 07/04/2025 18:25:11 |
+| C:\cfh_backup20250713\frontend\tests\components\body-shop\CompareShopsTable.test.tsx | 13865 | 07/05/2025 14:14:39 |
+| C:\cfh_backup20250713\frontend\tests\components\body-shop\JobTrackingView.test.tsx | 13687 | 07/04/2025 10:54:01 |
+| C:\cfh_backup20250713\frontend\tests\components\body-shop\PartsOrderForm.test.tsx | 10037 | 07/05/2025 10:57:27 |
+| C:\cfh_backup20250713\frontend\tests\components\body-shop\RepairJourneyShare.test.tsx | 11515 | 07/05/2025 11:15:13 |
+| C:\cfh_backup20250713\frontend\tests\components\body-shop\ShopOwnerDashboard.test.tsx | 14229 | 07/04/2025 10:48:42 |
+| C:\cfh_backup20250713\frontend\tests\components\body-shop\VirtualShopTour360.test.tsx | 11537 | 07/05/2025 10:51:24 |
+| C:\cfh_clean\frontend\src\components\valuation\ARConditionScanner.test.tsx | 2183 | 06/30/2025 20:13:41 |
+| C:\cfh_clean\frontend\src\components\valuation\ValuationPortfolio.test.tsx | 2175 | 06/30/2025 20:13:08 |
+| C:\cfh_clean\frontend\src\components\valuation\ValuationReport.test.tsx | 2851 | 06/30/2025 20:12:37 |
+| C:\cfh_clean\frontend\src\components\valuation\VehicleValuation.test.tsx | 2925 | 06/30/2025 20:11:59 |
+| C:\cfh_clean\frontend\src\tests\analytics\AnalyticsDashboard.test.tsx | 923 | 06/12/2025 19:06:42 |
+| C:\cfh_clean\frontend\src\tests\analytics\ChartWidget.test.tsx | 620 | 06/12/2025 19:06:49 |
+| C:\cfh_clean\frontend\src\tests\analytics\FilterPanel.test.tsx | 849 | 06/12/2025 19:06:55 |
+| C:\cfh_clean\frontend\src\tests\components\auction\AuctionItemListing.test.tsx | 10868 | 07/03/2025 14:22:53 |
+| C:\cfh_clean\frontend\src\tests\components\auctions\AuctionItemListing.test.tsx | 9574 | 07/04/2025 01:08:07 |
+| C:\cfh_clean\frontend\src\tests\components\auctions\LiveAuctionStream.test.tsx | 9574 | 07/04/2025 01:21:15 |
+| C:\cfh_clean\frontend\src\tests\escrow\EscrowTransaction.test.tsx | 2305 | 06/10/2025 23:38:18 |
+| C:\cfh_clean\frontend\tests\components\body-shop\AIDamageSummary.test.tsx | 7610 | 07/04/2025 18:25:11 |
+| C:\cfh_clean\frontend\tests\components\body-shop\CompareShopsTable.test.tsx | 13865 | 07/05/2025 14:14:39 |
+| C:\cfh_clean\frontend\tests\components\body-shop\JobTrackingView.test.tsx | 13687 | 07/04/2025 10:54:01 |
+| C:\cfh_clean\frontend\tests\components\body-shop\PartsOrderForm.test.tsx | 10037 | 07/05/2025 10:57:27 |
+| C:\cfh_clean\frontend\tests\components\body-shop\RepairJourneyShare.test.tsx | 11515 | 07/05/2025 11:15:13 |
+| C:\cfh_clean\frontend\tests\components\body-shop\ShopOwnerDashboard.test.tsx | 14229 | 07/04/2025 10:48:42 |
+| C:\cfh_clean\frontend\tests\components\body-shop\VirtualShopTour360.test.tsx | 11537 | 07/05/2025 10:51:24 |
+| C:\grouping\Module-Based\Auction Module\AuctionItemListing.test.tsx | 9574 | 07/04/2025 01:08:07 |
+| C:\grouping\Module-Based\Auction Module\LiveAuctionStream.test.tsx | 9574 | 07/04/2025 01:21:15 |
+| C:\Users\Agasi5\Desktop\CFH\frontend\src\components\valuation\ARConditionScanner.test.tsx | 2183 | 06/30/2025 20:13:41 |
+| C:\Users\Agasi5\Desktop\CFH\frontend\src\components\valuation\ValuationPortfolio.test.tsx | 2175 | 06/30/2025 20:13:08 |
+| C:\Users\Agasi5\Desktop\CFH\frontend\src\components\valuation\ValuationReport.test.tsx | 2851 | 06/30/2025 20:12:37 |
+| C:\Users\Agasi5\Desktop\CFH\frontend\src\components\valuation\VehicleValuation.test.tsx | 2925 | 06/30/2025 20:11:59 |
+| C:\Users\Agasi5\Desktop\CFH\frontend\src\tests\analytics\AnalyticsDashboard.test.tsx | 923 | 06/12/2025 19:06:42 |
+| C:\Users\Agasi5\Desktop\CFH\frontend\src\tests\analytics\ChartWidget.test.tsx | 620 | 06/12/2025 19:06:49 |
+| C:\Users\Agasi5\Desktop\CFH\frontend\src\tests\analytics\FilterPanel.test.tsx | 849 | 06/12/2025 19:06:55 |
+| C:\Users\Agasi5\Desktop\CFH\frontend\src\tests\components\auction\AuctionItemListing.test.tsx | 10868 | 07/03/2025 14:22:53 |
+| C:\Users\Agasi5\Desktop\CFH\frontend\src\tests\components\auctions\AuctionItemListing.test.tsx | 9574 | 07/04/2025 01:08:07 |
+| C:\Users\Agasi5\Desktop\CFH\frontend\src\tests\components\auctions\LiveAuctionStream.test.tsx | 9574 | 07/04/2025 01:21:15 |
+| C:\Users\Agasi5\Desktop\CFH\frontend\src\tests\escrow\EscrowTransaction.test.tsx | 2305 | 06/10/2025 23:38:18 |
+| C:\Users\Agasi5\Desktop\CFH\frontend\tests\components\body-shop\AIDamageSummary.test.tsx | 7610 | 07/04/2025 18:25:11 |
+| C:\Users\Agasi5\Desktop\CFH\frontend\tests\components\body-shop\CompareShopsTable.test.tsx | 13865 | 07/05/2025 14:14:39 |
+| C:\Users\Agasi5\Desktop\CFH\frontend\tests\components\body-shop\JobTrackingView.test.tsx | 13687 | 07/04/2025 10:54:01 |
+| C:\Users\Agasi5\Desktop\CFH\frontend\tests\components\body-shop\PartsOrderForm.test.tsx | 10037 | 07/05/2025 10:57:27 |
+| C:\Users\Agasi5\Desktop\CFH\frontend\tests\components\body-shop\RepairJourneyShare.test.tsx | 11515 | 07/05/2025 11:15:13 |
+| C:\Users\Agasi5\Desktop\CFH\frontend\tests\components\body-shop\ShopOwnerDashboard.test.tsx | 14229 | 07/04/2025 10:48:42 |
+| C:\Users\Agasi5\Desktop\CFH\frontend\tests\components\body-shop\VirtualShopTour360.test.tsx | 11537 | 07/05/2025 10:51:24 |
+| M:\CFH\frontend\src\components\valuation\ARConditionScanner.test.tsx | 2183 | 06/30/2025 20:13:42 |
+| M:\CFH\frontend\src\components\valuation\ValuationPortfolio.test.tsx | 2175 | 06/30/2025 20:13:10 |
+| M:\CFH\frontend\src\components\valuation\ValuationReport.test.tsx | 2851 | 06/30/2025 20:12:38 |
+| M:\CFH\frontend\src\components\valuation\VehicleValuation.test.tsx | 2925 | 06/30/2025 20:12:00 |
+| M:\CFH\frontend\src\tests\analytics\AnalyticsDashboard.test.tsx | 923 | 06/12/2025 19:06:44 |
+| M:\CFH\frontend\src\tests\analytics\ChartWidget.test.tsx | 620 | 06/12/2025 19:06:50 |
+| M:\CFH\frontend\src\tests\analytics\FilterPanel.test.tsx | 849 | 06/12/2025 19:06:56 |
+| M:\CFH\frontend\src\tests\components\auction\AuctionItemListing.test.tsx | 10868 | 07/03/2025 14:22:54 |
+| M:\CFH\frontend\src\tests\components\auctions\AuctionItemListing.test.tsx | 9574 | 07/04/2025 01:08:08 |
+| M:\CFH\frontend\src\tests\components\auctions\LiveAuctionStream.test.tsx | 9574 | 07/04/2025 01:21:16 |
+| M:\CFH\frontend\src\tests\escrow\EscrowTransaction.test.tsx | 2305 | 06/10/2025 23:38:20 |
+| M:\CFH\frontend\tests\components\body-shop\AIDamageSummary.test.tsx | 7610 | 07/04/2025 18:25:12 |
+| M:\CFH\frontend\tests\components\body-shop\CompareShopsTable.test.tsx | 13865 | 07/05/2025 14:14:40 |
+| M:\CFH\frontend\tests\components\body-shop\JobTrackingView.test.tsx | 13687 | 07/04/2025 10:54:02 |
+| M:\CFH\frontend\tests\components\body-shop\PartsOrderForm.test.tsx | 10037 | 07/05/2025 10:57:28 |
+| M:\CFH\frontend\tests\components\body-shop\RepairJourneyShare.test.tsx | 11515 | 07/05/2025 11:15:14 |
+| M:\CFH\frontend\tests\components\body-shop\ShopOwnerDashboard.test.tsx | 14229 | 07/04/2025 10:48:44 |
+| M:\CFH\frontend\tests\components\body-shop\VirtualShopTour360.test.tsx | 11537 | 07/05/2025 10:51:26 |

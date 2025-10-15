@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\mechanicHealthCheck_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\mechanicHealthCheck_1.js",
+    "name": "mechanicHealthCheck_1.js",
+    "ext": ".js",
+    "size": 1373
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\mechanicHealthCheck.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\mechanicHealthCheck.js",
+    "name": "mechanicHealthCheck.js",
+    "ext": ".js",
+    "size": 1373
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\MechanicInspectionDetail_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\MechanicInspectionDetail_1.js",
+    "name": "MechanicInspectionDetail_1.js",
+    "ext": ".js",
+    "size": 3762
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\mechanicMilestoneTracker_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\mechanicMilestoneTracker_1.js",
+    "name": "mechanicMilestoneTracker_1.js",
+    "ext": ".js",
+    "size": 1572
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\mechanicMilestoneTracker.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\mechanicMilestoneTracker.js",
+    "name": "mechanicMilestoneTracker.js",
+    "ext": ".js",
+    "size": 1572
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\mechanicRoutes_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\mechanicRoutes_1.js",
+    "name": "mechanicRoutes_1.js",
+    "ext": ".js",
+    "size": 2204
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\mechanicRoutes.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\mechanicRoutes.js",
+    "name": "mechanicRoutes.js",
+    "ext": ".js",
+    "size": 2204
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\mechanicRoutes.test_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\mechanicRoutes.test_1.js",
+    "name": "mechanicRoutes.test_1.js",
+    "ext": ".js",
+    "size": 2906
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\mechanicRoutes.test.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\mechanicRoutes.test.js",
+    "name": "mechanicRoutes.test.js",
+    "ext": ".js",
+    "size": 2906
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\MechanicTaskScheduler_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\MechanicTaskScheduler_1.js",
+    "name": "MechanicTaskScheduler_1.js",
+    "ext": ".js",
+    "size": 885
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\MechanicTaskScheduler.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\MechanicTaskScheduler.js",
+    "name": "MechanicTaskScheduler.js",
+    "ext": ".js",
+    "size": 885
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\messageController_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\messageController_1.js",
+    "name": "messageController_1.js",
+    "ext": ".js",
+    "size": 3362
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\messageController.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\messageController.js",
+    "name": "messageController.js",
+    "ext": ".js",
+    "size": 3362
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\Messaging_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\Messaging_1.js",
+    "name": "Messaging_1.js",
+    "ext": ".js",
+    "size": 2011
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\MessagingService_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\MessagingService_1.js",
+    "name": "MessagingService_1.js",
+    "ext": ".js",
+    "size": 2203
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\missionRoutes_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\missionRoutes_1.js",
+    "name": "missionRoutes_1.js",
+    "ext": ".js",
+    "size": 1371
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\missionRoutes.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\missionRoutes.js",
+    "name": "missionRoutes.js",
+    "ext": ".js",
+    "size": 1371
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\MLModel_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\MLModel_1.js",
+    "name": "MLModel_1.js",
+    "ext": ".js",
+    "size": 5196
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\MobileBidHandler_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\MobileBidHandler_1.js",
+    "name": "MobileBidHandler_1.js",
+    "ext": ".js",
+    "size": 2239
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\MobileBidHandler.test_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\MobileBidHandler.test_1.js",
+    "name": "MobileBidHandler.test_1.js",
+    "ext": ".js",
+    "size": 3944
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\MobileNotifications_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\MobileNotifications_1.js",
+    "name": "MobileNotifications_1.js",
+    "ext": ".js",
+    "size": 2665
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\MobileNotifications.test_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\MobileNotifications.test_1.js",
+    "name": "MobileNotifications.test_1.js",
+    "ext": ".js",
+    "size": 4587
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\mock.controller_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\mock.controller_1.js",
+    "name": "mock.controller_1.js",
+    "ext": ".js",
+    "size": 167
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\mock.controller.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\mock.controller.js",
+    "name": "mock.controller.js",
+    "ext": ".js",
+    "size": 167
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\Navbar_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\Navbar_1.js",
+    "name": "Navbar_1.js",
+    "ext": ".js",
+    "size": 1505
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "features\\EvaluationPlan.md",
+    "full_path": "C:\\CFH\\docs\\features\\EvaluationPlan.md",
+    "name": "EvaluationPlan.md",
+    "ext": ".md",
+    "size": 1333
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "features\\EvaluationReport.md",
+    "full_path": "C:\\CFH\\docs\\features\\EvaluationReport.md",
+    "name": "EvaluationReport.md",
+    "ext": ".md",
+    "size": 18801
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "features\\FeatureListIndex.md",
+    "full_path": "C:\\CFH\\docs\\features\\FeatureListIndex.md",
+    "name": "FeatureListIndex.md",
+    "ext": ".md",
+    "size": 2345
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "features\\FinancingApplicationFeatureList.md",
+    "full_path": "C:\\CFH\\docs\\features\\FinancingApplicationFeatureList.md",
+    "name": "FinancingApplicationFeatureList.md",
+    "ext": ".md",
+    "size": 4628
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "features\\FinancingLenderFeatureList.md",
+    "full_path": "C:\\CFH\\docs\\features\\FinancingLenderFeatureList.md",
+    "name": "FinancingLenderFeatureList.md",
+    "ext": ".md",
+    "size": 4100
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "features\\ForumEngagementFeatureList.md",
+    "full_path": "C:\\CFH\\docs\\features\\ForumEngagementFeatureList.md",
+    "name": "ForumEngagementFeatureList.md",
+    "ext": ".md",
+    "size": 4119
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "features\\GeneratedFeatures.md",
+    "full_path": "C:\\CFH\\docs\\features\\GeneratedFeatures.md",
+    "name": "GeneratedFeatures.md",
+    "ext": ".md",
+    "size": 6749
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "features\\InsuranceQuoteFeatureList.md",
+    "full_path": "C:\\CFH\\docs\\features\\InsuranceQuoteFeatureList.md",
+    "name": "InsuranceQuoteFeatureList.md",
+    "ext": ".md",
+    "size": 4067
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "features\\KnowledgeBaseFeatureList.md",
+    "full_path": "C:\\CFH\\docs\\features\\KnowledgeBaseFeatureList.md",
+    "name": "KnowledgeBaseFeatureList.md",
+    "ext": ".md",
+    "size": 5005
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "features\\LoyaltyProgramFeatureList.md",
+    "full_path": "C:\\CFH\\docs\\features\\LoyaltyProgramFeatureList.md",
+    "name": "LoyaltyProgramFeatureList.md",
+    "ext": ".md",
+    "size": 3472
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "features\\MaintenanceSchedulingFeatureList.md",
+    "full_path": "C:\\CFH\\docs\\features\\MaintenanceSchedulingFeatureList.md",
+    "name": "MaintenanceSchedulingFeatureList.md",
+    "ext": ".md",
+    "size": 4787
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "features\\MarketplaceFeatureList.md",
+    "full_path": "C:\\CFH\\docs\\features\\MarketplaceFeatureList.md",
+    "name": "MarketplaceFeatureList.md",
+    "ext": ".md",
+    "size": 4853
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "features\\MarketplaceListingsFeatureList.md",
+    "full_path": "C:\\CFH\\docs\\features\\MarketplaceListingsFeatureList.md",
+    "name": "MarketplaceListingsFeatureList.md",
+    "ext": ".md",
+    "size": 4306
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "features\\MechanicServicesFeatureList.md",
+    "full_path": "C:\\CFH\\docs\\features\\MechanicServicesFeatureList.md",
+    "name": "MechanicServicesFeatureList.md",
+    "ext": ".md",
+    "size": 6716
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "features\\MobileAppEnhancementsFeatureList.md",
+    "full_path": "C:\\CFH\\docs\\features\\MobileAppEnhancementsFeatureList.md",
+    "name": "MobileAppEnhancementsFeatureList.md",
+    "ext": ".md",
+    "size": 4790
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "features\\Notifications.md",
+    "full_path": "C:\\CFH\\docs\\features\\Notifications.md",
+    "name": "Notifications.md",
+    "ext": ".md",
+    "size": 719
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "features\\NotificationsSystemFeatureList.md",
+    "full_path": "C:\\CFH\\docs\\features\\NotificationsSystemFeatureList.md",
+    "name": "NotificationsSystemFeatureList.md",
+    "ext": ".md",
+    "size": 4253
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "features\\PartnerMarketplaceFeatureList.md",
+    "full_path": "C:\\CFH\\docs\\features\\PartnerMarketplaceFeatureList.md",
+    "name": "PartnerMarketplaceFeatureList.md",
+    "ext": ".md",
+    "size": 4861
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "features\\Payments.md",
+    "full_path": "C:\\CFH\\docs\\features\\Payments.md",
+    "name": "Payments.md",
+    "ext": ".md",
+    "size": 405
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "features\\PhotoUploadFeatureList.md",
+    "full_path": "C:\\CFH\\docs\\features\\PhotoUploadFeatureList.md",
+    "name": "PhotoUploadFeatureList.md",
+    "ext": ".md",
+    "size": 2478
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "features\\PredictionUpdatesWS.md",
+    "full_path": "C:\\CFH\\docs\\features\\PredictionUpdatesWS.md",
+    "name": "PredictionUpdatesWS.md",
+    "ext": ".md",
+    "size": 4093
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "features\\ReferralProgramFeatureList.md",
+    "full_path": "C:\\CFH\\docs\\features\\ReferralProgramFeatureList.md",
+    "name": "ReferralProgramFeatureList.md",
+    "ext": ".md",
+    "size": 4288
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "features\\Reports.md",
+    "full_path": "C:\\CFH\\docs\\features\\Reports.md",
+    "name": "Reports.md",
+    "ext": ".md",
+    "size": 379
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "features\\RoadsideAssistanceFeatureList.md",
+    "full_path": "C:\\CFH\\docs\\features\\RoadsideAssistanceFeatureList.md",
+    "name": "RoadsideAssistanceFeatureList.md",
+    "ext": ".md",
+    "size": 4763
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "features\\ServiceBookingFeatureList.md",
+    "full_path": "C:\\CFH\\docs\\features\\ServiceBookingFeatureList.md",
+    "name": "ServiceBookingFeatureList.md",
+    "ext": ".md",
+    "size": 4040
+  }
+]

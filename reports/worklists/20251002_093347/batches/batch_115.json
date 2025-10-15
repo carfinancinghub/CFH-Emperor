@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\apiHealthCheck.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\apiHealthCheck.test_1.ts",
+    "name": "apiHealthCheck.test_1.ts",
+    "ext": ".ts",
+    "size": 45
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\apiHealthCheck.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\apiHealthCheck.test.ts",
+    "name": "apiHealthCheck.test.ts",
+    "ext": ".ts",
+    "size": 45
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\apiHealthCheck.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\apiHealthCheck.ts",
+    "name": "apiHealthCheck.ts",
+    "ext": ".ts",
+    "size": 1514
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\apiHealthCheckFast_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\apiHealthCheckFast_1.ts",
+    "name": "apiHealthCheckFast_1.ts",
+    "ext": ".ts",
+    "size": 1695
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\apiHealthCheckFast.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\apiHealthCheckFast.test_1.ts",
+    "name": "apiHealthCheckFast.test_1.ts",
+    "ext": ".ts",
+    "size": 49
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\apiHealthCheckFast.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\apiHealthCheckFast.test.ts",
+    "name": "apiHealthCheckFast.test.ts",
+    "ext": ".ts",
+    "size": 49
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\apiHealthCheckFast.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\apiHealthCheckFast.ts",
+    "name": "apiHealthCheckFast.ts",
+    "ext": ".ts",
+    "size": 1695
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\apiTestSuite_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\apiTestSuite_1.ts",
+    "name": "apiTestSuite_1.ts",
+    "ext": ".ts",
+    "size": 4931
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\apiTestSuite.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\apiTestSuite.test_1.ts",
+    "name": "apiTestSuite.test_1.ts",
+    "ext": ".ts",
+    "size": 43
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\apiTestSuite.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\apiTestSuite.test.ts",
+    "name": "apiTestSuite.test.ts",
+    "ext": ".ts",
+    "size": 43
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\apiTestSuite.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\apiTestSuite.ts",
+    "name": "apiTestSuite.ts",
+    "ext": ".ts",
+    "size": 4931
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\apiTestSuite2_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\apiTestSuite2_1.ts",
+    "name": "apiTestSuite2_1.ts",
+    "ext": ".ts",
+    "size": 7568
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\apiTestSuite2.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\apiTestSuite2.test_1.ts",
+    "name": "apiTestSuite2.test_1.ts",
+    "ext": ".ts",
+    "size": 44
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\apiTestSuite2.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\apiTestSuite2.test.ts",
+    "name": "apiTestSuite2.test.ts",
+    "ext": ".ts",
+    "size": 44
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\apiTestSuite2.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\apiTestSuite2.ts",
+    "name": "apiTestSuite2.ts",
+    "ext": ".ts",
+    "size": 7568
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\app_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\app_1.ts",
+    "name": "app_1.ts",
+    "ext": ".ts",
+    "size": 2493
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\app.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\app.test_1.ts",
+    "name": "app.test_1.ts",
+    "ext": ".ts",
+    "size": 34
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\app.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\app.test.ts",
+    "name": "app.test.ts",
+    "ext": ".ts",
+    "size": 34
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\app.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\app.ts",
+    "name": "app.ts",
+    "ext": ".ts",
+    "size": 2493
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\ArbitrationDashboard_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\ArbitrationDashboard_1.ts",
+    "name": "ArbitrationDashboard_1.ts",
+    "ext": ".ts",
+    "size": 2695
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\ArbitrationDashboard.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\ArbitrationDashboard.test_1.ts",
+    "name": "ArbitrationDashboard.test_1.ts",
+    "ext": ".ts",
+    "size": 51
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\ArbitrationDashboard.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\ArbitrationDashboard.test.ts",
+    "name": "ArbitrationDashboard.test.ts",
+    "ext": ".ts",
+    "size": 51
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\ArbitrationDashboard.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\ArbitrationDashboard.ts",
+    "name": "ArbitrationDashboard.ts",
+    "ext": ".ts",
+    "size": 2695
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\arbitrationExportTools_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\arbitrationExportTools_1.ts",
+    "name": "arbitrationExportTools_1.ts",
+    "ext": ".ts",
+    "size": 369
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\arbitrator-performance_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\arbitrator-performance_1.ts",
+    "name": "arbitrator-performance_1.ts",
+    "ext": ".ts",
+    "size": 4194
+  }
+]

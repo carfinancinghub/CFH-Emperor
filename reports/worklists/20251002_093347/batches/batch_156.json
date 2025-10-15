@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\loanRecommendationController.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\loanRecommendationController.ts",
+    "name": "loanRecommendationController.ts",
+    "ext": ".ts",
+    "size": 4401
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\logger_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\logger_1.ts",
+    "name": "logger_1.ts",
+    "ext": ".ts",
+    "size": 711
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\logger.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\logger.test_1.ts",
+    "name": "logger.test_1.ts",
+    "ext": ".ts",
+    "size": 729
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\logger.test.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\logger.test.test_1.ts",
+    "name": "logger.test.test_1.ts",
+    "ext": ".ts",
+    "size": 42
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\logger.test.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\logger.test.test.ts",
+    "name": "logger.test.test.ts",
+    "ext": ".ts",
+    "size": 42
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\logger.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\logger.test.ts",
+    "name": "logger.test.ts",
+    "ext": ".ts",
+    "size": 37
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\LoyaltyProgramEngine_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\LoyaltyProgramEngine_1.ts",
+    "name": "LoyaltyProgramEngine_1.ts",
+    "ext": ".ts",
+    "size": 326
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\LoyaltyQuests_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\LoyaltyQuests_1.ts",
+    "name": "LoyaltyQuests_1.ts",
+    "ext": ".ts",
+    "size": 841
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\LoyaltyQuests.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\LoyaltyQuests.test_1.ts",
+    "name": "LoyaltyQuests.test_1.ts",
+    "ext": ".ts",
+    "size": 44
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\LoyaltyQuests.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\LoyaltyQuests.test.ts",
+    "name": "LoyaltyQuests.test.ts",
+    "ext": ".ts",
+    "size": 44
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\LoyaltyQuests.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\LoyaltyQuests.ts",
+    "name": "LoyaltyQuests.ts",
+    "ext": ".ts",
+    "size": 841
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\LoyaltyRewards_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\LoyaltyRewards_1.ts",
+    "name": "LoyaltyRewards_1.ts",
+    "ext": ".ts",
+    "size": 2819
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\LoyaltyRewards.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\LoyaltyRewards.test_1.ts",
+    "name": "LoyaltyRewards.test_1.ts",
+    "ext": ".ts",
+    "size": 4113
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\LoyaltyRewards.test.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\LoyaltyRewards.test.test_1.ts",
+    "name": "LoyaltyRewards.test.test_1.ts",
+    "ext": ".ts",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\LoyaltyRewards.test.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\LoyaltyRewards.test.test.ts",
+    "name": "LoyaltyRewards.test.test.ts",
+    "ext": ".ts",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\LoyaltyRewards.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\LoyaltyRewards.test.ts",
+    "name": "LoyaltyRewards.test.ts",
+    "ext": ".ts",
+    "size": 45
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\LoyaltyRewards.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\LoyaltyRewards.ts",
+    "name": "LoyaltyRewards.ts",
+    "ext": ".ts",
+    "size": 2819
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\marketplace_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\marketplace_1.ts",
+    "name": "marketplace_1.ts",
+    "ext": ".ts",
+    "size": 100
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\marketplace.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\marketplace.test_1.ts",
+    "name": "marketplace.test_1.ts",
+    "ext": ".ts",
+    "size": 42
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\marketplace.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\marketplace.test.ts",
+    "name": "marketplace.test.ts",
+    "ext": ".ts",
+    "size": 42
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\marketplace.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\marketplace.ts",
+    "name": "marketplace.ts",
+    "ext": ".ts",
+    "size": 100
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\MarketplaceInsights_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\MarketplaceInsights_1.ts",
+    "name": "MarketplaceInsights_1.ts",
+    "ext": ".ts",
+    "size": 795
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\MarketplaceInsights.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\MarketplaceInsights.test_1.ts",
+    "name": "MarketplaceInsights.test_1.ts",
+    "ext": ".ts",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\MarketplaceInsights.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\MarketplaceInsights.test.ts",
+    "name": "MarketplaceInsights.test.ts",
+    "ext": ".ts",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\MarketplaceInsights.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\MarketplaceInsights.ts",
+    "name": "MarketplaceInsights.ts",
+    "ext": ".ts",
+    "size": 795
+  }
+]

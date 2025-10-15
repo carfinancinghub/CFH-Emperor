@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\adminRoutes.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\adminRoutes.ts",
+    "name": "adminRoutes.ts",
+    "ext": ".ts",
+    "size": 1274
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\AdminSchema.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\AdminSchema.ts",
+    "name": "AdminSchema.ts",
+    "ext": ".ts",
+    "size": 566
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\AdminService.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\AdminService.ts",
+    "name": "AdminService.ts",
+    "ext": ".ts",
+    "size": 5811
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\aiService.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\aiService.ts",
+    "name": "aiService.ts",
+    "ext": ".ts",
+    "size": 4125
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\AnalyticsService.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\AnalyticsService.ts",
+    "name": "AnalyticsService.ts",
+    "ext": ".ts",
+    "size": 1835
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\auctionRoutes.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\auctionRoutes.ts",
+    "name": "auctionRoutes.ts",
+    "ext": ".ts",
+    "size": 1933
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\AuctionSchema.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\AuctionSchema.ts",
+    "name": "AuctionSchema.ts",
+    "ext": ".ts",
+    "size": 1172
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\auth.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\auth.ts",
+    "name": "auth.ts",
+    "ext": ".ts",
+    "size": 2050
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\authFlow.spec.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\authFlow.spec.ts",
+    "name": "authFlow.spec.ts",
+    "ext": ".ts",
+    "size": 3015
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\bidNotificationFlow.spec.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\bidNotificationFlow.spec.ts",
+    "name": "bidNotificationFlow.spec.ts",
+    "ext": ".ts",
+    "size": 3446
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\buyerFlow.spec.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\buyerFlow.spec.ts",
+    "name": "buyerFlow.spec.ts",
+    "ext": ".ts",
+    "size": 4062
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\Contract.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\Contract.ts",
+    "name": "Contract.ts",
+    "ext": ".ts",
+    "size": 2874
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\contractController.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\contractController.ts",
+    "name": "contractController.ts",
+    "ext": ".ts",
+    "size": 2642
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\contractRoutes.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\contractRoutes.ts",
+    "name": "contractRoutes.ts",
+    "ext": ".ts",
+    "size": 1035
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\ContractService.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\ContractService.ts",
+    "name": "ContractService.ts",
+    "ext": ".ts",
+    "size": 4158
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\Conversation.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\Conversation.ts",
+    "name": "Conversation.ts",
+    "ext": ".ts",
+    "size": 1029
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\DashboardPage.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\DashboardPage.tsx",
+    "name": "DashboardPage.tsx",
+    "ext": ".tsx",
+    "size": 2895
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\DisputeMessage.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\DisputeMessage.ts",
+    "name": "DisputeMessage.ts",
+    "ext": ".ts",
+    "size": 1676
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\disputeRoutes.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\disputeRoutes.ts",
+    "name": "disputeRoutes.ts",
+    "ext": ".ts",
+    "size": 1003
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\DisputeSchema.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\DisputeSchema.ts",
+    "name": "DisputeSchema.ts",
+    "ext": ".ts",
+    "size": 1081
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\DisputeService.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\DisputeService.ts",
+    "name": "DisputeService.ts",
+    "ext": ".ts",
+    "size": 2719
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\finalizationFlow.spec.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\finalizationFlow.spec.ts",
+    "name": "finalizationFlow.spec.ts",
+    "ext": ".ts",
+    "size": 3671
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\ForumCategory.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\ForumCategory.ts",
+    "name": "ForumCategory.ts",
+    "ext": ".ts",
+    "size": 1400
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\ForumPost.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\ForumPost.ts",
+    "name": "ForumPost.ts",
+    "ext": ".ts",
+    "size": 1343
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\ForumThread.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\ForumThread.ts",
+    "name": "ForumThread.ts",
+    "ext": ".ts",
+    "size": 1683
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\WelcomeNotification.test.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\WelcomeNotification.test.test.ts",
+    "name": "WelcomeNotification.test.test.ts",
+    "ext": ".ts",
+    "size": 55
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\WelcomeNotification.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\WelcomeNotification.test.ts",
+    "name": "WelcomeNotification.test.ts",
+    "ext": ".ts",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\WelcomeNotification.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\WelcomeNotification.ts",
+    "name": "WelcomeNotification.ts",
+    "ext": ".ts",
+    "size": 2451
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\WowRegression.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\WowRegression.test_1.ts",
+    "name": "WowRegression.test_1.ts",
+    "ext": ".ts",
+    "size": 231
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\WowRegression.test.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\WowRegression.test.test_1.ts",
+    "name": "WowRegression.test.test_1.ts",
+    "ext": ".ts",
+    "size": 49
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\WowRegression.test.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\WowRegression.test.test.ts",
+    "name": "WowRegression.test.test.ts",
+    "ext": ".ts",
+    "size": 49
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\WowRegression.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\WowRegression.test.ts",
+    "name": "WowRegression.test.ts",
+    "ext": ".ts",
+    "size": 231
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AchievementPopup_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AchievementPopup_1.tsx",
+    "name": "AchievementPopup_1.tsx",
+    "ext": ".tsx",
+    "size": 1716
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AchievementPopup.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AchievementPopup.test_1.tsx",
+    "name": "AchievementPopup.test_1.tsx",
+    "ext": ".tsx",
+    "size": 2328
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AchievementPopup.test.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AchievementPopup.test.test_1.tsx",
+    "name": "AchievementPopup.test.test_1.tsx",
+    "ext": ".tsx",
+    "size": 53
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AchievementPopup.test.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AchievementPopup.test.test.tsx",
+    "name": "AchievementPopup.test.test.tsx",
+    "ext": ".tsx",
+    "size": 53
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AchievementPopup.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AchievementPopup.test.tsx",
+    "name": "AchievementPopup.test.tsx",
+    "ext": ".tsx",
+    "size": 48
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AchievementPopup.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AchievementPopup.tsx",
+    "name": "AchievementPopup.tsx",
+    "ext": ".tsx",
+    "size": 1716
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\ActivityOverview_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\ActivityOverview_1.tsx",
+    "name": "ActivityOverview_1.tsx",
+    "ext": ".tsx",
+    "size": 2341
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\ActivityOverview.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\ActivityOverview.test_1.tsx",
+    "name": "ActivityOverview.test_1.tsx",
+    "ext": ".tsx",
+    "size": 48
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\ActivityOverview.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\ActivityOverview.test.tsx",
+    "name": "ActivityOverview.test.tsx",
+    "ext": ".tsx",
+    "size": 48
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\ActivityOverview.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\ActivityOverview.tsx",
+    "name": "ActivityOverview.tsx",
+    "ext": ".tsx",
+    "size": 2341
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AdminArbitrationDashboard_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AdminArbitrationDashboard_1.tsx",
+    "name": "AdminArbitrationDashboard_1.tsx",
+    "ext": ".tsx",
+    "size": 3640
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AdminArbitrationDashboard.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AdminArbitrationDashboard.test_1.tsx",
+    "name": "AdminArbitrationDashboard.test_1.tsx",
+    "ext": ".tsx",
+    "size": 57
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AdminArbitrationDashboard.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AdminArbitrationDashboard.test.tsx",
+    "name": "AdminArbitrationDashboard.test.tsx",
+    "ext": ".tsx",
+    "size": 57
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AdminArbitrationDashboard.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AdminArbitrationDashboard.tsx",
+    "name": "AdminArbitrationDashboard.tsx",
+    "ext": ".tsx",
+    "size": 3640
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AdminAuctionOverview_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AdminAuctionOverview_1.tsx",
+    "name": "AdminAuctionOverview_1.tsx",
+    "ext": ".tsx",
+    "size": 4072
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AdminAuctionOverview.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AdminAuctionOverview.test_1.tsx",
+    "name": "AdminAuctionOverview.test_1.tsx",
+    "ext": ".tsx",
+    "size": 3177
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AdminAuctionOverview.test.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AdminAuctionOverview.test.test_1.tsx",
+    "name": "AdminAuctionOverview.test.test_1.tsx",
+    "ext": ".tsx",
+    "size": 57
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AdminAuctionOverview.test.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AdminAuctionOverview.test.test.tsx",
+    "name": "AdminAuctionOverview.test.test.tsx",
+    "ext": ".tsx",
+    "size": 57
+  }
+]

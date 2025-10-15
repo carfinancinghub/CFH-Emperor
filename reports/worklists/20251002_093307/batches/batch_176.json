@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\theme.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\theme.test.ts",
+    "name": "theme.test.ts",
+    "ext": ".ts",
+    "size": 36
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\tierCheck.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\tierCheck.test_1.ts",
+    "name": "tierCheck.test_1.ts",
+    "ext": ".ts",
+    "size": 7089
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\timeUtils_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\timeUtils_1.ts",
+    "name": "timeUtils_1.ts",
+    "ext": ".ts",
+    "size": 428
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\TitleAgentDashboard_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\TitleAgentDashboard_1.ts",
+    "name": "TitleAgentDashboard_1.ts",
+    "ext": ".ts",
+    "size": 4281
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\TitleAgentDashboard.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\TitleAgentDashboard.test_1.ts",
+    "name": "TitleAgentDashboard.test_1.ts",
+    "ext": ".ts",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\TitleAgentDashboard.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\TitleAgentDashboard.test.ts",
+    "name": "TitleAgentDashboard.test.ts",
+    "ext": ".ts",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\TitleAgentDashboard.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\TitleAgentDashboard.ts",
+    "name": "TitleAgentDashboard.ts",
+    "ext": ".ts",
+    "size": 4281
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\TitleTransferQueue_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\TitleTransferQueue_1.ts",
+    "name": "TitleTransferQueue_1.ts",
+    "ext": ".ts",
+    "size": 2620
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\TitleTransferQueue.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\TitleTransferQueue.test_1.ts",
+    "name": "TitleTransferQueue.test_1.ts",
+    "ext": ".ts",
+    "size": 49
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\TitleTransferQueue.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\TitleTransferQueue.test.ts",
+    "name": "TitleTransferQueue.test.ts",
+    "ext": ".ts",
+    "size": 49
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\TitleTransferQueue.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\TitleTransferQueue.ts",
+    "name": "TitleTransferQueue.ts",
+    "ext": ".ts",
+    "size": 2620
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\TitleVerificationForm_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\TitleVerificationForm_1.ts",
+    "name": "TitleVerificationForm_1.ts",
+    "ext": ".ts",
+    "size": 2838
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\TitleVerificationForm.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\TitleVerificationForm.test_1.ts",
+    "name": "TitleVerificationForm.test_1.ts",
+    "ext": ".ts",
+    "size": 52
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\TitleVerificationForm.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\TitleVerificationForm.test.ts",
+    "name": "TitleVerificationForm.test.ts",
+    "ext": ".ts",
+    "size": 52
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\TitleVerificationForm.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\TitleVerificationForm.ts",
+    "name": "TitleVerificationForm.ts",
+    "ext": ".ts",
+    "size": 2838
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\TradeInForm_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\TradeInForm_1.ts",
+    "name": "TradeInForm_1.ts",
+    "ext": ".ts",
+    "size": 1832
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\TradeInForm.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\TradeInForm.test_1.ts",
+    "name": "TradeInForm.test_1.ts",
+    "ext": ".ts",
+    "size": 42
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\TradeInForm.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\TradeInForm.test.ts",
+    "name": "TradeInForm.test.ts",
+    "ext": ".ts",
+    "size": 42
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\TradeInForm.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\TradeInForm.ts",
+    "name": "TradeInForm.ts",
+    "ext": ".ts",
+    "size": 1832
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\transcribeVoiceNote_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\transcribeVoiceNote_1.ts",
+    "name": "transcribeVoiceNote_1.ts",
+    "ext": ".ts",
+    "size": 1724
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\transcribeVoiceNote.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\transcribeVoiceNote.test_1.ts",
+    "name": "transcribeVoiceNote.test_1.ts",
+    "ext": ".ts",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\transcribeVoiceNote.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\transcribeVoiceNote.test.ts",
+    "name": "transcribeVoiceNote.test.ts",
+    "ext": ".ts",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\transcribeVoiceNote.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\transcribeVoiceNote.ts",
+    "name": "transcribeVoiceNote.ts",
+    "ext": ".ts",
+    "size": 1724
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\transport.validation_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\transport.validation_1.ts",
+    "name": "transport.validation_1.ts",
+    "ext": ".ts",
+    "size": 1203
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\transportController_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\transportController_1.ts",
+    "name": "transportController_1.ts",
+    "ext": ".ts",
+    "size": 1622
+  }
+]

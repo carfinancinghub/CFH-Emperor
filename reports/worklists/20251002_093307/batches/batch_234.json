@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SustainabilityMetrics.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SustainabilityMetrics.test.tsx",
+    "name": "SustainabilityMetrics.test.tsx",
+    "ext": ".tsx",
+    "size": 53
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SustainabilityMetrics.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SustainabilityMetrics.tsx",
+    "name": "SustainabilityMetrics.tsx",
+    "ext": ".tsx",
+    "size": 3143
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\TaskCompletionButton_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\TaskCompletionButton_1.tsx",
+    "name": "TaskCompletionButton_1.tsx",
+    "ext": ".tsx",
+    "size": 2103
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\TaskCompletionButton.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\TaskCompletionButton.test_1.tsx",
+    "name": "TaskCompletionButton.test_1.tsx",
+    "ext": ".tsx",
+    "size": 2387
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\TaskCompletionButton.test.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\TaskCompletionButton.test.test_1.tsx",
+    "name": "TaskCompletionButton.test.test_1.tsx",
+    "ext": ".tsx",
+    "size": 57
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\TaskCompletionButton.test.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\TaskCompletionButton.test.test.tsx",
+    "name": "TaskCompletionButton.test.test.tsx",
+    "ext": ".tsx",
+    "size": 57
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\TaskCompletionButton.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\TaskCompletionButton.test.tsx",
+    "name": "TaskCompletionButton.test.tsx",
+    "ext": ".tsx",
+    "size": 52
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\TaskCompletionButton.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\TaskCompletionButton.tsx",
+    "name": "TaskCompletionButton.tsx",
+    "ext": ".tsx",
+    "size": 2103
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\test_1.tsx",
+    "name": "test_1.tsx",
+    "ext": ".tsx",
+    "size": 8789
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\TestRunnerDashboard_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\TestRunnerDashboard_1.tsx",
+    "name": "TestRunnerDashboard_1.tsx",
+    "ext": ".tsx",
+    "size": 5656
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\TestRunnerDashboard.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\TestRunnerDashboard.test_1.tsx",
+    "name": "TestRunnerDashboard.test_1.tsx",
+    "ext": ".tsx",
+    "size": 51
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\TestRunnerDashboard.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\TestRunnerDashboard.test.tsx",
+    "name": "TestRunnerDashboard.test.tsx",
+    "ext": ".tsx",
+    "size": 51
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\TestRunnerDashboard.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\TestRunnerDashboard.tsx",
+    "name": "TestRunnerDashboard.tsx",
+    "ext": ".tsx",
+    "size": 5656
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\TintingServiceDiscovery_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\TintingServiceDiscovery_1.tsx",
+    "name": "TintingServiceDiscovery_1.tsx",
+    "ext": ".tsx",
+    "size": 5570
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\ToastManager_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\ToastManager_1.tsx",
+    "name": "ToastManager_1.tsx",
+    "ext": ".tsx",
+    "size": 793
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\ToastManager.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\ToastManager.test_1.tsx",
+    "name": "ToastManager.test_1.tsx",
+    "ext": ".tsx",
+    "size": 44
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\ToastManager.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\ToastManager.test.tsx",
+    "name": "ToastManager.test.tsx",
+    "ext": ".tsx",
+    "size": 44
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\ToastManager.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\ToastManager.tsx",
+    "name": "ToastManager.tsx",
+    "ext": ".tsx",
+    "size": 793
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\ToastWrapper_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\ToastWrapper_1.tsx",
+    "name": "ToastWrapper_1.tsx",
+    "ext": ".tsx",
+    "size": 393
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\ToastWrapper.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\ToastWrapper.test_1.tsx",
+    "name": "ToastWrapper.test_1.tsx",
+    "ext": ".tsx",
+    "size": 44
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\ToastWrapper.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\ToastWrapper.test.tsx",
+    "name": "ToastWrapper.test.tsx",
+    "ext": ".tsx",
+    "size": 44
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\ToastWrapper.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\ToastWrapper.tsx",
+    "name": "ToastWrapper.tsx",
+    "ext": ".tsx",
+    "size": 393
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\TrustAndAIExplainer_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\TrustAndAIExplainer_1.tsx",
+    "name": "TrustAndAIExplainer_1.tsx",
+    "ext": ".tsx",
+    "size": 3337
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\TrustAndAIExplainer.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\TrustAndAIExplainer.test_1.tsx",
+    "name": "TrustAndAIExplainer.test_1.tsx",
+    "ext": ".tsx",
+    "size": 51
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\TrustAndAIExplainer.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\TrustAndAIExplainer.test.tsx",
+    "name": "TrustAndAIExplainer.test.tsx",
+    "ext": ".tsx",
+    "size": 51
+  }
+]

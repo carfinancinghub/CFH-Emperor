@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\needsHome\\MarketplaceInsights.js",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\needsHome\\MarketplaceInsights.js",
+    "name": "MarketplaceInsights.js",
+    "ext": ".js",
+    "size": 716
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\needsHome\\Messaging.css",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\needsHome\\Messaging.css",
+    "name": "Messaging.css",
+    "ext": ".css",
+    "size": 2326
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\needsHome\\Messaging.js",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\needsHome\\Messaging.js",
+    "name": "Messaging.js",
+    "ext": ".js",
+    "size": 2011
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\needsHome\\Navbar.js",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\needsHome\\Navbar.js",
+    "name": "Navbar.js",
+    "ext": ".js",
+    "size": 1505
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\needsHome\\NotificationCenter.css",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\needsHome\\NotificationCenter.css",
+    "name": "NotificationCenter.css",
+    "ext": ".css",
+    "size": 1428
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\needsHome\\NotificationCenter.js",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\needsHome\\NotificationCenter.js",
+    "name": "NotificationCenter.js",
+    "ext": ".js",
+    "size": 4073
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\needsHome\\PaymentForm.js",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\needsHome\\PaymentForm.js",
+    "name": "PaymentForm.js",
+    "ext": ".js",
+    "size": 1802
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\needsHome\\ReferralAnalytics.js",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\needsHome\\ReferralAnalytics.js",
+    "name": "ReferralAnalytics.js",
+    "ext": ".js",
+    "size": 817
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\needsHome\\Register.js",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\needsHome\\Register.js",
+    "name": "Register.js",
+    "ext": ".js",
+    "size": 3141
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\needsHome\\RegisterForm.js",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\needsHome\\RegisterForm.js",
+    "name": "RegisterForm.js",
+    "ext": ".js",
+    "size": 1513
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\needsHome\\ReputationBadgeTier.css",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\needsHome\\ReputationBadgeTier.css",
+    "name": "ReputationBadgeTier.css",
+    "ext": ".css",
+    "size": 232
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\needsHome\\ReputationBadgeTier.js",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\needsHome\\ReputationBadgeTier.js",
+    "name": "ReputationBadgeTier.js",
+    "ext": ".js",
+    "size": 667
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\needsHome\\RoleActivityCharts.css",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\needsHome\\RoleActivityCharts.css",
+    "name": "RoleActivityCharts.css",
+    "ext": ".css",
+    "size": 294
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\needsHome\\RoleActivityCharts.js",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\needsHome\\RoleActivityCharts.js",
+    "name": "RoleActivityCharts.js",
+    "ext": ".js",
+    "size": 2712
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\needsHome\\RoleSwitchWrapper.js",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\needsHome\\RoleSwitchWrapper.js",
+    "name": "RoleSwitchWrapper.js",
+    "ext": ".js",
+    "size": 542
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\needsHome\\SellerCreateListing.js",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\needsHome\\SellerCreateListing.js",
+    "name": "SellerCreateListing.js",
+    "ext": ".js",
+    "size": 2094
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\needsHome\\SellerDashboard.js",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\needsHome\\SellerDashboard.js",
+    "name": "SellerDashboard.js",
+    "ext": ".js",
+    "size": 865
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\needsHome\\SmartRecommendations.css",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\needsHome\\SmartRecommendations.css",
+    "name": "SmartRecommendations.css",
+    "ext": ".css",
+    "size": 1830
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\needsHome\\SmartRecommendations.js",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\needsHome\\SmartRecommendations.js",
+    "name": "SmartRecommendations.js",
+    "ext": ".js",
+    "size": 3577
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\needsHome\\SupportCenter.js",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\needsHome\\SupportCenter.js",
+    "name": "SupportCenter.js",
+    "ext": ".js",
+    "size": 814
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\needsHome\\TradeInForm.js",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\needsHome\\TradeInForm.js",
+    "name": "TradeInForm.js",
+    "ext": ".js",
+    "size": 1761
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\needsHome\\UserProfile.js",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\needsHome\\UserProfile.js",
+    "name": "UserProfile.js",
+    "ext": ".js",
+    "size": 3390
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\needsHome\\UserReviewList.css",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\needsHome\\UserReviewList.css",
+    "name": "UserReviewList.css",
+    "ext": ".css",
+    "size": 1224
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\needsHome\\UserReviewList.js",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\needsHome\\UserReviewList.js",
+    "name": "UserReviewList.js",
+    "ext": ".js",
+    "size": 2214
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\needsHome\\VoiceInteraction.js",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\needsHome\\VoiceInteraction.js",
+    "name": "VoiceInteraction.js",
+    "ext": ".js",
+    "size": 619
+  }
+]

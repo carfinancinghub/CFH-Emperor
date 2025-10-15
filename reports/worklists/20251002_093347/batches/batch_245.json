@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\searchFlow.spec.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\searchFlow.spec.ts",
+    "name": "searchFlow.spec.ts",
+    "ext": ".ts",
+    "size": 1422
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\seed.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\seed.ts",
+    "name": "seed.ts",
+    "ext": ".ts",
+    "size": 2787
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\sellerFlow.spec.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\sellerFlow.spec.ts",
+    "name": "sellerFlow.spec.ts",
+    "ext": ".ts",
+    "size": 3300
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\sellerReputationMeta.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\sellerReputationMeta.ts",
+    "name": "sellerReputationMeta.ts",
+    "ext": ".ts",
+    "size": 3487
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\sellerRoutes.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\sellerRoutes.ts",
+    "name": "sellerRoutes.ts",
+    "ext": ".ts",
+    "size": 4219
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\server.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\server.ts",
+    "name": "server.ts",
+    "ext": ".ts",
+    "size": 3755
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\service-worker.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\service-worker.ts",
+    "name": "service-worker.ts",
+    "ext": ".ts",
+    "size": 1219
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\serviceProviderController.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\serviceProviderController.ts",
+    "name": "serviceProviderController.ts",
+    "ext": ".ts",
+    "size": 1720
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\ServiceProviderProfile.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\ServiceProviderProfile.ts",
+    "name": "ServiceProviderProfile.ts",
+    "ext": ".ts",
+    "size": 3334
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\serviceProviderRoutes.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\serviceProviderRoutes.ts",
+    "name": "serviceProviderRoutes.ts",
+    "ext": ".ts",
+    "size": 1112
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\ServiceProviderSchema.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\ServiceProviderSchema.ts",
+    "name": "ServiceProviderSchema.ts",
+    "ext": ".ts",
+    "size": 859
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\ServiceProviderService.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\ServiceProviderService.ts",
+    "name": "ServiceProviderService.ts",
+    "ext": ".ts",
+    "size": 2253
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\syncRoutes.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\syncRoutes.ts",
+    "name": "syncRoutes.ts",
+    "ext": ".ts",
+    "size": 2879
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\taskCompletionRoutes.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\taskCompletionRoutes.ts",
+    "name": "taskCompletionRoutes.ts",
+    "ext": ".ts",
+    "size": 4515
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\taskOutcomeRoutes.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\taskOutcomeRoutes.ts",
+    "name": "taskOutcomeRoutes.ts",
+    "ext": ".ts",
+    "size": 3528
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\Title.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\Title.ts",
+    "name": "Title.ts",
+    "ext": ".ts",
+    "size": 2380
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\titleController.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\titleController.ts",
+    "name": "titleController.ts",
+    "ext": ".ts",
+    "size": 1847
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\titleRoutes.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\titleRoutes.ts",
+    "name": "titleRoutes.ts",
+    "ext": ".ts",
+    "size": 971
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\TitleSchema.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\TitleSchema.ts",
+    "name": "TitleSchema.ts",
+    "ext": ".ts",
+    "size": 624
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\titleService.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\titleService.ts",
+    "name": "titleService.ts",
+    "ext": ".ts",
+    "size": 3174
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\toolingBucket.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\toolingBucket.ts",
+    "name": "toolingBucket.ts",
+    "ext": ".ts",
+    "size": 1717
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\Transaction.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\Transaction.ts",
+    "name": "Transaction.ts",
+    "ext": ".ts",
+    "size": 2256
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\transactionController.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\transactionController.ts",
+    "name": "transactionController.ts",
+    "ext": ".ts",
+    "size": 3178
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\transactionRoutes.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\transactionRoutes.ts",
+    "name": "transactionRoutes.ts",
+    "ext": ".ts",
+    "size": 1699
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\TransactionService.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\TransactionService.ts",
+    "name": "TransactionService.ts",
+    "ext": ".ts",
+    "size": 3406
+  }
+]

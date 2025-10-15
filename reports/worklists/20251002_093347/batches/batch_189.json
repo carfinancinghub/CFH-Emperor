@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AdminSidebar.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AdminSidebar.test.tsx",
+    "name": "AdminSidebar.test.tsx",
+    "ext": ".tsx",
+    "size": 44
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AdminSidebar.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AdminSidebar.tsx",
+    "name": "AdminSidebar.tsx",
+    "ext": ".tsx",
+    "size": 2053
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AdminSmartAlertEngine_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AdminSmartAlertEngine_1.tsx",
+    "name": "AdminSmartAlertEngine_1.tsx",
+    "ext": ".tsx",
+    "size": 4778
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AdminSmartAlertEngine.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AdminSmartAlertEngine.test_1.tsx",
+    "name": "AdminSmartAlertEngine.test_1.tsx",
+    "ext": ".tsx",
+    "size": 53
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AdminSmartAlertEngine.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AdminSmartAlertEngine.test.tsx",
+    "name": "AdminSmartAlertEngine.test.tsx",
+    "ext": ".tsx",
+    "size": 53
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AdminSummaryPanel_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AdminSummaryPanel_1.tsx",
+    "name": "AdminSummaryPanel_1.tsx",
+    "ext": ".tsx",
+    "size": 1400
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AdminSummaryPanel.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AdminSummaryPanel.test_1.tsx",
+    "name": "AdminSummaryPanel.test_1.tsx",
+    "ext": ".tsx",
+    "size": 49
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AdminSummaryPanel.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AdminSummaryPanel.test.tsx",
+    "name": "AdminSummaryPanel.test.tsx",
+    "ext": ".tsx",
+    "size": 49
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AdminSupportTickets_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AdminSupportTickets_1.tsx",
+    "name": "AdminSupportTickets_1.tsx",
+    "ext": ".tsx",
+    "size": 2544
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AdminSupportTickets.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AdminSupportTickets.test_1.tsx",
+    "name": "AdminSupportTickets.test_1.tsx",
+    "ext": ".tsx",
+    "size": 51
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AdminSupportTickets.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AdminSupportTickets.test.tsx",
+    "name": "AdminSupportTickets.test.tsx",
+    "ext": ".tsx",
+    "size": 51
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AdminSystemHealth_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AdminSystemHealth_1.tsx",
+    "name": "AdminSystemHealth_1.tsx",
+    "ext": ".tsx",
+    "size": 2842
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AdminSystemHealth.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AdminSystemHealth.test_1.tsx",
+    "name": "AdminSystemHealth.test_1.tsx",
+    "ext": ".tsx",
+    "size": 49
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AdminSystemHealth.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AdminSystemHealth.test.tsx",
+    "name": "AdminSystemHealth.test.tsx",
+    "ext": ".tsx",
+    "size": 49
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AdminTopbar_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AdminTopbar_1.tsx",
+    "name": "AdminTopbar_1.tsx",
+    "ext": ".tsx",
+    "size": 1440
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AdminTopbar.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AdminTopbar.test_1.tsx",
+    "name": "AdminTopbar.test_1.tsx",
+    "ext": ".tsx",
+    "size": 43
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AdminTopbar.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AdminTopbar.test.tsx",
+    "name": "AdminTopbar.test.tsx",
+    "ext": ".tsx",
+    "size": 43
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AdminTopbar.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AdminTopbar.tsx",
+    "name": "AdminTopbar.tsx",
+    "ext": ".tsx",
+    "size": 1440
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AdminUserManager_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AdminUserManager_1.tsx",
+    "name": "AdminUserManager_1.tsx",
+    "ext": ".tsx",
+    "size": 4103
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AdminUserManager.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AdminUserManager.test_1.tsx",
+    "name": "AdminUserManager.test_1.tsx",
+    "ext": ".tsx",
+    "size": 48
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AdminUserManager.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AdminUserManager.test.tsx",
+    "name": "AdminUserManager.test.tsx",
+    "ext": ".tsx",
+    "size": 48
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AIDamageSummary_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AIDamageSummary_1.tsx",
+    "name": "AIDamageSummary_1.tsx",
+    "ext": ".tsx",
+    "size": 5556
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AIDamageSummary.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AIDamageSummary.test_1.tsx",
+    "name": "AIDamageSummary.test_1.tsx",
+    "ext": ".tsx",
+    "size": 7610
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AIDiagnosticsAssistant_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AIDiagnosticsAssistant_1.tsx",
+    "name": "AIDiagnosticsAssistant_1.tsx",
+    "ext": ".tsx",
+    "size": 2019
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AIDiagnosticsAssistant.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AIDiagnosticsAssistant.test_1.tsx",
+    "name": "AIDiagnosticsAssistant.test_1.tsx",
+    "ext": ".tsx",
+    "size": 699
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "docs\\CollaborationChat.md",
+    "full_path": "C:\\CFH\\frontend\\docs\\CollaborationChat.md",
+    "name": "CollaborationChat.md",
+    "ext": ".md",
+    "size": 1273
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "docs\\SellerReputationDashboard.md",
+    "full_path": "C:\\CFH\\frontend\\docs\\SellerReputationDashboard.md",
+    "name": "SellerReputationDashboard.md",
+    "ext": ".md",
+    "size": 843
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "jest.config.js",
+    "full_path": "C:\\CFH\\frontend\\jest.config.js",
+    "name": "jest.config.js",
+    "ext": ".js",
+    "size": 247
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "packages\\inspection-utils\\README.md",
+    "full_path": "C:\\CFH\\frontend\\packages\\inspection-utils\\README.md",
+    "name": "README.md",
+    "ext": ".md",
+    "size": 845
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "packages\\inspection-utils\\tests\\__smoke__.test.ts",
+    "full_path": "C:\\CFH\\frontend\\packages\\inspection-utils\\tests\\__smoke__.test.ts",
+    "name": "__smoke__.test.ts",
+    "ext": ".ts",
+    "size": 808
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\App.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\App.jsx",
+    "name": "App.jsx",
+    "ext": ".jsx",
+    "size": 5324
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\App.tsx",
+    "full_path": "C:\\CFH\\frontend\\src\\App.tsx",
+    "name": "App.tsx",
+    "ext": ".tsx",
+    "size": 5342
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\archive\\hauler\\haulerBucket.js",
+    "full_path": "C:\\CFH\\frontend\\src\\archive\\hauler\\haulerBucket.js",
+    "name": "haulerBucket.js",
+    "ext": ".js",
+    "size": 2350
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\archive\\hauler\\haulerBucket.ts",
+    "full_path": "C:\\CFH\\frontend\\src\\archive\\hauler\\haulerBucket.ts",
+    "name": "haulerBucket.ts",
+    "ext": ".ts",
+    "size": 3007
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\archive\\hauler\\HaulerController.js",
+    "full_path": "C:\\CFH\\frontend\\src\\archive\\hauler\\HaulerController.js",
+    "name": "HaulerController.js",
+    "ext": ".js",
+    "size": 2443
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\archive\\hauler\\haulerReputationController.js",
+    "full_path": "C:\\CFH\\frontend\\src\\archive\\hauler\\haulerReputationController.js",
+    "name": "haulerReputationController.js",
+    "ext": ".js",
+    "size": 1108
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\admin\\AdminAuctionOverview.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\admin\\AdminAuctionOverview.jsx",
+    "name": "AdminAuctionOverview.jsx",
+    "ext": ".jsx",
+    "size": 3983
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\admin\\AdminAuctionOverview.tsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\admin\\AdminAuctionOverview.tsx",
+    "name": "AdminAuctionOverview.tsx",
+    "ext": ".tsx",
+    "size": 4940
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\admin\\AdminCustomWidgetLibrary.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\admin\\AdminCustomWidgetLibrary.jsx",
+    "name": "AdminCustomWidgetLibrary.jsx",
+    "ext": ".jsx",
+    "size": 5901
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\admin\\AdminCustomWidgetLibrary.tsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\admin\\AdminCustomWidgetLibrary.tsx",
+    "name": "AdminCustomWidgetLibrary.tsx",
+    "ext": ".tsx",
+    "size": 8306
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\admin\\analytics\\AdminEngagementAnalytics.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\admin\\analytics\\AdminEngagementAnalytics.jsx",
+    "name": "AdminEngagementAnalytics.jsx",
+    "ext": ".jsx",
+    "size": 982
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\admin\\analytics\\AdminRoleAnalytics.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\admin\\analytics\\AdminRoleAnalytics.jsx",
+    "name": "AdminRoleAnalytics.jsx",
+    "ext": ".jsx",
+    "size": 1671
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\admin\\arbitration\\AdminArbitrationDashboard.css",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\admin\\arbitration\\AdminArbitrationDashboard.css",
+    "name": "AdminArbitrationDashboard.css",
+    "ext": ".css",
+    "size": 1198
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\admin\\arbitration\\AdminArbitrationDashboard.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\admin\\arbitration\\AdminArbitrationDashboard.jsx",
+    "name": "AdminArbitrationDashboard.jsx",
+    "ext": ".jsx",
+    "size": 3554
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\admin\\badges\\AdminBadgeAuditLog.css",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\admin\\badges\\AdminBadgeAuditLog.css",
+    "name": "AdminBadgeAuditLog.css",
+    "ext": ".css",
+    "size": 880
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\admin\\badges\\AdminBadgeAuditLog.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\admin\\badges\\AdminBadgeAuditLog.jsx",
+    "name": "AdminBadgeAuditLog.jsx",
+    "ext": ".jsx",
+    "size": 2607
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\admin\\compliance\\AdminComplianceDashboard.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\admin\\compliance\\AdminComplianceDashboard.jsx",
+    "name": "AdminComplianceDashboard.jsx",
+    "ext": ".jsx",
+    "size": 13807
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\admin\\contract\\AdminContractTemplates.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\admin\\contract\\AdminContractTemplates.jsx",
+    "name": "AdminContractTemplates.jsx",
+    "ext": ".jsx",
+    "size": 3268
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\admin\\dashboard\\AdminDashboard.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\admin\\dashboard\\AdminDashboard.jsx",
+    "name": "AdminDashboard.jsx",
+    "ext": ".jsx",
+    "size": 3023
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\admin\\dashboard\\AdminKPIWidget.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\admin\\dashboard\\AdminKPIWidget.jsx",
+    "name": "AdminKPIWidget.jsx",
+    "ext": ".jsx",
+    "size": 671
+  }
+]

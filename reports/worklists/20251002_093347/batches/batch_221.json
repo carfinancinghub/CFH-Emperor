@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\PremiumBadgeHintCard_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\PremiumBadgeHintCard_1.tsx",
+    "name": "PremiumBadgeHintCard_1.tsx",
+    "ext": ".tsx",
+    "size": 2401
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\PremiumBadgeHintCard.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\PremiumBadgeHintCard.test_1.tsx",
+    "name": "PremiumBadgeHintCard.test_1.tsx",
+    "ext": ".tsx",
+    "size": 52
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\PremiumBadgeHintCard.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\PremiumBadgeHintCard.test.tsx",
+    "name": "PremiumBadgeHintCard.test.tsx",
+    "ext": ".tsx",
+    "size": 52
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\PremiumBadgeHintCard.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\PremiumBadgeHintCard.tsx",
+    "name": "PremiumBadgeHintCard.tsx",
+    "ext": ".tsx",
+    "size": 2401
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\PremiumDashboard_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\PremiumDashboard_1.tsx",
+    "name": "PremiumDashboard_1.tsx",
+    "ext": ".tsx",
+    "size": 3902
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\PremiumDashboard.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\PremiumDashboard.test_1.tsx",
+    "name": "PremiumDashboard.test_1.tsx",
+    "ext": ".tsx",
+    "size": 2666
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\PremiumDashboard.test.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\PremiumDashboard.test.test_1.tsx",
+    "name": "PremiumDashboard.test.test_1.tsx",
+    "ext": ".tsx",
+    "size": 53
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\PremiumDashboard.test.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\PremiumDashboard.test.test.tsx",
+    "name": "PremiumDashboard.test.test.tsx",
+    "ext": ".tsx",
+    "size": 53
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\PremiumDashboard.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\PremiumDashboard.test.tsx",
+    "name": "PremiumDashboard.test.tsx",
+    "ext": ".tsx",
+    "size": 48
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\PremiumDashboard.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\PremiumDashboard.tsx",
+    "name": "PremiumDashboard.tsx",
+    "ext": ".tsx",
+    "size": 3902
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\PremiumFeature_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\PremiumFeature_1.tsx",
+    "name": "PremiumFeature_1.tsx",
+    "ext": ".tsx",
+    "size": 1978
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\PremiumFeature.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\PremiumFeature.test_1.tsx",
+    "name": "PremiumFeature.test_1.tsx",
+    "ext": ".tsx",
+    "size": 46
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\PremiumFeature.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\PremiumFeature.test.tsx",
+    "name": "PremiumFeature.test.tsx",
+    "ext": ".tsx",
+    "size": 46
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\PremiumFeature.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\PremiumFeature.tsx",
+    "name": "PremiumFeature.tsx",
+    "ext": ".tsx",
+    "size": 1978
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\PricingInsights_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\PricingInsights_1.tsx",
+    "name": "PricingInsights_1.tsx",
+    "ext": ".tsx",
+    "size": 3096
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\PricingInsights.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\PricingInsights.test_1.tsx",
+    "name": "PricingInsights.test_1.tsx",
+    "ext": ".tsx",
+    "size": 2687
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\PricingInsights.test.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\PricingInsights.test.test_1.tsx",
+    "name": "PricingInsights.test.test_1.tsx",
+    "ext": ".tsx",
+    "size": 52
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\PricingInsights.test.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\PricingInsights.test.test.tsx",
+    "name": "PricingInsights.test.test.tsx",
+    "ext": ".tsx",
+    "size": 52
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\PricingInsights.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\PricingInsights.test.tsx",
+    "name": "PricingInsights.test.tsx",
+    "ext": ".tsx",
+    "size": 47
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\PricingInsights.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\PricingInsights.tsx",
+    "name": "PricingInsights.tsx",
+    "ext": ".tsx",
+    "size": 3096
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\ProtectedRoute_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\ProtectedRoute_1.tsx",
+    "name": "ProtectedRoute_1.tsx",
+    "ext": ".tsx",
+    "size": 477
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\ProtectedRoute.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\ProtectedRoute.test_1.tsx",
+    "name": "ProtectedRoute.test_1.tsx",
+    "ext": ".tsx",
+    "size": 46
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\ProtectedRoute.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\ProtectedRoute.test.tsx",
+    "name": "ProtectedRoute.test.tsx",
+    "ext": ".tsx",
+    "size": 46
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\ProtectedRoute.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\ProtectedRoute.tsx",
+    "name": "ProtectedRoute.tsx",
+    "ext": ".tsx",
+    "size": 477
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\QualityCheckComponent_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\QualityCheckComponent_1.tsx",
+    "name": "QualityCheckComponent_1.tsx",
+    "ext": ".tsx",
+    "size": 13450
+  }
+]

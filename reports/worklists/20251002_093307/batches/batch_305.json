@@ -1,0 +1,202 @@
+[
+  {
+    "root": "M:\\cfh",
+    "rel_path": "backend\\middleware\\authMiddleware.ts",
+    "full_path": "M:\\CFH\\backend\\middleware\\authMiddleware.ts",
+    "name": "authMiddleware.ts",
+    "ext": ".ts",
+    "size": 535
+  },
+  {
+    "root": "M:\\cfh",
+    "rel_path": "backend\\middleware\\RBACMiddleware.ts",
+    "full_path": "M:\\CFH\\backend\\middleware\\RBACMiddleware.ts",
+    "name": "RBACMiddleware.ts",
+    "ext": ".ts",
+    "size": 531
+  },
+  {
+    "root": "M:\\cfh",
+    "rel_path": "backend\\middleware\\redisCache.ts",
+    "full_path": "M:\\CFH\\backend\\middleware\\redisCache.ts",
+    "name": "redisCache.ts",
+    "ext": ".ts",
+    "size": 1294
+  },
+  {
+    "root": "M:\\cfh",
+    "rel_path": "backend\\middleware\\requireRole.js",
+    "full_path": "M:\\CFH\\backend\\middleware\\requireRole.js",
+    "name": "requireRole.js",
+    "ext": ".js",
+    "size": 289
+  },
+  {
+    "root": "M:\\cfh",
+    "rel_path": "backend\\middleware\\tierCheck.ts",
+    "full_path": "M:\\CFH\\backend\\middleware\\tierCheck.ts",
+    "name": "tierCheck.ts",
+    "ext": ".ts",
+    "size": 3158
+  },
+  {
+    "root": "M:\\cfh",
+    "rel_path": "backend\\migrate.ts",
+    "full_path": "M:\\CFH\\backend\\migrate.ts",
+    "name": "migrate.ts",
+    "ext": ".ts",
+    "size": 564
+  },
+  {
+    "root": "M:\\cfh",
+    "rel_path": "backend\\models\\ai\\AIInsight.js",
+    "full_path": "M:\\CFH\\backend\\models\\ai\\AIInsight.js",
+    "name": "AIInsight.js",
+    "ext": ".js",
+    "size": 1024
+  },
+  {
+    "root": "M:\\cfh",
+    "rel_path": "backend\\models\\ai\\Recommendation.js",
+    "full_path": "M:\\CFH\\backend\\models\\ai\\Recommendation.js",
+    "name": "Recommendation.js",
+    "ext": ".js",
+    "size": 693
+  },
+  {
+    "root": "M:\\cfh",
+    "rel_path": "backend\\models\\Auction.model.ts",
+    "full_path": "M:\\CFH\\backend\\models\\Auction.model.ts",
+    "name": "Auction.model.ts",
+    "ext": ".ts",
+    "size": 116
+  },
+  {
+    "root": "M:\\cfh",
+    "rel_path": "backend\\models\\contract\\Contract.js",
+    "full_path": "M:\\CFH\\backend\\models\\contract\\Contract.js",
+    "name": "Contract.js",
+    "ext": ".js",
+    "size": 945
+  },
+  {
+    "root": "M:\\cfh",
+    "rel_path": "backend\\models\\Dispute.model.ts",
+    "full_path": "M:\\CFH\\backend\\models\\Dispute.model.ts",
+    "name": "Dispute.model.ts",
+    "ext": ".ts",
+    "size": 120
+  },
+  {
+    "root": "M:\\cfh",
+    "rel_path": "backend\\models\\Escrow.ts",
+    "full_path": "M:\\CFH\\backend\\models\\Escrow.ts",
+    "name": "Escrow.ts",
+    "ext": ".ts",
+    "size": 611
+  },
+  {
+    "root": "M:\\cfh",
+    "rel_path": "backend\\models\\escrow\\EscrowContract.js",
+    "full_path": "M:\\CFH\\backend\\models\\escrow\\EscrowContract.js",
+    "name": "EscrowContract.js",
+    "ext": ".js",
+    "size": 1346
+  },
+  {
+    "root": "M:\\cfh",
+    "rel_path": "backend\\models\\escrow\\EscrowTransactionModel.js",
+    "full_path": "M:\\CFH\\backend\\models\\escrow\\EscrowTransactionModel.js",
+    "name": "EscrowTransactionModel.js",
+    "ext": ".js",
+    "size": 779
+  },
+  {
+    "root": "M:\\cfh",
+    "rel_path": "backend\\models\\escrow\\Payment.js",
+    "full_path": "M:\\CFH\\backend\\models\\escrow\\Payment.js",
+    "name": "Payment.js",
+    "ext": ".js",
+    "size": 1355
+  },
+  {
+    "root": "M:\\cfh",
+    "rel_path": "backend\\models\\fraud\\FraudAlert.js",
+    "full_path": "M:\\CFH\\backend\\models\\fraud\\FraudAlert.js",
+    "name": "FraudAlert.js",
+    "ext": ".js",
+    "size": 1099
+  },
+  {
+    "root": "M:\\cfh",
+    "rel_path": "backend\\models\\hauler\\Delivery.js",
+    "full_path": "M:\\CFH\\backend\\models\\hauler\\Delivery.js",
+    "name": "Delivery.js",
+    "ext": ".js",
+    "size": 1031
+  },
+  {
+    "root": "M:\\cfh",
+    "rel_path": "backend\\models\\hauler\\LenderReputation.js",
+    "full_path": "M:\\CFH\\backend\\models\\hauler\\LenderReputation.js",
+    "name": "LenderReputation.js",
+    "ext": ".js",
+    "size": 856
+  },
+  {
+    "root": "M:\\cfh",
+    "rel_path": "backend\\models\\judge\\Judge.js",
+    "full_path": "M:\\CFH\\backend\\models\\judge\\Judge.js",
+    "name": "Judge.js",
+    "ext": ".js",
+    "size": 1976
+  },
+  {
+    "root": "M:\\cfh",
+    "rel_path": "backend\\models\\lender\\FinancingAuction.js",
+    "full_path": "M:\\CFH\\backend\\models\\lender\\FinancingAuction.js",
+    "name": "FinancingAuction.js",
+    "ext": ".js",
+    "size": 903
+  },
+  {
+    "root": "M:\\cfh",
+    "rel_path": "backend\\models\\lender\\LenderExport.js",
+    "full_path": "M:\\CFH\\backend\\models\\lender\\LenderExport.js",
+    "name": "LenderExport.js",
+    "ext": ".js",
+    "size": 773
+  },
+  {
+    "root": "M:\\cfh",
+    "rel_path": "backend\\models\\lender\\LoanOffer.js",
+    "full_path": "M:\\CFH\\backend\\models\\lender\\LoanOffer.js",
+    "name": "LoanOffer.js",
+    "ext": ".js",
+    "size": 1189
+  },
+  {
+    "root": "M:\\cfh",
+    "rel_path": "backend\\models\\loan\\Loan.js",
+    "full_path": "M:\\CFH\\backend\\models\\loan\\Loan.js",
+    "name": "Loan.js",
+    "ext": ".js",
+    "size": 778
+  },
+  {
+    "root": "M:\\cfh",
+    "rel_path": "backend\\models\\loan\\LoanRequest.js",
+    "full_path": "M:\\CFH\\backend\\models\\loan\\LoanRequest.js",
+    "name": "LoanRequest.js",
+    "ext": ".js",
+    "size": 1111
+  },
+  {
+    "root": "M:\\cfh",
+    "rel_path": "backend\\models\\mechanic\\Inspection.js",
+    "full_path": "M:\\CFH\\backend\\models\\mechanic\\Inspection.js",
+    "name": "Inspection.js",
+    "ext": ".js",
+    "size": 1046
+  }
+]

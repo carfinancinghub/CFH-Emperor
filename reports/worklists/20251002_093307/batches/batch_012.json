@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tasks\\equityFlowTasks.js",
+    "full_path": "C:\\CFH\\backend\\tasks\\equityFlowTasks.js",
+    "name": "equityFlowTasks.js",
+    "ext": ".js",
+    "size": 1654
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\ai\\Heatmap.test.js",
+    "full_path": "C:\\CFH\\backend\\tests\\ai\\Heatmap.test.js",
+    "name": "Heatmap.test.js",
+    "ext": ".js",
+    "size": 2325
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\ai\\PredictionEngine.test.js",
+    "full_path": "C:\\CFH\\backend\\tests\\ai\\PredictionEngine.test.js",
+    "name": "PredictionEngine.test.js",
+    "ext": ".js",
+    "size": 2466
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\ai\\RecommendationEngine.test.js",
+    "full_path": "C:\\CFH\\backend\\tests\\ai\\RecommendationEngine.test.js",
+    "name": "RecommendationEngine.test.js",
+    "ext": ".js",
+    "size": 2710
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\ai\\TrendAnimation.test.js",
+    "full_path": "C:\\CFH\\backend\\tests\\ai\\TrendAnimation.test.js",
+    "name": "TrendAnimation.test.js",
+    "ext": ".js",
+    "size": 2783
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\analytics\\analytics.service.test.js",
+    "full_path": "C:\\CFH\\backend\\tests\\analytics\\analytics.service.test.js",
+    "name": "analytics.service.test.js",
+    "ext": ".js",
+    "size": 2238
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\analytics\\analytics.service.test.ts",
+    "full_path": "C:\\CFH\\backend\\tests\\analytics\\analytics.service.test.ts",
+    "name": "analytics.service.test.ts",
+    "ext": ".ts",
+    "size": 756
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\apiHealthCheck.js",
+    "full_path": "C:\\CFH\\backend\\tests\\apiHealthCheck.js",
+    "name": "apiHealthCheck.js",
+    "ext": ".js",
+    "size": 1440
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\apiHealthCheckFast.js",
+    "full_path": "C:\\CFH\\backend\\tests\\apiHealthCheckFast.js",
+    "name": "apiHealthCheckFast.js",
+    "ext": ".js",
+    "size": 1617
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\apiTestSuite.js",
+    "full_path": "C:\\CFH\\backend\\tests\\apiTestSuite.js",
+    "name": "apiTestSuite.js",
+    "ext": ".js",
+    "size": 4859
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\apiTestSuite2.js",
+    "full_path": "C:\\CFH\\backend\\tests\\apiTestSuite2.js",
+    "name": "apiTestSuite2.js",
+    "ext": ".js",
+    "size": 7495
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\arTests.js",
+    "full_path": "C:\\CFH\\backend\\tests\\arTests.js",
+    "name": "arTests.js",
+    "ext": ".js",
+    "size": 6428
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\arValidation.js",
+    "full_path": "C:\\CFH\\backend\\tests\\arValidation.js",
+    "name": "arValidation.js",
+    "ext": ".js",
+    "size": 6140
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\auction\\AuctionHistory.test.js",
+    "full_path": "C:\\CFH\\backend\\tests\\auction\\AuctionHistory.test.js",
+    "name": "AuctionHistory.test.js",
+    "ext": ".js",
+    "size": 3713
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\auction\\AuctionManager.test.js",
+    "full_path": "C:\\CFH\\backend\\tests\\auction\\AuctionManager.test.js",
+    "name": "AuctionManager.test.js",
+    "ext": ".js",
+    "size": 4368
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\auction\\AuctionMetrics.test.js",
+    "full_path": "C:\\CFH\\backend\\tests\\auction\\AuctionMetrics.test.js",
+    "name": "AuctionMetrics.test.js",
+    "ext": ".js",
+    "size": 3681
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\auction\\AuctionNotifier.test.js",
+    "full_path": "C:\\CFH\\backend\\tests\\auction\\AuctionNotifier.test.js",
+    "name": "AuctionNotifier.test.js",
+    "ext": ".js",
+    "size": 3557
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\auction\\AuctionReputationTracker.test.js",
+    "full_path": "C:\\CFH\\backend\\tests\\auction\\AuctionReputationTracker.test.js",
+    "name": "AuctionReputationTracker.test.js",
+    "ext": ".js",
+    "size": 3199
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\auction\\AuctionScheduler.test.js",
+    "full_path": "C:\\CFH\\backend\\tests\\auction\\AuctionScheduler.test.js",
+    "name": "AuctionScheduler.test.js",
+    "ext": ".js",
+    "size": 4281
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\auction\\BidHeatmapService.test.ts",
+    "full_path": "C:\\CFH\\backend\\tests\\auction\\BidHeatmapService.test.ts",
+    "name": "BidHeatmapService.test.ts",
+    "ext": ".ts",
+    "size": 879
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\auction\\BidValidator.test.js",
+    "full_path": "C:\\CFH\\backend\\tests\\auction\\BidValidator.test.js",
+    "name": "BidValidator.test.js",
+    "ext": ".js",
+    "size": 2464
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\auctions\\auctions.test.js",
+    "full_path": "C:\\CFH\\backend\\tests\\auctions\\auctions.test.js",
+    "name": "auctions.test.js",
+    "ext": ".js",
+    "size": 2044
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\auctions\\auctions.test.ts",
+    "full_path": "C:\\CFH\\backend\\tests\\auctions\\auctions.test.ts",
+    "name": "auctions.test.ts",
+    "ext": ".ts",
+    "size": 640
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\bulkTestRunner.js",
+    "full_path": "C:\\CFH\\backend\\tests\\bulkTestRunner.js",
+    "name": "bulkTestRunner.js",
+    "ext": ".js",
+    "size": 2099
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\bulkTestValidation.js",
+    "full_path": "C:\\CFH\\backend\\tests\\bulkTestValidation.js",
+    "name": "bulkTestValidation.js",
+    "ext": ".js",
+    "size": 5305
+  }
+]

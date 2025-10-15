@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SellerDocVault.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SellerDocVault.test.tsx",
+    "name": "SellerDocVault.test.tsx",
+    "ext": ".tsx",
+    "size": 46
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SellerDocVault.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SellerDocVault.tsx",
+    "name": "SellerDocVault.tsx",
+    "ext": ".tsx",
+    "size": 7469
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SellerEditListing_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SellerEditListing_1.tsx",
+    "name": "SellerEditListing_1.tsx",
+    "ext": ".tsx",
+    "size": 4887
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SellerEditListing.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SellerEditListing.test_1.tsx",
+    "name": "SellerEditListing.test_1.tsx",
+    "ext": ".tsx",
+    "size": 49
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SellerEditListing.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SellerEditListing.test.tsx",
+    "name": "SellerEditListing.test.tsx",
+    "ext": ".tsx",
+    "size": 49
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SellerEmailSettings_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SellerEmailSettings_1.tsx",
+    "name": "SellerEmailSettings_1.tsx",
+    "ext": ".tsx",
+    "size": 5419
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SellerEmailSettings.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SellerEmailSettings.test_1.tsx",
+    "name": "SellerEmailSettings.test_1.tsx",
+    "ext": ".tsx",
+    "size": 51
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SellerEmailSettings.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SellerEmailSettings.test.tsx",
+    "name": "SellerEmailSettings.test.tsx",
+    "ext": ".tsx",
+    "size": 51
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SellerEmailSettings.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SellerEmailSettings.tsx",
+    "name": "SellerEmailSettings.tsx",
+    "ext": ".tsx",
+    "size": 5419
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SellerEngagementLeaderboard_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SellerEngagementLeaderboard_1.tsx",
+    "name": "SellerEngagementLeaderboard_1.tsx",
+    "ext": ".tsx",
+    "size": 5863
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SellerEngagementLeaderboard.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SellerEngagementLeaderboard.test_1.tsx",
+    "name": "SellerEngagementLeaderboard.test_1.tsx",
+    "ext": ".tsx",
+    "size": 59
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SellerEngagementLeaderboard.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SellerEngagementLeaderboard.test.tsx",
+    "name": "SellerEngagementLeaderboard.test.tsx",
+    "ext": ".tsx",
+    "size": 59
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SellerEngagementLeaderboard.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SellerEngagementLeaderboard.tsx",
+    "name": "SellerEngagementLeaderboard.tsx",
+    "ext": ".tsx",
+    "size": 5863
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SellerEscrowStatus_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SellerEscrowStatus_1.tsx",
+    "name": "SellerEscrowStatus_1.tsx",
+    "ext": ".tsx",
+    "size": 5155
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SellerEscrowStatus.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SellerEscrowStatus.test_1.tsx",
+    "name": "SellerEscrowStatus.test_1.tsx",
+    "ext": ".tsx",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SellerEscrowStatus.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SellerEscrowStatus.test.tsx",
+    "name": "SellerEscrowStatus.test.tsx",
+    "ext": ".tsx",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SellerEscrowStatus.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SellerEscrowStatus.tsx",
+    "name": "SellerEscrowStatus.tsx",
+    "ext": ".tsx",
+    "size": 5155
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SellerExperienceLevel_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SellerExperienceLevel_1.tsx",
+    "name": "SellerExperienceLevel_1.tsx",
+    "ext": ".tsx",
+    "size": 3017
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SellerExperienceLevel.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SellerExperienceLevel.test_1.tsx",
+    "name": "SellerExperienceLevel.test_1.tsx",
+    "ext": ".tsx",
+    "size": 53
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SellerExperienceLevel.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SellerExperienceLevel.test.tsx",
+    "name": "SellerExperienceLevel.test.tsx",
+    "ext": ".tsx",
+    "size": 53
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SellerExperienceLevel.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SellerExperienceLevel.tsx",
+    "name": "SellerExperienceLevel.tsx",
+    "ext": ".tsx",
+    "size": 3017
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SellerExportPanel_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SellerExportPanel_1.tsx",
+    "name": "SellerExportPanel_1.tsx",
+    "ext": ".tsx",
+    "size": 3185
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SellerExportPanel.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SellerExportPanel.test_1.tsx",
+    "name": "SellerExportPanel.test_1.tsx",
+    "ext": ".tsx",
+    "size": 922
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SellerExportPanel.test.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SellerExportPanel.test.test_1.tsx",
+    "name": "SellerExportPanel.test.test_1.tsx",
+    "ext": ".tsx",
+    "size": 54
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SellerExportPanel.test.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SellerExportPanel.test.test.tsx",
+    "name": "SellerExportPanel.test.test.tsx",
+    "ext": ".tsx",
+    "size": 54
+  }
+]

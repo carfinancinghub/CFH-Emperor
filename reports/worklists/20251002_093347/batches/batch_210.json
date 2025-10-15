@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\InsuranceOfficerDashboard.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\InsuranceOfficerDashboard.tsx",
+    "name": "InsuranceOfficerDashboard.tsx",
+    "ext": ".tsx",
+    "size": 16316
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\InsurancePolicyManager_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\InsurancePolicyManager_1.tsx",
+    "name": "InsurancePolicyManager_1.tsx",
+    "ext": ".tsx",
+    "size": 7576
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\InsurancePolicyManager.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\InsurancePolicyManager.test_1.tsx",
+    "name": "InsurancePolicyManager.test_1.tsx",
+    "ext": ".tsx",
+    "size": 54
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\InsurancePolicyManager.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\InsurancePolicyManager.test.tsx",
+    "name": "InsurancePolicyManager.test.tsx",
+    "ext": ".tsx",
+    "size": 54
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\InsurancePolicyManager.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\InsurancePolicyManager.tsx",
+    "name": "InsurancePolicyManager.tsx",
+    "ext": ".tsx",
+    "size": 7576
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\InsuranceRoleGuard_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\InsuranceRoleGuard_1.tsx",
+    "name": "InsuranceRoleGuard_1.tsx",
+    "ext": ".tsx",
+    "size": 2519
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\InsuranceRoleGuard.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\InsuranceRoleGuard.test_1.tsx",
+    "name": "InsuranceRoleGuard.test_1.tsx",
+    "ext": ".tsx",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\InsuranceRoleGuard.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\InsuranceRoleGuard.test.tsx",
+    "name": "InsuranceRoleGuard.test.tsx",
+    "ext": ".tsx",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\InsuranceRoleGuard.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\InsuranceRoleGuard.tsx",
+    "name": "InsuranceRoleGuard.tsx",
+    "ext": ".tsx",
+    "size": 2519
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\InsuranceSEOHead_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\InsuranceSEOHead_1.tsx",
+    "name": "InsuranceSEOHead_1.tsx",
+    "ext": ".tsx",
+    "size": 2203
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\InsuranceSEOHead.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\InsuranceSEOHead.test_1.tsx",
+    "name": "InsuranceSEOHead.test_1.tsx",
+    "ext": ".tsx",
+    "size": 48
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\InsuranceSEOHead.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\InsuranceSEOHead.test.tsx",
+    "name": "InsuranceSEOHead.test.tsx",
+    "ext": ".tsx",
+    "size": 48
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\InsuranceSEOHead.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\InsuranceSEOHead.tsx",
+    "name": "InsuranceSEOHead.tsx",
+    "ext": ".tsx",
+    "size": 2203
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\InsuranceUnderwritingChecklist_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\InsuranceUnderwritingChecklist_1.tsx",
+    "name": "InsuranceUnderwritingChecklist_1.tsx",
+    "ext": ".tsx",
+    "size": 5077
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\InsuranceUnderwritingChecklist.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\InsuranceUnderwritingChecklist.test_1.tsx",
+    "name": "InsuranceUnderwritingChecklist.test_1.tsx",
+    "ext": ".tsx",
+    "size": 62
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\InsuranceUnderwritingChecklist.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\InsuranceUnderwritingChecklist.test.tsx",
+    "name": "InsuranceUnderwritingChecklist.test.tsx",
+    "ext": ".tsx",
+    "size": 62
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\InsuranceUnderwritingChecklist.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\InsuranceUnderwritingChecklist.tsx",
+    "name": "InsuranceUnderwritingChecklist.tsx",
+    "ext": ".tsx",
+    "size": 5077
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\InsurerInsightsChart_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\InsurerInsightsChart_1.tsx",
+    "name": "InsurerInsightsChart_1.tsx",
+    "ext": ".tsx",
+    "size": 1960
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\InsurerInsightsChart.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\InsurerInsightsChart.test_1.tsx",
+    "name": "InsurerInsightsChart.test_1.tsx",
+    "ext": ".tsx",
+    "size": 52
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\InsurerInsightsChart.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\InsurerInsightsChart.test.tsx",
+    "name": "InsurerInsightsChart.test.tsx",
+    "ext": ".tsx",
+    "size": 52
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\InsurerInsightsChart.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\InsurerInsightsChart.tsx",
+    "name": "InsurerInsightsChart.tsx",
+    "ext": ".tsx",
+    "size": 1960
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\JobTrackingView_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\JobTrackingView_1.tsx",
+    "name": "JobTrackingView_1.tsx",
+    "ext": ".tsx",
+    "size": 20497
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\JobTrackingView.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\JobTrackingView.test_1.tsx",
+    "name": "JobTrackingView.test_1.tsx",
+    "ext": ".tsx",
+    "size": 13687
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\JudgePanelControls_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\JudgePanelControls_1.tsx",
+    "name": "JudgePanelControls_1.tsx",
+    "ext": ".tsx",
+    "size": 1509
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\JudgePanelControls.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\JudgePanelControls.test_1.tsx",
+    "name": "JudgePanelControls.test_1.tsx",
+    "ext": ".tsx",
+    "size": 50
+  }
+]

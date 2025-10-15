@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\GeoStatusPanel.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\GeoStatusPanel.test_1.ts",
+    "name": "GeoStatusPanel.test_1.ts",
+    "ext": ".ts",
+    "size": 45
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\GeoStatusPanel.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\GeoStatusPanel.test.ts",
+    "name": "GeoStatusPanel.test.ts",
+    "ext": ".ts",
+    "size": 45
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\GeoStatusPanel.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\GeoStatusPanel.ts",
+    "name": "GeoStatusPanel.ts",
+    "ext": ".ts",
+    "size": 1544
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\GeoVerificationMap_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\GeoVerificationMap_1.ts",
+    "name": "GeoVerificationMap_1.ts",
+    "ext": ".ts",
+    "size": 6288
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\GeoVerificationMap.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\GeoVerificationMap.test_1.ts",
+    "name": "GeoVerificationMap.test_1.ts",
+    "ext": ".ts",
+    "size": 49
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\GeoVerificationMap.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\GeoVerificationMap.test.ts",
+    "name": "GeoVerificationMap.test.ts",
+    "ext": ".ts",
+    "size": 49
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\GeoVerificationMap.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\GeoVerificationMap.ts",
+    "name": "GeoVerificationMap.ts",
+    "ext": ".ts",
+    "size": 6288
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\github-email-test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\github-email-test_1.ts",
+    "name": "github-email-test_1.ts",
+    "ext": ".ts",
+    "size": 165
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\github-email-test.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\github-email-test.test_1.ts",
+    "name": "github-email-test.test_1.ts",
+    "ext": ".ts",
+    "size": 48
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\github-email-test.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\github-email-test.test.ts",
+    "name": "github-email-test.test.ts",
+    "ext": ".ts",
+    "size": 48
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\github-email-test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\github-email-test.ts",
+    "name": "github-email-test.ts",
+    "ext": ".ts",
+    "size": 165
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\gpsProofController_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\gpsProofController_1.ts",
+    "name": "gpsProofController_1.ts",
+    "ext": ".ts",
+    "size": 1274
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\gpsProofController.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\gpsProofController.test_1.ts",
+    "name": "gpsProofController.test_1.ts",
+    "ext": ".ts",
+    "size": 49
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\gpsProofController.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\gpsProofController.test.ts",
+    "name": "gpsProofController.test.ts",
+    "ext": ".ts",
+    "size": 49
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\gpsProofController.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\gpsProofController.ts",
+    "name": "gpsProofController.ts",
+    "ext": ".ts",
+    "size": 1274
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\GraphExportService_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\GraphExportService_1.ts",
+    "name": "GraphExportService_1.ts",
+    "ext": ".ts",
+    "size": 2114
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\GraphExportService.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\GraphExportService.test_1.ts",
+    "name": "GraphExportService.test_1.ts",
+    "ext": ".ts",
+    "size": 2207
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\GraphExportService.test.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\GraphExportService.test.test_1.ts",
+    "name": "GraphExportService.test.test_1.ts",
+    "ext": ".ts",
+    "size": 54
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\GraphExportService.test.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\GraphExportService.test.test.ts",
+    "name": "GraphExportService.test.test.ts",
+    "ext": ".ts",
+    "size": 54
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\GraphExportService.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\GraphExportService.test.ts",
+    "name": "GraphExportService.test.ts",
+    "ext": ".ts",
+    "size": 49
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\hashAnchorRoute_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\hashAnchorRoute_1.ts",
+    "name": "hashAnchorRoute_1.ts",
+    "ext": ".ts",
+    "size": 707
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\hashAnchorRoute.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\hashAnchorRoute.test_1.ts",
+    "name": "hashAnchorRoute.test_1.ts",
+    "ext": ".ts",
+    "size": 46
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\hashAnchorRoute.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\hashAnchorRoute.test.ts",
+    "name": "hashAnchorRoute.test.ts",
+    "ext": ".ts",
+    "size": 46
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\hashAnchorRoute.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\hashAnchorRoute.ts",
+    "name": "hashAnchorRoute.ts",
+    "ext": ".ts",
+    "size": 707
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\hashAndAnchorPDF_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\hashAndAnchorPDF_1.ts",
+    "name": "hashAndAnchorPDF_1.ts",
+    "ext": ".ts",
+    "size": 1615
+  }
+]

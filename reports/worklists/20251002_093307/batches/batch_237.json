@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\VehicleHealthTrendCharts.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\VehicleHealthTrendCharts.test_1.tsx",
+    "name": "VehicleHealthTrendCharts.test_1.tsx",
+    "ext": ".tsx",
+    "size": 687
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\VehicleHealthTrendCharts.test.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\VehicleHealthTrendCharts.test.test_1.tsx",
+    "name": "VehicleHealthTrendCharts.test.test_1.tsx",
+    "ext": ".tsx",
+    "size": 61
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\VehicleHealthTrendCharts.test.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\VehicleHealthTrendCharts.test.test.tsx",
+    "name": "VehicleHealthTrendCharts.test.test.tsx",
+    "ext": ".tsx",
+    "size": 61
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\VehicleHealthTrendCharts.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\VehicleHealthTrendCharts.test.tsx",
+    "name": "VehicleHealthTrendCharts.test.tsx",
+    "ext": ".tsx",
+    "size": 56
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\VehicleHealthTrendCharts.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\VehicleHealthTrendCharts.tsx",
+    "name": "VehicleHealthTrendCharts.tsx",
+    "ext": ".tsx",
+    "size": 2083
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\VehicleInspectionModule_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\VehicleInspectionModule_1.tsx",
+    "name": "VehicleInspectionModule_1.tsx",
+    "ext": ".tsx",
+    "size": 4658
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\VehicleInspectionModule.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\VehicleInspectionModule.test_1.tsx",
+    "name": "VehicleInspectionModule.test_1.tsx",
+    "ext": ".tsx",
+    "size": 1026
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\VehicleInspectionModule.test.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\VehicleInspectionModule.test.test_1.tsx",
+    "name": "VehicleInspectionModule.test.test_1.tsx",
+    "ext": ".tsx",
+    "size": 60
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\VehicleInspectionModule.test.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\VehicleInspectionModule.test.test.tsx",
+    "name": "VehicleInspectionModule.test.test.tsx",
+    "ext": ".tsx",
+    "size": 60
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\VehicleInspectionModule.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\VehicleInspectionModule.test.tsx",
+    "name": "VehicleInspectionModule.test.tsx",
+    "ext": ".tsx",
+    "size": 55
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\VehicleInspectionModule.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\VehicleInspectionModule.tsx",
+    "name": "VehicleInspectionModule.tsx",
+    "ext": ".tsx",
+    "size": 4658
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\VehicleValuation_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\VehicleValuation_1.tsx",
+    "name": "VehicleValuation_1.tsx",
+    "ext": ".tsx",
+    "size": 3932
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\VehicleValuation.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\VehicleValuation.test_1.tsx",
+    "name": "VehicleValuation.test_1.tsx",
+    "ext": ".tsx",
+    "size": 2925
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\VINDecoder_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\VINDecoder_1.tsx",
+    "name": "VINDecoder_1.tsx",
+    "ext": ".tsx",
+    "size": 1806
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\VINDecoder.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\VINDecoder.test_1.tsx",
+    "name": "VINDecoder.test_1.tsx",
+    "ext": ".tsx",
+    "size": 642
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\VINDecoder.test.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\VINDecoder.test.test_1.tsx",
+    "name": "VINDecoder.test.test_1.tsx",
+    "ext": ".tsx",
+    "size": 47
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\VINDecoder.test.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\VINDecoder.test.test.tsx",
+    "name": "VINDecoder.test.test.tsx",
+    "ext": ".tsx",
+    "size": 47
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\VINDecoder.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\VINDecoder.test.tsx",
+    "name": "VINDecoder.test.tsx",
+    "ext": ".tsx",
+    "size": 42
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\VINDecoder.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\VINDecoder.tsx",
+    "name": "VINDecoder.tsx",
+    "ext": ".tsx",
+    "size": 1806
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\VirtualShopTour360_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\VirtualShopTour360_1.tsx",
+    "name": "VirtualShopTour360_1.tsx",
+    "ext": ".tsx",
+    "size": 13730
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\VirtualShopTour360.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\VirtualShopTour360.test_1.tsx",
+    "name": "VirtualShopTour360.test_1.tsx",
+    "ext": ".tsx",
+    "size": 11537
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\VRInspectionViewer_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\VRInspectionViewer_1.tsx",
+    "name": "VRInspectionViewer_1.tsx",
+    "ext": ".tsx",
+    "size": 9606
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\VRInspectionViewer.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\VRInspectionViewer.test_1.tsx",
+    "name": "VRInspectionViewer.test_1.tsx",
+    "ext": ".tsx",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\VRInspectionViewer.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\VRInspectionViewer.test.tsx",
+    "name": "VRInspectionViewer.test.tsx",
+    "ext": ".tsx",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\VRInspectionViewer.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\VRInspectionViewer.tsx",
+    "name": "VRInspectionViewer.tsx",
+    "ext": ".tsx",
+    "size": 9606
+  }
+]

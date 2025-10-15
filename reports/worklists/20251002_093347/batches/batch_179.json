@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\UserBehaviorTracker.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\UserBehaviorTracker.test.ts",
+    "name": "UserBehaviorTracker.test.ts",
+    "ext": ".ts",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\UserBehaviorTracker.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\UserBehaviorTracker.ts",
+    "name": "UserBehaviorTracker.ts",
+    "ext": ".ts",
+    "size": 2116
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\userController_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\userController_1.ts",
+    "name": "userController_1.ts",
+    "ext": ".ts",
+    "size": 1383
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\userController.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\userController.test_1.ts",
+    "name": "userController.test_1.ts",
+    "ext": ".ts",
+    "size": 45
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\userController.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\userController.test.ts",
+    "name": "userController.test.ts",
+    "ext": ".ts",
+    "size": 45
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\userController.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\userController.ts",
+    "name": "userController.ts",
+    "ext": ".ts",
+    "size": 1383
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\UserManagement_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\UserManagement_1.ts",
+    "name": "UserManagement_1.ts",
+    "ext": ".ts",
+    "size": 2608
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\UserManagement.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\UserManagement.test_1.ts",
+    "name": "UserManagement.test_1.ts",
+    "ext": ".ts",
+    "size": 4089
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\UserManagement.test.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\UserManagement.test.test_1.ts",
+    "name": "UserManagement.test.test_1.ts",
+    "ext": ".ts",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\UserManagement.test.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\UserManagement.test.test.ts",
+    "name": "UserManagement.test.test.ts",
+    "ext": ".ts",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\UserManagement.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\UserManagement.test.ts",
+    "name": "UserManagement.test.ts",
+    "ext": ".ts",
+    "size": 45
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\UserManagement.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\UserManagement.ts",
+    "name": "UserManagement.ts",
+    "ext": ".ts",
+    "size": 2608
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\UserNotifications_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\UserNotifications_1.ts",
+    "name": "UserNotifications_1.ts",
+    "ext": ".ts",
+    "size": 209
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\UserNotifications.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\UserNotifications.test_1.ts",
+    "name": "UserNotifications.test_1.ts",
+    "ext": ".ts",
+    "size": 4454
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\UserNotifications.test.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\UserNotifications.test.test_1.ts",
+    "name": "UserNotifications.test.test_1.ts",
+    "ext": ".ts",
+    "size": 53
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\UserNotifications.test.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\UserNotifications.test.test.ts",
+    "name": "UserNotifications.test.test.ts",
+    "ext": ".ts",
+    "size": 53
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\UserNotifications.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\UserNotifications.test.ts",
+    "name": "UserNotifications.test.ts",
+    "ext": ".ts",
+    "size": 4454
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\UserOnboarding_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\UserOnboarding_1.ts",
+    "name": "UserOnboarding_1.ts",
+    "ext": ".ts",
+    "size": 2095
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\UserOnboarding.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\UserOnboarding.test_1.ts",
+    "name": "UserOnboarding.test_1.ts",
+    "ext": ".ts",
+    "size": 2896
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\UserOnboarding.test.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\UserOnboarding.test.test_1.ts",
+    "name": "UserOnboarding.test.test_1.ts",
+    "ext": ".ts",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\UserOnboarding.test.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\UserOnboarding.test.test.ts",
+    "name": "UserOnboarding.test.test.ts",
+    "ext": ".ts",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\UserOnboarding.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\UserOnboarding.test.ts",
+    "name": "UserOnboarding.test.ts",
+    "ext": ".ts",
+    "size": 45
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\UserOnboarding.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\UserOnboarding.ts",
+    "name": "UserOnboarding.ts",
+    "ext": ".ts",
+    "size": 2095
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\UserPreferences_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\UserPreferences_1.ts",
+    "name": "UserPreferences_1.ts",
+    "ext": ".ts",
+    "size": 207
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\UserPreferences.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\UserPreferences.test_1.ts",
+    "name": "UserPreferences.test_1.ts",
+    "ext": ".ts",
+    "size": 3655
+  }
+]

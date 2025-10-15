@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\CarTransportCoordination.cy_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\CarTransportCoordination.cy_1.ts",
+    "name": "CarTransportCoordination.cy_1.ts",
+    "ext": ".ts",
+    "size": 4209
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\CarTransportCoordination.cy.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\CarTransportCoordination.cy.test_1.ts",
+    "name": "CarTransportCoordination.cy.test_1.ts",
+    "ext": ".ts",
+    "size": 58
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\CarTransportCoordination.cy.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\CarTransportCoordination.cy.test.ts",
+    "name": "CarTransportCoordination.cy.test.ts",
+    "ext": ".ts",
+    "size": 58
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\CarTransportCoordination.cy.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\CarTransportCoordination.cy.ts",
+    "name": "CarTransportCoordination.cy.ts",
+    "ext": ".ts",
+    "size": 4209
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\CarTransportCoordination.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\CarTransportCoordination.test_1.ts",
+    "name": "CarTransportCoordination.test_1.ts",
+    "ext": ".ts",
+    "size": 7014
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\CarTransportCoordination.test.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\CarTransportCoordination.test.test_1.ts",
+    "name": "CarTransportCoordination.test.test_1.ts",
+    "ext": ".ts",
+    "size": 60
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\CarTransportCoordination.test.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\CarTransportCoordination.test.test.ts",
+    "name": "CarTransportCoordination.test.test.ts",
+    "ext": ".ts",
+    "size": 60
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\CarTransportCoordination.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\CarTransportCoordination.test.ts",
+    "name": "CarTransportCoordination.test.ts",
+    "ext": ".ts",
+    "size": 7014
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\CaseBundleExporter_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\CaseBundleExporter_1.ts",
+    "name": "CaseBundleExporter_1.ts",
+    "ext": ".ts",
+    "size": 2059
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\CaseBundleExporter.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\CaseBundleExporter.test_1.ts",
+    "name": "CaseBundleExporter.test_1.ts",
+    "ext": ".ts",
+    "size": 49
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\CaseBundleExporter.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\CaseBundleExporter.test.ts",
+    "name": "CaseBundleExporter.test.ts",
+    "ext": ".ts",
+    "size": 49
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\CaseBundleExporter.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\CaseBundleExporter.ts",
+    "name": "CaseBundleExporter.ts",
+    "ext": ".ts",
+    "size": 2059
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\ChatSummaryPanel_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\ChatSummaryPanel_1.ts",
+    "name": "ChatSummaryPanel_1.ts",
+    "ext": ".ts",
+    "size": 1354
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\ChatSummaryPanel.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\ChatSummaryPanel.test_1.ts",
+    "name": "ChatSummaryPanel.test_1.ts",
+    "ext": ".ts",
+    "size": 1751
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\ChatSummaryPanel.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\ChatSummaryPanel.test.ts",
+    "name": "ChatSummaryPanel.test.ts",
+    "ext": ".ts",
+    "size": 1751
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\ChatSummaryPanel.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\ChatSummaryPanel.ts",
+    "name": "ChatSummaryPanel.ts",
+    "ext": ".ts",
+    "size": 1354
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\claimsRoutes_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\claimsRoutes_1.ts",
+    "name": "claimsRoutes_1.ts",
+    "ext": ".ts",
+    "size": 877
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\claimsRoutes.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\claimsRoutes.test_1.ts",
+    "name": "claimsRoutes.test_1.ts",
+    "ext": ".ts",
+    "size": 43
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\claimsRoutes.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\claimsRoutes.test.ts",
+    "name": "claimsRoutes.test.ts",
+    "ext": ".ts",
+    "size": 43
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\claimsRoutes.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\claimsRoutes.ts",
+    "name": "claimsRoutes.ts",
+    "ext": ".ts",
+    "size": 877
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\coachPlanRoute.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\coachPlanRoute.test_1.ts",
+    "name": "coachPlanRoute.test_1.ts",
+    "ext": ".ts",
+    "size": 585
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\coachPlanRoute.test.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\coachPlanRoute.test.test_1.ts",
+    "name": "coachPlanRoute.test.test_1.ts",
+    "ext": ".ts",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\coachPlanRoute.test.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\coachPlanRoute.test.test.ts",
+    "name": "coachPlanRoute.test.test.ts",
+    "ext": ".ts",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\coachPlanRoute.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\coachPlanRoute.test.ts",
+    "name": "coachPlanRoute.test.ts",
+    "ext": ".ts",
+    "size": 585
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\Cod1HaulerDeploymentChecklist_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\Cod1HaulerDeploymentChecklist_1.ts",
+    "name": "Cod1HaulerDeploymentChecklist_1.ts",
+    "ext": ".ts",
+    "size": 1966
+  }
+]

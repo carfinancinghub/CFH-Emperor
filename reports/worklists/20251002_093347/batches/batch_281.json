@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\BankerLoanHistory.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\BankerLoanHistory.tsx",
+    "name": "BankerLoanHistory.tsx",
+    "ext": ".tsx",
+    "size": 640
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\BidDetailViewer.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\BidDetailViewer.tsx",
+    "name": "BidDetailViewer.tsx",
+    "ext": ".tsx",
+    "size": 632
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\BidHeatmapEngine.ts",
+    "full_path": "C:\\CFH\\TruthSource\\src\\BidHeatmapEngine.ts",
+    "name": "BidHeatmapEngine.ts",
+    "ext": ".ts",
+    "size": 3083
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\BidValidator.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\BidValidator.tsx",
+    "name": "BidValidator.tsx",
+    "ext": ".tsx",
+    "size": 620
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\BlindInvestor.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\BlindInvestor.tsx",
+    "name": "BlindInvestor.tsx",
+    "ext": ".tsx",
+    "size": 624
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\BlockchainAdapter.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\BlockchainAdapter.tsx",
+    "name": "BlockchainAdapter.tsx",
+    "ext": ".tsx",
+    "size": 640
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\BlockchainAdapterOld.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\BlockchainAdapterOld.tsx",
+    "name": "BlockchainAdapterOld.tsx",
+    "ext": ".tsx",
+    "size": 652
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\BlockchainLedger.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\BlockchainLedger.tsx",
+    "name": "BlockchainLedger.tsx",
+    "ext": ".tsx",
+    "size": 636
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\budgetauditlog.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\budgetauditlog.tsx",
+    "name": "budgetauditlog.tsx",
+    "ext": ".tsx",
+    "size": 628
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\BulkUpload.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\BulkUpload.tsx",
+    "name": "BulkUpload.tsx",
+    "ext": ".tsx",
+    "size": 612
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\Button.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\Button.tsx",
+    "name": "Button.tsx",
+    "ext": ".tsx",
+    "size": 596
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\buyerBucket.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\buyerBucket.tsx",
+    "name": "buyerBucket.tsx",
+    "ext": ".tsx",
+    "size": 616
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\BuyerCarCompare.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\BuyerCarCompare.tsx",
+    "name": "BuyerCarCompare.tsx",
+    "ext": ".tsx",
+    "size": 632
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\BuyerContractView.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\BuyerContractView.tsx",
+    "name": "BuyerContractView.tsx",
+    "ext": ".tsx",
+    "size": 640
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\BuyerDashboard.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\BuyerDashboard.tsx",
+    "name": "BuyerDashboard.tsx",
+    "ext": ".tsx",
+    "size": 628
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\BuyerDashboardGrokOld.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\BuyerDashboardGrokOld.tsx",
+    "name": "BuyerDashboardGrokOld.tsx",
+    "ext": ".tsx",
+    "size": 656
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\BuyerDeliveryConfirmation.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\BuyerDeliveryConfirmation.tsx",
+    "name": "BuyerDeliveryConfirmation.tsx",
+    "ext": ".tsx",
+    "size": 672
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\BuyerDeliveryTracker.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\BuyerDeliveryTracker.tsx",
+    "name": "BuyerDeliveryTracker.tsx",
+    "ext": ".tsx",
+    "size": 652
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\BuyerEscrowClaimPanel.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\BuyerEscrowClaimPanel.tsx",
+    "name": "BuyerEscrowClaimPanel.tsx",
+    "ext": ".tsx",
+    "size": 656
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\BuyerFinancingOffers.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\BuyerFinancingOffers.tsx",
+    "name": "BuyerFinancingOffers.tsx",
+    "ext": ".tsx",
+    "size": 652
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\BuyerInspectionStatus.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\BuyerInspectionStatus.tsx",
+    "name": "BuyerInspectionStatus.tsx",
+    "ext": ".tsx",
+    "size": 656
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\BuyerLoanApplications.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\BuyerLoanApplications.tsx",
+    "name": "BuyerLoanApplications.tsx",
+    "ext": ".tsx",
+    "size": 656
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\BuyerPreferencesForm.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\BuyerPreferencesForm.tsx",
+    "name": "BuyerPreferencesForm.tsx",
+    "ext": ".tsx",
+    "size": 652
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\BuyerProgressBar.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\BuyerProgressBar.tsx",
+    "name": "BuyerProgressBar.tsx",
+    "ext": ".tsx",
+    "size": 636
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\BuyerTitleTracker.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\BuyerTitleTracker.tsx",
+    "name": "BuyerTitleTracker.tsx",
+    "ext": ".tsx",
+    "size": 640
+  }
+]

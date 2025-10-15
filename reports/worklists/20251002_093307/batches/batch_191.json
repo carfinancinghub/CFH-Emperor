@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\ARConditionScanner.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\ARConditionScanner.test_1.tsx",
+    "name": "ARConditionScanner.test_1.tsx",
+    "ext": ".tsx",
+    "size": 2183
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AuctionAccessibilityWrapper_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AuctionAccessibilityWrapper_1.tsx",
+    "name": "AuctionAccessibilityWrapper_1.tsx",
+    "ext": ".tsx",
+    "size": 4233
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AuctionAccessibilityWrapper.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AuctionAccessibilityWrapper.test_1.tsx",
+    "name": "AuctionAccessibilityWrapper.test_1.tsx",
+    "ext": ".tsx",
+    "size": 59
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AuctionAccessibilityWrapper.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AuctionAccessibilityWrapper.test.tsx",
+    "name": "AuctionAccessibilityWrapper.test.tsx",
+    "ext": ".tsx",
+    "size": 59
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\auctionExportUtils.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\auctionExportUtils.test_1.tsx",
+    "name": "auctionExportUtils.test_1.tsx",
+    "ext": ".tsx",
+    "size": 4627
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\auctionExportUtils.test.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\auctionExportUtils.test.test_1.tsx",
+    "name": "auctionExportUtils.test.test_1.tsx",
+    "ext": ".tsx",
+    "size": 55
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\auctionExportUtils.test.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\auctionExportUtils.test.test.tsx",
+    "name": "auctionExportUtils.test.test.tsx",
+    "ext": ".tsx",
+    "size": 55
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\auctionExportUtils.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\auctionExportUtils.test.tsx",
+    "name": "auctionExportUtils.test.tsx",
+    "ext": ".tsx",
+    "size": 4627
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AuctionHistoryTracker_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AuctionHistoryTracker_1.tsx",
+    "name": "AuctionHistoryTracker_1.tsx",
+    "ext": ".tsx",
+    "size": 2926
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AuctionHistoryTracker.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AuctionHistoryTracker.test_1.tsx",
+    "name": "AuctionHistoryTracker.test_1.tsx",
+    "ext": ".tsx",
+    "size": 2606
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AuctionHistoryTracker.test.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AuctionHistoryTracker.test.test_1.tsx",
+    "name": "AuctionHistoryTracker.test.test_1.tsx",
+    "ext": ".tsx",
+    "size": 58
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AuctionHistoryTracker.test.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AuctionHistoryTracker.test.test.tsx",
+    "name": "AuctionHistoryTracker.test.test.tsx",
+    "ext": ".tsx",
+    "size": 58
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AuctionHistoryTracker.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AuctionHistoryTracker.test.tsx",
+    "name": "AuctionHistoryTracker.test.tsx",
+    "ext": ".tsx",
+    "size": 53
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AuctionIntelligenceDashboard_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AuctionIntelligenceDashboard_1.tsx",
+    "name": "AuctionIntelligenceDashboard_1.tsx",
+    "ext": ".tsx",
+    "size": 6515
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AuctionIntelligenceDashboard.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AuctionIntelligenceDashboard.test_1.tsx",
+    "name": "AuctionIntelligenceDashboard.test_1.tsx",
+    "ext": ".tsx",
+    "size": 3783
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AuctionIntelligenceDashboard.test.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AuctionIntelligenceDashboard.test.test_1.tsx",
+    "name": "AuctionIntelligenceDashboard.test.test_1.tsx",
+    "ext": ".tsx",
+    "size": 65
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AuctionIntelligenceDashboard.test.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AuctionIntelligenceDashboard.test.test.tsx",
+    "name": "AuctionIntelligenceDashboard.test.test.tsx",
+    "ext": ".tsx",
+    "size": 65
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AuctionIntelligenceDashboard.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AuctionIntelligenceDashboard.test.tsx",
+    "name": "AuctionIntelligenceDashboard.test.tsx",
+    "ext": ".tsx",
+    "size": 60
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AuctionItemListing_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AuctionItemListing_1.tsx",
+    "name": "AuctionItemListing_1.tsx",
+    "ext": ".tsx",
+    "size": 9707
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AuctionItemListing.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AuctionItemListing.test_1.tsx",
+    "name": "AuctionItemListing.test_1.tsx",
+    "ext": ".tsx",
+    "size": 10868
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AuctionListingForm_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AuctionListingForm_1.tsx",
+    "name": "AuctionListingForm_1.tsx",
+    "ext": ".tsx",
+    "size": 4367
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AuctionListingForm.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AuctionListingForm.test_1.tsx",
+    "name": "AuctionListingForm.test_1.tsx",
+    "ext": ".tsx",
+    "size": 2683
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AuctionListingForm.test.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AuctionListingForm.test.test_1.tsx",
+    "name": "AuctionListingForm.test.test_1.tsx",
+    "ext": ".tsx",
+    "size": 55
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AuctionListingForm.test.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AuctionListingForm.test.test.tsx",
+    "name": "AuctionListingForm.test.test.tsx",
+    "ext": ".tsx",
+    "size": 55
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AuctionLiveBidTracker_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AuctionLiveBidTracker_1.tsx",
+    "name": "AuctionLiveBidTracker_1.tsx",
+    "ext": ".tsx",
+    "size": 2975
+  }
+]

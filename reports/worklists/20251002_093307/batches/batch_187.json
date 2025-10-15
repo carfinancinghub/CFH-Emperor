@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AdminEscrowMonitor.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AdminEscrowMonitor.tsx",
+    "name": "AdminEscrowMonitor.tsx",
+    "ext": ".tsx",
+    "size": 3691
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AdminFinancialOverview_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AdminFinancialOverview_1.tsx",
+    "name": "AdminFinancialOverview_1.tsx",
+    "ext": ".tsx",
+    "size": 3071
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AdminFinancialOverview.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AdminFinancialOverview.test_1.tsx",
+    "name": "AdminFinancialOverview.test_1.tsx",
+    "ext": ".tsx",
+    "size": 54
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AdminFinancialOverview.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AdminFinancialOverview.test.tsx",
+    "name": "AdminFinancialOverview.test.tsx",
+    "ext": ".tsx",
+    "size": 54
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AdminFinancialOverview.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AdminFinancialOverview.tsx",
+    "name": "AdminFinancialOverview.tsx",
+    "ext": ".tsx",
+    "size": 3071
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AdminInsights_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AdminInsights_1.tsx",
+    "name": "AdminInsights_1.tsx",
+    "ext": ".tsx",
+    "size": 2193
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AdminInsights.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AdminInsights.test_1.tsx",
+    "name": "AdminInsights.test_1.tsx",
+    "ext": ".tsx",
+    "size": 45
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AdminInsights.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AdminInsights.test.tsx",
+    "name": "AdminInsights.test.tsx",
+    "ext": ".tsx",
+    "size": 45
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AdminInsights.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AdminInsights.tsx",
+    "name": "AdminInsights.tsx",
+    "ext": ".tsx",
+    "size": 2193
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AdminKPIWidget_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AdminKPIWidget_1.tsx",
+    "name": "AdminKPIWidget_1.tsx",
+    "ext": ".tsx",
+    "size": 746
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AdminKPIWidget.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AdminKPIWidget.test_1.tsx",
+    "name": "AdminKPIWidget.test_1.tsx",
+    "ext": ".tsx",
+    "size": 46
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AdminKPIWidget.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AdminKPIWidget.test.tsx",
+    "name": "AdminKPIWidget.test.tsx",
+    "ext": ".tsx",
+    "size": 46
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AdminKPIWidget.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AdminKPIWidget.tsx",
+    "name": "AdminKPIWidget.tsx",
+    "ext": ".tsx",
+    "size": 746
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AdminLayout_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AdminLayout_1.tsx",
+    "name": "AdminLayout_1.tsx",
+    "ext": ".tsx",
+    "size": 1250
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AdminLayout.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AdminLayout.test_1.tsx",
+    "name": "AdminLayout.test_1.tsx",
+    "ext": ".tsx",
+    "size": 43
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AdminLayout.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AdminLayout.test.tsx",
+    "name": "AdminLayout.test.tsx",
+    "ext": ".tsx",
+    "size": 43
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AdminLayout.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AdminLayout.tsx",
+    "name": "AdminLayout.tsx",
+    "ext": ".tsx",
+    "size": 1250
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AdminLoginHistory_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AdminLoginHistory_1.tsx",
+    "name": "AdminLoginHistory_1.tsx",
+    "ext": ".tsx",
+    "size": 2348
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AdminLoginHistory.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AdminLoginHistory.test_1.tsx",
+    "name": "AdminLoginHistory.test_1.tsx",
+    "ext": ".tsx",
+    "size": 49
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AdminLoginHistory.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AdminLoginHistory.test.tsx",
+    "name": "AdminLoginHistory.test.tsx",
+    "ext": ".tsx",
+    "size": 49
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AdminLoginHistory.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AdminLoginHistory.tsx",
+    "name": "AdminLoginHistory.tsx",
+    "ext": ".tsx",
+    "size": 2348
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AdminLoyaltyRewards_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AdminLoyaltyRewards_1.tsx",
+    "name": "AdminLoyaltyRewards_1.tsx",
+    "ext": ".tsx",
+    "size": 2937
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AdminLoyaltyRewards.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AdminLoyaltyRewards.test_1.tsx",
+    "name": "AdminLoyaltyRewards.test_1.tsx",
+    "ext": ".tsx",
+    "size": 51
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AdminLoyaltyRewards.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AdminLoyaltyRewards.test.tsx",
+    "name": "AdminLoyaltyRewards.test.tsx",
+    "ext": ".tsx",
+    "size": 51
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AdminLoyaltyRewards.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AdminLoyaltyRewards.tsx",
+    "name": "AdminLoyaltyRewards.tsx",
+    "ext": ".tsx",
+    "size": 2937
+  }
+]

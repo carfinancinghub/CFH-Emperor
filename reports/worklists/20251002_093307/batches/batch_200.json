@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\ComplianceConsentForm.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\ComplianceConsentForm.test_1.tsx",
+    "name": "ComplianceConsentForm.test_1.tsx",
+    "ext": ".tsx",
+    "size": 53
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\ComplianceConsentForm.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\ComplianceConsentForm.test.tsx",
+    "name": "ComplianceConsentForm.test.tsx",
+    "ext": ".tsx",
+    "size": 53
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\ComplianceConsentForm.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\ComplianceConsentForm.tsx",
+    "name": "ComplianceConsentForm.tsx",
+    "ext": ".tsx",
+    "size": 4885
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\ContractPDFViewer_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\ContractPDFViewer_1.tsx",
+    "name": "ContractPDFViewer_1.tsx",
+    "ext": ".tsx",
+    "size": 1748
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\ContractPDFViewer.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\ContractPDFViewer.test_1.tsx",
+    "name": "ContractPDFViewer.test_1.tsx",
+    "ext": ".tsx",
+    "size": 49
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\ContractPDFViewer.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\ContractPDFViewer.test.tsx",
+    "name": "ContractPDFViewer.test.tsx",
+    "ext": ".tsx",
+    "size": 49
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\ContractSignaturePad_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\ContractSignaturePad_1.tsx",
+    "name": "ContractSignaturePad_1.tsx",
+    "ext": ".tsx",
+    "size": 2130
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\ContractSignaturePad.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\ContractSignaturePad.test_1.tsx",
+    "name": "ContractSignaturePad.test_1.tsx",
+    "ext": ".tsx",
+    "size": 52
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\ContractSignaturePad.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\ContractSignaturePad.test.tsx",
+    "name": "ContractSignaturePad.test.tsx",
+    "ext": ".tsx",
+    "size": 52
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\ContractSummary_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\ContractSummary_1.tsx",
+    "name": "ContractSummary_1.tsx",
+    "ext": ".tsx",
+    "size": 2806
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\ContractSummary.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\ContractSummary.test_1.tsx",
+    "name": "ContractSummary.test_1.tsx",
+    "ext": ".tsx",
+    "size": 2372
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\ContractSummary.test.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\ContractSummary.test.test_1.tsx",
+    "name": "ContractSummary.test.test_1.tsx",
+    "ext": ".tsx",
+    "size": 52
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\ContractSummary.test.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\ContractSummary.test.test.tsx",
+    "name": "ContractSummary.test.test.tsx",
+    "ext": ".tsx",
+    "size": 52
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\ContractSummary.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\ContractSummary.test.tsx",
+    "name": "ContractSummary.test.tsx",
+    "ext": ".tsx",
+    "size": 47
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\ContractSummary.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\ContractSummary.tsx",
+    "name": "ContractSummary.tsx",
+    "ext": ".tsx",
+    "size": 2806
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\ContractViewer_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\ContractViewer_1.tsx",
+    "name": "ContractViewer_1.tsx",
+    "ext": ".tsx",
+    "size": 1759
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\ContractViewer.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\ContractViewer.test_1.tsx",
+    "name": "ContractViewer.test_1.tsx",
+    "ext": ".tsx",
+    "size": 46
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\ContractViewer.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\ContractViewer.test.tsx",
+    "name": "ContractViewer.test.tsx",
+    "ext": ".tsx",
+    "size": 46
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\CryptoPaymentOption_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\CryptoPaymentOption_1.tsx",
+    "name": "CryptoPaymentOption_1.tsx",
+    "ext": ".tsx",
+    "size": 3263
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\CryptoPaymentOption.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\CryptoPaymentOption.test_1.tsx",
+    "name": "CryptoPaymentOption.test_1.tsx",
+    "ext": ".tsx",
+    "size": 51
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\CryptoPaymentOption.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\CryptoPaymentOption.test.tsx",
+    "name": "CryptoPaymentOption.test.tsx",
+    "ext": ".tsx",
+    "size": 51
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\CurrencyConverterWidget_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\CurrencyConverterWidget_1.tsx",
+    "name": "CurrencyConverterWidget_1.tsx",
+    "ext": ".tsx",
+    "size": 5277
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\CurrencyConverterWidget.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\CurrencyConverterWidget.test_1.tsx",
+    "name": "CurrencyConverterWidget.test_1.tsx",
+    "ext": ".tsx",
+    "size": 2002
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\CurrencyConverterWidget.test.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\CurrencyConverterWidget.test.test_1.tsx",
+    "name": "CurrencyConverterWidget.test.test_1.tsx",
+    "ext": ".tsx",
+    "size": 60
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\CurrencyConverterWidget.test.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\CurrencyConverterWidget.test.test.tsx",
+    "name": "CurrencyConverterWidget.test.test.tsx",
+    "ext": ".tsx",
+    "size": 60
+  }
+]

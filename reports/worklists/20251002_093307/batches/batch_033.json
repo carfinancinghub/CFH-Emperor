@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\ai\\ValuationAssistant.tsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\ai\\ValuationAssistant.tsx",
+    "name": "ValuationAssistant.tsx",
+    "ext": ".tsx",
+    "size": 4557
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\ai\\ValuationLiveFeed.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\ai\\ValuationLiveFeed.jsx",
+    "name": "ValuationLiveFeed.jsx",
+    "ext": ".jsx",
+    "size": 3301
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\ai\\ValuationLiveFeed.tsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\ai\\ValuationLiveFeed.tsx",
+    "name": "ValuationLiveFeed.tsx",
+    "ext": ".tsx",
+    "size": 5996
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\analytics\\AnalyticsDashboard.tsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\analytics\\AnalyticsDashboard.tsx",
+    "name": "AnalyticsDashboard.tsx",
+    "ext": ".tsx",
+    "size": 17000
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\analytics\\BIIntegrationPanel.tsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\analytics\\BIIntegrationPanel.tsx",
+    "name": "BIIntegrationPanel.tsx",
+    "ext": ".tsx",
+    "size": 6462
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\analytics\\ChartWidget.tsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\analytics\\ChartWidget.tsx",
+    "name": "ChartWidget.tsx",
+    "ext": ".tsx",
+    "size": 7883
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\analytics\\DataTable.tsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\analytics\\DataTable.tsx",
+    "name": "DataTable.tsx",
+    "ext": ".tsx",
+    "size": 11388
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\analytics\\FilterPanel.tsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\analytics\\FilterPanel.tsx",
+    "name": "FilterPanel.tsx",
+    "ext": ".tsx",
+    "size": 12954
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\analytics\\NLPQueryInput.tsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\analytics\\NLPQueryInput.tsx",
+    "name": "NLPQueryInput.tsx",
+    "ext": ".tsx",
+    "size": 5599
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\analytics\\PredictiveGraph.tsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\analytics\\PredictiveGraph.tsx",
+    "name": "PredictiveGraph.tsx",
+    "ext": ".tsx",
+    "size": 10787
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\analytics\\QualityCheckComponent.tsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\analytics\\QualityCheckComponent.tsx",
+    "name": "QualityCheckComponent.tsx",
+    "ext": ".tsx",
+    "size": 13450
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\arbitrator\\ArbitratorAnalyticsPanel.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\arbitrator\\ArbitratorAnalyticsPanel.jsx",
+    "name": "ArbitratorAnalyticsPanel.jsx",
+    "ext": ".jsx",
+    "size": 3051
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\arbitrator\\ArbitratorAnalyticsPanel.tsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\arbitrator\\ArbitratorAnalyticsPanel.tsx",
+    "name": "ArbitratorAnalyticsPanel.tsx",
+    "ext": ".tsx",
+    "size": 3380
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\arbitrator\\ArbitratorDashboard.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\arbitrator\\ArbitratorDashboard.jsx",
+    "name": "ArbitratorDashboard.jsx",
+    "ext": ".jsx",
+    "size": 8655
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\arbitrator\\ArbitratorDashboard.tsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\arbitrator\\ArbitratorDashboard.tsx",
+    "name": "ArbitratorDashboard.tsx",
+    "ext": ".tsx",
+    "size": 10782
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\auction\\AuctionAccessibilityWrapper.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\auction\\AuctionAccessibilityWrapper.jsx",
+    "name": "AuctionAccessibilityWrapper.jsx",
+    "ext": ".jsx",
+    "size": 4145
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\auction\\AuctionAccessibilityWrapper.tsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\auction\\AuctionAccessibilityWrapper.tsx",
+    "name": "AuctionAccessibilityWrapper.tsx",
+    "ext": ".tsx",
+    "size": 4412
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\auction\\AuctionIntelligenceDashboard.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\auction\\AuctionIntelligenceDashboard.jsx",
+    "name": "AuctionIntelligenceDashboard.jsx",
+    "ext": ".jsx",
+    "size": 6426
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\auction\\AuctionIntelligenceDashboard.tsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\auction\\AuctionIntelligenceDashboard.tsx",
+    "name": "AuctionIntelligenceDashboard.tsx",
+    "ext": ".tsx",
+    "size": 7687
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\auction\\AuctionItemListing.tsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\auction\\AuctionItemListing.tsx",
+    "name": "AuctionItemListing.tsx",
+    "ext": ".tsx",
+    "size": 9707
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\auction\\AuctionLiveBidTracker.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\auction\\AuctionLiveBidTracker.jsx",
+    "name": "AuctionLiveBidTracker.jsx",
+    "ext": ".jsx",
+    "size": 2893
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\auction\\AuctionLiveBidTracker.tsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\auction\\AuctionLiveBidTracker.tsx",
+    "name": "AuctionLiveBidTracker.tsx",
+    "ext": ".tsx",
+    "size": 4790
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\auction\\AuctionManagement.tsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\auction\\AuctionManagement.tsx",
+    "name": "AuctionManagement.tsx",
+    "ext": ".tsx",
+    "size": 23075
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\auction\\AuctionPremiumInsightsPanel.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\auction\\AuctionPremiumInsightsPanel.jsx",
+    "name": "AuctionPremiumInsightsPanel.jsx",
+    "ext": ".jsx",
+    "size": 4261
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\auction\\AuctionPremiumInsightsPanel.tsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\auction\\AuctionPremiumInsightsPanel.tsx",
+    "name": "AuctionPremiumInsightsPanel.tsx",
+    "ext": ".tsx",
+    "size": 6366
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\BidStrategyAdvisor.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\BidStrategyAdvisor.test.tsx",
+    "name": "BidStrategyAdvisor.test.tsx",
+    "ext": ".tsx",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\BIIntegrationPanel_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\BIIntegrationPanel_1.tsx",
+    "name": "BIIntegrationPanel_1.tsx",
+    "ext": ".tsx",
+    "size": 6462
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\BlockchainSnapshotViewer_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\BlockchainSnapshotViewer_1.tsx",
+    "name": "BlockchainSnapshotViewer_1.tsx",
+    "ext": ".tsx",
+    "size": 2265
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\BlockchainSnapshotViewer.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\BlockchainSnapshotViewer.test_1.tsx",
+    "name": "BlockchainSnapshotViewer.test_1.tsx",
+    "ext": ".tsx",
+    "size": 56
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\BlockchainSnapshotViewer.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\BlockchainSnapshotViewer.test.tsx",
+    "name": "BlockchainSnapshotViewer.test.tsx",
+    "ext": ".tsx",
+    "size": 56
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\BlockchainSnapshotViewer.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\BlockchainSnapshotViewer.tsx",
+    "name": "BlockchainSnapshotViewer.tsx",
+    "ext": ".tsx",
+    "size": 2265
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\BodyShopDiscoveryPage_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\BodyShopDiscoveryPage_1.tsx",
+    "name": "BodyShopDiscoveryPage_1.tsx",
+    "ext": ".tsx",
+    "size": 29708
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\BodyShopProfileView_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\BodyShopProfileView_1.tsx",
+    "name": "BodyShopProfileView_1.tsx",
+    "ext": ".tsx",
+    "size": 21575
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\BookingModal_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\BookingModal_1.tsx",
+    "name": "BookingModal_1.tsx",
+    "ext": ".tsx",
+    "size": 3924
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\BookingModal.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\BookingModal.test_1.tsx",
+    "name": "BookingModal.test_1.tsx",
+    "ext": ".tsx",
+    "size": 4759
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\BulkTitleTransfer_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\BulkTitleTransfer_1.tsx",
+    "name": "BulkTitleTransfer_1.tsx",
+    "ext": ".tsx",
+    "size": 5473
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\BulkTitleTransfer.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\BulkTitleTransfer.test_1.tsx",
+    "name": "BulkTitleTransfer.test_1.tsx",
+    "ext": ".tsx",
+    "size": 49
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\BulkTitleTransfer.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\BulkTitleTransfer.test.tsx",
+    "name": "BulkTitleTransfer.test.tsx",
+    "ext": ".tsx",
+    "size": 49
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\BulkTitleTransfer.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\BulkTitleTransfer.tsx",
+    "name": "BulkTitleTransfer.tsx",
+    "ext": ".tsx",
+    "size": 5473
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\Button_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\Button_1.tsx",
+    "name": "Button_1.tsx",
+    "ext": ".tsx",
+    "size": 1355
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\Button.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\Button.test_1.tsx",
+    "name": "Button.test_1.tsx",
+    "ext": ".tsx",
+    "size": 38
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\Button.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\Button.test.tsx",
+    "name": "Button.test.tsx",
+    "ext": ".tsx",
+    "size": 38
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\BuyerAISuggestionEngine_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\BuyerAISuggestionEngine_1.tsx",
+    "name": "BuyerAISuggestionEngine_1.tsx",
+    "ext": ".tsx",
+    "size": 4611
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\BuyerAISuggestionEngine.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\BuyerAISuggestionEngine.test_1.tsx",
+    "name": "BuyerAISuggestionEngine.test_1.tsx",
+    "ext": ".tsx",
+    "size": 55
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\BuyerAISuggestionEngine.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\BuyerAISuggestionEngine.test.tsx",
+    "name": "BuyerAISuggestionEngine.test.tsx",
+    "ext": ".tsx",
+    "size": 55
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\BuyerAnalyticsDashboard_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\BuyerAnalyticsDashboard_1.tsx",
+    "name": "BuyerAnalyticsDashboard_1.tsx",
+    "ext": ".tsx",
+    "size": 6743
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\BuyerAnalyticsDashboard.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\BuyerAnalyticsDashboard.test_1.tsx",
+    "name": "BuyerAnalyticsDashboard.test_1.tsx",
+    "ext": ".tsx",
+    "size": 55
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\BuyerAnalyticsDashboard.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\BuyerAnalyticsDashboard.test.tsx",
+    "name": "BuyerAnalyticsDashboard.test.tsx",
+    "ext": ".tsx",
+    "size": 55
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\BuyerAuctionHistory_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\BuyerAuctionHistory_1.tsx",
+    "name": "BuyerAuctionHistory_1.tsx",
+    "ext": ".tsx",
+    "size": 3546
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\BuyerAuctionHistory.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\BuyerAuctionHistory.test_1.tsx",
+    "name": "BuyerAuctionHistory.test_1.tsx",
+    "ext": ".tsx",
+    "size": 2780
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TSX\\TransporterDashboard.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TSX\\TransporterDashboard.tsx",
+    "name": "TransporterDashboard.tsx",
+    "ext": ".tsx",
+    "size": 3908
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\10 files BidHeatmapEngine.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\10 files BidHeatmapEngine.copy.js",
+    "name": "10 files BidHeatmapEngine.copy.js",
+    "ext": ".js",
+    "size": 25462
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\actions-buyer.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\actions-buyer.copy.js",
+    "name": "actions-buyer.copy.js",
+    "ext": ".js",
+    "size": 1281
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\actions-seller.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\actions-seller.copy.js",
+    "name": "actions-seller.copy.js",
+    "ext": ".js",
+    "size": 9408
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\AdminArbitrationDashboard.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\AdminArbitrationDashboard.copy.js",
+    "name": "AdminArbitrationDashboard.copy.js",
+    "ext": ".js",
+    "size": 3410
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\AdminBadgeAuditLog.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\AdminBadgeAuditLog.copy.js",
+    "name": "AdminBadgeAuditLog.copy.js",
+    "ext": ".js",
+    "size": 2607
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\adminBucket.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\adminBucket.copy.js",
+    "name": "adminBucket.copy.js",
+    "ext": ".js",
+    "size": 1412
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\AdminContractDashboard.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\AdminContractDashboard.copy.js",
+    "name": "AdminContractDashboard.copy.js",
+    "ext": ".js",
+    "size": 3863
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\AdminContractTemplates.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\AdminContractTemplates.copy.js",
+    "name": "AdminContractTemplates.copy.js",
+    "ext": ".js",
+    "size": 3268
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\AdminDashboard.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\AdminDashboard.copy.js",
+    "name": "AdminDashboard.copy.js",
+    "ext": ".js",
+    "size": 2478
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\AdminDisputeArchive.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\AdminDisputeArchive.copy.js",
+    "name": "AdminDisputeArchive.copy.js",
+    "ext": ".js",
+    "size": 2675
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\AdminDisputeDashboard.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\AdminDisputeDashboard.copy.js",
+    "name": "AdminDisputeDashboard.copy.js",
+    "ext": ".js",
+    "size": 2885
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\AdminDisputeIndex.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\AdminDisputeIndex.copy.js",
+    "name": "AdminDisputeIndex.copy.js",
+    "ext": ".js",
+    "size": 2237
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\adminDisputes.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\adminDisputes.copy.js",
+    "name": "adminDisputes.copy.js",
+    "ext": ".js",
+    "size": 2185
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\AdminEscrowClaim.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\AdminEscrowClaim.copy.js",
+    "name": "AdminEscrowClaim.copy.js",
+    "ext": ".js",
+    "size": 3308
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\AdminEscrowClaimsDashboard.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\AdminEscrowClaimsDashboard.copy.js",
+    "name": "AdminEscrowClaimsDashboard.copy.js",
+    "ext": ".js",
+    "size": 4648
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\AdminEscrowDashboard.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\AdminEscrowDashboard.copy.js",
+    "name": "AdminEscrowDashboard.copy.js",
+    "ext": ".js",
+    "size": 4519
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\AdminEscrowMonitor.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\AdminEscrowMonitor.copy.js",
+    "name": "AdminEscrowMonitor.copy.js",
+    "ext": ".js",
+    "size": 2936
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\AdminInsights.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\AdminInsights.copy.js",
+    "name": "AdminInsights.copy.js",
+    "ext": ".js",
+    "size": 2119
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\AdminInspectionReview.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\AdminInspectionReview.copy.js",
+    "name": "AdminInspectionReview.copy.js",
+    "ext": ".js",
+    "size": 3201
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\AdminLayout.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\AdminLayout.copy.js",
+    "name": "AdminLayout.copy.js",
+    "ext": ".js",
+    "size": 2559
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\AdminLedgerDashboard.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\AdminLedgerDashboard.copy.js",
+    "name": "AdminLedgerDashboard.copy.js",
+    "ext": ".js",
+    "size": 3542
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\AdminLoginHistory.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\AdminLoginHistory.copy.js",
+    "name": "AdminLoginHistory.copy.js",
+    "ext": ".js",
+    "size": 2270
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\AdminLoyaltyRewards.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\AdminLoyaltyRewards.copy.js",
+    "name": "AdminLoyaltyRewards.copy.js",
+    "ext": ".js",
+    "size": 2857
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\AdminModerationCenter.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\AdminModerationCenter.copy.js",
+    "name": "AdminModerationCenter.copy.js",
+    "ext": ".js",
+    "size": 3705
+  }
+]

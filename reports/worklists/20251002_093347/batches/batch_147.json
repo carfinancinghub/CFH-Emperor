@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\InsuranceDeploymentChecklist.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\InsuranceDeploymentChecklist.test.ts",
+    "name": "InsuranceDeploymentChecklist.test.ts",
+    "ext": ".ts",
+    "size": 59
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\InsuranceDeploymentChecklist.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\InsuranceDeploymentChecklist.ts",
+    "name": "InsuranceDeploymentChecklist.ts",
+    "ext": ".ts",
+    "size": 3385
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\insuranceIntegrationService_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\insuranceIntegrationService_1.ts",
+    "name": "insuranceIntegrationService_1.ts",
+    "ext": ".ts",
+    "size": 10015
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\insuranceIntegrationService.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\insuranceIntegrationService.test_1.ts",
+    "name": "insuranceIntegrationService.test_1.ts",
+    "ext": ".ts",
+    "size": 12302
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\InsuranceIntegrationTest_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\InsuranceIntegrationTest_1.ts",
+    "name": "InsuranceIntegrationTest_1.ts",
+    "ext": ".ts",
+    "size": 4368
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\InsuranceIntegrationTest.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\InsuranceIntegrationTest.test_1.ts",
+    "name": "InsuranceIntegrationTest.test_1.ts",
+    "ext": ".ts",
+    "size": 55
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\InsuranceIntegrationTest.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\InsuranceIntegrationTest.test.ts",
+    "name": "InsuranceIntegrationTest.test.ts",
+    "ext": ".ts",
+    "size": 55
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\InsuranceIntegrationTest.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\InsuranceIntegrationTest.ts",
+    "name": "InsuranceIntegrationTest.ts",
+    "ext": ".ts",
+    "size": 4368
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\InsuranceMarketPredictor_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\InsuranceMarketPredictor_1.ts",
+    "name": "InsuranceMarketPredictor_1.ts",
+    "ext": ".ts",
+    "size": 361
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\InsurancePolicy_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\InsurancePolicy_1.ts",
+    "name": "InsurancePolicy_1.ts",
+    "ext": ".ts",
+    "size": 2761
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\InsurancePolicy.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\InsurancePolicy.test_1.ts",
+    "name": "InsurancePolicy.test_1.ts",
+    "ext": ".ts",
+    "size": 46
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\InsurancePolicy.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\InsurancePolicy.test.ts",
+    "name": "InsurancePolicy.test.ts",
+    "ext": ".ts",
+    "size": 46
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\InsurancePolicy.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\InsurancePolicy.ts",
+    "name": "InsurancePolicy.ts",
+    "ext": ".ts",
+    "size": 2761
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\InsuranceProvider_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\InsuranceProvider_1.ts",
+    "name": "InsuranceProvider_1.ts",
+    "ext": ".ts",
+    "size": 3135
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\InsuranceProvider.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\InsuranceProvider.test_1.ts",
+    "name": "InsuranceProvider.test_1.ts",
+    "ext": ".ts",
+    "size": 48
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\InsuranceProvider.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\InsuranceProvider.test.ts",
+    "name": "InsuranceProvider.test.ts",
+    "ext": ".ts",
+    "size": 48
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\InsuranceProvider.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\InsuranceProvider.ts",
+    "name": "InsuranceProvider.ts",
+    "ext": ".ts",
+    "size": 3135
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\InsuranceQuoteAnalyzer_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\InsuranceQuoteAnalyzer_1.ts",
+    "name": "InsuranceQuoteAnalyzer_1.ts",
+    "ext": ".ts",
+    "size": 203
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\insuranceRoutes_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\insuranceRoutes_1.ts",
+    "name": "insuranceRoutes_1.ts",
+    "ext": ".ts",
+    "size": 2985
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\insuranceRoutes.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\insuranceRoutes.test_1.ts",
+    "name": "insuranceRoutes.test_1.ts",
+    "ext": ".ts",
+    "size": 46
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\insuranceRoutes.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\insuranceRoutes.test.ts",
+    "name": "insuranceRoutes.test.ts",
+    "ext": ".ts",
+    "size": 46
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\insuranceRoutes.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\insuranceRoutes.ts",
+    "name": "insuranceRoutes.ts",
+    "ext": ".ts",
+    "size": 2985
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\integrationReport_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\integrationReport_1.ts",
+    "name": "integrationReport_1.ts",
+    "ext": ".ts",
+    "size": 2123
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\integrationReport.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\integrationReport.test_1.ts",
+    "name": "integrationReport.test_1.ts",
+    "ext": ".ts",
+    "size": 48
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\integrationReport.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\integrationReport.test.ts",
+    "name": "integrationReport.test.ts",
+    "ext": ".ts",
+    "size": 48
+  }
+]

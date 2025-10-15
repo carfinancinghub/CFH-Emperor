@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\AdminNavigation.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\AdminNavigation.copy.js",
+    "name": "AdminNavigation.copy.js",
+    "ext": ".js",
+    "size": 1553
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\AdminNotificationCenter.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\AdminNotificationCenter.copy.js",
+    "name": "AdminNotificationCenter.copy.js",
+    "ext": ".js",
+    "size": 3496
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\AdminNotificationCenterGrokOld.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\AdminNotificationCenterGrokOld.copy.js",
+    "name": "AdminNotificationCenterGrokOld.copy.js",
+    "ext": ".js",
+    "size": 3502
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\AdminPaymentOverview.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\AdminPaymentOverview.copy.js",
+    "name": "AdminPaymentOverview.copy.js",
+    "ext": ".js",
+    "size": 3698
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\AdminReportExport.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\AdminReportExport.copy.js",
+    "name": "AdminReportExport.copy.js",
+    "ext": ".js",
+    "size": 1916
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\AdminReports.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\AdminReports.copy.js",
+    "name": "AdminReports.copy.js",
+    "ext": ".js",
+    "size": 2703
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\AdminRoleAnalytics.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\AdminRoleAnalytics.copy.js",
+    "name": "AdminRoleAnalytics.copy.js",
+    "ext": ".js",
+    "size": 1671
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\AdminSummaryPanel.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\AdminSummaryPanel.copy.js",
+    "name": "AdminSummaryPanel.copy.js",
+    "ext": ".js",
+    "size": 2606
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\AdminSupportTickets.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\AdminSupportTickets.copy.js",
+    "name": "AdminSupportTickets.copy.js",
+    "ext": ".js",
+    "size": 2313
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\AdminSystemHealth.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\AdminSystemHealth.copy.js",
+    "name": "AdminSystemHealth.copy.js",
+    "ext": ".js",
+    "size": 2596
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\AdminTitleDashboard.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\AdminTitleDashboard.copy.js",
+    "name": "AdminTitleDashboard.copy.js",
+    "ext": ".js",
+    "size": 4939
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\AdminUserManager.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\AdminUserManager.copy.js",
+    "name": "AdminUserManager.copy.js",
+    "ext": ".js",
+    "size": 2273
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\AdvancedSmartRecommendations.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\AdvancedSmartRecommendations.copy.js",
+    "name": "AdvancedSmartRecommendations.copy.js",
+    "ext": ".js",
+    "size": 4313
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\ai.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\ai.copy.js",
+    "name": "ai.copy.js",
+    "ext": ".js",
+    "size": 1447
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\AIAuctionSimulator.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\AIAuctionSimulator.copy.js",
+    "name": "AIAuctionSimulator.copy.js",
+    "ext": ".js",
+    "size": 3065
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\AIBadgeOverlay.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\AIBadgeOverlay.copy.js",
+    "name": "AIBadgeOverlay.copy.js",
+    "ext": ".js",
+    "size": 2332
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\AIBidStarter.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\AIBidStarter.copy.js",
+    "name": "AIBidStarter.copy.js",
+    "ext": ".js",
+    "size": 1856
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\AIDisputePredictorGrokOld (2).copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\AIDisputePredictorGrokOld (2).copy.js",
+    "name": "AIDisputePredictorGrokOld (2).copy.js",
+    "ext": ".js",
+    "size": 1354
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\AIDisputePredictorGrokOld4.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\AIDisputePredictorGrokOld4.copy.js",
+    "name": "AIDisputePredictorGrokOld4.copy.js",
+    "ext": ".js",
+    "size": 1350
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\AIEquityFinancer.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\AIEquityFinancer.copy.js",
+    "name": "AIEquityFinancer.copy.js",
+    "ext": ".js",
+    "size": 1718
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\AIFraudDetectionGrokOld2.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\AIFraudDetectionGrokOld2.copy.js",
+    "name": "AIFraudDetectionGrokOld2.copy.js",
+    "ext": ".js",
+    "size": 1393
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\AIFraudDetectionGrokOld3.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\AIFraudDetectionGrokOld3.copy.js",
+    "name": "AIFraudDetectionGrokOld3.copy.js",
+    "ext": ".js",
+    "size": 1137
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\AIInsightBuyer.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\AIInsightBuyer.copy.js",
+    "name": "AIInsightBuyer.copy.js",
+    "ext": ".js",
+    "size": 2857
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\AIInsightSeller.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\AIInsightSeller.copy.js",
+    "name": "AIInsightSeller.copy.js",
+    "ext": ".js",
+    "size": 3046
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\AILenderMatchRecommenderGrokOld.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\AILenderMatchRecommenderGrokOld.copy.js",
+    "name": "AILenderMatchRecommenderGrokOld.copy.js",
+    "ext": ".js",
+    "size": 1146
+  }
+]

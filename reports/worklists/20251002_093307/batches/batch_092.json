@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\DisputeReview_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\DisputeReview_1.jsx",
+    "name": "DisputeReview_1.jsx",
+    "ext": ".jsx",
+    "size": 1533
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\DisputeSimulator_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\DisputeSimulator_1.jsx",
+    "name": "DisputeSimulator_1.jsx",
+    "ext": ".jsx",
+    "size": 5459
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\DisputeSummaryView_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\DisputeSummaryView_1.jsx",
+    "name": "DisputeSummaryView_1.jsx",
+    "ext": ".jsx",
+    "size": 2030
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\DocumentUploader_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\DocumentUploader_1.jsx",
+    "name": "DocumentUploader_1.jsx",
+    "ext": ".jsx",
+    "size": 4232
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\EquityIntelligenceHub_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\EquityIntelligenceHub_1.jsx",
+    "name": "EquityIntelligenceHub_1.jsx",
+    "ext": ".jsx",
+    "size": 4018
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\EquityIntelligenceHub.test_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\EquityIntelligenceHub.test_1.jsx",
+    "name": "EquityIntelligenceHub.test_1.jsx",
+    "ext": ".jsx",
+    "size": 2532
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\ErrorBoundary_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\ErrorBoundary_1.jsx",
+    "name": "ErrorBoundary_1.jsx",
+    "ext": ".jsx",
+    "size": 913
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\EscrowAuditLogViewer_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\EscrowAuditLogViewer_1.jsx",
+    "name": "EscrowAuditLogViewer_1.jsx",
+    "ext": ".jsx",
+    "size": 1085
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\EscrowConditionChecklist_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\EscrowConditionChecklist_1.jsx",
+    "name": "EscrowConditionChecklist_1.jsx",
+    "ext": ".jsx",
+    "size": 4739
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\EscrowDashboard_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\EscrowDashboard_1.jsx",
+    "name": "EscrowDashboard_1.jsx",
+    "ext": ".jsx",
+    "size": 7190
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\EscrowDocumentGallery_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\EscrowDocumentGallery_1.jsx",
+    "name": "EscrowDocumentGallery_1.jsx",
+    "ext": ".jsx",
+    "size": 6110
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\EscrowDocumentUploader_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\EscrowDocumentUploader_1.jsx",
+    "name": "EscrowDocumentUploader_1.jsx",
+    "ext": ".jsx",
+    "size": 8593
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\EscrowOfficerDashboard_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\EscrowOfficerDashboard_1.jsx",
+    "name": "EscrowOfficerDashboard_1.jsx",
+    "ext": ".jsx",
+    "size": 6936
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\EscrowOfficerDashboard.test_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\EscrowOfficerDashboard.test_1.jsx",
+    "name": "EscrowOfficerDashboard.test_1.jsx",
+    "ext": ".jsx",
+    "size": 2428
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\EscrowOfficerPremiumPanel_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\EscrowOfficerPremiumPanel_1.jsx",
+    "name": "EscrowOfficerPremiumPanel_1.jsx",
+    "ext": ".jsx",
+    "size": 995
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\EscrowPaymentManager_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\EscrowPaymentManager_1.jsx",
+    "name": "EscrowPaymentManager_1.jsx",
+    "ext": ".jsx",
+    "size": 3849
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\EscrowPaymentManagerNeedsChecking_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\EscrowPaymentManagerNeedsChecking_1.jsx",
+    "name": "EscrowPaymentManagerNeedsChecking_1.jsx",
+    "ext": ".jsx",
+    "size": 1458
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\EscrowRoleGuard_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\EscrowRoleGuard_1.jsx",
+    "name": "EscrowRoleGuard_1.jsx",
+    "ext": ".jsx",
+    "size": 464
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\EscrowSEOHead_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\EscrowSEOHead_1.jsx",
+    "name": "EscrowSEOHead_1.jsx",
+    "ext": ".jsx",
+    "size": 734
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\EscrowStatusNotifier_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\EscrowStatusNotifier_1.jsx",
+    "name": "EscrowStatusNotifier_1.jsx",
+    "ext": ".jsx",
+    "size": 6889
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\EscrowStatusSync_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\EscrowStatusSync_1.jsx",
+    "name": "EscrowStatusSync_1.jsx",
+    "ext": ".jsx",
+    "size": 1327
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\EscrowStatusSync.test_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\EscrowStatusSync.test_1.jsx",
+    "name": "EscrowStatusSync.test_1.jsx",
+    "ext": ".jsx",
+    "size": 857
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\EscrowStatusTracker_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\EscrowStatusTracker_1.jsx",
+    "name": "EscrowStatusTracker_1.jsx",
+    "ext": ".jsx",
+    "size": 4243
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\EscrowStatusTracker.test_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\EscrowStatusTracker.test_1.jsx",
+    "name": "EscrowStatusTracker.test_1.jsx",
+    "ext": ".jsx",
+    "size": 4941
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\EscrowStatusViewer_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\EscrowStatusViewer_1.jsx",
+    "name": "EscrowStatusViewer_1.jsx",
+    "ext": ".jsx",
+    "size": 4166
+  }
+]

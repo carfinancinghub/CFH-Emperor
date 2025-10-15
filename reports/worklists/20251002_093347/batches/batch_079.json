@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\Notification_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\Notification_1.js",
+    "name": "Notification_1.js",
+    "ext": ".js",
+    "size": 982
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\Notification.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\Notification.js",
+    "name": "Notification.js",
+    "ext": ".js",
+    "size": 982
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\notificationApiTests_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\notificationApiTests_1.js",
+    "name": "notificationApiTests_1.js",
+    "ext": ".js",
+    "size": 5610
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\NotificationCenter_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\NotificationCenter_1.js",
+    "name": "NotificationCenter_1.js",
+    "ext": ".js",
+    "size": 4073
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\notificationController_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\notificationController_1.js",
+    "name": "notificationController_1.js",
+    "ext": ".js",
+    "size": 2480
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\notificationController.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\notificationController.js",
+    "name": "notificationController.js",
+    "ext": ".js",
+    "size": 2480
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\notifications_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\notifications_1.js",
+    "name": "notifications_1.js",
+    "ext": ".js",
+    "size": 5425
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\notifications.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\notifications.js",
+    "name": "notifications.js",
+    "ext": ".js",
+    "size": 5425
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\notificationTestValidation_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\notificationTestValidation_1.js",
+    "name": "notificationTestValidation_1.js",
+    "ext": ".js",
+    "size": 5384
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\onboardingController_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\onboardingController_1.js",
+    "name": "onboardingController_1.js",
+    "ext": ".js",
+    "size": 1113
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\onboardingController.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\onboardingController.js",
+    "name": "onboardingController.js",
+    "ext": ".js",
+    "size": 1113
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\OnboardingGuide_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\OnboardingGuide_1.js",
+    "name": "OnboardingGuide_1.js",
+    "ext": ".js",
+    "size": 1168
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\pathFixPrep_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\pathFixPrep_1.js",
+    "name": "pathFixPrep_1.js",
+    "ext": ".js",
+    "size": 5267
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\pathFixScript_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\pathFixScript_1.js",
+    "name": "pathFixScript_1.js",
+    "ext": ".js",
+    "size": 2735
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\pathFixValidator_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\pathFixValidator_1.js",
+    "name": "pathFixValidator_1.js",
+    "ext": ".js",
+    "size": 1324
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\paymentController_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\paymentController_1.js",
+    "name": "paymentController_1.js",
+    "ext": ".js",
+    "size": 1646
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\paymentController.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\paymentController.js",
+    "name": "paymentController.js",
+    "ext": ".js",
+    "size": 1646
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\PaymentForm_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\PaymentForm_1.js",
+    "name": "PaymentForm_1.js",
+    "ext": ".js",
+    "size": 1802
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\PaymentProcessor_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\PaymentProcessor_1.js",
+    "name": "PaymentProcessor_1.js",
+    "ext": ".js",
+    "size": 2577
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\PaymentProcessor.test_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\PaymentProcessor.test_1.js",
+    "name": "PaymentProcessor.test_1.js",
+    "ext": ".js",
+    "size": 3882
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\payments_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\payments_1.js",
+    "name": "payments_1.js",
+    "ext": ".js",
+    "size": 370
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\payments.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\payments.js",
+    "name": "payments.js",
+    "ext": ".js",
+    "size": 370
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\pdfGenerator_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\pdfGenerator_1.js",
+    "name": "pdfGenerator_1.js",
+    "ext": ".js",
+    "size": 1774
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\pdfGenerator.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\pdfGenerator.js",
+    "name": "pdfGenerator.js",
+    "ext": ".js",
+    "size": 1774
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\PerformanceMonitor_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\PerformanceMonitor_1.js",
+    "name": "PerformanceMonitor_1.js",
+    "ext": ".js",
+    "size": 1416
+  }
+]

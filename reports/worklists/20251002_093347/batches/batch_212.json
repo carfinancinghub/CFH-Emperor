@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\LenderTermsHistoryViewer.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\LenderTermsHistoryViewer.test_1.tsx",
+    "name": "LenderTermsHistoryViewer.test_1.tsx",
+    "ext": ".tsx",
+    "size": 1523
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\LenderTermsHistoryViewer.test.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\LenderTermsHistoryViewer.test.test_1.tsx",
+    "name": "LenderTermsHistoryViewer.test.test_1.tsx",
+    "ext": ".tsx",
+    "size": 61
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\LenderTermsHistoryViewer.test.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\LenderTermsHistoryViewer.test.test.tsx",
+    "name": "LenderTermsHistoryViewer.test.test.tsx",
+    "ext": ".tsx",
+    "size": 61
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\LenderTermsHistoryViewer.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\LenderTermsHistoryViewer.test.tsx",
+    "name": "LenderTermsHistoryViewer.test.tsx",
+    "ext": ".tsx",
+    "size": 56
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\LenderTermsHistoryViewer.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\LenderTermsHistoryViewer.tsx",
+    "name": "LenderTermsHistoryViewer.tsx",
+    "ext": ".tsx",
+    "size": 1585
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\LiveAuctionStream_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\LiveAuctionStream_1.tsx",
+    "name": "LiveAuctionStream_1.tsx",
+    "ext": ".tsx",
+    "size": 8375
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\LiveAuctionStream.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\LiveAuctionStream.test_1.tsx",
+    "name": "LiveAuctionStream.test_1.tsx",
+    "ext": ".tsx",
+    "size": 9574
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\LiveDashboardHealthWidget_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\LiveDashboardHealthWidget_1.tsx",
+    "name": "LiveDashboardHealthWidget_1.tsx",
+    "ext": ".tsx",
+    "size": 2842
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\LiveDashboardHealthWidget.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\LiveDashboardHealthWidget.test_1.tsx",
+    "name": "LiveDashboardHealthWidget.test_1.tsx",
+    "ext": ".tsx",
+    "size": 57
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\LiveDashboardHealthWidget.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\LiveDashboardHealthWidget.test.tsx",
+    "name": "LiveDashboardHealthWidget.test.tsx",
+    "ext": ".tsx",
+    "size": 57
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\LiveInspectionTaskFeed_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\LiveInspectionTaskFeed_1.tsx",
+    "name": "LiveInspectionTaskFeed_1.tsx",
+    "ext": ".tsx",
+    "size": 2316
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\LiveInspectionTaskFeed.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\LiveInspectionTaskFeed.test_1.tsx",
+    "name": "LiveInspectionTaskFeed.test_1.tsx",
+    "ext": ".tsx",
+    "size": 54
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\LiveInspectionTaskFeed.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\LiveInspectionTaskFeed.test.tsx",
+    "name": "LiveInspectionTaskFeed.test.tsx",
+    "ext": ".tsx",
+    "size": 54
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\LiveInspectionTaskFeed.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\LiveInspectionTaskFeed.tsx",
+    "name": "LiveInspectionTaskFeed.tsx",
+    "ext": ".tsx",
+    "size": 2316
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\LiveStreamViewer_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\LiveStreamViewer_1.tsx",
+    "name": "LiveStreamViewer_1.tsx",
+    "ext": ".tsx",
+    "size": 3013
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\LiveStreamViewer.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\LiveStreamViewer.test_1.tsx",
+    "name": "LiveStreamViewer.test_1.tsx",
+    "ext": ".tsx",
+    "size": 48
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\LiveStreamViewer.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\LiveStreamViewer.test.tsx",
+    "name": "LiveStreamViewer.test.tsx",
+    "ext": ".tsx",
+    "size": 48
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\LiveStreamViewer.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\LiveStreamViewer.tsx",
+    "name": "LiveStreamViewer.tsx",
+    "ext": ".tsx",
+    "size": 3013
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\LoadingSpinner_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\LoadingSpinner_1.tsx",
+    "name": "LoadingSpinner_1.tsx",
+    "ext": ".tsx",
+    "size": 946
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\LoadingSpinner.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\LoadingSpinner.test_1.tsx",
+    "name": "LoadingSpinner.test_1.tsx",
+    "ext": ".tsx",
+    "size": 46
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\LoadingSpinner.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\LoadingSpinner.test.tsx",
+    "name": "LoadingSpinner.test.tsx",
+    "ext": ".tsx",
+    "size": 46
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\LoadingSpinner.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\LoadingSpinner.tsx",
+    "name": "LoadingSpinner.tsx",
+    "ext": ".tsx",
+    "size": 946
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\Login_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\Login_1.tsx",
+    "name": "Login_1.tsx",
+    "ext": ".tsx",
+    "size": 1798
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\Login.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\Login.test_1.tsx",
+    "name": "Login.test_1.tsx",
+    "ext": ".tsx",
+    "size": 37
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\Login.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\Login.test.tsx",
+    "name": "Login.test.tsx",
+    "ext": ".tsx",
+    "size": 37
+  }
+]

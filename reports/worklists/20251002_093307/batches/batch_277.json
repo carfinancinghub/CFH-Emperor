@@ -1,0 +1,66 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\jsx\\jsx_and_test_file_names_grouped_v1.md",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\jsx\\jsx_and_test_file_names_grouped_v1.md",
+    "name": "jsx_and_test_file_names_grouped_v1.md",
+    "ext": ".md",
+    "size": 561704
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\jsx\\jsx_non_test_formated_v1.md",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\jsx\\jsx_non_test_formated_v1.md",
+    "name": "jsx_non_test_formated_v1.md",
+    "ext": ".md",
+    "size": 451727
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\jsx\\jsx_non_test_sorted_v2.md",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\jsx\\jsx_non_test_sorted_v2.md",
+    "name": "jsx_non_test_sorted_v2.md",
+    "ext": ".md",
+    "size": 440457
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\test\\js_tests_sorted_v1.md",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\test\\js_tests_sorted_v1.md",
+    "name": "js_tests_sorted_v1.md",
+    "ext": ".md",
+    "size": 137361
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\test\\only_test_tsx_file_scan_resoults_v1.md",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\test\\only_test_tsx_file_scan_resoults_v1.md",
+    "name": "only_test_tsx_file_scan_resoults_v1.md",
+    "ext": ".md",
+    "size": 19838
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\test\\test_jsx_grouped_by_filename_only_v2.md",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\test\\test_jsx_grouped_by_filename_only_v2.md",
+    "name": "test_jsx_grouped_by_filename_only_v2.md",
+    "ext": ".md",
+    "size": 110249
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\test\\test_ts_grouped_by_filename_only_v1.md",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\test\\test_ts_grouped_by_filename_only_v1.md",
+    "name": "test_ts_grouped_by_filename_only_v1.md",
+    "ext": ".md",
+    "size": 71769
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\test\\test_tsx_sorted_v1.md",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\test\\test_tsx_sorted_v1.md",
+    "name": "test_tsx_sorted_v1.md",
+    "ext": ".md",
+    "size": 19816
+  }
+]

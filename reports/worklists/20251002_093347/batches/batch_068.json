@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\CrossBorderFinancing_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\CrossBorderFinancing_1.js",
+    "name": "CrossBorderFinancing_1.js",
+    "ext": ".js",
+    "size": 799
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\CryptoPayment_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\CryptoPayment_1.js",
+    "name": "CryptoPayment_1.js",
+    "ext": ".js",
+    "size": 1835
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\dashboardTests_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\dashboardTests_1.js",
+    "name": "dashboardTests_1.js",
+    "ext": ".js",
+    "size": 2361
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\db_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\db_1.js",
+    "name": "db_1.js",
+    "ext": ".js",
+    "size": 1248
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\DDoSProtector_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\DDoSProtector_1.js",
+    "name": "DDoSProtector_1.js",
+    "ext": ".js",
+    "size": 1640
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\DDoSProtector.test_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\DDoSProtector.test_1.js",
+    "name": "DDoSProtector.test_1.js",
+    "ext": ".js",
+    "size": 2761
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\DDoSProtector.test.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\DDoSProtector.test.js",
+    "name": "DDoSProtector.test.js",
+    "ext": ".js",
+    "size": 2761
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\Dispute_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\Dispute_1.js",
+    "name": "Dispute_1.js",
+    "ext": ".js",
+    "size": 1515
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\Dispute.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\Dispute.js",
+    "name": "Dispute.js",
+    "ext": ".js",
+    "size": 1515
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\DisputeCard_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\DisputeCard_1.js",
+    "name": "DisputeCard_1.js",
+    "ext": ".js",
+    "size": 779
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\disputeController_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\disputeController_1.js",
+    "name": "disputeController_1.js",
+    "ext": ".js",
+    "size": 2386
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\disputeController.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\disputeController.js",
+    "name": "disputeController.js",
+    "ext": ".js",
+    "size": 2386
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\DisputeDashboard_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\DisputeDashboard_1.js",
+    "name": "DisputeDashboard_1.js",
+    "ext": ".js",
+    "size": 6531
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\DisputeDashboard.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\DisputeDashboard.js",
+    "name": "DisputeDashboard.js",
+    "ext": ".js",
+    "size": 6531
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\DisputeEvidenceUploader_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\DisputeEvidenceUploader_1.js",
+    "name": "DisputeEvidenceUploader_1.js",
+    "ext": ".js",
+    "size": 1659
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\DisputeEvidenceUploader.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\DisputeEvidenceUploader.js",
+    "name": "DisputeEvidenceUploader.js",
+    "ext": ".js",
+    "size": 1659
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\disputeFlowController_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\disputeFlowController_1.js",
+    "name": "disputeFlowController_1.js",
+    "ext": ".js",
+    "size": 2921
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\disputeFlowController.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\disputeFlowController.js",
+    "name": "disputeFlowController.js",
+    "ext": ".js",
+    "size": 2921
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\DisputeManager_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\DisputeManager_1.js",
+    "name": "DisputeManager_1.js",
+    "ext": ".js",
+    "size": 2765
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\DisputeManager.test_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\DisputeManager.test_1.js",
+    "name": "DisputeManager.test_1.js",
+    "ext": ".js",
+    "size": 4358
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\disputePdfController_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\disputePdfController_1.js",
+    "name": "disputePdfController_1.js",
+    "ext": ".js",
+    "size": 1826
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\disputePdfController.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\disputePdfController.js",
+    "name": "disputePdfController.js",
+    "ext": ".js",
+    "size": 1826
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\DisputeResolution_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\DisputeResolution_1.js",
+    "name": "DisputeResolution_1.js",
+    "ext": ".js",
+    "size": 1747
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\DisputeResolution.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\DisputeResolution.js",
+    "name": "DisputeResolution.js",
+    "ext": ".js",
+    "size": 1747
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\DisputeTimelineViewer_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\DisputeTimelineViewer_1.js",
+    "name": "DisputeTimelineViewer_1.js",
+    "ext": ".js",
+    "size": 952
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\JudgeLeaderboard.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\JudgeLeaderboard.tsx",
+    "name": "JudgeLeaderboard.tsx",
+    "ext": ".tsx",
+    "size": 636
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\judgeRoutes.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\judgeRoutes.tsx",
+    "name": "judgeRoutes.tsx",
+    "ext": ".tsx",
+    "size": 616
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\JudgeVotePanel.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\JudgeVotePanel.tsx",
+    "name": "JudgeVotePanel.tsx",
+    "ext": ".tsx",
+    "size": 628
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\LaunchChecklist.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\LaunchChecklist.tsx",
+    "name": "LaunchChecklist.tsx",
+    "ext": ".tsx",
+    "size": 632
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\LeaveReview.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\LeaveReview.tsx",
+    "name": "LeaveReview.tsx",
+    "ext": ".tsx",
+    "size": 616
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\LenderAnalyticsDashboard.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\LenderAnalyticsDashboard.tsx",
+    "name": "LenderAnalyticsDashboard.tsx",
+    "ext": ".tsx",
+    "size": 668
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\LenderAuctionHistory.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\LenderAuctionHistory.tsx",
+    "name": "LenderAuctionHistory.tsx",
+    "ext": ".tsx",
+    "size": 652
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\LenderBidDetailCard.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\LenderBidDetailCard.tsx",
+    "name": "LenderBidDetailCard.tsx",
+    "ext": ".tsx",
+    "size": 648
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\LenderBiddingDashboard.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\LenderBiddingDashboard.tsx",
+    "name": "LenderBiddingDashboard.tsx",
+    "ext": ".tsx",
+    "size": 660
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\LenderBidInterface.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\LenderBidInterface.tsx",
+    "name": "LenderBidInterface.tsx",
+    "ext": ".tsx",
+    "size": 644
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\lenderBucket.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\lenderBucket.tsx",
+    "name": "lenderBucket.tsx",
+    "ext": ".tsx",
+    "size": 620
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\LenderContractReview.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\LenderContractReview.tsx",
+    "name": "LenderContractReview.tsx",
+    "ext": ".tsx",
+    "size": 652
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\LenderContractSummary.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\LenderContractSummary.tsx",
+    "name": "LenderContractSummary.tsx",
+    "ext": ".tsx",
+    "size": 656
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\LenderDashboard.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\LenderDashboard.tsx",
+    "name": "LenderDashboard.tsx",
+    "ext": ".tsx",
+    "size": 632
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\LenderExportCenter.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\LenderExportCenter.tsx",
+    "name": "LenderExportCenter.tsx",
+    "ext": ".tsx",
+    "size": 644
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\LenderExportPanel.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\LenderExportPanel.tsx",
+    "name": "LenderExportPanel.tsx",
+    "ext": ".tsx",
+    "size": 640
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\LenderInsightsPanel.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\LenderInsightsPanel.tsx",
+    "name": "LenderInsightsPanel.tsx",
+    "ext": ".tsx",
+    "size": 648
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\LenderMatchEngineGrokOld4.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\LenderMatchEngineGrokOld4.tsx",
+    "name": "LenderMatchEngineGrokOld4.tsx",
+    "ext": ".tsx",
+    "size": 672
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\LenderMatchListView.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\LenderMatchListView.tsx",
+    "name": "LenderMatchListView.tsx",
+    "ext": ".tsx",
+    "size": 648
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\LenderMatchPreviewCard.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\LenderMatchPreviewCard.tsx",
+    "name": "LenderMatchPreviewCard.tsx",
+    "ext": ".tsx",
+    "size": 660
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\LenderOnboardingForm.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\LenderOnboardingForm.tsx",
+    "name": "LenderOnboardingForm.tsx",
+    "ext": ".tsx",
+    "size": 652
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\LenderPreApprovalDashboard.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\LenderPreApprovalDashboard.tsx",
+    "name": "LenderPreApprovalDashboard.tsx",
+    "ext": ".tsx",
+    "size": 676
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\LenderProfilePage.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\LenderProfilePage.tsx",
+    "name": "LenderProfilePage.tsx",
+    "ext": ".tsx",
+    "size": 640
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\LenderReputationSummary.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\LenderReputationSummary.tsx",
+    "name": "LenderReputationSummary.tsx",
+    "ext": ".tsx",
+    "size": 664
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\LenderReviewDashboard.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\LenderReviewDashboard.tsx",
+    "name": "LenderReviewDashboard.tsx",
+    "ext": ".tsx",
+    "size": 656
+  }
+]

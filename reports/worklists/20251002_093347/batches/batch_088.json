@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\AdminReports_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\AdminReports_1.jsx",
+    "name": "AdminReports_1.jsx",
+    "ext": ".jsx",
+    "size": 2703
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\AdminReports.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\AdminReports.jsx",
+    "name": "AdminReports.jsx",
+    "ext": ".jsx",
+    "size": 2703
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\AdminRoleAnalytics_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\AdminRoleAnalytics_1.jsx",
+    "name": "AdminRoleAnalytics_1.jsx",
+    "ext": ".jsx",
+    "size": 1671
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\AdminSidebar_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\AdminSidebar_1.jsx",
+    "name": "AdminSidebar_1.jsx",
+    "ext": ".jsx",
+    "size": 1980
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\AdminSmartAlertEngine_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\AdminSmartAlertEngine_1.jsx",
+    "name": "AdminSmartAlertEngine_1.jsx",
+    "ext": ".jsx",
+    "size": 4696
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\AdminSummaryPanel_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\AdminSummaryPanel_1.jsx",
+    "name": "AdminSummaryPanel_1.jsx",
+    "ext": ".jsx",
+    "size": 1322
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\AdminSupportTickets_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\AdminSupportTickets_1.jsx",
+    "name": "AdminSupportTickets_1.jsx",
+    "ext": ".jsx",
+    "size": 2464
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\AdminSystemHealth_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\AdminSystemHealth_1.jsx",
+    "name": "AdminSystemHealth_1.jsx",
+    "ext": ".jsx",
+    "size": 2764
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\AdminTopbar_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\AdminTopbar_1.jsx",
+    "name": "AdminTopbar_1.jsx",
+    "ext": ".jsx",
+    "size": 1368
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\AdminUserManager_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\AdminUserManager_1.jsx",
+    "name": "AdminUserManager_1.jsx",
+    "ext": ".jsx",
+    "size": 4026
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\AIDiagnosticsAssistant_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\AIDiagnosticsAssistant_1.jsx",
+    "name": "AIDiagnosticsAssistant_1.jsx",
+    "ext": ".jsx",
+    "size": 1936
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\AIDiagnosticsAssistant.test_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\AIDiagnosticsAssistant.test_1.jsx",
+    "name": "AIDiagnosticsAssistant.test_1.jsx",
+    "ext": ".jsx",
+    "size": 611
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\AIPredictorDashboard_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\AIPredictorDashboard_1.jsx",
+    "name": "AIPredictorDashboard_1.jsx",
+    "ext": ".jsx",
+    "size": 5483
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\App_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\App_1.jsx",
+    "name": "App_1.jsx",
+    "ext": ".jsx",
+    "size": 5359
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\ArbitratorAnalyticsPanel_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\ArbitratorAnalyticsPanel_1.jsx",
+    "name": "ArbitratorAnalyticsPanel_1.jsx",
+    "ext": ".jsx",
+    "size": 3051
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\ArbitratorAnalyticsPanel.test_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\ArbitratorAnalyticsPanel.test_1.jsx",
+    "name": "ArbitratorAnalyticsPanel.test_1.jsx",
+    "ext": ".jsx",
+    "size": 2034
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\ArbitratorDashboard_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\ArbitratorDashboard_1.jsx",
+    "name": "ArbitratorDashboard_1.jsx",
+    "ext": ".jsx",
+    "size": 8655
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\ArbitratorDashboard.test_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\ArbitratorDashboard.test_1.jsx",
+    "name": "ArbitratorDashboard.test_1.jsx",
+    "ext": ".jsx",
+    "size": 2387
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\ARCarPreview_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\ARCarPreview_1.jsx",
+    "name": "ARCarPreview_1.jsx",
+    "ext": ".jsx",
+    "size": 8708
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\AuctionAccessibilityWrapper_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\AuctionAccessibilityWrapper_1.jsx",
+    "name": "AuctionAccessibilityWrapper_1.jsx",
+    "ext": ".jsx",
+    "size": 4145
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\auctionExportUtils_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\auctionExportUtils_1.jsx",
+    "name": "auctionExportUtils_1.jsx",
+    "ext": ".jsx",
+    "size": 7988
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\auctionExportUtils.test_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\auctionExportUtils.test_1.jsx",
+    "name": "auctionExportUtils.test_1.jsx",
+    "ext": ".jsx",
+    "size": 4543
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\AuctionHistoryTracker_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\AuctionHistoryTracker_1.jsx",
+    "name": "AuctionHistoryTracker_1.jsx",
+    "ext": ".jsx",
+    "size": 2844
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\AuctionHistoryTracker.test_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\AuctionHistoryTracker.test_1.jsx",
+    "name": "AuctionHistoryTracker.test_1.jsx",
+    "ext": ".jsx",
+    "size": 2519
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\AuctionIntelligenceDashboard_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\AuctionIntelligenceDashboard_1.jsx",
+    "name": "AuctionIntelligenceDashboard_1.jsx",
+    "ext": ".jsx",
+    "size": 6426
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\Navbar.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\Navbar.test_1.ts",
+    "name": "Navbar.test_1.ts",
+    "ext": ".ts",
+    "size": 37
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\Navbar.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\Navbar.test.ts",
+    "name": "Navbar.test.ts",
+    "ext": ".ts",
+    "size": 37
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\Navbar.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\Navbar.ts",
+    "name": "Navbar.ts",
+    "ext": ".ts",
+    "size": 1571
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\Notification_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\Notification_1.ts",
+    "name": "Notification_1.ts",
+    "ext": ".ts",
+    "size": 1054
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\Notification.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\Notification.test_1.ts",
+    "name": "Notification.test_1.ts",
+    "ext": ".ts",
+    "size": 43
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\Notification.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\Notification.test.ts",
+    "name": "Notification.test.ts",
+    "ext": ".ts",
+    "size": 43
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\Notification.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\Notification.ts",
+    "name": "Notification.ts",
+    "ext": ".ts",
+    "size": 1054
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\notification.validation_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\notification.validation_1.ts",
+    "name": "notification.validation_1.ts",
+    "ext": ".ts",
+    "size": 1068
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\notificationApiTests_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\notificationApiTests_1.ts",
+    "name": "notificationApiTests_1.ts",
+    "ext": ".ts",
+    "size": 5690
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\notificationApiTests.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\notificationApiTests.test_1.ts",
+    "name": "notificationApiTests.test_1.ts",
+    "ext": ".ts",
+    "size": 51
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\notificationApiTests.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\notificationApiTests.test.ts",
+    "name": "notificationApiTests.test.ts",
+    "ext": ".ts",
+    "size": 51
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\notificationApiTests.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\notificationApiTests.ts",
+    "name": "notificationApiTests.ts",
+    "ext": ".ts",
+    "size": 5690
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\NotificationCenter_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\NotificationCenter_1.ts",
+    "name": "NotificationCenter_1.ts",
+    "ext": ".ts",
+    "size": 4151
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\NotificationCenter.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\NotificationCenter.test_1.ts",
+    "name": "NotificationCenter.test_1.ts",
+    "ext": ".ts",
+    "size": 49
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\NotificationCenter.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\NotificationCenter.test.ts",
+    "name": "NotificationCenter.test.ts",
+    "ext": ".ts",
+    "size": 49
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\NotificationCenter.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\NotificationCenter.ts",
+    "name": "NotificationCenter.ts",
+    "ext": ".ts",
+    "size": 4151
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\notificationController_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\notificationController_1.ts",
+    "name": "notificationController_1.ts",
+    "ext": ".ts",
+    "size": 2562
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\NotificationController.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\NotificationController.test_1.ts",
+    "name": "NotificationController.test_1.ts",
+    "ext": ".ts",
+    "size": 4923
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\notificationController.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\notificationController.ts",
+    "name": "notificationController.ts",
+    "ext": ".ts",
+    "size": 2562
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\notificationDispatcher_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\notificationDispatcher_1.ts",
+    "name": "notificationDispatcher_1.ts",
+    "ext": ".ts",
+    "size": 352
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\notificationEnhancer_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\notificationEnhancer_1.ts",
+    "name": "notificationEnhancer_1.ts",
+    "ext": ".ts",
+    "size": 388
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\notificationQueue_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\notificationQueue_1.ts",
+    "name": "notificationQueue_1.ts",
+    "ext": ".ts",
+    "size": 822
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\notificationQueueWorker_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\notificationQueueWorker_1.ts",
+    "name": "notificationQueueWorker_1.ts",
+    "ext": ".ts",
+    "size": 1463
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\notifications_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\notifications_1.ts",
+    "name": "notifications_1.ts",
+    "ext": ".ts",
+    "size": 5619
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\notifications.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\notifications.test_1.ts",
+    "name": "notifications.test_1.ts",
+    "ext": ".ts",
+    "size": 44
+  }
+]

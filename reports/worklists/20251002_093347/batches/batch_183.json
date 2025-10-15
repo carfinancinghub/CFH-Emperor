@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\VRInspection_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\VRInspection_1.ts",
+    "name": "VRInspection_1.ts",
+    "ext": ".ts",
+    "size": 1250
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\VRInspection.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\VRInspection.test_1.ts",
+    "name": "VRInspection.test_1.ts",
+    "ext": ".ts",
+    "size": 43
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\VRInspection.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\VRInspection.test.ts",
+    "name": "VRInspection.test.ts",
+    "ext": ".ts",
+    "size": 43
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\VRInspection.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\VRInspection.ts",
+    "name": "VRInspection.ts",
+    "ext": ".ts",
+    "size": 1250
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\VRVehicleTour_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\VRVehicleTour_1.ts",
+    "name": "VRVehicleTour_1.ts",
+    "ext": ".ts",
+    "size": 2360
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\VRVehicleTour.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\VRVehicleTour.test_1.ts",
+    "name": "VRVehicleTour.test_1.ts",
+    "ext": ".ts",
+    "size": 3869
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\VRVehicleTour.test.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\VRVehicleTour.test.test_1.ts",
+    "name": "VRVehicleTour.test.test_1.ts",
+    "ext": ".ts",
+    "size": 49
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\VRVehicleTour.test.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\VRVehicleTour.test.test.ts",
+    "name": "VRVehicleTour.test.test.ts",
+    "ext": ".ts",
+    "size": 49
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\VRVehicleTour.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\VRVehicleTour.test.ts",
+    "name": "VRVehicleTour.test.ts",
+    "ext": ".ts",
+    "size": 44
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\VRVehicleTour.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\VRVehicleTour.ts",
+    "name": "VRVehicleTour.ts",
+    "ext": ".ts",
+    "size": 2360
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\VRViewer_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\VRViewer_1.ts",
+    "name": "VRViewer_1.ts",
+    "ext": ".ts",
+    "size": 621
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\VRViewer.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\VRViewer.test_1.ts",
+    "name": "VRViewer.test_1.ts",
+    "ext": ".ts",
+    "size": 39
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\VRViewer.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\VRViewer.test.ts",
+    "name": "VRViewer.test.ts",
+    "ext": ".ts",
+    "size": 39
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\VRViewer.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\VRViewer.ts",
+    "name": "VRViewer.ts",
+    "ext": ".ts",
+    "size": 621
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\WebSocketCluster_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\WebSocketCluster_1.ts",
+    "name": "WebSocketCluster_1.ts",
+    "ext": ".ts",
+    "size": 1406
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\WebSocketCluster.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\WebSocketCluster.test_1.ts",
+    "name": "WebSocketCluster.test_1.ts",
+    "ext": ".ts",
+    "size": 47
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\WebSocketCluster.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\WebSocketCluster.test.ts",
+    "name": "WebSocketCluster.test.ts",
+    "ext": ".ts",
+    "size": 47
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\WebSocketCluster.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\WebSocketCluster.ts",
+    "name": "WebSocketCluster.ts",
+    "ext": ".ts",
+    "size": 1406
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\WebSocketService_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\WebSocketService_1.ts",
+    "name": "WebSocketService_1.ts",
+    "ext": ".ts",
+    "size": 1791
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\WebSocketService.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\WebSocketService.test_1.ts",
+    "name": "WebSocketService.test_1.ts",
+    "ext": ".ts",
+    "size": 47
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\WebSocketService.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\WebSocketService.test.ts",
+    "name": "WebSocketService.test.ts",
+    "ext": ".ts",
+    "size": 47
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\WebSocketService.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\WebSocketService.ts",
+    "name": "WebSocketService.ts",
+    "ext": ".ts",
+    "size": 1791
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\WelcomeNotification_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\WelcomeNotification_1.ts",
+    "name": "WelcomeNotification_1.ts",
+    "ext": ".ts",
+    "size": 2451
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\WelcomeNotification.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\WelcomeNotification.test_1.ts",
+    "name": "WelcomeNotification.test_1.ts",
+    "ext": ".ts",
+    "size": 3592
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\WelcomeNotification.test.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\WelcomeNotification.test.test_1.ts",
+    "name": "WelcomeNotification.test.test_1.ts",
+    "ext": ".ts",
+    "size": 55
+  }
+]

@@ -1,0 +1,114 @@
+# ----------------------------------------------------------------------
+# File: ci.yml
+# Path: .github/workflows/ci.yml
+# Author: Gemini & SG Man, System Architects
+# Created: August 13, 2025 at 17:15 PDT
+# Version: 1.0.2 (Enhanced with Testing Services & ECS Deployment)
+# artifact version ID: 1954b63a-a656-4327-a4a0-540b068cf20d
+# 👑 Cod1 Crown Certified
+# ----------------------------------------------------------------------
+#
+# @description
+# GitHub Actions workflow for automated testing and deployment of the CFH platform.
+#
+# @architectural_notes
+# - **CI/CD**: Runs unit and integration tests, builds Docker images, and deploys to AWS ECS staging.
+# - **Secure**: Uses GitHub secrets for AWS credentials.
+# - **Resilient**: Includes MongoDB/Redis services for testing.
+#
+# @todos
+# - @free:
+#   - [x] Add testing and deployment workflow.
+# - @premium:
+#   - [ ] ✨ Add deployment to production environment.
+# - @wow:
+#   - [ ] 🚀 Integrate AI-driven test optimization.
+#
+# ----------------------------------------------------------------------
+name: CFH Continuous Integration & Deployment
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    services:
+      mongo:
+        image: mongo:6.0
+        ports:
+          - 27017:27017
+      redis:
+        image: redis:7.0
+        ports:
+          - 6379:6379
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+      - name: Install backend dependencies
+        run: cd backend && npm install
+      - name: Run backend unit tests
+        run: cd backend && npm test
+        env:
+          MONGO_URI: mongodb://localhost:27017/cfh
+          REDIS_URL: redis://localhost:6379
+          JWT_SECRET: test-secret
+          STRIPE_SECRET_KEY: sk_test_1234567890abcdef
+      - name: Install frontend dependencies
+        run: cd frontend && npm install
+      - name: Run frontend unit tests
+        run: cd frontend && npm test
+      - name: Run Cypress integration tests
+        uses: cypress-io/github-action@v5
+        with:
+          working-directory: .
+          start: npm run start:frontend, npm run start:backend
+          wait-on: 'http://localhost:3000, http://localhost:5000'
+          config-file: cypress.config.ts
+        env:
+          VITE_API_BASE_URL: http://localhost:5000/api/v1
+
+  deploy-to-staging:
+    needs: test
+    if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Configure AWS Credentials
+        uses: aws-actions/configure-aws-credentials@v2
+        with:
+          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          aws-region: us-west-2
+      - name: Login to Amazon ECR
+        id: login-ecr
+        uses: aws-actions/amazon-ecr-login@v1
+      - name: Build, tag, and push backend image
+        env:
+          ECR_REGISTRY: ${{ steps.login-ecr.outputs.registry }}
+          ECR_REPOSITORY: cfh-backend-repo
+          IMAGE_TAG: ${{ github.sha }}
+        run: |
+          docker build -t $ECR_REGISTRY/$ECR_REPOSITORY:$IMAGE_TAG ./backend
+          docker push $ECR_REGISTRY/$ECR_REPOSITORY:$IMAGE_TAG
+      - name: Build, tag, and push frontend image
+        env:
+          ECR_REGISTRY: ${{ steps.login-ecr.outputs.registry }}
+          ECR_REPOSITORY: cfh-frontend-repo
+          IMAGE_TAG: ${{ github.sha }}
+        run: |
+          docker build -t $ECR_REGISTRY/$ECR_REPOSITORY:$IMAGE_TAG ./frontend
+          docker push $ECR_REGISTRY/$ECR_REPOSITORY:$IMAGE_TAG
+      - name: Deploy to Amazon ECS
+        uses: aws-actions/amazon-ecs-deploy-task-definition@v1
+        with:
+          task-definition: .aws/task-definition.json
+          service: cfh-staging-service
+          cluster: cfh-staging-cluster
+          wait-for-service-stability: true

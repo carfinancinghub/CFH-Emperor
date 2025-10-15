@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\RecommendationEngine.test.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\RecommendationEngine.test.test_1.ts",
+    "name": "RecommendationEngine.test.test_1.ts",
+    "ext": ".ts",
+    "size": 56
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\RecommendationEngine.test.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\RecommendationEngine.test.test.ts",
+    "name": "RecommendationEngine.test.test.ts",
+    "ext": ".ts",
+    "size": 56
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\RecommendationEngine.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\RecommendationEngine.test.ts",
+    "name": "RecommendationEngine.test.ts",
+    "ext": ".ts",
+    "size": 51
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\RecommendationEngine.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\RecommendationEngine.ts",
+    "name": "RecommendationEngine.ts",
+    "ext": ".ts",
+    "size": 1918
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\redisCache.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\redisCache.test_1.ts",
+    "name": "redisCache.test_1.ts",
+    "ext": ".ts",
+    "size": 3031
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\redisClient_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\redisClient_1.ts",
+    "name": "redisClient_1.ts",
+    "ext": ".ts",
+    "size": 320
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\ReferralAnalytics_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\ReferralAnalytics_1.ts",
+    "name": "ReferralAnalytics_1.ts",
+    "ext": ".ts",
+    "size": 894
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\ReferralAnalytics.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\ReferralAnalytics.test_1.ts",
+    "name": "ReferralAnalytics.test_1.ts",
+    "ext": ".ts",
+    "size": 48
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\ReferralAnalytics.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\ReferralAnalytics.test.ts",
+    "name": "ReferralAnalytics.test.ts",
+    "ext": ".ts",
+    "size": 48
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\ReferralAnalytics.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\ReferralAnalytics.ts",
+    "name": "ReferralAnalytics.ts",
+    "ext": ".ts",
+    "size": 894
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\Register_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\Register_1.ts",
+    "name": "Register_1.ts",
+    "ext": ".ts",
+    "size": 3209
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\Register.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\Register.test_1.ts",
+    "name": "Register.test_1.ts",
+    "ext": ".ts",
+    "size": 39
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\Register.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\Register.test.ts",
+    "name": "Register.test.ts",
+    "ext": ".ts",
+    "size": 39
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\Register.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\Register.ts",
+    "name": "Register.ts",
+    "ext": ".ts",
+    "size": 3209
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\RegisterForm_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\RegisterForm_1.ts",
+    "name": "RegisterForm_1.ts",
+    "ext": ".ts",
+    "size": 1585
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\RegisterForm.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\RegisterForm.test_1.ts",
+    "name": "RegisterForm.test_1.ts",
+    "ext": ".ts",
+    "size": 43
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\RegisterForm.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\RegisterForm.test.ts",
+    "name": "RegisterForm.test.ts",
+    "ext": ".ts",
+    "size": 43
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\RegisterForm.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\RegisterForm.ts",
+    "name": "RegisterForm.ts",
+    "ext": ".ts",
+    "size": 1585
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\reminderService_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\reminderService_1.ts",
+    "name": "reminderService_1.ts",
+    "ext": ".ts",
+    "size": 12795
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\reminderService.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\reminderService.test_1.ts",
+    "name": "reminderService.test_1.ts",
+    "ext": ".ts",
+    "size": 9584
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\RepairCostPredictor_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\RepairCostPredictor_1.ts",
+    "name": "RepairCostPredictor_1.ts",
+    "ext": ".ts",
+    "size": 256
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\ReportService_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\ReportService_1.ts",
+    "name": "ReportService_1.ts",
+    "ext": ".ts",
+    "size": 1907
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\ReportService.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\ReportService.test_1.ts",
+    "name": "ReportService.test_1.ts",
+    "ext": ".ts",
+    "size": 307
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\ReportService.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\ReportService.test.ts",
+    "name": "ReportService.test.ts",
+    "ext": ".ts",
+    "size": 307
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\ReportSharer_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\ReportSharer_1.ts",
+    "name": "ReportSharer_1.ts",
+    "ext": ".ts",
+    "size": 209
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\coachPlanRoute.test.js",
+    "full_path": "C:\\CFH\\backend\\tests\\coachPlanRoute.test.js",
+    "name": "coachPlanRoute.test.js",
+    "ext": ".js",
+    "size": 491
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\config\\AuctionConfig.test.js",
+    "full_path": "C:\\CFH\\backend\\tests\\config\\AuctionConfig.test.js",
+    "name": "AuctionConfig.test.js",
+    "ext": ".js",
+    "size": 2398
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\controllers\\lender\\LenderTermsExporter.test.ts",
+    "full_path": "C:\\CFH\\backend\\tests\\controllers\\lender\\LenderTermsExporter.test.ts",
+    "name": "LenderTermsExporter.test.ts",
+    "ext": ".ts",
+    "size": 3631
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\controllers\\NotificationController.test.ts",
+    "full_path": "C:\\CFH\\backend\\tests\\controllers\\NotificationController.test.ts",
+    "name": "NotificationController.test.ts",
+    "ext": ".ts",
+    "size": 4923
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\dashboardTests.js",
+    "full_path": "C:\\CFH\\backend\\tests\\dashboardTests.js",
+    "name": "dashboardTests.js",
+    "ext": ".js",
+    "size": 2361
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\escrow\\escrow.service.test.js",
+    "full_path": "C:\\CFH\\backend\\tests\\escrow\\escrow.service.test.js",
+    "name": "escrow.service.test.js",
+    "ext": ".js",
+    "size": 2878
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\escrow\\escrow.service.test.ts",
+    "full_path": "C:\\CFH\\backend\\tests\\escrow\\escrow.service.test.ts",
+    "name": "escrow.service.test.ts",
+    "ext": ".ts",
+    "size": 2451
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\escrow\\EscrowIntegrationTest.js",
+    "full_path": "C:\\CFH\\backend\\tests\\escrow\\EscrowIntegrationTest.js",
+    "name": "EscrowIntegrationTest.js",
+    "ext": ".js",
+    "size": 1997
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\escrow\\EscrowService.test.ts",
+    "full_path": "C:\\CFH\\backend\\tests\\escrow\\EscrowService.test.ts",
+    "name": "EscrowService.test.ts",
+    "ext": ".ts",
+    "size": 880
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\final\\FinalTesting.test.js",
+    "full_path": "C:\\CFH\\backend\\tests\\final\\FinalTesting.test.js",
+    "name": "FinalTesting.test.js",
+    "ext": ".js",
+    "size": 2280
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\final\\SecurityAudit.test.js",
+    "full_path": "C:\\CFH\\backend\\tests\\final\\SecurityAudit.test.js",
+    "name": "SecurityAudit.test.js",
+    "ext": ".js",
+    "size": 3531
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\final\\UserAnalyticsReport.test.js",
+    "full_path": "C:\\CFH\\backend\\tests\\final\\UserAnalyticsReport.test.js",
+    "name": "UserAnalyticsReport.test.js",
+    "ext": ".js",
+    "size": 2876
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\healthCheck.js",
+    "full_path": "C:\\CFH\\backend\\tests\\healthCheck.js",
+    "name": "healthCheck.js",
+    "ext": ".js",
+    "size": 2065
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\healthCheckFast.js",
+    "full_path": "C:\\CFH\\backend\\tests\\healthCheckFast.js",
+    "name": "healthCheckFast.js",
+    "ext": ".js",
+    "size": 1965
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\healthCheckValidation.js",
+    "full_path": "C:\\CFH\\backend\\tests\\healthCheckValidation.js",
+    "name": "healthCheckValidation.js",
+    "ext": ".js",
+    "size": 6158
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\helpers.ts",
+    "full_path": "C:\\CFH\\backend\\tests\\helpers.ts",
+    "name": "helpers.ts",
+    "ext": ".ts",
+    "size": 339
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\insurance\\InsuranceIntegrationTest.js",
+    "full_path": "C:\\CFH\\backend\\tests\\insurance\\InsuranceIntegrationTest.js",
+    "name": "InsuranceIntegrationTest.js",
+    "ext": ".js",
+    "size": 4284
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\integration\\escrow.integration.test.ts",
+    "full_path": "C:\\CFH\\backend\\tests\\integration\\escrow.integration.test.ts",
+    "name": "escrow.integration.test.ts",
+    "ext": ".ts",
+    "size": 627
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\integrationReport.js",
+    "full_path": "C:\\CFH\\backend\\tests\\integrationReport.js",
+    "name": "integrationReport.js",
+    "ext": ".js",
+    "size": 2046
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\judgeApiTests.js",
+    "full_path": "C:\\CFH\\backend\\tests\\judgeApiTests.js",
+    "name": "judgeApiTests.js",
+    "ext": ".js",
+    "size": 7543
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\middleware\\auth.test.ts",
+    "full_path": "C:\\CFH\\backend\\tests\\middleware\\auth.test.ts",
+    "name": "auth.test.ts",
+    "ext": ".ts",
+    "size": 1140
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\middleware\\rateLimiter.test.ts",
+    "full_path": "C:\\CFH\\backend\\tests\\middleware\\rateLimiter.test.ts",
+    "name": "rateLimiter.test.ts",
+    "ext": ".ts",
+    "size": 768
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\middleware\\RBACMiddleware.test.ts",
+    "full_path": "C:\\CFH\\backend\\tests\\middleware\\RBACMiddleware.test.ts",
+    "name": "RBACMiddleware.test.ts",
+    "ext": ".ts",
+    "size": 202
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\middleware\\redisCache.test.ts",
+    "full_path": "C:\\CFH\\backend\\tests\\middleware\\redisCache.test.ts",
+    "name": "redisCache.test.ts",
+    "ext": ".ts",
+    "size": 3031
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\middleware\\tierCheck.test.ts",
+    "full_path": "C:\\CFH\\backend\\tests\\middleware\\tierCheck.test.ts",
+    "name": "tierCheck.test.ts",
+    "ext": ".ts",
+    "size": 7089
+  }
+]

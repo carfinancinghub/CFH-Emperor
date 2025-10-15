@@ -1,0 +1,139 @@
+# ----------------------------------------------------------------------
+# File: docker-compose.yml
+# Path: /docker-compose.yml
+# Author: Gemini & SG Man, System Architects
+# Created: August 13, 2025 at 17:03 PDT
+# Version: 1.0.2 (Aligned with Mini’s env_file Approach)
+# 👑 Cod1 Crown Certified
+# ----------------------------------------------------------------------
+#
+# @description
+# Docker Compose configuration for the CFH platform, defining services for
+# local development, testing, and staging.
+#
+# @architectural_notes
+# - **Complete Stack**: Includes backend, frontend, MongoDB, and Redis.
+# - **Secure**: Uses env_file for secrets management.
+# - **Resilient**: Adds health checks for service reliability.
+# - **Optimized**: Configures logging and volume persistence.
+#
+# @todos
+# - @free:
+#   - [x] Define core services for local development.
+# - @premium:
+#   - [ ] ✨ Add service for analytics dashboard.
+# - @wow:
+#   - [ ] 🚀 Integrate AI-driven monitoring service.
+#
+# ----------------------------------------------------------------------
+version: '3.8'
+
+services:
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: cfh_backend
+    ports:
+      - "5000:5000"
+    volumes:
+      - ./backend:/app
+      - /app/node_modules
+    env_file:
+      - ./.env
+    depends_on:
+      db:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+    networks:
+      - cfh-network
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "3"
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:5000/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    container_name: cfh_frontend
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./frontend:/app
+      - /app/node_modules
+    env_file:
+      - ./.env
+    depends_on:
+      - backend
+    networks:
+      - cfh-network
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "3"
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:3000"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+
+  db:
+    image: mongo:6.0
+    container_name: cfh_db
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongo-data:/data/db
+    env_file:
+      - ./.env
+    networks:
+      - cfh-network
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "3"
+    healthcheck:
+      test: ["CMD", "mongo", "--eval", "db.adminCommand('ping')"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+
+  redis:
+    image: redis:7.0
+    container_name: cfh_redis
+    ports:
+      - "6379:6379"
+    volumes:
+      - redis-data:/data
+    env_file:
+      - ./.env
+    networks:
+      - cfh-network
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "3"
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+
+networks:
+  cfh-network:
+    driver: bridge
+
+volumes:
+  mongo-data:
+  redis-data:

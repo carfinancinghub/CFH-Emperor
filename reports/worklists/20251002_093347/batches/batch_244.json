@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\OptionService.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\OptionService.ts",
+    "name": "OptionService.ts",
+    "ext": ".ts",
+    "size": 4030
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\payouts.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\payouts.ts",
+    "name": "payouts.ts",
+    "ext": ".ts",
+    "size": 2507
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\PendingRating.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\PendingRating.ts",
+    "name": "PendingRating.ts",
+    "ext": ".ts",
+    "size": 1756
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\performance.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\performance.ts",
+    "name": "performance.ts",
+    "ext": ".ts",
+    "size": 3225
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\Photo.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\Photo.ts",
+    "name": "Photo.ts",
+    "ext": ".ts",
+    "size": 2639
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\photoController.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\photoController.ts",
+    "name": "photoController.ts",
+    "ext": ".ts",
+    "size": 2301
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\PhotoService.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\PhotoService.ts",
+    "name": "PhotoService.ts",
+    "ext": ".ts",
+    "size": 4032
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\PhotoUploader.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\PhotoUploader.tsx",
+    "name": "PhotoUploader.tsx",
+    "ext": ".tsx",
+    "size": 2694
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\posts.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\posts.ts",
+    "name": "posts.ts",
+    "ext": ".ts",
+    "size": 3877
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\profileController.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\profileController.ts",
+    "name": "profileController.ts",
+    "ext": ".ts",
+    "size": 2346
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\profileFlow.spec.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\profileFlow.spec.ts",
+    "name": "profileFlow.spec.ts",
+    "ext": ".ts",
+    "size": 1920
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\profileRoutes.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\profileRoutes.ts",
+    "name": "profileRoutes.ts",
+    "ext": ".ts",
+    "size": 885
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\profileViewRoutes.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\profileViewRoutes.ts",
+    "name": "profileViewRoutes.ts",
+    "ext": ".ts",
+    "size": 4228
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\Rating.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\Rating.ts",
+    "name": "Rating.ts",
+    "ext": ".ts",
+    "size": 1802
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\ratingsController.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\ratingsController.ts",
+    "name": "ratingsController.ts",
+    "ext": ".ts",
+    "size": 4017
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\ratingsFlow.spec.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\ratingsFlow.spec.ts",
+    "name": "ratingsFlow.spec.ts",
+    "ext": ".ts",
+    "size": 2937
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\ratingsRoutes.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\ratingsRoutes.ts",
+    "name": "ratingsRoutes.ts",
+    "ext": ".ts",
+    "size": 1439
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\recreateFiles.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\recreateFiles.ts",
+    "name": "recreateFiles.ts",
+    "ext": ".ts",
+    "size": 3579
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\ReportingService.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\ReportingService.ts",
+    "name": "ReportingService.ts",
+    "ext": ".ts",
+    "size": 3293
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\resetPassword.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\resetPassword.ts",
+    "name": "resetPassword.ts",
+    "ext": ".ts",
+    "size": 3067
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\Review.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\Review.ts",
+    "name": "Review.ts",
+    "ext": ".ts",
+    "size": 2529
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\reviewController.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\reviewController.ts",
+    "name": "reviewController.ts",
+    "ext": ".ts",
+    "size": 1301
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\reviewRoutes.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\reviewRoutes.ts",
+    "name": "reviewRoutes.ts",
+    "ext": ".ts",
+    "size": 818
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\ReviewSchema.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\ReviewSchema.ts",
+    "name": "ReviewSchema.ts",
+    "ext": ".ts",
+    "size": 630
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\ReviewService.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\ReviewService.ts",
+    "name": "ReviewService.ts",
+    "ext": ".ts",
+    "size": 2170
+  }
+]

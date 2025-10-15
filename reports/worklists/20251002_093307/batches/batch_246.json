@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\transport.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\transport.ts",
+    "name": "transport.ts",
+    "ext": ".ts",
+    "size": 4478
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\transportService.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\transportService.ts",
+    "name": "transportService.ts",
+    "ext": ".ts",
+    "size": 2174
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\uploadRoutes.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\uploadRoutes.ts",
+    "name": "uploadRoutes.ts",
+    "ext": ".ts",
+    "size": 2231
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\useAdminUsers.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\useAdminUsers.ts",
+    "name": "useAdminUsers.ts",
+    "ext": ".ts",
+    "size": 3621
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\useAuctionDetails.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\useAuctionDetails.ts",
+    "name": "useAuctionDetails.ts",
+    "ext": ".ts",
+    "size": 3559
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\useAuctions.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\useAuctions.ts",
+    "name": "useAuctions.ts",
+    "ext": ".ts",
+    "size": 1766
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\useConversations.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\useConversations.ts",
+    "name": "useConversations.ts",
+    "ext": ".ts",
+    "size": 1565
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\useDashboard.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\useDashboard.ts",
+    "name": "useDashboard.ts",
+    "ext": ".ts",
+    "size": 1558
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\useListingForm.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\useListingForm.ts",
+    "name": "useListingForm.ts",
+    "ext": ".ts",
+    "size": 7087
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\useMessages.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\useMessages.ts",
+    "name": "useMessages.ts",
+    "ext": ".ts",
+    "size": 2103
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\useNotifications.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\useNotifications.ts",
+    "name": "useNotifications.ts",
+    "ext": ".ts",
+    "size": 1672
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\useOnboarding.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\useOnboarding.ts",
+    "name": "useOnboarding.ts",
+    "ext": ".ts",
+    "size": 2172
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\usePhotoUploader.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\usePhotoUploader.ts",
+    "name": "usePhotoUploader.ts",
+    "ext": ".ts",
+    "size": 3142
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\useProfile.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\useProfile.ts",
+    "name": "useProfile.ts",
+    "ext": ".ts",
+    "size": 1912
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\UserAnalyticsService.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\UserAnalyticsService.ts",
+    "name": "UserAnalyticsService.ts",
+    "ext": ".ts",
+    "size": 4056
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\useRatings.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\useRatings.ts",
+    "name": "useRatings.ts",
+    "ext": ".ts",
+    "size": 2961
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\UserManagementService.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\UserManagementService.ts",
+    "name": "UserManagementService.ts",
+    "ext": ".ts",
+    "size": 3476
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\UserOnboardingService.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\UserOnboardingService.ts",
+    "name": "UserOnboardingService.ts",
+    "ext": ".ts",
+    "size": 2763
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\UserService.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\UserService.ts",
+    "name": "UserService.ts",
+    "ext": ".ts",
+    "size": 3004
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\useSellerDashboard.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\useSellerDashboard.ts",
+    "name": "useSellerDashboard.ts",
+    "ext": ".ts",
+    "size": 1845
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\useTransactionDetails.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\useTransactionDetails.ts",
+    "name": "useTransactionDetails.ts",
+    "ext": ".ts",
+    "size": 2725
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\useWatchlist.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\useWatchlist.ts",
+    "name": "useWatchlist.ts",
+    "ext": ".ts",
+    "size": 2464
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\verificationRoutes.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\verificationRoutes.ts",
+    "name": "verificationRoutes.ts",
+    "ext": ".ts",
+    "size": 3093
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\verifyAdminPassword.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\verifyAdminPassword.ts",
+    "name": "verifyAdminPassword.ts",
+    "ext": ".ts",
+    "size": 2263
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\vinDecodeRoutes.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\vinDecodeRoutes.ts",
+    "name": "vinDecodeRoutes.ts",
+    "ext": ".ts",
+    "size": 1245
+  }
+]

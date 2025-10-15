@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\BuyerAnalyticsDashboard_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\BuyerAnalyticsDashboard_1.jsx",
+    "name": "BuyerAnalyticsDashboard_1.jsx",
+    "ext": ".jsx",
+    "size": 6659
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\BuyerAuctionHistory_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\BuyerAuctionHistory_1.jsx",
+    "name": "BuyerAuctionHistory_1.jsx",
+    "ext": ".jsx",
+    "size": 3466
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\BuyerAuctionHistory.test_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\BuyerAuctionHistory.test_1.jsx",
+    "name": "BuyerAuctionHistory.test_1.jsx",
+    "ext": ".jsx",
+    "size": 2695
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\BuyerBehaviorTracker_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\BuyerBehaviorTracker_1.jsx",
+    "name": "BuyerBehaviorTracker_1.jsx",
+    "ext": ".jsx",
+    "size": 2958
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\BuyerBidHistory_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\BuyerBidHistory_1.jsx",
+    "name": "BuyerBidHistory_1.jsx",
+    "ext": ".jsx",
+    "size": 5529
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\BuyerBidModal_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\BuyerBidModal_1.jsx",
+    "name": "BuyerBidModal_1.jsx",
+    "ext": ".jsx",
+    "size": 3263
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\BuyerBidModal.test_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\BuyerBidModal.test_1.jsx",
+    "name": "BuyerBidModal.test_1.jsx",
+    "ext": ".jsx",
+    "size": 2705
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\BuyerCommunityForum_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\BuyerCommunityForum_1.jsx",
+    "name": "BuyerCommunityForum_1.jsx",
+    "ext": ".jsx",
+    "size": 4629
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\BuyerCommunityForum.test_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\BuyerCommunityForum.test_1.jsx",
+    "name": "BuyerCommunityForum.test_1.jsx",
+    "ext": ".jsx",
+    "size": 2602
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\BuyerContractPreviewer_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\BuyerContractPreviewer_1.jsx",
+    "name": "BuyerContractPreviewer_1.jsx",
+    "ext": ".jsx",
+    "size": 5655
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\BuyerContractView.test_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\BuyerContractView.test_1.jsx",
+    "name": "BuyerContractView.test_1.jsx",
+    "ext": ".jsx",
+    "size": 1738
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\BuyerDashboard_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\BuyerDashboard_1.jsx",
+    "name": "BuyerDashboard_1.jsx",
+    "ext": ".jsx",
+    "size": 20734
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\BuyerDeliveryConfirmation_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\BuyerDeliveryConfirmation_1.jsx",
+    "name": "BuyerDeliveryConfirmation_1.jsx",
+    "ext": ".jsx",
+    "size": 1718
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\BuyerDeliveryTracker.test_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\BuyerDeliveryTracker.test_1.jsx",
+    "name": "BuyerDeliveryTracker.test_1.jsx",
+    "ext": ".jsx",
+    "size": 1673
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\BuyerEmailSettings_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\BuyerEmailSettings_1.jsx",
+    "name": "BuyerEmailSettings_1.jsx",
+    "ext": ".jsx",
+    "size": 4501
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\BuyerEscrowStatus_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\BuyerEscrowStatus_1.jsx",
+    "name": "BuyerEscrowStatus_1.jsx",
+    "ext": ".jsx",
+    "size": 5261
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\BuyerFinancingModal_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\BuyerFinancingModal_1.jsx",
+    "name": "BuyerFinancingModal_1.jsx",
+    "ext": ".jsx",
+    "size": 4087
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\BuyerFinancingOffers.test_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\BuyerFinancingOffers.test_1.jsx",
+    "name": "BuyerFinancingOffers.test_1.jsx",
+    "ext": ".jsx",
+    "size": 1727
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\BuyerLenderResults_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\BuyerLenderResults_1.jsx",
+    "name": "BuyerLenderResults_1.jsx",
+    "ext": ".jsx",
+    "size": 5062
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\BuyerLoyaltyDashboard_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\BuyerLoyaltyDashboard_1.jsx",
+    "name": "BuyerLoyaltyDashboard_1.jsx",
+    "ext": ".jsx",
+    "size": 7476
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\BuyerNotificationCenter_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\BuyerNotificationCenter_1.jsx",
+    "name": "BuyerNotificationCenter_1.jsx",
+    "ext": ".jsx",
+    "size": 6536
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\BuyerOnboardingGuide_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\BuyerOnboardingGuide_1.jsx",
+    "name": "BuyerOnboardingGuide_1.jsx",
+    "ext": ".jsx",
+    "size": 8088
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\BuyerPreferencesForm_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\BuyerPreferencesForm_1.jsx",
+    "name": "BuyerPreferencesForm_1.jsx",
+    "ext": ".jsx",
+    "size": 5503
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\BuyerProgressBar_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\BuyerProgressBar_1.jsx",
+    "name": "BuyerProgressBar_1.jsx",
+    "ext": ".jsx",
+    "size": 1020
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\BuyerSearchPreferences_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\BuyerSearchPreferences_1.jsx",
+    "name": "BuyerSearchPreferences_1.jsx",
+    "ext": ".jsx",
+    "size": 4102
+  }
+]

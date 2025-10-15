@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\needsHome\\ARExperience.js",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\needsHome\\ARExperience.js",
+    "name": "ARExperience.js",
+    "ext": ".js",
+    "size": 2768
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\needsHome\\AutomationAgent.js",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\needsHome\\AutomationAgent.js",
+    "name": "AutomationAgent.js",
+    "ext": ".js",
+    "size": 730
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\needsHome\\BadgeDisplay.js",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\needsHome\\BadgeDisplay.js",
+    "name": "BadgeDisplay.js",
+    "ext": ".js",
+    "size": 614
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\needsHome\\BulkUpload.css",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\needsHome\\BulkUpload.css",
+    "name": "BulkUpload.css",
+    "ext": ".css",
+    "size": 1076
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\needsHome\\BulkUpload.js",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\needsHome\\BulkUpload.js",
+    "name": "BulkUpload.js",
+    "ext": ".js",
+    "size": 1960
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\needsHome\\Button.js",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\needsHome\\Button.js",
+    "name": "Button.js",
+    "ext": ".js",
+    "size": 1676
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\needsHome\\CommunityDashboard.css",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\needsHome\\CommunityDashboard.css",
+    "name": "CommunityDashboard.css",
+    "ext": ".css",
+    "size": 933
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\needsHome\\CommunityDashboard.js",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\needsHome\\CommunityDashboard.js",
+    "name": "CommunityDashboard.js",
+    "ext": ".js",
+    "size": 2840
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\needsHome\\CommunityHub.js",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\needsHome\\CommunityHub.js",
+    "name": "CommunityHub.js",
+    "ext": ".js",
+    "size": 725
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\needsHome\\CommunityHubEnhanced.js",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\needsHome\\CommunityHubEnhanced.js",
+    "name": "CommunityHubEnhanced.js",
+    "ext": ".js",
+    "size": 872
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\needsHome\\CommunityModeratorDashboard.js",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\needsHome\\CommunityModeratorDashboard.js",
+    "name": "CommunityModeratorDashboard.js",
+    "ext": ".js",
+    "size": 791
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\needsHome\\ComplianceReviewerDashboard.js",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\needsHome\\ComplianceReviewerDashboard.js",
+    "name": "ComplianceReviewerDashboard.js",
+    "ext": ".js",
+    "size": 829
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\needsHome\\CrossBorderFinancing.js",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\needsHome\\CrossBorderFinancing.js",
+    "name": "CrossBorderFinancing.js",
+    "ext": ".js",
+    "size": 799
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\needsHome\\DynamicPricing.js",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\needsHome\\DynamicPricing.js",
+    "name": "DynamicPricing.js",
+    "ext": ".js",
+    "size": 772
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\needsHome\\FinancingCalculator.css",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\needsHome\\FinancingCalculator.css",
+    "name": "FinancingCalculator.css",
+    "ext": ".css",
+    "size": 1484
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\needsHome\\FinancingCalculator.js",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\needsHome\\FinancingCalculator.js",
+    "name": "FinancingCalculator.js",
+    "ext": ".js",
+    "size": 4055
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\needsHome\\Forum.css",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\needsHome\\Forum.css",
+    "name": "Forum.css",
+    "ext": ".css",
+    "size": 1457
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\needsHome\\FraudDetection.js",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\needsHome\\FraudDetection.js",
+    "name": "FraudDetection.js",
+    "ext": ".js",
+    "size": 779
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\needsHome\\integrationReportValidation.js",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\needsHome\\integrationReportValidation.js",
+    "name": "integrationReportValidation.js",
+    "ext": ".js",
+    "size": 4954
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\needsHome\\Leaderboard.css",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\needsHome\\Leaderboard.css",
+    "name": "Leaderboard.css",
+    "ext": ".css",
+    "size": 1105
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\needsHome\\Leaderboard.js",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\needsHome\\Leaderboard.js",
+    "name": "Leaderboard.js",
+    "ext": ".js",
+    "size": 748
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\needsHome\\LeaveReview.css",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\needsHome\\LeaveReview.css",
+    "name": "LeaveReview.css",
+    "ext": ".css",
+    "size": 1295
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\needsHome\\LeaveReview.js",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\needsHome\\LeaveReview.js",
+    "name": "LeaveReview.js",
+    "ext": ".js",
+    "size": 2593
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\needsHome\\LoadingSpinner.js",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\needsHome\\LoadingSpinner.js",
+    "name": "LoadingSpinner.js",
+    "ext": ".js",
+    "size": 802
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\needsHome\\LoyaltyQuests.js",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\needsHome\\LoyaltyQuests.js",
+    "name": "LoyaltyQuests.js",
+    "ext": ".js",
+    "size": 768
+  }
+]

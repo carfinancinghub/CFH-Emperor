@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\EscrowDocumentGallery.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\EscrowDocumentGallery.test_1.tsx",
+    "name": "EscrowDocumentGallery.test_1.tsx",
+    "ext": ".tsx",
+    "size": 53
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\EscrowDocumentGallery.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\EscrowDocumentGallery.test.tsx",
+    "name": "EscrowDocumentGallery.test.tsx",
+    "ext": ".tsx",
+    "size": 53
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\EscrowDocumentGallery.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\EscrowDocumentGallery.tsx",
+    "name": "EscrowDocumentGallery.tsx",
+    "ext": ".tsx",
+    "size": 6192
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\EscrowDocumentUploader_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\EscrowDocumentUploader_1.tsx",
+    "name": "EscrowDocumentUploader_1.tsx",
+    "ext": ".tsx",
+    "size": 8676
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\EscrowDocumentUploader.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\EscrowDocumentUploader.test_1.tsx",
+    "name": "EscrowDocumentUploader.test_1.tsx",
+    "ext": ".tsx",
+    "size": 54
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\EscrowDocumentUploader.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\EscrowDocumentUploader.test.tsx",
+    "name": "EscrowDocumentUploader.test.tsx",
+    "ext": ".tsx",
+    "size": 54
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\EscrowDocumentUploader.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\EscrowDocumentUploader.tsx",
+    "name": "EscrowDocumentUploader.tsx",
+    "ext": ".tsx",
+    "size": 8676
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\EscrowOfficerDashboard_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\EscrowOfficerDashboard_1.tsx",
+    "name": "EscrowOfficerDashboard_1.tsx",
+    "ext": ".tsx",
+    "size": 7019
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\EscrowOfficerDashboard.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\EscrowOfficerDashboard.test_1.tsx",
+    "name": "EscrowOfficerDashboard.test_1.tsx",
+    "ext": ".tsx",
+    "size": 2516
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\EscrowOfficerDashboard.test.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\EscrowOfficerDashboard.test.test_1.tsx",
+    "name": "EscrowOfficerDashboard.test.test_1.tsx",
+    "ext": ".tsx",
+    "size": 59
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\EscrowOfficerDashboard.test.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\EscrowOfficerDashboard.test.test.tsx",
+    "name": "EscrowOfficerDashboard.test.test.tsx",
+    "ext": ".tsx",
+    "size": 59
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\EscrowOfficerDashboard.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\EscrowOfficerDashboard.test.tsx",
+    "name": "EscrowOfficerDashboard.test.tsx",
+    "ext": ".tsx",
+    "size": 54
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\EscrowOfficerDashboard.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\EscrowOfficerDashboard.tsx",
+    "name": "EscrowOfficerDashboard.tsx",
+    "ext": ".tsx",
+    "size": 7019
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\EscrowOfficerPremiumPanel_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\EscrowOfficerPremiumPanel_1.tsx",
+    "name": "EscrowOfficerPremiumPanel_1.tsx",
+    "ext": ".tsx",
+    "size": 1081
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\EscrowOfficerPremiumPanel.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\EscrowOfficerPremiumPanel.test_1.tsx",
+    "name": "EscrowOfficerPremiumPanel.test_1.tsx",
+    "ext": ".tsx",
+    "size": 57
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\EscrowOfficerPremiumPanel.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\EscrowOfficerPremiumPanel.test.tsx",
+    "name": "EscrowOfficerPremiumPanel.test.tsx",
+    "ext": ".tsx",
+    "size": 57
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\EscrowOfficerPremiumPanel.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\EscrowOfficerPremiumPanel.tsx",
+    "name": "EscrowOfficerPremiumPanel.tsx",
+    "ext": ".tsx",
+    "size": 1081
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\EscrowPaymentManager_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\EscrowPaymentManager_1.tsx",
+    "name": "EscrowPaymentManager_1.tsx",
+    "ext": ".tsx",
+    "size": 3930
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\EscrowPaymentManager.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\EscrowPaymentManager.test_1.tsx",
+    "name": "EscrowPaymentManager.test_1.tsx",
+    "ext": ".tsx",
+    "size": 52
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\EscrowPaymentManager.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\EscrowPaymentManager.test.tsx",
+    "name": "EscrowPaymentManager.test.tsx",
+    "ext": ".tsx",
+    "size": 52
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\EscrowPaymentManager.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\EscrowPaymentManager.tsx",
+    "name": "EscrowPaymentManager.tsx",
+    "ext": ".tsx",
+    "size": 3930
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\EscrowPaymentManagerNeedsChecking_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\EscrowPaymentManagerNeedsChecking_1.tsx",
+    "name": "EscrowPaymentManagerNeedsChecking_1.tsx",
+    "ext": ".tsx",
+    "size": 1552
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\EscrowPaymentManagerNeedsChecking.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\EscrowPaymentManagerNeedsChecking.test_1.tsx",
+    "name": "EscrowPaymentManagerNeedsChecking.test_1.tsx",
+    "ext": ".tsx",
+    "size": 65
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\EscrowPaymentManagerNeedsChecking.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\EscrowPaymentManagerNeedsChecking.test.tsx",
+    "name": "EscrowPaymentManagerNeedsChecking.test.tsx",
+    "ext": ".tsx",
+    "size": 65
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\EscrowPaymentManagerNeedsChecking.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\EscrowPaymentManagerNeedsChecking.tsx",
+    "name": "EscrowPaymentManagerNeedsChecking.tsx",
+    "ext": ".tsx",
+    "size": 1552
+  }
+]

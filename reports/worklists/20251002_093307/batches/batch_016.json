@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\security\\SessionValidator.test.js",
+    "full_path": "C:\\CFH\\backend\\tests\\security\\SessionValidator.test.js",
+    "name": "SessionValidator.test.js",
+    "ext": ".js",
+    "size": 3198
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\services\\ai\\aiConflictResolutionService.test.ts",
+    "full_path": "C:\\CFH\\backend\\tests\\services\\ai\\aiConflictResolutionService.test.ts",
+    "name": "aiConflictResolutionService.test.ts",
+    "ext": ".ts",
+    "size": 12522
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\services\\ai\\aiDamageAssessmentService.test.ts",
+    "full_path": "C:\\CFH\\backend\\tests\\services\\ai\\aiDamageAssessmentService.test.ts",
+    "name": "aiDamageAssessmentService.test.ts",
+    "ext": ".ts",
+    "size": 8892
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\services\\ai\\aiJobPredictorService.test.ts",
+    "full_path": "C:\\CFH\\backend\\tests\\services\\ai\\aiJobPredictorService.test.ts",
+    "name": "aiJobPredictorService.test.ts",
+    "ext": ".ts",
+    "size": 8687
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\services\\ai\\DamageAssessmentService.test.ts",
+    "full_path": "C:\\CFH\\backend\\tests\\services\\ai\\DamageAssessmentService.test.ts",
+    "name": "DamageAssessmentService.test.ts",
+    "ext": ".ts",
+    "size": 9473
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\services\\ai\\PartsOrderService.test.ts",
+    "full_path": "C:\\CFH\\backend\\tests\\services\\ai\\PartsOrderService.test.ts",
+    "name": "PartsOrderService.test.ts",
+    "ext": ".ts",
+    "size": 8767
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\services\\ai\\ShopMatchingService.test.ts",
+    "full_path": "C:\\CFH\\backend\\tests\\services\\ai\\ShopMatchingService.test.ts",
+    "name": "ShopMatchingService.test.ts",
+    "ext": ".ts",
+    "size": 9778
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\services\\ai\\TrustScoreEngine.test.js",
+    "full_path": "C:\\CFH\\backend\\tests\\services\\ai\\TrustScoreEngine.test.js",
+    "name": "TrustScoreEngine.test.js",
+    "ext": ".js",
+    "size": 336
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\services\\ai\\ValuationForecastingService.test.ts",
+    "full_path": "C:\\CFH\\backend\\tests\\services\\ai\\ValuationForecastingService.test.ts",
+    "name": "ValuationForecastingService.test.ts",
+    "ext": ".ts",
+    "size": 808
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\services\\ai\\ValuationMetricsService.test.js",
+    "full_path": "C:\\CFH\\backend\\tests\\services\\ai\\ValuationMetricsService.test.js",
+    "name": "ValuationMetricsService.test.js",
+    "ext": ".js",
+    "size": 377
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\services\\analytics\\test.ts",
+    "full_path": "C:\\CFH\\backend\\tests\\services\\analytics\\test.ts",
+    "name": "test.ts",
+    "ext": ".ts",
+    "size": 9666
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\services\\auction\\aiBidService.test.ts",
+    "full_path": "C:\\CFH\\backend\\tests\\services\\auction\\aiBidService.test.ts",
+    "name": "aiBidService.test.ts",
+    "ext": ".ts",
+    "size": 6205
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\services\\bodyshop\\estimateService.test.ts",
+    "full_path": "C:\\CFH\\backend\\tests\\services\\bodyshop\\estimateService.test.ts",
+    "name": "estimateService.test.ts",
+    "ext": ".ts",
+    "size": 16768
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\services\\bodyshop\\shopProfileService.test.ts",
+    "full_path": "C:\\CFH\\backend\\tests\\services\\bodyshop\\shopProfileService.test.ts",
+    "name": "shopProfileService.test.ts",
+    "ext": ".ts",
+    "size": 18995
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\services\\escrow\\EscrowAuditService.test.js",
+    "full_path": "C:\\CFH\\backend\\tests\\services\\escrow\\EscrowAuditService.test.js",
+    "name": "EscrowAuditService.test.js",
+    "ext": ".js",
+    "size": 5669
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\services\\escrow\\EscrowAuditService.test.ts",
+    "full_path": "C:\\CFH\\backend\\tests\\services\\escrow\\EscrowAuditService.test.ts",
+    "name": "EscrowAuditService.test.ts",
+    "ext": ".ts",
+    "size": 898
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\services\\escrow\\EscrowChainSync.test.js",
+    "full_path": "C:\\CFH\\backend\\tests\\services\\escrow\\EscrowChainSync.test.js",
+    "name": "EscrowChainSync.test.js",
+    "ext": ".js",
+    "size": 3684
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\services\\escrow\\EscrowNotificationService.test.js",
+    "full_path": "C:\\CFH\\backend\\tests\\services\\escrow\\EscrowNotificationService.test.js",
+    "name": "EscrowNotificationService.test.js",
+    "ext": ".js",
+    "size": 395
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\services\\integrations\\insuranceIntegrationService.test.ts",
+    "full_path": "C:\\CFH\\backend\\tests\\services\\integrations\\insuranceIntegrationService.test.ts",
+    "name": "insuranceIntegrationService.test.ts",
+    "ext": ".ts",
+    "size": 12302
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\services\\lender\\LenderTermsExporter.test.js",
+    "full_path": "C:\\CFH\\backend\\tests\\services\\lender\\LenderTermsExporter.test.js",
+    "name": "LenderTermsExporter.test.js",
+    "ext": ".js",
+    "size": 2113
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\services\\notifications\\NotificationService.test.ts",
+    "full_path": "C:\\CFH\\backend\\tests\\services\\notifications\\NotificationService.test.ts",
+    "name": "NotificationService.test.ts",
+    "ext": ".ts",
+    "size": 2099
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\services\\notifications\\reminderService.test.ts",
+    "full_path": "C:\\CFH\\backend\\tests\\services\\notifications\\reminderService.test.ts",
+    "name": "reminderService.test.ts",
+    "ext": ".ts",
+    "size": 9584
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\services\\SecurityLogger.test.js",
+    "full_path": "C:\\CFH\\backend\\tests\\services\\SecurityLogger.test.js",
+    "name": "SecurityLogger.test.js",
+    "ext": ".js",
+    "size": 2936
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\services\\valuation\\ValuationService.test.ts",
+    "full_path": "C:\\CFH\\backend\\tests\\services\\valuation\\ValuationService.test.ts",
+    "name": "ValuationService.test.ts",
+    "ext": ".ts",
+    "size": 1245
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\services\\vin\\VinDecoderService.test.ts",
+    "full_path": "C:\\CFH\\backend\\tests\\services\\vin\\VinDecoderService.test.ts",
+    "name": "VinDecoderService.test.ts",
+    "ext": ".ts",
+    "size": 883
+  }
+]

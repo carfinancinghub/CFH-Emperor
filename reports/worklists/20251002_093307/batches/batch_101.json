@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\SupportTicketAnalytics.test_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\SupportTicketAnalytics.test_1.jsx",
+    "name": "SupportTicketAnalytics.test_1.jsx",
+    "ext": ".jsx",
+    "size": 6275
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\SupportTicketForm_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\SupportTicketForm_1.jsx",
+    "name": "SupportTicketForm_1.jsx",
+    "ext": ".jsx",
+    "size": 2666
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\SupportTicketForm.test_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\SupportTicketForm.test_1.jsx",
+    "name": "SupportTicketForm.test_1.jsx",
+    "ext": ".jsx",
+    "size": 1966
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\SupportTicketFormInLineFromGrok_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\SupportTicketFormInLineFromGrok_1.jsx",
+    "name": "SupportTicketFormInLineFromGrok_1.jsx",
+    "ext": ".jsx",
+    "size": 2666
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\SustainabilityMetrics_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\SustainabilityMetrics_1.jsx",
+    "name": "SustainabilityMetrics_1.jsx",
+    "ext": ".jsx",
+    "size": 3061
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\TaskCompletionButton_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\TaskCompletionButton_1.jsx",
+    "name": "TaskCompletionButton_1.jsx",
+    "ext": ".jsx",
+    "size": 2022
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\TaskCompletionButton.test_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\TaskCompletionButton.test_1.jsx",
+    "name": "TaskCompletionButton.test_1.jsx",
+    "ext": ".jsx",
+    "size": 2301
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\TestRunnerDashboard_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\TestRunnerDashboard_1.jsx",
+    "name": "TestRunnerDashboard_1.jsx",
+    "ext": ".jsx",
+    "size": 5576
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\ToastManager_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\ToastManager_1.jsx",
+    "name": "ToastManager_1.jsx",
+    "ext": ".jsx",
+    "size": 720
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\ToastWrapper_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\ToastWrapper_1.jsx",
+    "name": "ToastWrapper_1.jsx",
+    "ext": ".jsx",
+    "size": 320
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\TrustAndAIExplainer_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\TrustAndAIExplainer_1.jsx",
+    "name": "TrustAndAIExplainer_1.jsx",
+    "ext": ".jsx",
+    "size": 3257
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\TrustScoreViewer_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\TrustScoreViewer_1.jsx",
+    "name": "TrustScoreViewer_1.jsx",
+    "ext": ".jsx",
+    "size": 3906
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\TrustScoreViewer.test_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\TrustScoreViewer.test_1.jsx",
+    "name": "TrustScoreViewer.test_1.jsx",
+    "ext": ".jsx",
+    "size": 3551
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\Unauthorized_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\Unauthorized_1.jsx",
+    "name": "Unauthorized_1.jsx",
+    "ext": ".jsx",
+    "size": 707
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\UnifiedNotificationCenter_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\UnifiedNotificationCenter_1.jsx",
+    "name": "UnifiedNotificationCenter_1.jsx",
+    "ext": ".jsx",
+    "size": 6205
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\UnreadNotificationBadge_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\UnreadNotificationBadge_1.jsx",
+    "name": "UnreadNotificationBadge_1.jsx",
+    "ext": ".jsx",
+    "size": 2026
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\UserProfilePage_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\UserProfilePage_1.jsx",
+    "name": "UserProfilePage_1.jsx",
+    "ext": ".jsx",
+    "size": 5289
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\UserProfilePage.test_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\UserProfilePage.test_1.jsx",
+    "name": "UserProfilePage.test_1.jsx",
+    "ext": ".jsx",
+    "size": 3984
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\UserSecuritySettings_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\UserSecuritySettings_1.jsx",
+    "name": "UserSecuritySettings_1.jsx",
+    "ext": ".jsx",
+    "size": 7035
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\UserTrustBadges_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\UserTrustBadges_1.jsx",
+    "name": "UserTrustBadges_1.jsx",
+    "ext": ".jsx",
+    "size": 1088
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\ValuationAssistant_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\ValuationAssistant_1.jsx",
+    "name": "ValuationAssistant_1.jsx",
+    "ext": ".jsx",
+    "size": 2443
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\ValuationAssistant.test_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\ValuationAssistant.test_1.jsx",
+    "name": "ValuationAssistant.test_1.jsx",
+    "ext": ".jsx",
+    "size": 2975
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\ValuationDisplay_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\ValuationDisplay_1.jsx",
+    "name": "ValuationDisplay_1.jsx",
+    "ext": ".jsx",
+    "size": 3744
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\ValuationDisplay.test_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\ValuationDisplay.test_1.jsx",
+    "name": "ValuationDisplay.test_1.jsx",
+    "ext": ".jsx",
+    "size": 2327
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\ValuationLiveFeed_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\ValuationLiveFeed_1.jsx",
+    "name": "ValuationLiveFeed_1.jsx",
+    "ext": ".jsx",
+    "size": 3301
+  }
+]

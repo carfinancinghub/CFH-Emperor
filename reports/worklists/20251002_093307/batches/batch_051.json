@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\hooks\\escrow\\EscrowOfficerHook.ts",
+    "full_path": "C:\\CFH\\frontend\\src\\hooks\\escrow\\EscrowOfficerHook.ts",
+    "name": "EscrowOfficerHook.ts",
+    "ext": ".ts",
+    "size": 2460
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\hooks\\useMechanicSocket.js",
+    "full_path": "C:\\CFH\\frontend\\src\\hooks\\useMechanicSocket.js",
+    "name": "useMechanicSocket.js",
+    "ext": ".js",
+    "size": 761
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\hooks\\useMechanicSocket.test.js",
+    "full_path": "C:\\CFH\\frontend\\src\\hooks\\useMechanicSocket.test.js",
+    "name": "useMechanicSocket.test.js",
+    "ext": ".js",
+    "size": 691
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\hooks\\useMechanicSocket.test.ts",
+    "full_path": "C:\\CFH\\frontend\\src\\hooks\\useMechanicSocket.test.ts",
+    "name": "useMechanicSocket.test.ts",
+    "ext": ".ts",
+    "size": 709
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\hooks\\useMechanicSocket.ts",
+    "full_path": "C:\\CFH\\frontend\\src\\hooks\\useMechanicSocket.ts",
+    "name": "useMechanicSocket.ts",
+    "ext": ".ts",
+    "size": 779
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\i18n\\i18n.ts",
+    "full_path": "C:\\CFH\\frontend\\src\\i18n\\i18n.ts",
+    "name": "i18n.ts",
+    "ext": ".ts",
+    "size": 786
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\index.css",
+    "full_path": "C:\\CFH\\frontend\\src\\index.css",
+    "name": "index.css",
+    "ext": ".css",
+    "size": 131
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\index.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\index.jsx",
+    "name": "index.jsx",
+    "ext": ".jsx",
+    "size": 688
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\index.tsx",
+    "full_path": "C:\\CFH\\frontend\\src\\index.tsx",
+    "name": "index.tsx",
+    "ext": ".tsx",
+    "size": 706
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\services\\analyticsApi.ts",
+    "full_path": "C:\\CFH\\frontend\\src\\services\\analyticsApi.ts",
+    "name": "analyticsApi.ts",
+    "ext": ".ts",
+    "size": 618
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\services\\api\\auction.ts",
+    "full_path": "C:\\CFH\\frontend\\src\\services\\api\\auction.ts",
+    "name": "auction.ts",
+    "ext": ".ts",
+    "size": 308
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\services\\api\\communication.ts",
+    "full_path": "C:\\CFH\\frontend\\src\\services\\api\\communication.ts",
+    "name": "communication.ts",
+    "ext": ".ts",
+    "size": 308
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\services\\api\\financing.ts",
+    "full_path": "C:\\CFH\\frontend\\src\\services\\api\\financing.ts",
+    "name": "financing.ts",
+    "ext": ".ts",
+    "size": 308
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\services\\api\\index.ts",
+    "full_path": "C:\\CFH\\frontend\\src\\services\\api\\index.ts",
+    "name": "index.ts",
+    "ext": ".ts",
+    "size": 432
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\services\\api\\insurance.ts",
+    "full_path": "C:\\CFH\\frontend\\src\\services\\api\\insurance.ts",
+    "name": "insurance.ts",
+    "ext": ".ts",
+    "size": 308
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\services\\api\\inventory.ts",
+    "full_path": "C:\\CFH\\frontend\\src\\services\\api\\inventory.ts",
+    "name": "inventory.ts",
+    "ext": ".ts",
+    "size": 308
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\services\\api\\mechanic.ts",
+    "full_path": "C:\\CFH\\frontend\\src\\services\\api\\mechanic.ts",
+    "name": "mechanic.ts",
+    "ext": ".ts",
+    "size": 308
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\services\\api\\storage.ts",
+    "full_path": "C:\\CFH\\frontend\\src\\services\\api\\storage.ts",
+    "name": "storage.ts",
+    "ext": ".ts",
+    "size": 308
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\services\\api\\user.ts",
+    "full_path": "C:\\CFH\\frontend\\src\\services\\api\\user.ts",
+    "name": "user.ts",
+    "ext": ".ts",
+    "size": 308
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\services\\escrowApi.ts",
+    "full_path": "C:\\CFH\\frontend\\src\\services\\escrowApi.ts",
+    "name": "escrowApi.ts",
+    "ext": ".ts",
+    "size": 1344
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\styles\\global.css",
+    "full_path": "C:\\CFH\\frontend\\src\\styles\\global.css",
+    "name": "global.css",
+    "ext": ".css",
+    "size": 1530
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\styles\\heartbeat.css",
+    "full_path": "C:\\CFH\\frontend\\src\\styles\\heartbeat.css",
+    "name": "heartbeat.css",
+    "ext": ".css",
+    "size": 369
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\styles\\theme.js",
+    "full_path": "C:\\CFH\\frontend\\src\\styles\\theme.js",
+    "name": "theme.js",
+    "ext": ".js",
+    "size": 1092
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\styles\\theme.ts",
+    "full_path": "C:\\CFH\\frontend\\src\\styles\\theme.ts",
+    "name": "theme.ts",
+    "ext": ".ts",
+    "size": 1110
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\tests\\admin\\auction\\AdminAuctionOverview.test.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\tests\\admin\\auction\\AdminAuctionOverview.test.jsx",
+    "name": "AdminAuctionOverview.test.jsx",
+    "ext": ".jsx",
+    "size": 3091
+  }
+]

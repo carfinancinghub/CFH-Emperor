@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\BidDetailViewer_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\BidDetailViewer_1.ts",
+    "name": "BidDetailViewer_1.ts",
+    "ext": ".ts",
+    "size": 2097
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\BidDetailViewer.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\BidDetailViewer.test_1.ts",
+    "name": "BidDetailViewer.test_1.ts",
+    "ext": ".ts",
+    "size": 46
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\BidDetailViewer.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\BidDetailViewer.test.ts",
+    "name": "BidDetailViewer.test.ts",
+    "ext": ".ts",
+    "size": 46
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\BidDetailViewer.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\BidDetailViewer.ts",
+    "name": "BidDetailViewer.ts",
+    "ext": ".ts",
+    "size": 2097
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\BidHeatmapEngine_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\BidHeatmapEngine_1.ts",
+    "name": "BidHeatmapEngine_1.ts",
+    "ext": ".ts",
+    "size": 2665
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\BidHeatmapEngine.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\BidHeatmapEngine.test_1.ts",
+    "name": "BidHeatmapEngine.test_1.ts",
+    "ext": ".ts",
+    "size": 47
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\BidHeatmapEngine.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\BidHeatmapEngine.test.ts",
+    "name": "BidHeatmapEngine.test.ts",
+    "ext": ".ts",
+    "size": 47
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\BidHeatmapService_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\BidHeatmapService_1.ts",
+    "name": "BidHeatmapService_1.ts",
+    "ext": ".ts",
+    "size": 845
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\BidHeatmapService.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\BidHeatmapService.test_1.ts",
+    "name": "BidHeatmapService.test_1.ts",
+    "ext": ".ts",
+    "size": 879
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\BidService_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\BidService_1.ts",
+    "name": "BidService_1.ts",
+    "ext": ".ts",
+    "size": 297
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\BidValidator_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\BidValidator_1.ts",
+    "name": "BidValidator_1.ts",
+    "ext": ".ts",
+    "size": 2063
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\BidValidator.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\BidValidator.test_1.ts",
+    "name": "BidValidator.test_1.ts",
+    "ext": ".ts",
+    "size": 2541
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\BidValidator.test.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\BidValidator.test.test_1.ts",
+    "name": "BidValidator.test.test_1.ts",
+    "ext": ".ts",
+    "size": 48
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\BidValidator.test.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\BidValidator.test.test.ts",
+    "name": "BidValidator.test.test.ts",
+    "ext": ".ts",
+    "size": 48
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\BidValidator.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\BidValidator.test.ts",
+    "name": "BidValidator.test.ts",
+    "ext": ".ts",
+    "size": 2397
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\BlindInvestor_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\BlindInvestor_1.ts",
+    "name": "BlindInvestor_1.ts",
+    "ext": ".ts",
+    "size": 2979
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\BlindInvestor.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\BlindInvestor.test_1.ts",
+    "name": "BlindInvestor.test_1.ts",
+    "ext": ".ts",
+    "size": 44
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\BlindInvestor.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\BlindInvestor.test.ts",
+    "name": "BlindInvestor.test.ts",
+    "ext": ".ts",
+    "size": 44
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\BlindInvestor.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\BlindInvestor.ts",
+    "name": "BlindInvestor.ts",
+    "ext": ".ts",
+    "size": 2979
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\BlockchainAdapter_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\BlockchainAdapter_1.ts",
+    "name": "BlockchainAdapter_1.ts",
+    "ext": ".ts",
+    "size": 8143
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\BlockchainAdapter.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\BlockchainAdapter.test_1.ts",
+    "name": "BlockchainAdapter.test_1.ts",
+    "ext": ".ts",
+    "size": 48
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\BlockchainAdapter.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\BlockchainAdapter.test.ts",
+    "name": "BlockchainAdapter.test.ts",
+    "ext": ".ts",
+    "size": 48
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\BlockchainAudit_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\BlockchainAudit_1.ts",
+    "name": "BlockchainAudit_1.ts",
+    "ext": ".ts",
+    "size": 2634
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\BlockchainAudit.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\BlockchainAudit.test_1.ts",
+    "name": "BlockchainAudit.test_1.ts",
+    "ext": ".ts",
+    "size": 4015
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\BlockchainAudit.test.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\BlockchainAudit.test.test_1.ts",
+    "name": "BlockchainAudit.test.test_1.ts",
+    "ext": ".ts",
+    "size": 51
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\gamification.config.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\gamification.config.ts",
+    "name": "gamification.config.ts",
+    "ext": ".ts",
+    "size": 954
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\historyController.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\historyController.ts",
+    "name": "historyController.ts",
+    "ext": ".ts",
+    "size": 1220
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\historyRoutes.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\historyRoutes.ts",
+    "name": "historyRoutes.ts",
+    "ext": ".ts",
+    "size": 792
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\HistoryService.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\HistoryService.ts",
+    "name": "HistoryService.ts",
+    "ext": ".ts",
+    "size": 2651
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\InsuranceService.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\InsuranceService.ts",
+    "name": "InsuranceService.ts",
+    "ext": ".ts",
+    "size": 2599
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\LedgerEntry.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\LedgerEntry.ts",
+    "name": "LedgerEntry.ts",
+    "ext": ".ts",
+    "size": 1746
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\lenderProfileRoutes.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\lenderProfileRoutes.ts",
+    "name": "lenderProfileRoutes.ts",
+    "ext": ".ts",
+    "size": 3818
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\ListingSchema.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\ListingSchema.ts",
+    "name": "ListingSchema.ts",
+    "ext": ".ts",
+    "size": 1548
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\ListingService.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\ListingService.ts",
+    "name": "ListingService.ts",
+    "ext": ".ts",
+    "size": 7281
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\MatchmakerService.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\MatchmakerService.ts",
+    "name": "MatchmakerService.ts",
+    "ext": ".ts",
+    "size": 3249
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\MechanicTaskRoutes.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\MechanicTaskRoutes.ts",
+    "name": "MechanicTaskRoutes.ts",
+    "ext": ".ts",
+    "size": 1999
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\Message.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\Message.ts",
+    "name": "Message.ts",
+    "ext": ".ts",
+    "size": 1120
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\messagingController.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\messagingController.ts",
+    "name": "messagingController.ts",
+    "ext": ".ts",
+    "size": 2846
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\messagingFlow.spec.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\messagingFlow.spec.ts",
+    "name": "messagingFlow.spec.ts",
+    "ext": ".ts",
+    "size": 1930
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\messagingRoutes.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\messagingRoutes.ts",
+    "name": "messagingRoutes.ts",
+    "ext": ".ts",
+    "size": 1064
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\notificationsController.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\notificationsController.ts",
+    "name": "notificationsController.ts",
+    "ext": ".ts",
+    "size": 1245
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\notificationsFlow.spec.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\notificationsFlow.spec.ts",
+    "name": "notificationsFlow.spec.ts",
+    "ext": ".ts",
+    "size": 1896
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\notificationsRoutes.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\notificationsRoutes.ts",
+    "name": "notificationsRoutes.ts",
+    "ext": ".ts",
+    "size": 882
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\onboarding.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\onboarding.ts",
+    "name": "onboarding.ts",
+    "ext": ".ts",
+    "size": 1478
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\OnboardingService.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\OnboardingService.ts",
+    "name": "OnboardingService.ts",
+    "ext": ".ts",
+    "size": 2074
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\Option.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\Option.ts",
+    "name": "Option.ts",
+    "ext": ".ts",
+    "size": 2315
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\OptionBid.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\OptionBid.ts",
+    "name": "OptionBid.ts",
+    "ext": ".ts",
+    "size": 1718
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\optionController.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\optionController.ts",
+    "name": "optionController.ts",
+    "ext": ".ts",
+    "size": 1843
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\optionRoutes.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\optionRoutes.ts",
+    "name": "optionRoutes.ts",
+    "ext": ".ts",
+    "size": 949
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converted to TS\\OptionSchema.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converted to TS\\OptionSchema.ts",
+    "name": "OptionSchema.ts",
+    "ext": ".ts",
+    "size": 925
+  }
+]

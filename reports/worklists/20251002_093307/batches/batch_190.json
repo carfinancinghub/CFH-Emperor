@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AIDiagnosticsAssistant.test.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AIDiagnosticsAssistant.test.test_1.tsx",
+    "name": "AIDiagnosticsAssistant.test.test_1.tsx",
+    "ext": ".tsx",
+    "size": 59
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AIDiagnosticsAssistant.test.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AIDiagnosticsAssistant.test.test.tsx",
+    "name": "AIDiagnosticsAssistant.test.test.tsx",
+    "ext": ".tsx",
+    "size": 59
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AIDiagnosticsAssistant.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AIDiagnosticsAssistant.tsx",
+    "name": "AIDiagnosticsAssistant.tsx",
+    "ext": ".tsx",
+    "size": 2019
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AIPredictorDashboard_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AIPredictorDashboard_1.tsx",
+    "name": "AIPredictorDashboard_1.tsx",
+    "ext": ".tsx",
+    "size": 5564
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AIPredictorDashboard.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AIPredictorDashboard.test_1.tsx",
+    "name": "AIPredictorDashboard.test_1.tsx",
+    "ext": ".tsx",
+    "size": 52
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AIPredictorDashboard.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AIPredictorDashboard.test.tsx",
+    "name": "AIPredictorDashboard.test.tsx",
+    "ext": ".tsx",
+    "size": 52
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AnalyticsDashboard_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AnalyticsDashboard_1.tsx",
+    "name": "AnalyticsDashboard_1.tsx",
+    "ext": ".tsx",
+    "size": 17000
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\AnalyticsDashboard.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\AnalyticsDashboard.test_1.tsx",
+    "name": "AnalyticsDashboard.test_1.tsx",
+    "ext": ".tsx",
+    "size": 923
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\App_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\App_1.tsx",
+    "name": "App_1.tsx",
+    "ext": ".tsx",
+    "size": 5423
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\App.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\App.test_1.tsx",
+    "name": "App.test_1.tsx",
+    "ext": ".tsx",
+    "size": 35
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\App.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\App.test.tsx",
+    "name": "App.test.tsx",
+    "ext": ".tsx",
+    "size": 35
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\ArbitratorAnalyticsPanel_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\ArbitratorAnalyticsPanel_1.tsx",
+    "name": "ArbitratorAnalyticsPanel_1.tsx",
+    "ext": ".tsx",
+    "size": 3136
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\ArbitratorAnalyticsPanel.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\ArbitratorAnalyticsPanel.test_1.tsx",
+    "name": "ArbitratorAnalyticsPanel.test_1.tsx",
+    "ext": ".tsx",
+    "size": 2124
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\ArbitratorAnalyticsPanel.test.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\ArbitratorAnalyticsPanel.test.test_1.tsx",
+    "name": "ArbitratorAnalyticsPanel.test.test_1.tsx",
+    "ext": ".tsx",
+    "size": 61
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\ArbitratorAnalyticsPanel.test.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\ArbitratorAnalyticsPanel.test.test.tsx",
+    "name": "ArbitratorAnalyticsPanel.test.test.tsx",
+    "ext": ".tsx",
+    "size": 61
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\ArbitratorAnalyticsPanel.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\ArbitratorAnalyticsPanel.test.tsx",
+    "name": "ArbitratorAnalyticsPanel.test.tsx",
+    "ext": ".tsx",
+    "size": 56
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\ArbitratorDashboard_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\ArbitratorDashboard_1.tsx",
+    "name": "ArbitratorDashboard_1.tsx",
+    "ext": ".tsx",
+    "size": 8735
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\ArbitratorDashboard.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\ArbitratorDashboard.test_1.tsx",
+    "name": "ArbitratorDashboard.test_1.tsx",
+    "ext": ".tsx",
+    "size": 2472
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\ArbitratorDashboard.test.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\ArbitratorDashboard.test.test_1.tsx",
+    "name": "ArbitratorDashboard.test.test_1.tsx",
+    "ext": ".tsx",
+    "size": 56
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\ArbitratorDashboard.test.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\ArbitratorDashboard.test.test.tsx",
+    "name": "ArbitratorDashboard.test.test.tsx",
+    "ext": ".tsx",
+    "size": 56
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\ArbitratorDashboard.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\ArbitratorDashboard.test.tsx",
+    "name": "ArbitratorDashboard.test.tsx",
+    "ext": ".tsx",
+    "size": 51
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\ARCarPreview_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\ARCarPreview_1.tsx",
+    "name": "ARCarPreview_1.tsx",
+    "ext": ".tsx",
+    "size": 8781
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\ARCarPreview.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\ARCarPreview.test_1.tsx",
+    "name": "ARCarPreview.test_1.tsx",
+    "ext": ".tsx",
+    "size": 44
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\ARCarPreview.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\ARCarPreview.test.tsx",
+    "name": "ARCarPreview.test.tsx",
+    "ext": ".tsx",
+    "size": 44
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\ARConditionScanner_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\ARConditionScanner_1.tsx",
+    "name": "ARConditionScanner_1.tsx",
+    "ext": ".tsx",
+    "size": 1867
+  }
+]

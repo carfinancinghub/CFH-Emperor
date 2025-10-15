@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\InspectionReportPanel.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\InspectionReportPanel.test.tsx",
+    "name": "InspectionReportPanel.test.tsx",
+    "ext": ".tsx",
+    "size": 53
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\InspectionReportPanel.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\InspectionReportPanel.tsx",
+    "name": "InspectionReportPanel.tsx",
+    "ext": ".tsx",
+    "size": 2714
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\InsuranceAIModelPerformance_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\InsuranceAIModelPerformance_1.tsx",
+    "name": "InsuranceAIModelPerformance_1.tsx",
+    "ext": ".tsx",
+    "size": 5282
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\InsuranceAIModelPerformance.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\InsuranceAIModelPerformance.test_1.tsx",
+    "name": "InsuranceAIModelPerformance.test_1.tsx",
+    "ext": ".tsx",
+    "size": 4250
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\InsuranceAIModelPerformance.test.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\InsuranceAIModelPerformance.test.test_1.tsx",
+    "name": "InsuranceAIModelPerformance.test.test_1.tsx",
+    "ext": ".tsx",
+    "size": 64
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\InsuranceAIModelPerformance.test.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\InsuranceAIModelPerformance.test.test.tsx",
+    "name": "InsuranceAIModelPerformance.test.test.tsx",
+    "ext": ".tsx",
+    "size": 64
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\InsuranceAIModelPerformance.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\InsuranceAIModelPerformance.test.tsx",
+    "name": "InsuranceAIModelPerformance.test.tsx",
+    "ext": ".tsx",
+    "size": 59
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\InsuranceAIModelPerformance.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\InsuranceAIModelPerformance.tsx",
+    "name": "InsuranceAIModelPerformance.tsx",
+    "ext": ".tsx",
+    "size": 5282
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\InsuranceClaimsAnalytics_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\InsuranceClaimsAnalytics_1.tsx",
+    "name": "InsuranceClaimsAnalytics_1.tsx",
+    "ext": ".tsx",
+    "size": 5038
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\InsuranceClaimsAnalytics.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\InsuranceClaimsAnalytics.test_1.tsx",
+    "name": "InsuranceClaimsAnalytics.test_1.tsx",
+    "ext": ".tsx",
+    "size": 5154
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\InsuranceClaimsAnalytics.test.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\InsuranceClaimsAnalytics.test.test_1.tsx",
+    "name": "InsuranceClaimsAnalytics.test.test_1.tsx",
+    "ext": ".tsx",
+    "size": 61
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\InsuranceClaimsAnalytics.test.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\InsuranceClaimsAnalytics.test.test.tsx",
+    "name": "InsuranceClaimsAnalytics.test.test.tsx",
+    "ext": ".tsx",
+    "size": 61
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\InsuranceClaimsAnalytics.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\InsuranceClaimsAnalytics.test.tsx",
+    "name": "InsuranceClaimsAnalytics.test.tsx",
+    "ext": ".tsx",
+    "size": 56
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\InsuranceClaimsAnalytics.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\InsuranceClaimsAnalytics.tsx",
+    "name": "InsuranceClaimsAnalytics.tsx",
+    "ext": ".tsx",
+    "size": 5038
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\InsuranceClaimsProcessor_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\InsuranceClaimsProcessor_1.tsx",
+    "name": "InsuranceClaimsProcessor_1.tsx",
+    "ext": ".tsx",
+    "size": 5769
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\InsuranceClaimsProcessor.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\InsuranceClaimsProcessor.test_1.tsx",
+    "name": "InsuranceClaimsProcessor.test_1.tsx",
+    "ext": ".tsx",
+    "size": 4499
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\InsuranceClaimsProcessor.test.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\InsuranceClaimsProcessor.test.test_1.tsx",
+    "name": "InsuranceClaimsProcessor.test.test_1.tsx",
+    "ext": ".tsx",
+    "size": 61
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\InsuranceClaimsProcessor.test.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\InsuranceClaimsProcessor.test.test.tsx",
+    "name": "InsuranceClaimsProcessor.test.test.tsx",
+    "ext": ".tsx",
+    "size": 61
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\InsuranceClaimsProcessor.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\InsuranceClaimsProcessor.test.tsx",
+    "name": "InsuranceClaimsProcessor.test.tsx",
+    "ext": ".tsx",
+    "size": 56
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\InsuranceClaimsProcessor.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\InsuranceClaimsProcessor.tsx",
+    "name": "InsuranceClaimsProcessor.tsx",
+    "ext": ".tsx",
+    "size": 5769
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\InsuranceOfficerDashboard_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\InsuranceOfficerDashboard_1.tsx",
+    "name": "InsuranceOfficerDashboard_1.tsx",
+    "ext": ".tsx",
+    "size": 16316
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\InsuranceOfficerDashboard.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\InsuranceOfficerDashboard.test_1.tsx",
+    "name": "InsuranceOfficerDashboard.test_1.tsx",
+    "ext": ".tsx",
+    "size": 3204
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\InsuranceOfficerDashboard.test.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\InsuranceOfficerDashboard.test.test_1.tsx",
+    "name": "InsuranceOfficerDashboard.test.test_1.tsx",
+    "ext": ".tsx",
+    "size": 62
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\InsuranceOfficerDashboard.test.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\InsuranceOfficerDashboard.test.test.tsx",
+    "name": "InsuranceOfficerDashboard.test.test.tsx",
+    "ext": ".tsx",
+    "size": 62
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\InsuranceOfficerDashboard.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\InsuranceOfficerDashboard.test.tsx",
+    "name": "InsuranceOfficerDashboard.test.tsx",
+    "ext": ".tsx",
+    "size": 57
+  }
+]

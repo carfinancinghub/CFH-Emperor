@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\utils\\SocialShareHelper.js",
+    "full_path": "C:\\CFH\\frontend\\src\\utils\\SocialShareHelper.js",
+    "name": "SocialShareHelper.js",
+    "ext": ".js",
+    "size": 7023
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\utils\\SocialShareHelper.ts",
+    "full_path": "C:\\CFH\\frontend\\src\\utils\\SocialShareHelper.ts",
+    "name": "SocialShareHelper.ts",
+    "ext": ".ts",
+    "size": 10533
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\utils\\useAuth.js",
+    "full_path": "C:\\CFH\\frontend\\src\\utils\\useAuth.js",
+    "name": "useAuth.js",
+    "ext": ".js",
+    "size": 517
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\utils\\useAuth.ts",
+    "full_path": "C:\\CFH\\frontend\\src\\utils\\useAuth.ts",
+    "name": "useAuth.ts",
+    "ext": ".ts",
+    "size": 1009
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "tests\\components\\body-shop\\AIDamageSummary.test.tsx",
+    "full_path": "C:\\CFH\\frontend\\tests\\components\\body-shop\\AIDamageSummary.test.tsx",
+    "name": "AIDamageSummary.test.tsx",
+    "ext": ".tsx",
+    "size": 7610
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "tests\\components\\body-shop\\CompareShopsTable.test.tsx",
+    "full_path": "C:\\CFH\\frontend\\tests\\components\\body-shop\\CompareShopsTable.test.tsx",
+    "name": "CompareShopsTable.test.tsx",
+    "ext": ".tsx",
+    "size": 13865
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "tests\\components\\body-shop\\JobTrackingView.test.tsx",
+    "full_path": "C:\\CFH\\frontend\\tests\\components\\body-shop\\JobTrackingView.test.tsx",
+    "name": "JobTrackingView.test.tsx",
+    "ext": ".tsx",
+    "size": 13687
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "tests\\components\\body-shop\\PartsOrderForm.test.tsx",
+    "full_path": "C:\\CFH\\frontend\\tests\\components\\body-shop\\PartsOrderForm.test.tsx",
+    "name": "PartsOrderForm.test.tsx",
+    "ext": ".tsx",
+    "size": 10037
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "tests\\components\\body-shop\\RepairJourneyShare.test.tsx",
+    "full_path": "C:\\CFH\\frontend\\tests\\components\\body-shop\\RepairJourneyShare.test.tsx",
+    "name": "RepairJourneyShare.test.tsx",
+    "ext": ".tsx",
+    "size": 11515
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "tests\\components\\body-shop\\ShopOwnerDashboard.test.tsx",
+    "full_path": "C:\\CFH\\frontend\\tests\\components\\body-shop\\ShopOwnerDashboard.test.tsx",
+    "name": "ShopOwnerDashboard.test.tsx",
+    "ext": ".tsx",
+    "size": 14229
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "tests\\components\\body-shop\\VirtualShopTour360.test.tsx",
+    "full_path": "C:\\CFH\\frontend\\tests\\components\\body-shop\\VirtualShopTour360.test.tsx",
+    "name": "VirtualShopTour360.test.tsx",
+    "ext": ".tsx",
+    "size": 11537
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "vite.config.ts",
+    "full_path": "C:\\CFH\\frontend\\vite.config.ts",
+    "name": "vite.config.ts",
+    "ext": ".ts",
+    "size": 910
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "artifacts\\ref\\exclusions_removed.md",
+    "full_path": "C:\\CFH\\TruthSource\\artifacts\\ref\\exclusions_removed.md",
+    "name": "exclusions_removed.md",
+    "ext": ".md",
+    "size": 97
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "artifacts\\ref\\sanitized\\file_scan_results_js_sanitized.md",
+    "full_path": "C:\\CFH\\TruthSource\\artifacts\\ref\\sanitized\\file_scan_results_js_sanitized.md",
+    "name": "file_scan_results_js_sanitized.md",
+    "ext": ".md",
+    "size": 39550
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "artifacts\\ref\\sanitized\\file_scan_results_jsx_sanitized.md",
+    "full_path": "C:\\CFH\\TruthSource\\artifacts\\ref\\sanitized\\file_scan_results_jsx_sanitized.md",
+    "name": "file_scan_results_jsx_sanitized.md",
+    "ext": ".md",
+    "size": 31726
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "artifacts\\ref\\sanitized\\file_scan_results_ts_sanitized.md",
+    "full_path": "C:\\CFH\\TruthSource\\artifacts\\ref\\sanitized\\file_scan_results_ts_sanitized.md",
+    "name": "file_scan_results_ts_sanitized.md",
+    "ext": ".md",
+    "size": 87454
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "artifacts\\ref\\sanitized\\file_scan_results_tsx_sanitized.md",
+    "full_path": "C:\\CFH\\TruthSource\\artifacts\\ref\\sanitized\\file_scan_results_tsx_sanitized.md",
+    "name": "file_scan_results_tsx_sanitized.md",
+    "ext": ".md",
+    "size": 62501
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "batch1\\artifacts\\ref\\sanitized\\file_scan_results_docs_sanitized.md",
+    "full_path": "C:\\CFH\\TruthSource\\batch1\\artifacts\\ref\\sanitized\\file_scan_results_docs_sanitized.md",
+    "name": "file_scan_results_docs_sanitized.md",
+    "ext": ".md",
+    "size": 44
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "batch1\\artifacts\\ref\\sanitized\\file_scan_results_tests_sanitized.md",
+    "full_path": "C:\\CFH\\TruthSource\\batch1\\artifacts\\ref\\sanitized\\file_scan_results_tests_sanitized.md",
+    "name": "file_scan_results_tests_sanitized.md",
+    "ext": ".md",
+    "size": 45
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "batch1\\clean\\jsx\\RewardHelper.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\batch1\\clean\\jsx\\RewardHelper.jsx",
+    "name": "RewardHelper.jsx",
+    "ext": ".jsx",
+    "size": 1809
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "batch1\\clean\\jsx\\TitleVerificationForm.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\batch1\\clean\\jsx\\TitleVerificationForm.jsx",
+    "name": "TitleVerificationForm.jsx",
+    "ext": ".jsx",
+    "size": 2757
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "batch1\\clean\\jsx\\TradeInForm.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\batch1\\clean\\jsx\\TradeInForm.jsx",
+    "name": "TradeInForm.jsx",
+    "ext": ".jsx",
+    "size": 1761
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "batch1\\clean\\tsx\\RewardHelper_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\batch1\\clean\\tsx\\RewardHelper_1.tsx",
+    "name": "RewardHelper_1.tsx",
+    "ext": ".tsx",
+    "size": 1294
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "batch1\\clean\\tsx\\TradeInForm_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\batch1\\clean\\tsx\\TradeInForm_1.tsx",
+    "name": "TradeInForm_1.tsx",
+    "ext": ".tsx",
+    "size": 2580
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\$I2H07PR_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\$I2H07PR_1.js",
+    "name": "$I2H07PR_1.js",
+    "ext": ".js",
+    "size": 144
+  }
+]

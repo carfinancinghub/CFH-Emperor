@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\InspectionForm_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\InspectionForm_1.js",
+    "name": "InspectionForm_1.js",
+    "ext": ".js",
+    "size": 2588
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\InspectionIndexPage_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\InspectionIndexPage_1.js",
+    "name": "InspectionIndexPage_1.js",
+    "ext": ".js",
+    "size": 4293
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\inspectionPdfController_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\inspectionPdfController_1.js",
+    "name": "inspectionPdfController_1.js",
+    "ext": ".js",
+    "size": 2139
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\inspectionPdfController.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\inspectionPdfController.js",
+    "name": "inspectionPdfController.js",
+    "ext": ".js",
+    "size": 2139
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\InspectionReportList_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\InspectionReportList_1.js",
+    "name": "InspectionReportList_1.js",
+    "ext": ".js",
+    "size": 3365
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\inspectionReportRoutes_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\inspectionReportRoutes_1.js",
+    "name": "inspectionReportRoutes_1.js",
+    "ext": ".js",
+    "size": 1932
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\inspectionReportRoutes.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\inspectionReportRoutes.js",
+    "name": "inspectionReportRoutes.js",
+    "ext": ".js",
+    "size": 1932
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\InspectionReportViewer_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\InspectionReportViewer_1.js",
+    "name": "InspectionReportViewer_1.js",
+    "ext": ".js",
+    "size": 3793
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\InspectionReportViewerPage_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\InspectionReportViewerPage_1.js",
+    "name": "InspectionReportViewerPage_1.js",
+    "ext": ".js",
+    "size": 6942
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\inspections_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\inspections_1.js",
+    "name": "inspections_1.js",
+    "ext": ".js",
+    "size": 1852
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\inspections.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\inspections.js",
+    "name": "inspections.js",
+    "ext": ".js",
+    "size": 1852
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\InspectionSearchBar_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\InspectionSearchBar_1.js",
+    "name": "InspectionSearchBar_1.js",
+    "ext": ".js",
+    "size": 1675
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\InsuranceComparison_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\InsuranceComparison_1.js",
+    "name": "InsuranceComparison_1.js",
+    "ext": ".js",
+    "size": 794
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\InsuranceDashboard_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\InsuranceDashboard_1.js",
+    "name": "InsuranceDashboard_1.js",
+    "ext": ".js",
+    "size": 2427
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\InsuranceDeploymentChecklist_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\InsuranceDeploymentChecklist_1.js",
+    "name": "InsuranceDeploymentChecklist_1.js",
+    "ext": ".js",
+    "size": 3297
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\InsuranceIntegrationTest_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\InsuranceIntegrationTest_1.js",
+    "name": "InsuranceIntegrationTest_1.js",
+    "ext": ".js",
+    "size": 4284
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\InsurancePolicy_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\InsurancePolicy_1.js",
+    "name": "InsurancePolicy_1.js",
+    "ext": ".js",
+    "size": 2686
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\InsurancePolicy.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\InsurancePolicy.js",
+    "name": "InsurancePolicy.js",
+    "ext": ".js",
+    "size": 2686
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\InsuranceProvider_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\InsuranceProvider_1.js",
+    "name": "InsuranceProvider_1.js",
+    "ext": ".js",
+    "size": 3058
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\insuranceRoutes_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\insuranceRoutes_1.js",
+    "name": "insuranceRoutes_1.js",
+    "ext": ".js",
+    "size": 2910
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\insuranceRoutes.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\insuranceRoutes.js",
+    "name": "insuranceRoutes.js",
+    "ext": ".js",
+    "size": 2910
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\integrationReport_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\integrationReport_1.js",
+    "name": "integrationReport_1.js",
+    "ext": ".js",
+    "size": 2046
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\integrationReportValidation_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\integrationReportValidation_1.js",
+    "name": "integrationReportValidation_1.js",
+    "ext": ".js",
+    "size": 4954
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\jest.config_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\jest.config_1.js",
+    "name": "jest.config_1.js",
+    "ext": ".js",
+    "size": 523
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\jest.setup_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\jest.setup_1.js",
+    "name": "jest.setup_1.js",
+    "ext": ".js",
+    "size": 240
+  }
+]

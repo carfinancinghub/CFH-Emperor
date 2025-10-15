@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\DisputeCenter.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\DisputeCenter.copy.js",
+    "name": "DisputeCenter.copy.js",
+    "ext": ".js",
+    "size": 2306
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\disputeController.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\disputeController.copy.js",
+    "name": "disputeController.copy.js",
+    "ext": ".js",
+    "size": 2386
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\DisputeDashboard.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\DisputeDashboard.copy.js",
+    "name": "DisputeDashboard.copy.js",
+    "ext": ".js",
+    "size": 6531
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\DisputeEvidenceUploader.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\DisputeEvidenceUploader.copy.js",
+    "name": "DisputeEvidenceUploader.copy.js",
+    "ext": ".js",
+    "size": 1659
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\disputeFlowController.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\disputeFlowController.copy.js",
+    "name": "disputeFlowController.copy.js",
+    "ext": ".js",
+    "size": 2921
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\DisputeManager.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\DisputeManager.copy.js",
+    "name": "DisputeManager.copy.js",
+    "ext": ".js",
+    "size": 2765
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\disputePdfController.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\disputePdfController.copy.js",
+    "name": "disputePdfController.copy.js",
+    "ext": ".js",
+    "size": 1826
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\DisputeResolution.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\DisputeResolution.copy.js",
+    "name": "DisputeResolution.copy.js",
+    "ext": ".js",
+    "size": 1747
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\DisputeReview.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\DisputeReview.copy.js",
+    "name": "DisputeReview.copy.js",
+    "ext": ".js",
+    "size": 1533
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\disputesGrokOld.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\disputesGrokOld.copy.js",
+    "name": "disputesGrokOld.copy.js",
+    "ext": ".js",
+    "size": 1166
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\disputeSummaryPDF.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\disputeSummaryPDF.copy.js",
+    "name": "disputeSummaryPDF.copy.js",
+    "ext": ".js",
+    "size": 1471
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\DisputeTimeline.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\DisputeTimeline.copy.js",
+    "name": "DisputeTimeline.copy.js",
+    "ext": ".js",
+    "size": 1247
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\DocumentUploader.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\DocumentUploader.copy.js",
+    "name": "DocumentUploader.copy.js",
+    "ext": ".js",
+    "size": 4232
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\DownloadCaseBundleButton.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\DownloadCaseBundleButton.copy.js",
+    "name": "DownloadCaseBundleButton.copy.js",
+    "ext": ".js",
+    "size": 1449
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\DownloadDisputePDFButton.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\DownloadDisputePDFButton.copy.js",
+    "name": "DownloadDisputePDFButton.copy.js",
+    "ext": ".js",
+    "size": 1506
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\embedMapSnapshotPDF.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\embedMapSnapshotPDF.copy.js",
+    "name": "embedMapSnapshotPDF.copy.js",
+    "ext": ".js",
+    "size": 2571
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\equityFlowTasks.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\equityFlowTasks.copy.js",
+    "name": "equityFlowTasks.copy.js",
+    "ext": ".js",
+    "size": 1654
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\equityHubRoutes.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\equityHubRoutes.copy.js",
+    "name": "equityHubRoutes.copy.js",
+    "ext": ".js",
+    "size": 1729
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\ErrorHandler.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\ErrorHandler.copy.js",
+    "name": "ErrorHandler.copy.js",
+    "ext": ".js",
+    "size": 1726
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\escrow-transactions.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\escrow-transactions.copy.js",
+    "name": "escrow-transactions.copy.js",
+    "ext": ".js",
+    "size": 1262
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\escrow.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\escrow.copy.js",
+    "name": "escrow.copy.js",
+    "ext": ".js",
+    "size": 2149
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\escrow.validation.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\escrow.validation.copy.js",
+    "name": "escrow.validation.copy.js",
+    "ext": ".js",
+    "size": 1317
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\EscrowAPIController.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\EscrowAPIController.copy.js",
+    "name": "EscrowAPIController.copy.js",
+    "ext": ".js",
+    "size": 1984
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\EscrowAuditService.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\EscrowAuditService.copy.js",
+    "name": "EscrowAuditService.copy.js",
+    "ext": ".js",
+    "size": 3611
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\escrowBucket.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\escrowBucket.copy.js",
+    "name": "escrowBucket.copy.js",
+    "ext": ".js",
+    "size": 4960
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AILoanRecommender_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AILoanRecommender_1.ts",
+    "name": "AILoanRecommender_1.ts",
+    "ext": ".ts",
+    "size": 333
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AIMarketplaceAnalytics_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AIMarketplaceAnalytics_1.ts",
+    "name": "AIMarketplaceAnalytics_1.ts",
+    "ext": ".ts",
+    "size": 394
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AIPricingEngine_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AIPricingEngine_1.ts",
+    "name": "AIPricingEngine_1.ts",
+    "ext": ".ts",
+    "size": 239
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AIPricingEngineHybrid_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AIPricingEngineHybrid_1.ts",
+    "name": "AIPricingEngineHybrid_1.ts",
+    "ext": ".ts",
+    "size": 258
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AIRecommendationEngine_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AIRecommendationEngine_1.ts",
+    "name": "AIRecommendationEngine_1.ts",
+    "ext": ".ts",
+    "size": 1752
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AIRecommendationEngine.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AIRecommendationEngine.test_1.ts",
+    "name": "AIRecommendationEngine.test_1.ts",
+    "ext": ".ts",
+    "size": 53
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AIRecommendationEngine.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AIRecommendationEngine.test.ts",
+    "name": "AIRecommendationEngine.test.ts",
+    "ext": ".ts",
+    "size": 53
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AIRecommendationEngine.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AIRecommendationEngine.ts",
+    "name": "AIRecommendationEngine.ts",
+    "ext": ".ts",
+    "size": 1752
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AIRecommendations_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AIRecommendations_1.ts",
+    "name": "AIRecommendations_1.ts",
+    "ext": ".ts",
+    "size": 819
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AIRecommendations.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AIRecommendations.test_1.ts",
+    "name": "AIRecommendations.test_1.ts",
+    "ext": ".ts",
+    "size": 48
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AIRecommendations.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AIRecommendations.test.ts",
+    "name": "AIRecommendations.test.ts",
+    "ext": ".ts",
+    "size": 48
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AIRecommendations.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AIRecommendations.ts",
+    "name": "AIRecommendations.ts",
+    "ext": ".ts",
+    "size": 819
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AIResolutionRecommender_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AIResolutionRecommender_1.ts",
+    "name": "AIResolutionRecommender_1.ts",
+    "ext": ".ts",
+    "size": 346
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\aiReviewRoute_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\aiReviewRoute_1.ts",
+    "name": "aiReviewRoute_1.ts",
+    "ext": ".ts",
+    "size": 1076
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\aiReviewRoute.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\aiReviewRoute.test_1.ts",
+    "name": "aiReviewRoute.test_1.ts",
+    "ext": ".ts",
+    "size": 44
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\aiReviewRoute.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\aiReviewRoute.test.ts",
+    "name": "aiReviewRoute.test.ts",
+    "ext": ".ts",
+    "size": 44
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\aiReviewRoute.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\aiReviewRoute.ts",
+    "name": "aiReviewRoute.ts",
+    "ext": ".ts",
+    "size": 1076
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AIRideStrategyCoach_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AIRideStrategyCoach_1.ts",
+    "name": "AIRideStrategyCoach_1.ts",
+    "ext": ".ts",
+    "size": 178
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AIScorePanel_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AIScorePanel_1.ts",
+    "name": "AIScorePanel_1.ts",
+    "ext": ".ts",
+    "size": 2383
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AIScorePanel.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AIScorePanel.test_1.ts",
+    "name": "AIScorePanel.test_1.ts",
+    "ext": ".ts",
+    "size": 1299
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AIScorePanel.test.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AIScorePanel.test.test_1.ts",
+    "name": "AIScorePanel.test.test_1.ts",
+    "ext": ".ts",
+    "size": 48
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AIScorePanel.test.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AIScorePanel.test.test.ts",
+    "name": "AIScorePanel.test.test.ts",
+    "ext": ".ts",
+    "size": 48
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AIScorePanel.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AIScorePanel.test.ts",
+    "name": "AIScorePanel.test.ts",
+    "ext": ".ts",
+    "size": 43
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AISellerNegotiationCoach_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AISellerNegotiationCoach_1.ts",
+    "name": "AISellerNegotiationCoach_1.ts",
+    "ext": ".ts",
+    "size": 339
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AISellerNegotiationCoach.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AISellerNegotiationCoach.test_1.ts",
+    "name": "AISellerNegotiationCoach.test_1.ts",
+    "ext": ".ts",
+    "size": 554
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\BuyerFinancingOffers.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\BuyerFinancingOffers.test.tsx",
+    "name": "BuyerFinancingOffers.test.tsx",
+    "ext": ".tsx",
+    "size": 1813
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\BuyerLenderResults_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\BuyerLenderResults_1.tsx",
+    "name": "BuyerLenderResults_1.tsx",
+    "ext": ".tsx",
+    "size": 5141
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\BuyerLenderResults.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\BuyerLenderResults.test_1.tsx",
+    "name": "BuyerLenderResults.test_1.tsx",
+    "ext": ".tsx",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\BuyerLenderResults.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\BuyerLenderResults.test.tsx",
+    "name": "BuyerLenderResults.test.tsx",
+    "ext": ".tsx",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\BuyerLenderResults.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\BuyerLenderResults.tsx",
+    "name": "BuyerLenderResults.tsx",
+    "ext": ".tsx",
+    "size": 5141
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\BuyerLoyaltyDashboard_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\BuyerLoyaltyDashboard_1.tsx",
+    "name": "BuyerLoyaltyDashboard_1.tsx",
+    "ext": ".tsx",
+    "size": 7558
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\BuyerLoyaltyDashboard.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\BuyerLoyaltyDashboard.test_1.tsx",
+    "name": "BuyerLoyaltyDashboard.test_1.tsx",
+    "ext": ".tsx",
+    "size": 53
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\BuyerLoyaltyDashboard.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\BuyerLoyaltyDashboard.test.tsx",
+    "name": "BuyerLoyaltyDashboard.test.tsx",
+    "ext": ".tsx",
+    "size": 53
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\BuyerLoyaltyDashboard.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\BuyerLoyaltyDashboard.tsx",
+    "name": "BuyerLoyaltyDashboard.tsx",
+    "ext": ".tsx",
+    "size": 7558
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\BuyerNotificationCenter_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\BuyerNotificationCenter_1.tsx",
+    "name": "BuyerNotificationCenter_1.tsx",
+    "ext": ".tsx",
+    "size": 6620
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\BuyerNotificationCenter.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\BuyerNotificationCenter.test_1.tsx",
+    "name": "BuyerNotificationCenter.test_1.tsx",
+    "ext": ".tsx",
+    "size": 55
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\BuyerNotificationCenter.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\BuyerNotificationCenter.test.tsx",
+    "name": "BuyerNotificationCenter.test.tsx",
+    "ext": ".tsx",
+    "size": 55
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\BuyerNotificationCenter.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\BuyerNotificationCenter.tsx",
+    "name": "BuyerNotificationCenter.tsx",
+    "ext": ".tsx",
+    "size": 6620
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\BuyerOnboardingGuide_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\BuyerOnboardingGuide_1.tsx",
+    "name": "BuyerOnboardingGuide_1.tsx",
+    "ext": ".tsx",
+    "size": 8169
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\BuyerOnboardingGuide.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\BuyerOnboardingGuide.test_1.tsx",
+    "name": "BuyerOnboardingGuide.test_1.tsx",
+    "ext": ".tsx",
+    "size": 52
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\BuyerOnboardingGuide.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\BuyerOnboardingGuide.test.tsx",
+    "name": "BuyerOnboardingGuide.test.tsx",
+    "ext": ".tsx",
+    "size": 52
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\BuyerOnboardingGuide.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\BuyerOnboardingGuide.tsx",
+    "name": "BuyerOnboardingGuide.tsx",
+    "ext": ".tsx",
+    "size": 8169
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\BuyerPreferencesForm_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\BuyerPreferencesForm_1.tsx",
+    "name": "BuyerPreferencesForm_1.tsx",
+    "ext": ".tsx",
+    "size": 5584
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\BuyerPreferencesForm.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\BuyerPreferencesForm.test_1.tsx",
+    "name": "BuyerPreferencesForm.test_1.tsx",
+    "ext": ".tsx",
+    "size": 52
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\BuyerPreferencesForm.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\BuyerPreferencesForm.test.tsx",
+    "name": "BuyerPreferencesForm.test.tsx",
+    "ext": ".tsx",
+    "size": 52
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\BuyerProgressBar_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\BuyerProgressBar_1.tsx",
+    "name": "BuyerProgressBar_1.tsx",
+    "ext": ".tsx",
+    "size": 1097
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\BuyerProgressBar.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\BuyerProgressBar.test_1.tsx",
+    "name": "BuyerProgressBar.test_1.tsx",
+    "ext": ".tsx",
+    "size": 48
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\BuyerProgressBar.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\BuyerProgressBar.test.tsx",
+    "name": "BuyerProgressBar.test.tsx",
+    "ext": ".tsx",
+    "size": 48
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\BuyerSearchPreferences_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\BuyerSearchPreferences_1.tsx",
+    "name": "BuyerSearchPreferences_1.tsx",
+    "ext": ".tsx",
+    "size": 4185
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\BuyerSearchPreferences.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\BuyerSearchPreferences.test_1.tsx",
+    "name": "BuyerSearchPreferences.test_1.tsx",
+    "ext": ".tsx",
+    "size": 4759
+  }
+]

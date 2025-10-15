@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\setup.ts",
+    "full_path": "C:\\CFH\\backend\\tests\\setup.ts",
+    "name": "setup.ts",
+    "ext": ".ts",
+    "size": 1691
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\socket\\socket.test.js",
+    "full_path": "C:\\CFH\\backend\\tests\\socket\\socket.test.js",
+    "name": "socket.test.js",
+    "ext": ".js",
+    "size": 386
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\storageApiTests.js",
+    "full_path": "C:\\CFH\\backend\\tests\\storageApiTests.js",
+    "name": "storageApiTests.js",
+    "ext": ".js",
+    "size": 7259
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\testRunner.js",
+    "full_path": "C:\\CFH\\backend\\tests\\testRunner.js",
+    "name": "testRunner.js",
+    "ext": ".js",
+    "size": 1609
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\user\\UserActivity.test.js",
+    "full_path": "C:\\CFH\\backend\\tests\\user\\UserActivity.test.js",
+    "name": "UserActivity.test.js",
+    "ext": ".js",
+    "size": 2471
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\user\\UserAuth.test.js",
+    "full_path": "C:\\CFH\\backend\\tests\\user\\UserAuth.test.js",
+    "name": "UserAuth.test.js",
+    "ext": ".js",
+    "size": 2958
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\user\\UserNotifications.test.js",
+    "full_path": "C:\\CFH\\backend\\tests\\user\\UserNotifications.test.js",
+    "name": "UserNotifications.test.js",
+    "ext": ".js",
+    "size": 4372
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\user\\UserPreferences.test.js",
+    "full_path": "C:\\CFH\\backend\\tests\\user\\UserPreferences.test.js",
+    "name": "UserPreferences.test.js",
+    "ext": ".js",
+    "size": 3575
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\user\\UserProfile.test.js",
+    "full_path": "C:\\CFH\\backend\\tests\\user\\UserProfile.test.js",
+    "name": "UserProfile.test.js",
+    "ext": ".js",
+    "size": 2669
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\user\\UserSettings.test.js",
+    "full_path": "C:\\CFH\\backend\\tests\\user\\UserSettings.test.js",
+    "name": "UserSettings.test.js",
+    "ext": ".js",
+    "size": 3352
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\utils\\logger.test.js",
+    "full_path": "C:\\CFH\\backend\\tests\\utils\\logger.test.js",
+    "name": "logger.test.js",
+    "ext": ".js",
+    "size": 638
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\validation\\bodyshop\\estimateValidation.test.ts",
+    "full_path": "C:\\CFH\\backend\\tests\\validation\\bodyshop\\estimateValidation.test.ts",
+    "name": "estimateValidation.test.ts",
+    "ext": ".ts",
+    "size": 14198
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\workers\\NotificationWorker.test.ts",
+    "full_path": "C:\\CFH\\backend\\tests\\workers\\NotificationWorker.test.ts",
+    "name": "NotificationWorker.test.ts",
+    "ext": ".ts",
+    "size": 680
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tools\\aliasCheck.js",
+    "full_path": "C:\\CFH\\backend\\tools\\aliasCheck.js",
+    "name": "aliasCheck.js",
+    "ext": ".js",
+    "size": 321
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "types\\express\\index.d.ts",
+    "full_path": "C:\\CFH\\backend\\types\\express\\index.d.ts",
+    "name": "index.d.ts",
+    "ext": ".ts",
+    "size": 110
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "types\\routes.d.ts",
+    "full_path": "C:\\CFH\\backend\\types\\routes.d.ts",
+    "name": "routes.d.ts",
+    "ext": ".ts",
+    "size": 271
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "types\\utils.d.ts",
+    "full_path": "C:\\CFH\\backend\\types\\utils.d.ts",
+    "name": "utils.d.ts",
+    "ext": ".ts",
+    "size": 4993
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "utils\\ai\\AIInspectionDamageClassifier.ts",
+    "full_path": "C:\\CFH\\backend\\utils\\ai\\AIInspectionDamageClassifier.ts",
+    "name": "AIInspectionDamageClassifier.ts",
+    "ext": ".ts",
+    "size": 195
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "utils\\ai\\MechanicAIExplainer.ts",
+    "full_path": "C:\\CFH\\backend\\utils\\ai\\MechanicAIExplainer.ts",
+    "name": "MechanicAIExplainer.ts",
+    "ext": ".ts",
+    "size": 149
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "utils\\AIBidPredictor.ts",
+    "full_path": "C:\\CFH\\backend\\utils\\AIBidPredictor.ts",
+    "name": "AIBidPredictor.ts",
+    "ext": ".ts",
+    "size": 338
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "utils\\AIChatModerator.test.ts",
+    "full_path": "C:\\CFH\\backend\\utils\\AIChatModerator.test.ts",
+    "name": "AIChatModerator.test.ts",
+    "ext": ".ts",
+    "size": 315
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "utils\\AIChatModerator.ts",
+    "full_path": "C:\\CFH\\backend\\utils\\AIChatModerator.ts",
+    "name": "AIChatModerator.ts",
+    "ext": ".ts",
+    "size": 311
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "utils\\AIContractRiskAssessor.ts",
+    "full_path": "C:\\CFH\\backend\\utils\\AIContractRiskAssessor.ts",
+    "name": "AIContractRiskAssessor.ts",
+    "ext": ".ts",
+    "size": 250
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "utils\\AIDisputePredictor.test.ts",
+    "full_path": "C:\\CFH\\backend\\utils\\AIDisputePredictor.test.ts",
+    "name": "AIDisputePredictor.test.ts",
+    "ext": ".ts",
+    "size": 1852
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "utils\\AIDisputePredictor.ts",
+    "full_path": "C:\\CFH\\backend\\utils\\AIDisputePredictor.ts",
+    "name": "AIDisputePredictor.ts",
+    "ext": ".ts",
+    "size": 356
+  }
+]

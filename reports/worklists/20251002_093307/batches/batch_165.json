@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\PolicyReviewQueue.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\PolicyReviewQueue.test_1.ts",
+    "name": "PolicyReviewQueue.test_1.ts",
+    "ext": ".ts",
+    "size": 48
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\PolicyReviewQueue.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\PolicyReviewQueue.test.ts",
+    "name": "PolicyReviewQueue.test.ts",
+    "ext": ".ts",
+    "size": 48
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\PolicyReviewQueue.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\PolicyReviewQueue.ts",
+    "name": "PolicyReviewQueue.ts",
+    "ext": ".ts",
+    "size": 2959
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\PostAuctionInsights_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\PostAuctionInsights_1.ts",
+    "name": "PostAuctionInsights_1.ts",
+    "ext": ".ts",
+    "size": 3208
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\PostAuctionInsights.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\PostAuctionInsights.test_1.ts",
+    "name": "PostAuctionInsights.test_1.ts",
+    "ext": ".ts",
+    "size": 4795
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\PostAuctionInsights.test.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\PostAuctionInsights.test.test_1.ts",
+    "name": "PostAuctionInsights.test.test_1.ts",
+    "ext": ".ts",
+    "size": 55
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\PostAuctionInsights.test.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\PostAuctionInsights.test.test.ts",
+    "name": "PostAuctionInsights.test.test.ts",
+    "ext": ".ts",
+    "size": 55
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\PostAuctionInsights.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\PostAuctionInsights.test.ts",
+    "name": "PostAuctionInsights.test.ts",
+    "ext": ".ts",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\PostAuctionInsights.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\PostAuctionInsights.ts",
+    "name": "PostAuctionInsights.ts",
+    "ext": ".ts",
+    "size": 3208
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\PredictionEngine_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\PredictionEngine_1.ts",
+    "name": "PredictionEngine_1.ts",
+    "ext": ".ts",
+    "size": 2128
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\PredictionEngine.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\PredictionEngine.test_1.ts",
+    "name": "PredictionEngine.test_1.ts",
+    "ext": ".ts",
+    "size": 6694
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\PredictionEngine.test.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\PredictionEngine.test.test_1.ts",
+    "name": "PredictionEngine.test.test_1.ts",
+    "ext": ".ts",
+    "size": 52
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\PredictionEngine.test.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\PredictionEngine.test.test.ts",
+    "name": "PredictionEngine.test.test.ts",
+    "ext": ".ts",
+    "size": 52
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\PredictionEngine.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\PredictionEngine.test.ts",
+    "name": "PredictionEngine.test.ts",
+    "ext": ".ts",
+    "size": 47
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\PredictionEngine.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\PredictionEngine.ts",
+    "name": "PredictionEngine.ts",
+    "ext": ".ts",
+    "size": 2128
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\PredictiveAssistant_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\PredictiveAssistant_1.ts",
+    "name": "PredictiveAssistant_1.ts",
+    "ext": ".ts",
+    "size": 4047
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\PredictiveAssistant.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\PredictiveAssistant.test_1.ts",
+    "name": "PredictiveAssistant.test_1.ts",
+    "ext": ".ts",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\PredictiveAssistant.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\PredictiveAssistant.test.ts",
+    "name": "PredictiveAssistant.test.ts",
+    "ext": ".ts",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\PredictiveAssistant.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\PredictiveAssistant.ts",
+    "name": "PredictiveAssistant.ts",
+    "ext": ".ts",
+    "size": 4047
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\predictRepairCostRoutes_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\predictRepairCostRoutes_1.ts",
+    "name": "predictRepairCostRoutes_1.ts",
+    "ext": ".ts",
+    "size": 775
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\predictRepairCostRoutes.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\predictRepairCostRoutes.test_1.ts",
+    "name": "predictRepairCostRoutes.test_1.ts",
+    "ext": ".ts",
+    "size": 54
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\predictRepairCostRoutes.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\predictRepairCostRoutes.test.ts",
+    "name": "predictRepairCostRoutes.test.ts",
+    "ext": ".ts",
+    "size": 54
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\predictRepairCostRoutes.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\predictRepairCostRoutes.ts",
+    "name": "predictRepairCostRoutes.ts",
+    "ext": ".ts",
+    "size": 775
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\PreferencesSetup_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\PreferencesSetup_1.ts",
+    "name": "PreferencesSetup_1.ts",
+    "ext": ".ts",
+    "size": 2280
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\PreferencesSetup.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\PreferencesSetup.test_1.ts",
+    "name": "PreferencesSetup.test_1.ts",
+    "ext": ".ts",
+    "size": 2937
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\HaulerJobStatus.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\HaulerJobStatus.tsx",
+    "name": "HaulerJobStatus.tsx",
+    "ext": ".tsx",
+    "size": 632
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\HaulerJobStatusGrokOld.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\HaulerJobStatusGrokOld.tsx",
+    "name": "HaulerJobStatusGrokOld.tsx",
+    "ext": ".tsx",
+    "size": 660
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\HaulerJobUploadForm.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\HaulerJobUploadForm.tsx",
+    "name": "HaulerJobUploadForm.tsx",
+    "ext": ".tsx",
+    "size": 648
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\haulerReputationController.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\haulerReputationController.tsx",
+    "name": "haulerReputationController.tsx",
+    "ext": ".tsx",
+    "size": 676
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\haulerReputationRoute.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\haulerReputationRoute.tsx",
+    "name": "haulerReputationRoute.tsx",
+    "ext": ".tsx",
+    "size": 656
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\HaulerReputationTracker.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\HaulerReputationTracker.tsx",
+    "name": "HaulerReputationTracker.tsx",
+    "ext": ".tsx",
+    "size": 664
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\HaulerRequest.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\HaulerRequest.tsx",
+    "name": "HaulerRequest.tsx",
+    "ext": ".tsx",
+    "size": 624
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\haulerReviewRoute.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\haulerReviewRoute.tsx",
+    "name": "haulerReviewRoute.tsx",
+    "ext": ".tsx",
+    "size": 640
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\haulerTracking.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\haulerTracking.tsx",
+    "name": "haulerTracking.tsx",
+    "ext": ".tsx",
+    "size": 628
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\Heatmap.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\Heatmap.tsx",
+    "name": "Heatmap.tsx",
+    "ext": ".tsx",
+    "size": 600
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\history.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\history.tsx",
+    "name": "history.tsx",
+    "ext": ".tsx",
+    "size": 600
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\historyOld.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\historyOld.tsx",
+    "name": "historyOld.tsx",
+    "ext": ".tsx",
+    "size": 612
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\historyOld1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\historyOld1.tsx",
+    "name": "historyOld1.tsx",
+    "ext": ".tsx",
+    "size": 616
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\holdRequests.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\holdRequests.tsx",
+    "name": "holdRequests.tsx",
+    "ext": ".tsx",
+    "size": 620
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\ImageUploader.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\ImageUploader.tsx",
+    "name": "ImageUploader.tsx",
+    "ext": ".tsx",
+    "size": 624
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\input-placeholder.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\input-placeholder.tsx",
+    "name": "input-placeholder.tsx",
+    "ext": ".tsx",
+    "size": 640
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\Input.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\Input.tsx",
+    "name": "Input.tsx",
+    "ext": ".tsx",
+    "size": 592
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\InsightGenerator.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\InsightGenerator.tsx",
+    "name": "InsightGenerator.tsx",
+    "ext": ".tsx",
+    "size": 636
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\insights.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\insights.tsx",
+    "name": "insights.tsx",
+    "ext": ".tsx",
+    "size": 604
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\InsightsService.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\InsightsService.tsx",
+    "name": "InsightsService.tsx",
+    "ext": ".tsx",
+    "size": 632
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\Inspection.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\Inspection.tsx",
+    "name": "Inspection.tsx",
+    "ext": ".tsx",
+    "size": 612
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\inspectionController.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\inspectionController.tsx",
+    "name": "inspectionController.tsx",
+    "ext": ".tsx",
+    "size": 652
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\InspectionForm.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\InspectionForm.tsx",
+    "name": "InspectionForm.tsx",
+    "ext": ".tsx",
+    "size": 628
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\InspectionIndexPage.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\InspectionIndexPage.tsx",
+    "name": "InspectionIndexPage.tsx",
+    "ext": ".tsx",
+    "size": 648
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\InspectionModal.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\InspectionModal.tsx",
+    "name": "InspectionModal.tsx",
+    "ext": ".tsx",
+    "size": 632
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\auctionExportUtils.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\auctionExportUtils.copy.js",
+    "name": "auctionExportUtils.copy.js",
+    "ext": ".js",
+    "size": 7981
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\auctionExportUtilsOld.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\auctionExportUtilsOld.copy.js",
+    "name": "auctionExportUtilsOld.copy.js",
+    "ext": ".js",
+    "size": 3407
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\AuctionGamificationEngine.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\AuctionGamificationEngine.copy.js",
+    "name": "AuctionGamificationEngine.copy.js",
+    "ext": ".js",
+    "size": 3046
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\AuctionGamificationEngineOld.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\AuctionGamificationEngineOld.copy.js",
+    "name": "AuctionGamificationEngineOld.copy.js",
+    "ext": ".js",
+    "size": 1687
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\AuctionHistory.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\AuctionHistory.copy.js",
+    "name": "AuctionHistory.copy.js",
+    "ext": ".js",
+    "size": 2200
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\AuctionManager.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\AuctionManager.copy.js",
+    "name": "AuctionManager.copy.js",
+    "ext": ".js",
+    "size": 3376
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\AuctionMetrics.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\AuctionMetrics.copy.js",
+    "name": "AuctionMetrics.copy.js",
+    "ext": ".js",
+    "size": 2637
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\AuctionNotifier.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\AuctionNotifier.copy.js",
+    "name": "AuctionNotifier.copy.js",
+    "ext": ".js",
+    "size": 2178
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\AuctionPerformance.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\AuctionPerformance.copy.js",
+    "name": "AuctionPerformance.copy.js",
+    "ext": ".js",
+    "size": 2646
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\AuctionReputationTracker.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\AuctionReputationTracker.copy.js",
+    "name": "AuctionReputationTracker.copy.js",
+    "ext": ".js",
+    "size": 3594
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\auctions.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\auctions.copy.js",
+    "name": "auctions.copy.js",
+    "ext": ".js",
+    "size": 2030
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\AuctionScheduler.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\AuctionScheduler.copy.js",
+    "name": "AuctionScheduler.copy.js",
+    "ext": ".js",
+    "size": 2385
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\auctionsOld.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\auctionsOld.copy.js",
+    "name": "auctionsOld.copy.js",
+    "ext": ".js",
+    "size": 3205
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\AuctionTemplateEngine.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\AuctionTemplateEngine.copy.js",
+    "name": "AuctionTemplateEngine.copy.js",
+    "ext": ".js",
+    "size": 2012
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\audit-trail.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\audit-trail.copy.js",
+    "name": "audit-trail.copy.js",
+    "ext": ".js",
+    "size": 3133
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\AuditLogViewer.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\AuditLogViewer.copy.js",
+    "name": "AuditLogViewer.copy.js",
+    "ext": ".js",
+    "size": 2533
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\AuthContext.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\AuthContext.copy.js",
+    "name": "AuthContext.copy.js",
+    "ext": ".js",
+    "size": 1592
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\authController.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\authController.copy.js",
+    "name": "authController.copy.js",
+    "ext": ".js",
+    "size": 2204
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\backupApp.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\backupApp.copy.js",
+    "name": "backupApp.copy.js",
+    "ext": ".js",
+    "size": 2943
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\BadgeHub.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\BadgeHub.copy.js",
+    "name": "BadgeHub.copy.js",
+    "ext": ".js",
+    "size": 2611
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\badgeRoutes.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\badgeRoutes.copy.js",
+    "name": "badgeRoutes.copy.js",
+    "ext": ".js",
+    "size": 1917
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\badges.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\badges.copy.js",
+    "name": "badges.copy.js",
+    "ext": ".js",
+    "size": 1350
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\BankerLoanHistory.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\BankerLoanHistory.copy.js",
+    "name": "BankerLoanHistory.copy.js",
+    "ext": ".js",
+    "size": 3484
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\BidDetailViewer.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\BidDetailViewer.copy.js",
+    "name": "BidDetailViewer.copy.js",
+    "ext": ".js",
+    "size": 2022
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\converting\\BidHeatmapEngine.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\converting\\BidHeatmapEngine.copy.js",
+    "name": "BidHeatmapEngine.copy.js",
+    "ext": ".js",
+    "size": 2589
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\transportController.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\transportController.test_1.ts",
+    "name": "transportController.test_1.ts",
+    "ext": ".ts",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\transportController.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\transportController.test.ts",
+    "name": "transportController.test.ts",
+    "ext": ".ts",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\transportController.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\transportController.ts",
+    "name": "transportController.ts",
+    "ext": ".ts",
+    "size": 1622
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\TransporterJobStatus_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\TransporterJobStatus_1.ts",
+    "name": "TransporterJobStatus_1.ts",
+    "ext": ".ts",
+    "size": 3443
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\TransporterJobStatus.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\TransporterJobStatus.test_1.ts",
+    "name": "TransporterJobStatus.test_1.ts",
+    "ext": ".ts",
+    "size": 51
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\TransporterJobStatus.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\TransporterJobStatus.test.ts",
+    "name": "TransporterJobStatus.test.ts",
+    "ext": ".ts",
+    "size": 51
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\TransporterJobStatus.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\TransporterJobStatus.ts",
+    "name": "TransporterJobStatus.ts",
+    "ext": ".ts",
+    "size": 3443
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\TransporterLiveTracking_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\TransporterLiveTracking_1.ts",
+    "name": "TransporterLiveTracking_1.ts",
+    "ext": ".ts",
+    "size": 3147
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\TransporterLiveTracking.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\TransporterLiveTracking.test_1.ts",
+    "name": "TransporterLiveTracking.test_1.ts",
+    "ext": ".ts",
+    "size": 54
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\TransporterLiveTracking.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\TransporterLiveTracking.test.ts",
+    "name": "TransporterLiveTracking.test.ts",
+    "ext": ".ts",
+    "size": 54
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\TransporterLiveTracking.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\TransporterLiveTracking.ts",
+    "name": "TransporterLiveTracking.ts",
+    "ext": ".ts",
+    "size": 3147
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\TrendAnimation_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\TrendAnimation_1.ts",
+    "name": "TrendAnimation_1.ts",
+    "ext": ".ts",
+    "size": 1473
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\TrendAnimation.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\TrendAnimation.test_1.ts",
+    "name": "TrendAnimation.test_1.ts",
+    "ext": ".ts",
+    "size": 2862
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\TrendAnimation.test.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\TrendAnimation.test.test_1.ts",
+    "name": "TrendAnimation.test.test_1.ts",
+    "ext": ".ts",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\TrendAnimation.test.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\TrendAnimation.test.test.ts",
+    "name": "TrendAnimation.test.test.ts",
+    "ext": ".ts",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\TrendAnimation.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\TrendAnimation.test.ts",
+    "name": "TrendAnimation.test.ts",
+    "ext": ".ts",
+    "size": 45
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\TrendAnimation.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\TrendAnimation.ts",
+    "name": "TrendAnimation.ts",
+    "ext": ".ts",
+    "size": 1473
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\TrustScoreEngine_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\TrustScoreEngine_1.ts",
+    "name": "TrustScoreEngine_1.ts",
+    "ext": ".ts",
+    "size": 4334
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\TrustScoreEngine.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\TrustScoreEngine.test_1.ts",
+    "name": "TrustScoreEngine.test_1.ts",
+    "ext": ".ts",
+    "size": 47
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\TrustScoreEngine.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\TrustScoreEngine.test.ts",
+    "name": "TrustScoreEngine.test.ts",
+    "ext": ".ts",
+    "size": 47
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\uploadHaulerProofController_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\uploadHaulerProofController_1.ts",
+    "name": "uploadHaulerProofController_1.ts",
+    "ext": ".ts",
+    "size": 1464
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\uploadHaulerProofController.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\uploadHaulerProofController.test_1.ts",
+    "name": "uploadHaulerProofController.test_1.ts",
+    "ext": ".ts",
+    "size": 58
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\uploadHaulerProofController.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\uploadHaulerProofController.test.ts",
+    "name": "uploadHaulerProofController.test.ts",
+    "ext": ".ts",
+    "size": 58
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\uploadHaulerProofController.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\uploadHaulerProofController.ts",
+    "name": "uploadHaulerProofController.ts",
+    "ext": ".ts",
+    "size": 1464
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\useAuth_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\useAuth_1.ts",
+    "name": "useAuth_1.ts",
+    "ext": ".ts",
+    "size": 1480
+  }
+]

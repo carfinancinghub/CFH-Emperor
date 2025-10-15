@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\BadgeDisplayPanel.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\BadgeDisplayPanel.test_1.tsx",
+    "name": "BadgeDisplayPanel.test_1.tsx",
+    "ext": ".tsx",
+    "size": 49
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\BadgeDisplayPanel.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\BadgeDisplayPanel.test.tsx",
+    "name": "BadgeDisplayPanel.test.tsx",
+    "ext": ".tsx",
+    "size": 49
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\BadgeDisplayPanel.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\BadgeDisplayPanel.tsx",
+    "name": "BadgeDisplayPanel.tsx",
+    "ext": ".tsx",
+    "size": 1872
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\BadgeStorefront_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\BadgeStorefront_1.tsx",
+    "name": "BadgeStorefront_1.tsx",
+    "ext": ".tsx",
+    "size": 2640
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\BadgeStorefront.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\BadgeStorefront.test_1.tsx",
+    "name": "BadgeStorefront.test_1.tsx",
+    "ext": ".tsx",
+    "size": 3363
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\BadgeStorefront.test.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\BadgeStorefront.test.test_1.tsx",
+    "name": "BadgeStorefront.test.test_1.tsx",
+    "ext": ".tsx",
+    "size": 52
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\BadgeStorefront.test.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\BadgeStorefront.test.test.tsx",
+    "name": "BadgeStorefront.test.test.tsx",
+    "ext": ".tsx",
+    "size": 52
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\BadgeStorefront.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\BadgeStorefront.test.tsx",
+    "name": "BadgeStorefront.test.tsx",
+    "ext": ".tsx",
+    "size": 47
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\BadgeStorefront.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\BadgeStorefront.tsx",
+    "name": "BadgeStorefront.tsx",
+    "ext": ".tsx",
+    "size": 2640
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\BestFinancingDealCard_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\BestFinancingDealCard_1.tsx",
+    "name": "BestFinancingDealCard_1.tsx",
+    "ext": ".tsx",
+    "size": 2304
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\BestFinancingDealCard.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\BestFinancingDealCard.test_1.tsx",
+    "name": "BestFinancingDealCard.test_1.tsx",
+    "ext": ".tsx",
+    "size": 53
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\BestFinancingDealCard.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\BestFinancingDealCard.test.tsx",
+    "name": "BestFinancingDealCard.test.tsx",
+    "ext": ".tsx",
+    "size": 53
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\BestFinancingDealCard.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\BestFinancingDealCard.tsx",
+    "name": "BestFinancingDealCard.tsx",
+    "ext": ".tsx",
+    "size": 2304
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\BidAssistantSimulator_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\BidAssistantSimulator_1.tsx",
+    "name": "BidAssistantSimulator_1.tsx",
+    "ext": ".tsx",
+    "size": 4094
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\BidAssistantSimulator.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\BidAssistantSimulator.test_1.tsx",
+    "name": "BidAssistantSimulator.test_1.tsx",
+    "ext": ".tsx",
+    "size": 53
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\BidAssistantSimulator.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\BidAssistantSimulator.test.tsx",
+    "name": "BidAssistantSimulator.test.tsx",
+    "ext": ".tsx",
+    "size": 53
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\BidConfidenceMeter_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\BidConfidenceMeter_1.tsx",
+    "name": "BidConfidenceMeter_1.tsx",
+    "ext": ".tsx",
+    "size": 3734
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\BidConfidenceMeter.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\BidConfidenceMeter.test_1.tsx",
+    "name": "BidConfidenceMeter.test_1.tsx",
+    "ext": ".tsx",
+    "size": 3444
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\BidConfidenceMeter.test.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\BidConfidenceMeter.test.test_1.tsx",
+    "name": "BidConfidenceMeter.test.test_1.tsx",
+    "ext": ".tsx",
+    "size": 55
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\BidConfidenceMeter.test.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\BidConfidenceMeter.test.test.tsx",
+    "name": "BidConfidenceMeter.test.test.tsx",
+    "ext": ".tsx",
+    "size": 55
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\BidConfidenceMeter.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\BidConfidenceMeter.test.tsx",
+    "name": "BidConfidenceMeter.test.tsx",
+    "ext": ".tsx",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\BidStrategyAdvisor_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\BidStrategyAdvisor_1.tsx",
+    "name": "BidStrategyAdvisor_1.tsx",
+    "ext": ".tsx",
+    "size": 2762
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\BidStrategyAdvisor.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\BidStrategyAdvisor.test_1.tsx",
+    "name": "BidStrategyAdvisor.test_1.tsx",
+    "ext": ".tsx",
+    "size": 3507
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\BidStrategyAdvisor.test.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\BidStrategyAdvisor.test.test_1.tsx",
+    "name": "BidStrategyAdvisor.test.test_1.tsx",
+    "ext": ".tsx",
+    "size": 55
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\BidStrategyAdvisor.test.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\BidStrategyAdvisor.test.test.tsx",
+    "name": "BidStrategyAdvisor.test.test.tsx",
+    "ext": ".tsx",
+    "size": 55
+  }
+]

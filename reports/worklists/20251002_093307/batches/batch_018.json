@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "utils\\AIEscrowRiskAssessor.ts",
+    "full_path": "C:\\CFH\\backend\\utils\\AIEscrowRiskAssessor.ts",
+    "name": "AIEscrowRiskAssessor.ts",
+    "ext": ".ts",
+    "size": 339
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "utils\\AIFinancingRecommender.ts",
+    "full_path": "C:\\CFH\\backend\\utils\\AIFinancingRecommender.ts",
+    "name": "AIFinancingRecommender.ts",
+    "ext": ".ts",
+    "size": 270
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "utils\\AIFraudDetection.ts",
+    "full_path": "C:\\CFH\\backend\\utils\\AIFraudDetection.ts",
+    "name": "AIFraudDetection.ts",
+    "ext": ".ts",
+    "size": 168
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "utils\\AILenderMatchRecommender.ts",
+    "full_path": "C:\\CFH\\backend\\utils\\AILenderMatchRecommender.ts",
+    "name": "AILenderMatchRecommender.ts",
+    "ext": ".ts",
+    "size": 383
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "utils\\AILenderTermsAnalyzer.ts",
+    "full_path": "C:\\CFH\\backend\\utils\\AILenderTermsAnalyzer.ts",
+    "name": "AILenderTermsAnalyzer.ts",
+    "ext": ".ts",
+    "size": 245
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "utils\\AILoanRecommender.ts",
+    "full_path": "C:\\CFH\\backend\\utils\\AILoanRecommender.ts",
+    "name": "AILoanRecommender.ts",
+    "ext": ".ts",
+    "size": 322
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "utils\\AIMarketplaceAnalytics.ts",
+    "full_path": "C:\\CFH\\backend\\utils\\AIMarketplaceAnalytics.ts",
+    "name": "AIMarketplaceAnalytics.ts",
+    "ext": ".ts",
+    "size": 394
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "utils\\AIPricingEngine.ts",
+    "full_path": "C:\\CFH\\backend\\utils\\AIPricingEngine.ts",
+    "name": "AIPricingEngine.ts",
+    "ext": ".ts",
+    "size": 239
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "utils\\AIPricingEngineHybrid.ts",
+    "full_path": "C:\\CFH\\backend\\utils\\AIPricingEngineHybrid.ts",
+    "name": "AIPricingEngineHybrid.ts",
+    "ext": ".ts",
+    "size": 258
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "utils\\AIResolutionRecommender.ts",
+    "full_path": "C:\\CFH\\backend\\utils\\AIResolutionRecommender.ts",
+    "name": "AIResolutionRecommender.ts",
+    "ext": ".ts",
+    "size": 346
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "utils\\AIRideStrategyCoach.ts",
+    "full_path": "C:\\CFH\\backend\\utils\\AIRideStrategyCoach.ts",
+    "name": "AIRideStrategyCoach.ts",
+    "ext": ".ts",
+    "size": 178
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "utils\\AISellerNegotiationCoach.test.ts",
+    "full_path": "C:\\CFH\\backend\\utils\\AISellerNegotiationCoach.test.ts",
+    "name": "AISellerNegotiationCoach.test.ts",
+    "ext": ".ts",
+    "size": 478
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "utils\\AISellerNegotiationCoach.ts",
+    "full_path": "C:\\CFH\\backend\\utils\\AISellerNegotiationCoach.ts",
+    "name": "AISellerNegotiationCoach.ts",
+    "ext": ".ts",
+    "size": 339
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "utils\\analytics.ts",
+    "full_path": "C:\\CFH\\backend\\utils\\analytics.ts",
+    "name": "analytics.ts",
+    "ext": ".ts",
+    "size": 132
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "utils\\analyticsExportUtils.ts",
+    "full_path": "C:\\CFH\\backend\\utils\\analyticsExportUtils.ts",
+    "name": "analyticsExportUtils.ts",
+    "ext": ".ts",
+    "size": 382
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "utils\\arbitration\\arbitrationExportTools.ts",
+    "full_path": "C:\\CFH\\backend\\utils\\arbitration\\arbitrationExportTools.ts",
+    "name": "arbitrationExportTools.ts",
+    "ext": ".ts",
+    "size": 369
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "utils\\auction\\AIInsightEngine.ts",
+    "full_path": "C:\\CFH\\backend\\utils\\auction\\AIInsightEngine.ts",
+    "name": "AIInsightEngine.ts",
+    "ext": ".ts",
+    "size": 320
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "utils\\auction\\AuctionAnalyticsScheduler.ts",
+    "full_path": "C:\\CFH\\backend\\utils\\auction\\AuctionAnalyticsScheduler.ts",
+    "name": "AuctionAnalyticsScheduler.ts",
+    "ext": ".ts",
+    "size": 205
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "utils\\auction\\AuctionTimer.ts",
+    "full_path": "C:\\CFH\\backend\\utils\\auction\\AuctionTimer.ts",
+    "name": "AuctionTimer.ts",
+    "ext": ".ts",
+    "size": 299
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "utils\\blockchain\\BlockchainInspectionAudit.ts",
+    "full_path": "C:\\CFH\\backend\\utils\\blockchain\\BlockchainInspectionAudit.ts",
+    "name": "BlockchainInspectionAudit.ts",
+    "ext": ".ts",
+    "size": 3404
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "utils\\BlockchainEscrowAudit.ts",
+    "full_path": "C:\\CFH\\backend\\utils\\BlockchainEscrowAudit.ts",
+    "name": "BlockchainEscrowAudit.ts",
+    "ext": ".ts",
+    "size": 444
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "utils\\buyerExportUtils.ts",
+    "full_path": "C:\\CFH\\backend\\utils\\buyerExportUtils.ts",
+    "name": "buyerExportUtils.ts",
+    "ext": ".ts",
+    "size": 303
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "utils\\cacheManager.ts",
+    "full_path": "C:\\CFH\\backend\\utils\\cacheManager.ts",
+    "name": "cacheManager.ts",
+    "ext": ".ts",
+    "size": 215
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "utils\\cod1HaulerReviewAI.ts",
+    "full_path": "C:\\CFH\\backend\\utils\\cod1HaulerReviewAI.ts",
+    "name": "cod1HaulerReviewAI.ts",
+    "ext": ".ts",
+    "size": 184
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "utils\\constants.ts",
+    "full_path": "C:\\CFH\\backend\\utils\\constants.ts",
+    "name": "constants.ts",
+    "ext": ".ts",
+    "size": 312
+  }
+]

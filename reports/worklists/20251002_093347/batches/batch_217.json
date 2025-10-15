@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MechanicVRPreviewViewer.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MechanicVRPreviewViewer.test.tsx",
+    "name": "MechanicVRPreviewViewer.test.tsx",
+    "ext": ".tsx",
+    "size": 55
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MechanicVRPreviewViewer.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MechanicVRPreviewViewer.tsx",
+    "name": "MechanicVRPreviewViewer.tsx",
+    "ext": ".tsx",
+    "size": 2371
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MessageBubble_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MessageBubble_1.tsx",
+    "name": "MessageBubble_1.tsx",
+    "ext": ".tsx",
+    "size": 3075
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MessageBubble.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MessageBubble.test_1.tsx",
+    "name": "MessageBubble.test_1.tsx",
+    "ext": ".tsx",
+    "size": 45
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MessageBubble.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MessageBubble.test.tsx",
+    "name": "MessageBubble.test.tsx",
+    "ext": ".tsx",
+    "size": 45
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\Messaging_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\Messaging_1.tsx",
+    "name": "Messaging_1.tsx",
+    "ext": ".tsx",
+    "size": 5161
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\Messaging.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\Messaging.test_1.tsx",
+    "name": "Messaging.test_1.tsx",
+    "ext": ".tsx",
+    "size": 41
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\Messaging.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\Messaging.test.tsx",
+    "name": "Messaging.test.tsx",
+    "ext": ".tsx",
+    "size": 41
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MissionCompletionLeaderboard_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MissionCompletionLeaderboard_1.tsx",
+    "name": "MissionCompletionLeaderboard_1.tsx",
+    "ext": ".tsx",
+    "size": 4056
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MissionCompletionLeaderboard.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MissionCompletionLeaderboard.test_1.tsx",
+    "name": "MissionCompletionLeaderboard.test_1.tsx",
+    "ext": ".tsx",
+    "size": 60
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MissionCompletionLeaderboard.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MissionCompletionLeaderboard.test.tsx",
+    "name": "MissionCompletionLeaderboard.test.tsx",
+    "ext": ".tsx",
+    "size": 60
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MissionCompletionLeaderboard.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MissionCompletionLeaderboard.tsx",
+    "name": "MissionCompletionLeaderboard.tsx",
+    "ext": ".tsx",
+    "size": 4056
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MobileAnalytics_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MobileAnalytics_1.tsx",
+    "name": "MobileAnalytics_1.tsx",
+    "ext": ".tsx",
+    "size": 2558
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MobileAnalytics.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MobileAnalytics.test_1.tsx",
+    "name": "MobileAnalytics.test_1.tsx",
+    "ext": ".tsx",
+    "size": 2282
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MobileAnalytics.test.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MobileAnalytics.test.test_1.tsx",
+    "name": "MobileAnalytics.test.test_1.tsx",
+    "ext": ".tsx",
+    "size": 52
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MobileAnalytics.test.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MobileAnalytics.test.test.tsx",
+    "name": "MobileAnalytics.test.test.tsx",
+    "ext": ".tsx",
+    "size": 52
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MobileAnalytics.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MobileAnalytics.test.tsx",
+    "name": "MobileAnalytics.test.tsx",
+    "ext": ".tsx",
+    "size": 47
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MobileAnalytics.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MobileAnalytics.tsx",
+    "name": "MobileAnalytics.tsx",
+    "ext": ".tsx",
+    "size": 2558
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MobileAuctionView_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MobileAuctionView_1.tsx",
+    "name": "MobileAuctionView_1.tsx",
+    "ext": ".tsx",
+    "size": 2948
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MobileAuctionView.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MobileAuctionView.test_1.tsx",
+    "name": "MobileAuctionView.test_1.tsx",
+    "ext": ".tsx",
+    "size": 3054
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MobileAuctionView.test.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MobileAuctionView.test.test_1.tsx",
+    "name": "MobileAuctionView.test.test_1.tsx",
+    "ext": ".tsx",
+    "size": 54
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MobileAuctionView.test.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MobileAuctionView.test.test.tsx",
+    "name": "MobileAuctionView.test.test.tsx",
+    "ext": ".tsx",
+    "size": 54
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MobileAuctionView.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MobileAuctionView.test.tsx",
+    "name": "MobileAuctionView.test.tsx",
+    "ext": ".tsx",
+    "size": 49
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MobileAuctionView.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MobileAuctionView.tsx",
+    "name": "MobileAuctionView.tsx",
+    "ext": ".tsx",
+    "size": 2948
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MobileUXEnhancer_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MobileUXEnhancer_1.tsx",
+    "name": "MobileUXEnhancer_1.tsx",
+    "ext": ".tsx",
+    "size": 4689
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\loanAiApprovalController.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\loanAiApprovalController.test_1.ts",
+    "name": "loanAiApprovalController.test_1.ts",
+    "ext": ".ts",
+    "size": 55
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\loanAiApprovalController.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\loanAiApprovalController.test.ts",
+    "name": "loanAiApprovalController.test.ts",
+    "ext": ".ts",
+    "size": 55
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\loanAiApprovalController.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\loanAiApprovalController.ts",
+    "name": "loanAiApprovalController.ts",
+    "ext": ".ts",
+    "size": 2020
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\loanAiApprovalRoutes_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\loanAiApprovalRoutes_1.ts",
+    "name": "loanAiApprovalRoutes_1.ts",
+    "ext": ".ts",
+    "size": 838
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\loanAiApprovalRoutes.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\loanAiApprovalRoutes.test_1.ts",
+    "name": "loanAiApprovalRoutes.test_1.ts",
+    "ext": ".ts",
+    "size": 51
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\loanAiApprovalRoutes.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\loanAiApprovalRoutes.test.ts",
+    "name": "loanAiApprovalRoutes.test.ts",
+    "ext": ".ts",
+    "size": 51
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\loanAiApprovalRoutes.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\loanAiApprovalRoutes.ts",
+    "name": "loanAiApprovalRoutes.ts",
+    "ext": ".ts",
+    "size": 838
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\LoanCalculatorWidget_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\LoanCalculatorWidget_1.ts",
+    "name": "LoanCalculatorWidget_1.ts",
+    "ext": ".ts",
+    "size": 221
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\LoanComparison_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\LoanComparison_1.ts",
+    "name": "LoanComparison_1.ts",
+    "ext": ".ts",
+    "size": 3117
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\LoanComparison.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\LoanComparison.test_1.ts",
+    "name": "LoanComparison.test_1.ts",
+    "ext": ".ts",
+    "size": 45
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\LoanComparison.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\LoanComparison.test.ts",
+    "name": "LoanComparison.test.ts",
+    "ext": ".ts",
+    "size": 45
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\LoanComparison.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\LoanComparison.ts",
+    "name": "LoanComparison.ts",
+    "ext": ".ts",
+    "size": 3117
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\LoanMatchEngine_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\LoanMatchEngine_1.ts",
+    "name": "LoanMatchEngine_1.ts",
+    "ext": ".ts",
+    "size": 273
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\loanMatchRoutes_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\loanMatchRoutes_1.ts",
+    "name": "loanMatchRoutes_1.ts",
+    "ext": ".ts",
+    "size": 1081
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\loanMatchRoutes.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\loanMatchRoutes.test_1.ts",
+    "name": "loanMatchRoutes.test_1.ts",
+    "ext": ".ts",
+    "size": 46
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\loanMatchRoutes.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\loanMatchRoutes.test.ts",
+    "name": "loanMatchRoutes.test.ts",
+    "ext": ".ts",
+    "size": 46
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\loanMatchRoutes.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\loanMatchRoutes.ts",
+    "name": "loanMatchRoutes.ts",
+    "ext": ".ts",
+    "size": 1081
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\loanOffer.validation_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\loanOffer.validation_1.ts",
+    "name": "loanOffer.validation_1.ts",
+    "ext": ".ts",
+    "size": 1459
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\loanOfferController_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\loanOfferController_1.ts",
+    "name": "loanOfferController_1.ts",
+    "ext": ".ts",
+    "size": 1690
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\loanOfferController.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\loanOfferController.test_1.ts",
+    "name": "loanOfferController.test_1.ts",
+    "ext": ".ts",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\loanOfferController.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\loanOfferController.test.ts",
+    "name": "loanOfferController.test.ts",
+    "ext": ".ts",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\loanOfferController.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\loanOfferController.ts",
+    "name": "loanOfferController.ts",
+    "ext": ".ts",
+    "size": 1690
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\loanRecommendationController_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\loanRecommendationController_1.ts",
+    "name": "loanRecommendationController_1.ts",
+    "ext": ".ts",
+    "size": 4401
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\loanRecommendationController.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\loanRecommendationController.test_1.ts",
+    "name": "loanRecommendationController.test_1.ts",
+    "ext": ".ts",
+    "size": 59
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\loanRecommendationController.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\loanRecommendationController.test.ts",
+    "name": "loanRecommendationController.test.ts",
+    "ext": ".ts",
+    "size": 59
+  }
+]

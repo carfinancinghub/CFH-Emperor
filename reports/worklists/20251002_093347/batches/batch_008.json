@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\auction\\BidService.ts",
+    "full_path": "C:\\CFH\\backend\\services\\auction\\BidService.ts",
+    "name": "BidService.ts",
+    "ext": ".ts",
+    "size": 297
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\auction\\BidValidator.ts",
+    "full_path": "C:\\CFH\\backend\\services\\auction\\BidValidator.ts",
+    "name": "BidValidator.ts",
+    "ext": ".ts",
+    "size": 147
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\auction\\gamificationService.ts",
+    "full_path": "C:\\CFH\\backend\\services\\auction\\gamificationService.ts",
+    "name": "gamificationService.ts",
+    "ext": ".ts",
+    "size": 8204
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\auction\\proxyBiddingEngine.ts",
+    "full_path": "C:\\CFH\\backend\\services\\auction\\proxyBiddingEngine.ts",
+    "name": "proxyBiddingEngine.ts",
+    "ext": ".ts",
+    "size": 6581
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\auditLog.ts",
+    "full_path": "C:\\CFH\\backend\\services\\auditLog.ts",
+    "name": "auditLog.ts",
+    "ext": ".ts",
+    "size": 723
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\auth\\AuthService.ts",
+    "full_path": "C:\\CFH\\backend\\services\\auth\\AuthService.ts",
+    "name": "AuthService.ts",
+    "ext": ".ts",
+    "size": 1397
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\blockchain\\BlockchainAdapter.js",
+    "full_path": "C:\\CFH\\backend\\services\\blockchain\\BlockchainAdapter.js",
+    "name": "BlockchainAdapter.js",
+    "ext": ".js",
+    "size": 8066
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\blockchain\\BlockchainAdapter.ts",
+    "full_path": "C:\\CFH\\backend\\services\\blockchain\\BlockchainAdapter.ts",
+    "name": "BlockchainAdapter.ts",
+    "ext": ".ts",
+    "size": 163
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\blockchain\\BlockchainLedger.js",
+    "full_path": "C:\\CFH\\backend\\services\\blockchain\\BlockchainLedger.js",
+    "name": "BlockchainLedger.js",
+    "ext": ".js",
+    "size": 2267
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\blockchain\\CryptoPayment.js",
+    "full_path": "C:\\CFH\\backend\\services\\blockchain\\CryptoPayment.js",
+    "name": "CryptoPayment.js",
+    "ext": ".js",
+    "size": 1835
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\bodyshop\\estimateService.ts",
+    "full_path": "C:\\CFH\\backend\\services\\bodyshop\\estimateService.ts",
+    "name": "estimateService.ts",
+    "ext": ".ts",
+    "size": 19056
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\bodyshop\\jobService.ts",
+    "full_path": "C:\\CFH\\backend\\services\\bodyshop\\jobService.ts",
+    "name": "jobService.ts",
+    "ext": ".ts",
+    "size": 18860
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\bodyshop\\shopProfileService.ts",
+    "full_path": "C:\\CFH\\backend\\services\\bodyshop\\shopProfileService.ts",
+    "name": "shopProfileService.ts",
+    "ext": ".ts",
+    "size": 24261
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\cache\\CacheService.ts",
+    "full_path": "C:\\CFH\\backend\\services\\cache\\CacheService.ts",
+    "name": "CacheService.ts",
+    "ext": ".ts",
+    "size": 167
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\communication\\MessagingService.js",
+    "full_path": "C:\\CFH\\backend\\services\\communication\\MessagingService.js",
+    "name": "MessagingService.js",
+    "ext": ".js",
+    "size": 2203
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\db.ts",
+    "full_path": "C:\\CFH\\backend\\services\\db.ts",
+    "name": "db.ts",
+    "ext": ".ts",
+    "size": 490
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\db\\DBService.ts",
+    "full_path": "C:\\CFH\\backend\\services\\db\\DBService.ts",
+    "name": "DBService.ts",
+    "ext": ".ts",
+    "size": 153
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\escrow\\EscrowAuditService.js",
+    "full_path": "C:\\CFH\\backend\\services\\escrow\\EscrowAuditService.js",
+    "name": "EscrowAuditService.js",
+    "ext": ".js",
+    "size": 3611
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\escrow\\EscrowAuditService.ts",
+    "full_path": "C:\\CFH\\backend\\services\\escrow\\EscrowAuditService.ts",
+    "name": "EscrowAuditService.ts",
+    "ext": ".ts",
+    "size": 538
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\escrow\\EscrowChainSync.js",
+    "full_path": "C:\\CFH\\backend\\services\\escrow\\EscrowChainSync.js",
+    "name": "EscrowChainSync.js",
+    "ext": ".js",
+    "size": 3521
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\escrow\\EscrowChainSync.ts",
+    "full_path": "C:\\CFH\\backend\\services\\escrow\\EscrowChainSync.ts",
+    "name": "EscrowChainSync.ts",
+    "ext": ".ts",
+    "size": 354
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\escrow\\EscrowNotificationService.js",
+    "full_path": "C:\\CFH\\backend\\services\\escrow\\EscrowNotificationService.js",
+    "name": "EscrowNotificationService.js",
+    "ext": ".js",
+    "size": 2784
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\escrow\\EscrowService.ts",
+    "full_path": "C:\\CFH\\backend\\services\\escrow\\EscrowService.ts",
+    "name": "EscrowService.ts",
+    "ext": ".ts",
+    "size": 2047
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\final\\FinalTesting.js",
+    "full_path": "C:\\CFH\\backend\\services\\final\\FinalTesting.js",
+    "name": "FinalTesting.js",
+    "ext": ".js",
+    "size": 1660
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\final\\PerformanceMonitor.js",
+    "full_path": "C:\\CFH\\backend\\services\\final\\PerformanceMonitor.js",
+    "name": "PerformanceMonitor.js",
+    "ext": ".js",
+    "size": 1416
+  }
+]

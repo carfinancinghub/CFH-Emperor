@@ -1,0 +1,26 @@
+﻿{
+  "compilerOptions": {
+    "target": "ES2020",
+    "module": "commonjs",
+    "jsx": "react-jsx",
+    "strict": true,
+    "skipLibCheck": true,
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["src/*"],
+      "@utils/*": ["src/utils/*"],
+      "@/utils/*": ["src/utils/*"]
+    },
+    "typeRoots": ["./types", "./node_modules/@types"],
+    "types": ["node"],
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "resolveJsonModule": true,
+    "allowJs": true
+  },
+  "include": ["src/**/*"],
+  "exclude": [
+    "node_modules","dist","build","coverage","docs","**/*.d.ts",
+    "**/*.test.ts","**/*.test.tsx","**/*.spec.ts","**/*.spec.tsx","**/*.cy.ts","**/*.cy.tsx"
+  ]
+}

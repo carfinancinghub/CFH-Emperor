@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\SellerReviewSummary_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\SellerReviewSummary_1.jsx",
+    "name": "SellerReviewSummary_1.jsx",
+    "ext": ".jsx",
+    "size": 3908
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\SellerRewardsBadgeDisplay_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\SellerRewardsBadgeDisplay_1.jsx",
+    "name": "SellerRewardsBadgeDisplay_1.jsx",
+    "ext": ".jsx",
+    "size": 5106
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\SellerSalesAnalytics_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\SellerSalesAnalytics_1.jsx",
+    "name": "SellerSalesAnalytics_1.jsx",
+    "ext": ".jsx",
+    "size": 3029
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\SellerSalesFunnelOverview_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\SellerSalesFunnelOverview_1.jsx",
+    "name": "SellerSalesFunnelOverview_1.jsx",
+    "ext": ".jsx",
+    "size": 4923
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\SellerSmartBadgeSystem_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\SellerSmartBadgeSystem_1.jsx",
+    "name": "SellerSmartBadgeSystem_1.jsx",
+    "ext": ".jsx",
+    "size": 6928
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\SellerSuccessTips_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\SellerSuccessTips_1.jsx",
+    "name": "SellerSuccessTips_1.jsx",
+    "ext": ".jsx",
+    "size": 2924
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\SellerViewListing_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\SellerViewListing_1.jsx",
+    "name": "SellerViewListing_1.jsx",
+    "ext": ".jsx",
+    "size": 5442
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\SEOHead_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\SEOHead_1.jsx",
+    "name": "SEOHead_1.jsx",
+    "ext": ".jsx",
+    "size": 1707
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\SharedReportViewer_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\SharedReportViewer_1.jsx",
+    "name": "SharedReportViewer_1.jsx",
+    "ext": ".jsx",
+    "size": 1436
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\SmartInsightsWidget_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\SmartInsightsWidget_1.jsx",
+    "name": "SmartInsightsWidget_1.jsx",
+    "ext": ".jsx",
+    "size": 2704
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\SmartVerdictHint_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\SmartVerdictHint_1.jsx",
+    "name": "SmartVerdictHint_1.jsx",
+    "ext": ".jsx",
+    "size": 2761
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\SmartVerdictHint.test_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\SmartVerdictHint.test_1.jsx",
+    "name": "SmartVerdictHint.test_1.jsx",
+    "ext": ".jsx",
+    "size": 2274
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\Spinner.test_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\Spinner.test_1.jsx",
+    "name": "Spinner.test_1.jsx",
+    "ext": ".jsx",
+    "size": 395
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\StartAuctionForm_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\StartAuctionForm_1.jsx",
+    "name": "StartAuctionForm_1.jsx",
+    "ext": ".jsx",
+    "size": 1761
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\StorageARNavigationApp_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\StorageARNavigationApp_1.jsx",
+    "name": "StorageARNavigationApp_1.jsx",
+    "ext": ".jsx",
+    "size": 1557
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\StorageARNavigationApp.test_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\StorageARNavigationApp.test_1.jsx",
+    "name": "StorageARNavigationApp.test_1.jsx",
+    "ext": ".jsx",
+    "size": 1519
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\StorageAssignmentForm_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\StorageAssignmentForm_1.jsx",
+    "name": "StorageAssignmentForm_1.jsx",
+    "ext": ".jsx",
+    "size": 1995
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\StorageAssignmentForm.test_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\StorageAssignmentForm.test_1.jsx",
+    "name": "StorageAssignmentForm.test_1.jsx",
+    "ext": ".jsx",
+    "size": 2154
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\StorageInventoryTracker_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\StorageInventoryTracker_1.jsx",
+    "name": "StorageInventoryTracker_1.jsx",
+    "ext": ".jsx",
+    "size": 3328
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\StorageInventoryTracker.test_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\StorageInventoryTracker.test_1.jsx",
+    "name": "StorageInventoryTracker.test_1.jsx",
+    "ext": ".jsx",
+    "size": 1777
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\SupportChatWidget_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\SupportChatWidget_1.jsx",
+    "name": "SupportChatWidget_1.jsx",
+    "ext": ".jsx",
+    "size": 4225
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\SupportChatWidget.test_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\SupportChatWidget.test_1.jsx",
+    "name": "SupportChatWidget.test_1.jsx",
+    "ext": ".jsx",
+    "size": 2966
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\SupportDashboard_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\SupportDashboard_1.jsx",
+    "name": "SupportDashboard_1.jsx",
+    "ext": ".jsx",
+    "size": 5954
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\SupportDashboard.test_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\SupportDashboard.test_1.jsx",
+    "name": "SupportDashboard.test_1.jsx",
+    "ext": ".jsx",
+    "size": 2597
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\SupportTicketAnalytics_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\SupportTicketAnalytics_1.jsx",
+    "name": "SupportTicketAnalytics_1.jsx",
+    "ext": ".jsx",
+    "size": 7574
+  }
+]

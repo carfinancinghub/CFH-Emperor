@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\LoginForm_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\LoginForm_1.tsx",
+    "name": "LoginForm_1.tsx",
+    "ext": ".tsx",
+    "size": 1226
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\LoginForm.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\LoginForm.test_1.tsx",
+    "name": "LoginForm.test_1.tsx",
+    "ext": ".tsx",
+    "size": 41
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\LoginForm.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\LoginForm.test.tsx",
+    "name": "LoginForm.test.tsx",
+    "ext": ".tsx",
+    "size": 41
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MaaSIntegration_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MaaSIntegration_1.tsx",
+    "name": "MaaSIntegration_1.tsx",
+    "ext": ".tsx",
+    "size": 6939
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MaaSIntegration.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MaaSIntegration.test_1.tsx",
+    "name": "MaaSIntegration.test_1.tsx",
+    "ext": ".tsx",
+    "size": 47
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MaaSIntegration.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MaaSIntegration.test.tsx",
+    "name": "MaaSIntegration.test.tsx",
+    "ext": ".tsx",
+    "size": 47
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MaaSIntegration.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MaaSIntegration.tsx",
+    "name": "MaaSIntegration.tsx",
+    "ext": ".tsx",
+    "size": 6939
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MarketplaceComponent_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MarketplaceComponent_1.tsx",
+    "name": "MarketplaceComponent_1.tsx",
+    "ext": ".tsx",
+    "size": 9183
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MarketplaceInsightsDashboard_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MarketplaceInsightsDashboard_1.tsx",
+    "name": "MarketplaceInsightsDashboard_1.tsx",
+    "ext": ".tsx",
+    "size": 10148
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MarketplaceInsightsDashboard.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MarketplaceInsightsDashboard.test_1.tsx",
+    "name": "MarketplaceInsightsDashboard.test_1.tsx",
+    "ext": ".tsx",
+    "size": 5122
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MarketplaceInsightsDashboard.test.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MarketplaceInsightsDashboard.test.test_1.tsx",
+    "name": "MarketplaceInsightsDashboard.test.test_1.tsx",
+    "ext": ".tsx",
+    "size": 65
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MarketplaceInsightsDashboard.test.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MarketplaceInsightsDashboard.test.test.tsx",
+    "name": "MarketplaceInsightsDashboard.test.test.tsx",
+    "ext": ".tsx",
+    "size": 65
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MarketplaceInsightsDashboard.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MarketplaceInsightsDashboard.test.tsx",
+    "name": "MarketplaceInsightsDashboard.test.tsx",
+    "ext": ".tsx",
+    "size": 60
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MarketplaceInsightsDashboard.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MarketplaceInsightsDashboard.tsx",
+    "name": "MarketplaceInsightsDashboard.tsx",
+    "ext": ".tsx",
+    "size": 10148
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MechanicBadgeConfettiPanel_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MechanicBadgeConfettiPanel_1.tsx",
+    "name": "MechanicBadgeConfettiPanel_1.tsx",
+    "ext": ".tsx",
+    "size": 1395
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MechanicBadgeConfettiPanel.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MechanicBadgeConfettiPanel.test_1.tsx",
+    "name": "MechanicBadgeConfettiPanel.test_1.tsx",
+    "ext": ".tsx",
+    "size": 58
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MechanicBadgeConfettiPanel.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MechanicBadgeConfettiPanel.test.tsx",
+    "name": "MechanicBadgeConfettiPanel.test.tsx",
+    "ext": ".tsx",
+    "size": 58
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MechanicBadgeConfettiPanel.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MechanicBadgeConfettiPanel.tsx",
+    "name": "MechanicBadgeConfettiPanel.tsx",
+    "ext": ".tsx",
+    "size": 1395
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MechanicBadgeDisplayPanel_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MechanicBadgeDisplayPanel_1.tsx",
+    "name": "MechanicBadgeDisplayPanel_1.tsx",
+    "ext": ".tsx",
+    "size": 2268
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MechanicBadgeDisplayPanel.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MechanicBadgeDisplayPanel.test_1.tsx",
+    "name": "MechanicBadgeDisplayPanel.test_1.tsx",
+    "ext": ".tsx",
+    "size": 57
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MechanicBadgeDisplayPanel.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MechanicBadgeDisplayPanel.test.tsx",
+    "name": "MechanicBadgeDisplayPanel.test.tsx",
+    "ext": ".tsx",
+    "size": 57
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MechanicBadgeDisplayPanel.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MechanicBadgeDisplayPanel.tsx",
+    "name": "MechanicBadgeDisplayPanel.tsx",
+    "ext": ".tsx",
+    "size": 2268
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MechanicBadgeImpactTracker_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MechanicBadgeImpactTracker_1.tsx",
+    "name": "MechanicBadgeImpactTracker_1.tsx",
+    "ext": ".tsx",
+    "size": 2108
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MechanicBadgeImpactTracker.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MechanicBadgeImpactTracker.test_1.tsx",
+    "name": "MechanicBadgeImpactTracker.test_1.tsx",
+    "ext": ".tsx",
+    "size": 58
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MechanicBadgeImpactTracker.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MechanicBadgeImpactTracker.test.tsx",
+    "name": "MechanicBadgeImpactTracker.test.tsx",
+    "ext": ".tsx",
+    "size": 58
+  }
+]

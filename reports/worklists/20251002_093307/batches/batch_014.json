@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\mobile\\MobileBidHandler.test.js",
+    "full_path": "C:\\CFH\\backend\\tests\\mobile\\MobileBidHandler.test.js",
+    "name": "MobileBidHandler.test.js",
+    "ext": ".js",
+    "size": 3944
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\mobile\\MobileNotifications.test.js",
+    "full_path": "C:\\CFH\\backend\\tests\\mobile\\MobileNotifications.test.js",
+    "name": "MobileNotifications.test.js",
+    "ext": ".js",
+    "size": 4587
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\mocks\\db.js",
+    "full_path": "C:\\CFH\\backend\\tests\\mocks\\db.js",
+    "name": "db.js",
+    "ext": ".js",
+    "size": 1248
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\notificationApiTests.js",
+    "full_path": "C:\\CFH\\backend\\tests\\notificationApiTests.js",
+    "name": "notificationApiTests.js",
+    "ext": ".js",
+    "size": 5610
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\notificationTestValidation.js",
+    "full_path": "C:\\CFH\\backend\\tests\\notificationTestValidation.js",
+    "name": "notificationTestValidation.js",
+    "ext": ".js",
+    "size": 5384
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\officer\\AuditLogViewer.test.js",
+    "full_path": "C:\\CFH\\backend\\tests\\officer\\AuditLogViewer.test.js",
+    "name": "AuditLogViewer.test.js",
+    "ext": ".js",
+    "size": 3839
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\officer\\ComplianceChecker.test.js",
+    "full_path": "C:\\CFH\\backend\\tests\\officer\\ComplianceChecker.test.js",
+    "name": "ComplianceChecker.test.js",
+    "ext": ".js",
+    "size": 4475
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\officer\\DisputeManager.test.js",
+    "full_path": "C:\\CFH\\backend\\tests\\officer\\DisputeManager.test.js",
+    "name": "DisputeManager.test.js",
+    "ext": ".js",
+    "size": 4358
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\officer\\ListingApproval.test.js",
+    "full_path": "C:\\CFH\\backend\\tests\\officer\\ListingApproval.test.js",
+    "name": "ListingApproval.test.js",
+    "ext": ".js",
+    "size": 4837
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\officer\\PlatformMonitor.test.js",
+    "full_path": "C:\\CFH\\backend\\tests\\officer\\PlatformMonitor.test.js",
+    "name": "PlatformMonitor.test.js",
+    "ext": ".js",
+    "size": 3997
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\officer\\UserManagement.test.js",
+    "full_path": "C:\\CFH\\backend\\tests\\officer\\UserManagement.test.js",
+    "name": "UserManagement.test.js",
+    "ext": ".js",
+    "size": 4010
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\onboarding\\PreferencesSetup.test.js",
+    "full_path": "C:\\CFH\\backend\\tests\\onboarding\\PreferencesSetup.test.js",
+    "name": "PreferencesSetup.test.js",
+    "ext": ".js",
+    "size": 2856
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\onboarding\\UserOnboarding.test.js",
+    "full_path": "C:\\CFH\\backend\\tests\\onboarding\\UserOnboarding.test.js",
+    "name": "UserOnboarding.test.js",
+    "ext": ".js",
+    "size": 2817
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\onboarding\\WelcomeNotification.test.js",
+    "full_path": "C:\\CFH\\backend\\tests\\onboarding\\WelcomeNotification.test.js",
+    "name": "WelcomeNotification.test.js",
+    "ext": ".js",
+    "size": 3508
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\operational\\ComplianceEnhancer.test.js",
+    "full_path": "C:\\CFH\\backend\\tests\\operational\\ComplianceEnhancer.test.js",
+    "name": "ComplianceEnhancer.test.js",
+    "ext": ".js",
+    "size": 3090
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\operational\\ErrorHandler.test.js",
+    "full_path": "C:\\CFH\\backend\\tests\\operational\\ErrorHandler.test.js",
+    "name": "ErrorHandler.test.js",
+    "ext": ".js",
+    "size": 3135
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\operational\\FeedbackSystem.test.js",
+    "full_path": "C:\\CFH\\backend\\tests\\operational\\FeedbackSystem.test.js",
+    "name": "FeedbackSystem.test.js",
+    "ext": ".js",
+    "size": 4010
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\operational\\LaunchChecklist.test.js",
+    "full_path": "C:\\CFH\\backend\\tests\\operational\\LaunchChecklist.test.js",
+    "name": "LaunchChecklist.test.js",
+    "ext": ".js",
+    "size": 3666
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\operational\\PaymentProcessor.test.js",
+    "full_path": "C:\\CFH\\backend\\tests\\operational\\PaymentProcessor.test.js",
+    "name": "PaymentProcessor.test.js",
+    "ext": ".js",
+    "size": 3882
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\operational\\PerformanceOptimizer.test.js",
+    "full_path": "C:\\CFH\\backend\\tests\\operational\\PerformanceOptimizer.test.js",
+    "name": "PerformanceOptimizer.test.js",
+    "ext": ".js",
+    "size": 3109
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\pathFixPrep.js",
+    "full_path": "C:\\CFH\\backend\\tests\\pathFixPrep.js",
+    "name": "pathFixPrep.js",
+    "ext": ".js",
+    "size": 5267
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\pathFixScript.js",
+    "full_path": "C:\\CFH\\backend\\tests\\pathFixScript.js",
+    "name": "pathFixScript.js",
+    "ext": ".js",
+    "size": 2735
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\pathFixValidator.js",
+    "full_path": "C:\\CFH\\backend\\tests\\pathFixValidator.js",
+    "name": "pathFixValidator.js",
+    "ext": ".js",
+    "size": 1324
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\payments\\PaymentService.test.ts",
+    "full_path": "C:\\CFH\\backend\\tests\\payments\\PaymentService.test.ts",
+    "name": "PaymentService.test.ts",
+    "ext": ".ts",
+    "size": 317
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "tests\\performanceTests.js",
+    "full_path": "C:\\CFH\\backend\\tests\\performanceTests.js",
+    "name": "performanceTests.js",
+    "ext": ".js",
+    "size": 6279
+  }
+]

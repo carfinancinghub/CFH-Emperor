@@ -1,0 +1,130 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\under 1 kb\\transcribeVoiceNoteRoutes.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\under 1 kb\\transcribeVoiceNoteRoutes.copy.js",
+    "name": "transcribeVoiceNoteRoutes.copy.js",
+    "ext": ".js",
+    "size": 744
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\under 1 kb\\Unauthorized.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\under 1 kb\\Unauthorized.copy.js",
+    "name": "Unauthorized.copy.js",
+    "ext": ".js",
+    "size": 707
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\under 1 kb\\viewSharedReport.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\under 1 kb\\viewSharedReport.copy.js",
+    "name": "viewSharedReport.copy.js",
+    "ext": ".js",
+    "size": 697
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\under 1 kb\\vinRoutes.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\under 1 kb\\vinRoutes.copy.js",
+    "name": "vinRoutes.copy.js",
+    "ext": ".js",
+    "size": 705
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\under 1 kb\\vite.config.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\under 1 kb\\vite.config.copy.js",
+    "name": "vite.config.copy.js",
+    "ext": ".js",
+    "size": 561
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\under 1 kb\\voice.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\under 1 kb\\voice.copy.js",
+    "name": "voice.copy.js",
+    "ext": ".js",
+    "size": 397
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\under 1 kb\\VoiceInteraction.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\under 1 kb\\VoiceInteraction.copy.js",
+    "name": "VoiceInteraction.copy.js",
+    "ext": ".js",
+    "size": 619
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\under 1 kb\\vr-inspection.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\under 1 kb\\vr-inspection.copy.js",
+    "name": "vr-inspection.copy.js",
+    "ext": ".js",
+    "size": 426
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\under 1 kb\\VRViewer.copy.js",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\under 1 kb\\VRViewer.copy.js",
+    "name": "VRViewer.copy.js",
+    "ext": ".js",
+    "size": 553
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\validation\\auctionSchemas.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\validation\\auctionSchemas.test.ts",
+    "name": "auctionSchemas.test.ts",
+    "ext": ".ts",
+    "size": 410
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\comparison\\validation\\auctionSchemas.ts",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\comparison\\validation\\auctionSchemas.ts",
+    "name": "auctionSchemas.ts",
+    "ext": ".ts",
+    "size": 1756
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\file_scan_results_js_v1.md",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\file_scan_results_js_v1.md",
+    "name": "file_scan_results_js_v1.md",
+    "ext": ".md",
+    "size": 893319
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\file_scan_results_jsx_v1.md",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\file_scan_results_jsx_v1.md",
+    "name": "file_scan_results_jsx_v1.md",
+    "ext": ".md",
+    "size": 454277
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\file_scan_results_md_v1.md",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\file_scan_results_md_v1.md",
+    "name": "file_scan_results_md_v1.md",
+    "ext": ".md",
+    "size": 359222
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\file_scan_results_test_and_tsx_v1.md",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\file_scan_results_test_and_tsx_v1.md",
+    "name": "file_scan_results_test_and_tsx_v1.md",
+    "ext": ".md",
+    "size": 57596
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "docs\\file_scan_results_tests_v1.md",
+    "full_path": "C:\\CFH\\TruthSource\\docs\\file_scan_results_tests_v1.md",
+    "name": "file_scan_results_tests_v1.md",
+    "ext": ".md",
+    "size": 302417
+  }
+]

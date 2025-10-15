@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\DownloadCaseBundleButton_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\DownloadCaseBundleButton_1.ts",
+    "name": "DownloadCaseBundleButton_1.ts",
+    "ext": ".ts",
+    "size": 1533
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\DownloadCaseBundleButton.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\DownloadCaseBundleButton.test_1.ts",
+    "name": "DownloadCaseBundleButton.test_1.ts",
+    "ext": ".ts",
+    "size": 55
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\DownloadCaseBundleButton.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\DownloadCaseBundleButton.test.ts",
+    "name": "DownloadCaseBundleButton.test.ts",
+    "ext": ".ts",
+    "size": 55
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\DownloadCaseBundleButton.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\DownloadCaseBundleButton.ts",
+    "name": "DownloadCaseBundleButton.ts",
+    "ext": ".ts",
+    "size": 1533
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\DownloadDisputePDFButton_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\DownloadDisputePDFButton_1.ts",
+    "name": "DownloadDisputePDFButton_1.ts",
+    "ext": ".ts",
+    "size": 1590
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\DownloadDisputePDFButton.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\DownloadDisputePDFButton.test_1.ts",
+    "name": "DownloadDisputePDFButton.test_1.ts",
+    "ext": ".ts",
+    "size": 55
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\DownloadDisputePDFButton.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\DownloadDisputePDFButton.test.ts",
+    "name": "DownloadDisputePDFButton.test.ts",
+    "ext": ".ts",
+    "size": 55
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\DownloadDisputePDFButton.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\DownloadDisputePDFButton.ts",
+    "name": "DownloadDisputePDFButton.ts",
+    "ext": ".ts",
+    "size": 1590
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\DynamicPricing_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\DynamicPricing_1.ts",
+    "name": "DynamicPricing_1.ts",
+    "ext": ".ts",
+    "size": 2926
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\DynamicPricing.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\DynamicPricing.test_1.ts",
+    "name": "DynamicPricing.test_1.ts",
+    "ext": ".ts",
+    "size": 4202
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\DynamicPricing.test.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\DynamicPricing.test.test_1.ts",
+    "name": "DynamicPricing.test.test_1.ts",
+    "ext": ".ts",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\DynamicPricing.test.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\DynamicPricing.test.test.ts",
+    "name": "DynamicPricing.test.test.ts",
+    "ext": ".ts",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\DynamicPricing.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\DynamicPricing.test.ts",
+    "name": "DynamicPricing.test.ts",
+    "ext": ".ts",
+    "size": 45
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\DynamicPricing.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\DynamicPricing.ts",
+    "name": "DynamicPricing.ts",
+    "ext": ".ts",
+    "size": 2926
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\e2e_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\e2e_1.ts",
+    "name": "e2e_1.ts",
+    "ext": ".ts",
+    "size": 674
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\e2e.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\e2e.test_1.ts",
+    "name": "e2e.test_1.ts",
+    "ext": ".ts",
+    "size": 34
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\e2e.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\e2e.test.ts",
+    "name": "e2e.test.ts",
+    "ext": ".ts",
+    "size": 34
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\e2e.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\e2e.ts",
+    "name": "e2e.ts",
+    "ext": ".ts",
+    "size": 674
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\EmailDigestScheduler_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\EmailDigestScheduler_1.ts",
+    "name": "EmailDigestScheduler_1.ts",
+    "ext": ".ts",
+    "size": 200
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\embed_map_snapshot_pdf_test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\embed_map_snapshot_pdf_test_1.ts",
+    "name": "embed_map_snapshot_pdf_test_1.ts",
+    "ext": ".ts",
+    "size": 3150
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\embed_map_snapshot_pdf_test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\embed_map_snapshot_pdf_test.ts",
+    "name": "embed_map_snapshot_pdf_test.ts",
+    "ext": ".ts",
+    "size": 3150
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\embedMapSnapshotPDF_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\embedMapSnapshotPDF_1.ts",
+    "name": "embedMapSnapshotPDF_1.ts",
+    "ext": ".ts",
+    "size": 2650
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\embedMapSnapshotPDF.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\embedMapSnapshotPDF.test_1.ts",
+    "name": "embedMapSnapshotPDF.test_1.ts",
+    "ext": ".ts",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\embedMapSnapshotPDF.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\embedMapSnapshotPDF.test.ts",
+    "name": "embedMapSnapshotPDF.test.ts",
+    "ext": ".ts",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\embedMapSnapshotPDF.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\embedMapSnapshotPDF.ts",
+    "name": "embedMapSnapshotPDF.ts",
+    "ext": ".ts",
+    "size": 2650
+  }
+]

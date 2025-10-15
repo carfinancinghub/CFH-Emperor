@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\exportDeliveryPDF.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\exportDeliveryPDF.test_1.ts",
+    "name": "exportDeliveryPDF.test_1.ts",
+    "ext": ".ts",
+    "size": 48
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\exportDeliveryPDF.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\exportDeliveryPDF.test.ts",
+    "name": "exportDeliveryPDF.test.ts",
+    "ext": ".ts",
+    "size": 48
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\exportDeliveryPDF.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\exportDeliveryPDF.ts",
+    "name": "exportDeliveryPDF.ts",
+    "ext": ".ts",
+    "size": 2754
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\exportMapRoute_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\exportMapRoute_1.ts",
+    "name": "exportMapRoute_1.ts",
+    "ext": ".ts",
+    "size": 714
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\exportMapRoute.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\exportMapRoute.test_1.ts",
+    "name": "exportMapRoute.test_1.ts",
+    "ext": ".ts",
+    "size": 45
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\exportMapRoute.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\exportMapRoute.test.ts",
+    "name": "exportMapRoute.test.ts",
+    "ext": ".ts",
+    "size": 45
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\exportMapRoute.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\exportMapRoute.ts",
+    "name": "exportMapRoute.ts",
+    "ext": ".ts",
+    "size": 714
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\exportSignableRoute_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\exportSignableRoute_1.ts",
+    "name": "exportSignableRoute_1.ts",
+    "ext": ".ts",
+    "size": 746
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\exportSignableRoute.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\exportSignableRoute.test_1.ts",
+    "name": "exportSignableRoute.test_1.ts",
+    "ext": ".ts",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\exportSignableRoute.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\exportSignableRoute.test.ts",
+    "name": "exportSignableRoute.test.ts",
+    "ext": ".ts",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\exportSignableRoute.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\exportSignableRoute.ts",
+    "name": "exportSignableRoute.ts",
+    "ext": ".ts",
+    "size": 746
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\FeedbackReport_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\FeedbackReport_1.ts",
+    "name": "FeedbackReport_1.ts",
+    "ext": ".ts",
+    "size": 1806
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\FeedbackReport.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\FeedbackReport.test_1.ts",
+    "name": "FeedbackReport.test_1.ts",
+    "ext": ".ts",
+    "size": 45
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\FeedbackReport.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\FeedbackReport.test.ts",
+    "name": "FeedbackReport.test.ts",
+    "ext": ".ts",
+    "size": 45
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\FeedbackReport.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\FeedbackReport.ts",
+    "name": "FeedbackReport.ts",
+    "ext": ".ts",
+    "size": 1806
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\FeedbackSystem_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\FeedbackSystem_1.ts",
+    "name": "FeedbackSystem_1.ts",
+    "ext": ".ts",
+    "size": 2730
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\FeedbackSystem.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\FeedbackSystem.test_1.ts",
+    "name": "FeedbackSystem.test_1.ts",
+    "ext": ".ts",
+    "size": 4089
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\FeedbackSystem.test.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\FeedbackSystem.test.test_1.ts",
+    "name": "FeedbackSystem.test.test_1.ts",
+    "ext": ".ts",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\FeedbackSystem.test.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\FeedbackSystem.test.test.ts",
+    "name": "FeedbackSystem.test.test.ts",
+    "ext": ".ts",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\FeedbackSystem.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\FeedbackSystem.test.ts",
+    "name": "FeedbackSystem.test.ts",
+    "ext": ".ts",
+    "size": 45
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\FeedbackSystem.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\FeedbackSystem.ts",
+    "name": "FeedbackSystem.ts",
+    "ext": ".ts",
+    "size": 2730
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\FinalTesting_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\FinalTesting_1.ts",
+    "name": "FinalTesting_1.ts",
+    "ext": ".ts",
+    "size": 1732
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\FinalTesting.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\FinalTesting.test_1.ts",
+    "name": "FinalTesting.test_1.ts",
+    "ext": ".ts",
+    "size": 2357
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\FinalTesting.test.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\FinalTesting.test.test_1.ts",
+    "name": "FinalTesting.test.test_1.ts",
+    "ext": ".ts",
+    "size": 48
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\FinalTesting.test.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\FinalTesting.test.test.ts",
+    "name": "FinalTesting.test.test.ts",
+    "ext": ".ts",
+    "size": 48
+  }
+]

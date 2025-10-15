@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\tests\\officer\\DisputeRadarWidget.test.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\tests\\officer\\DisputeRadarWidget.test.jsx",
+    "name": "DisputeRadarWidget.test.jsx",
+    "ext": ".jsx",
+    "size": 7994
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\tests\\OfficerDashboard.test.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\tests\\OfficerDashboard.test.jsx",
+    "name": "OfficerDashboard.test.jsx",
+    "ext": ".jsx",
+    "size": 3113
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\tests\\onboarding\\OnboardingWizard.test.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\tests\\onboarding\\OnboardingWizard.test.jsx",
+    "name": "OnboardingWizard.test.jsx",
+    "ext": ".jsx",
+    "size": 3100
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\tests\\premium\\BadgeDisplay.test.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\tests\\premium\\BadgeDisplay.test.jsx",
+    "name": "BadgeDisplay.test.jsx",
+    "ext": ".jsx",
+    "size": 2300
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\tests\\premium\\PremiumDashboard.test.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\tests\\premium\\PremiumDashboard.test.jsx",
+    "name": "PremiumDashboard.test.jsx",
+    "ext": ".jsx",
+    "size": 2584
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\tests\\premium\\PricingInsights.test.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\tests\\premium\\PricingInsights.test.jsx",
+    "name": "PricingInsights.test.jsx",
+    "ext": ".jsx",
+    "size": 2606
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\tests\\premium\\RecommendedAuctions.test.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\tests\\premium\\RecommendedAuctions.test.jsx",
+    "name": "RecommendedAuctions.test.jsx",
+    "ext": ".jsx",
+    "size": 2586
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\tests\\premium\\SupportChatWidget.test.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\tests\\premium\\SupportChatWidget.test.jsx",
+    "name": "SupportChatWidget.test.jsx",
+    "ext": ".jsx",
+    "size": 2966
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\tests\\premium\\VRTourLauncher.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\tests\\premium\\VRTourLauncher.jsx",
+    "name": "VRTourLauncher.jsx",
+    "ext": ".jsx",
+    "size": 2610
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\tests\\RiskAssessmentEngine.test.js",
+    "full_path": "C:\\CFH\\frontend\\src\\tests\\RiskAssessmentEngine.test.js",
+    "name": "RiskAssessmentEngine.test.js",
+    "ext": ".js",
+    "size": 3466
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\tests\\RouteRiskAnalysis.test.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\tests\\RouteRiskAnalysis.test.jsx",
+    "name": "RouteRiskAnalysis.test.jsx",
+    "ext": ".jsx",
+    "size": 457
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\tests\\seller\\SellerAnalyticsChart.test.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\tests\\seller\\SellerAnalyticsChart.test.jsx",
+    "name": "SellerAnalyticsChart.test.jsx",
+    "ext": ".jsx",
+    "size": 2450
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\tests\\seller\\SellerAuctionForm.test.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\tests\\seller\\SellerAuctionForm.test.jsx",
+    "name": "SellerAuctionForm.test.jsx",
+    "ext": ".jsx",
+    "size": 4024
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\tests\\seller\\SellerAuctionStatus.test.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\tests\\seller\\SellerAuctionStatus.test.jsx",
+    "name": "SellerAuctionStatus.test.jsx",
+    "ext": ".jsx",
+    "size": 2696
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\tests\\seller\\SellerDashboard.test.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\tests\\seller\\SellerDashboard.test.jsx",
+    "name": "SellerDashboard.test.jsx",
+    "ext": ".jsx",
+    "size": 3156
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\tests\\seller\\SellerInventoryList.test.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\tests\\seller\\SellerInventoryList.test.jsx",
+    "name": "SellerInventoryList.test.jsx",
+    "ext": ".jsx",
+    "size": 2760
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\tests\\seller\\SellerNotifications.test.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\tests\\seller\\SellerNotifications.test.jsx",
+    "name": "SellerNotifications.test.jsx",
+    "ext": ".jsx",
+    "size": 2632
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\tests\\SellerDeepAnalytics.test.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\tests\\SellerDeepAnalytics.test.jsx",
+    "name": "SellerDeepAnalytics.test.jsx",
+    "ext": ".jsx",
+    "size": 978
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\tests\\SellerExportPanel.test.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\tests\\SellerExportPanel.test.jsx",
+    "name": "SellerExportPanel.test.jsx",
+    "ext": ".jsx",
+    "size": 839
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\tests\\SellerReputationDashboard.test.js",
+    "full_path": "C:\\CFH\\frontend\\src\\tests\\SellerReputationDashboard.test.js",
+    "name": "SellerReputationDashboard.test.js",
+    "ext": ".js",
+    "size": 3216
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\tests\\SellerReputationDashboard.test.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\tests\\SellerReputationDashboard.test.jsx",
+    "name": "SellerReputationDashboard.test.jsx",
+    "ext": ".jsx",
+    "size": 1455
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\tests\\storage\\StorageARNavigationApp.test.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\tests\\storage\\StorageARNavigationApp.test.jsx",
+    "name": "StorageARNavigationApp.test.jsx",
+    "ext": ".jsx",
+    "size": 1519
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\tests\\storage\\StorageAssignmentForm.test.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\tests\\storage\\StorageAssignmentForm.test.jsx",
+    "name": "StorageAssignmentForm.test.jsx",
+    "ext": ".jsx",
+    "size": 2154
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\tests\\storage\\StorageInventoryTracker.test.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\tests\\storage\\StorageInventoryTracker.test.jsx",
+    "name": "StorageInventoryTracker.test.jsx",
+    "ext": ".jsx",
+    "size": 1777
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\tests\\support\\SupportDashboard.test.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\tests\\support\\SupportDashboard.test.jsx",
+    "name": "SupportDashboard.test.jsx",
+    "ext": ".jsx",
+    "size": 2597
+  }
+]

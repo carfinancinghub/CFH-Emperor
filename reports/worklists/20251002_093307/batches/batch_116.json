@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\arbitrator-performance.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\arbitrator-performance.test_1.ts",
+    "name": "arbitrator-performance.test_1.ts",
+    "ext": ".ts",
+    "size": 2822
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\arbitrator-performance.test.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\arbitrator-performance.test.test_1.ts",
+    "name": "arbitrator-performance.test.test_1.ts",
+    "ext": ".ts",
+    "size": 58
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\arbitrator-performance.test.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\arbitrator-performance.test.test.ts",
+    "name": "arbitrator-performance.test.test.ts",
+    "ext": ".ts",
+    "size": 58
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\arbitrator-performance.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\arbitrator-performance.test.ts",
+    "name": "arbitrator-performance.test.ts",
+    "ext": ".ts",
+    "size": 53
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\arbitrator-performance.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\arbitrator-performance.ts",
+    "name": "arbitrator-performance.ts",
+    "ext": ".ts",
+    "size": 4194
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\arbitratorController_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\arbitratorController_1.ts",
+    "name": "arbitratorController_1.ts",
+    "ext": ".ts",
+    "size": 648
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\arbitratorController.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\arbitratorController.test_1.ts",
+    "name": "arbitratorController.test_1.ts",
+    "ext": ".ts",
+    "size": 51
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\arbitratorController.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\arbitratorController.test.ts",
+    "name": "arbitratorController.test.ts",
+    "ext": ".ts",
+    "size": 51
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\arbitratorController.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\arbitratorController.ts",
+    "name": "arbitratorController.ts",
+    "ext": ".ts",
+    "size": 648
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\arbitratorRecognition_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\arbitratorRecognition_1.ts",
+    "name": "arbitratorRecognition_1.ts",
+    "ext": ".ts",
+    "size": 1898
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\arbitratorRecognition.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\arbitratorRecognition.test_1.ts",
+    "name": "arbitratorRecognition.test_1.ts",
+    "ext": ".ts",
+    "size": 52
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\arbitratorRecognition.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\arbitratorRecognition.test.ts",
+    "name": "arbitratorRecognition.test.ts",
+    "ext": ".ts",
+    "size": 52
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\arbitratorRecognition.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\arbitratorRecognition.ts",
+    "name": "arbitratorRecognition.ts",
+    "ext": ".ts",
+    "size": 1898
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\ARExperience_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\ARExperience_1.ts",
+    "name": "ARExperience_1.ts",
+    "ext": ".ts",
+    "size": 2840
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\ARExperience.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\ARExperience.test_1.ts",
+    "name": "ARExperience.test_1.ts",
+    "ext": ".ts",
+    "size": 43
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\ARExperience.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\ARExperience.test.ts",
+    "name": "ARExperience.test.ts",
+    "ext": ".ts",
+    "size": 43
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\ARExperience.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\ARExperience.ts",
+    "name": "ARExperience.ts",
+    "ext": ".ts",
+    "size": 2840
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\arTests_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\arTests_1.ts",
+    "name": "arTests_1.ts",
+    "ext": ".ts",
+    "size": 6495
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\arTests.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\arTests.test_1.ts",
+    "name": "arTests.test_1.ts",
+    "ext": ".ts",
+    "size": 38
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\arTests.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\arTests.test.ts",
+    "name": "arTests.test.ts",
+    "ext": ".ts",
+    "size": 38
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\arTests.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\arTests.ts",
+    "name": "arTests.ts",
+    "ext": ".ts",
+    "size": 6495
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\arValidation_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\arValidation_1.ts",
+    "name": "arValidation_1.ts",
+    "ext": ".ts",
+    "size": 6212
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\arValidation.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\arValidation.test_1.ts",
+    "name": "arValidation.test_1.ts",
+    "ext": ".ts",
+    "size": 43
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\arValidation.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\arValidation.test.ts",
+    "name": "arValidation.test.ts",
+    "ext": ".ts",
+    "size": 43
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\arValidation.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\arValidation.ts",
+    "name": "arValidation.ts",
+    "ext": ".ts",
+    "size": 6212
+  }
+]

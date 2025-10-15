@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\PreferencesSetup.test.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\PreferencesSetup.test.test_1.ts",
+    "name": "PreferencesSetup.test.test_1.ts",
+    "ext": ".ts",
+    "size": 52
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\PreferencesSetup.test.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\PreferencesSetup.test.test.ts",
+    "name": "PreferencesSetup.test.test.ts",
+    "ext": ".ts",
+    "size": 52
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\PreferencesSetup.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\PreferencesSetup.test.ts",
+    "name": "PreferencesSetup.test.ts",
+    "ext": ".ts",
+    "size": 47
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\PreferencesSetup.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\PreferencesSetup.ts",
+    "name": "PreferencesSetup.ts",
+    "ext": ".ts",
+    "size": 2280
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\PremiumChecker_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\PremiumChecker_1.ts",
+    "name": "PremiumChecker_1.ts",
+    "ext": ".ts",
+    "size": 371
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\PremiumSupportChat_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\PremiumSupportChat_1.ts",
+    "name": "PremiumSupportChat_1.ts",
+    "ext": ".ts",
+    "size": 2343
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\PremiumSupportChat.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\PremiumSupportChat.test_1.ts",
+    "name": "PremiumSupportChat.test_1.ts",
+    "ext": ".ts",
+    "size": 3964
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\PremiumSupportChat.test.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\PremiumSupportChat.test.test_1.ts",
+    "name": "PremiumSupportChat.test.test_1.ts",
+    "ext": ".ts",
+    "size": 54
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\PremiumSupportChat.test.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\PremiumSupportChat.test.test.ts",
+    "name": "PremiumSupportChat.test.test.ts",
+    "ext": ".ts",
+    "size": 54
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\PremiumSupportChat.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\PremiumSupportChat.test.ts",
+    "name": "PremiumSupportChat.test.ts",
+    "ext": ".ts",
+    "size": 49
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\PremiumSupportChat.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\PremiumSupportChat.ts",
+    "name": "PremiumSupportChat.ts",
+    "ext": ".ts",
+    "size": 2343
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\profile_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\profile_1.ts",
+    "name": "profile_1.ts",
+    "ext": ".ts",
+    "size": 1118
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\profile.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\profile.test_1.ts",
+    "name": "profile.test_1.ts",
+    "ext": ".ts",
+    "size": 38
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\profile.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\profile.test.ts",
+    "name": "profile.test.ts",
+    "ext": ".ts",
+    "size": 38
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\profile.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\profile.ts",
+    "name": "profile.ts",
+    "ext": ".ts",
+    "size": 1118
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\proof_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\proof_1.ts",
+    "name": "proof_1.ts",
+    "ext": ".ts",
+    "size": 671
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\proof.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\proof.test_1.ts",
+    "name": "proof.test_1.ts",
+    "ext": ".ts",
+    "size": 36
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\proof.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\proof.test.ts",
+    "name": "proof.test.ts",
+    "ext": ".ts",
+    "size": 36
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\proof.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\proof.ts",
+    "name": "proof.ts",
+    "ext": ".ts",
+    "size": 671
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\proofOfDeliveryController_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\proofOfDeliveryController_1.ts",
+    "name": "proofOfDeliveryController_1.ts",
+    "ext": ".ts",
+    "size": 1340
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\proofOfDeliveryController.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\proofOfDeliveryController.test_1.ts",
+    "name": "proofOfDeliveryController.test_1.ts",
+    "ext": ".ts",
+    "size": 56
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\proofOfDeliveryController.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\proofOfDeliveryController.test.ts",
+    "name": "proofOfDeliveryController.test.ts",
+    "ext": ".ts",
+    "size": 56
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\proofOfDeliveryController.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\proofOfDeliveryController.ts",
+    "name": "proofOfDeliveryController.ts",
+    "ext": ".ts",
+    "size": 1340
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\ProtectedRoute_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\ProtectedRoute_1.ts",
+    "name": "ProtectedRoute_1.ts",
+    "ext": ".ts",
+    "size": 649
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\ProtectedRoute.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\ProtectedRoute.test_1.ts",
+    "name": "ProtectedRoute.test_1.ts",
+    "ext": ".ts",
+    "size": 45
+  }
+]

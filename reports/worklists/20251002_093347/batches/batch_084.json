@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\TitleAgentDashboard_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\TitleAgentDashboard_1.js",
+    "name": "TitleAgentDashboard_1.js",
+    "ext": ".js",
+    "size": 4202
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\TitleTransferQueue_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\TitleTransferQueue_1.js",
+    "name": "TitleTransferQueue_1.js",
+    "ext": ".js",
+    "size": 2542
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\TitleVerificationForm_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\TitleVerificationForm_1.js",
+    "name": "TitleVerificationForm_1.js",
+    "ext": ".js",
+    "size": 2757
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\TradeInForm_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\TradeInForm_1.js",
+    "name": "TradeInForm_1.js",
+    "ext": ".js",
+    "size": 1761
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\transcribeVoiceNote_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\transcribeVoiceNote_1.js",
+    "name": "transcribeVoiceNote_1.js",
+    "ext": ".js",
+    "size": 1645
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\transcribeVoiceNote.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\transcribeVoiceNote.js",
+    "name": "transcribeVoiceNote.js",
+    "ext": ".js",
+    "size": 1645
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\transportController_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\transportController_1.js",
+    "name": "transportController_1.js",
+    "ext": ".js",
+    "size": 1543
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\transportController.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\transportController.js",
+    "name": "transportController.js",
+    "ext": ".js",
+    "size": 1543
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\TransporterJobStatus_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\TransporterJobStatus_1.js",
+    "name": "TransporterJobStatus_1.js",
+    "ext": ".js",
+    "size": 3363
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\TransporterLiveTracking_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\TransporterLiveTracking_1.js",
+    "name": "TransporterLiveTracking_1.js",
+    "ext": ".js",
+    "size": 3064
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\TrendAnimation_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\TrendAnimation_1.js",
+    "name": "TrendAnimation_1.js",
+    "ext": ".js",
+    "size": 1399
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\TrendAnimation.test_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\TrendAnimation.test_1.js",
+    "name": "TrendAnimation.test_1.js",
+    "ext": ".js",
+    "size": 2783
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\TrustScoreEngine_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\TrustScoreEngine_1.js",
+    "name": "TrustScoreEngine_1.js",
+    "ext": ".js",
+    "size": 4258
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\TrustScoreEngine.test_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\TrustScoreEngine.test_1.js",
+    "name": "TrustScoreEngine.test_1.js",
+    "ext": ".js",
+    "size": 336
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\uploadHaulerProofController_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\uploadHaulerProofController_1.js",
+    "name": "uploadHaulerProofController_1.js",
+    "ext": ".js",
+    "size": 1377
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\uploadHaulerProofController.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\uploadHaulerProofController.js",
+    "name": "uploadHaulerProofController.js",
+    "ext": ".js",
+    "size": 1377
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\useAuth_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\useAuth_1.js",
+    "name": "useAuth_1.js",
+    "ext": ".js",
+    "size": 1413
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\useMechanicSocket_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\useMechanicSocket_1.js",
+    "name": "useMechanicSocket_1.js",
+    "ext": ".js",
+    "size": 761
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\useMechanicSocket.test_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\useMechanicSocket.test_1.js",
+    "name": "useMechanicSocket.test_1.js",
+    "ext": ".js",
+    "size": 691
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\UserActivity_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\UserActivity_1.js",
+    "name": "UserActivity_1.js",
+    "ext": ".js",
+    "size": 1474
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\UserActivity.test_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\UserActivity.test_1.js",
+    "name": "UserActivity.test_1.js",
+    "ext": ".js",
+    "size": 2471
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\UserAnalyticsReport_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\UserAnalyticsReport_1.js",
+    "name": "UserAnalyticsReport_1.js",
+    "ext": ".js",
+    "size": 2494
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\UserAnalyticsReport.test_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\UserAnalyticsReport.test_1.js",
+    "name": "UserAnalyticsReport.test_1.js",
+    "ext": ".js",
+    "size": 2876
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\UserAuth_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\UserAuth_1.js",
+    "name": "UserAuth_1.js",
+    "ext": ".js",
+    "size": 2224
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\UserAuth.test_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\UserAuth.test_1.js",
+    "name": "UserAuth.test_1.js",
+    "ext": ".js",
+    "size": 2958
+  }
+]

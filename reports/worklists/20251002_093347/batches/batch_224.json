@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SellerAuctionForm.test.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SellerAuctionForm.test.test.tsx",
+    "name": "SellerAuctionForm.test.test.tsx",
+    "ext": ".tsx",
+    "size": 54
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SellerAuctionForm.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SellerAuctionForm.test.tsx",
+    "name": "SellerAuctionForm.test.tsx",
+    "ext": ".tsx",
+    "size": 49
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SellerAuctionForm.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SellerAuctionForm.tsx",
+    "name": "SellerAuctionForm.tsx",
+    "ext": ".tsx",
+    "size": 4955
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SellerAuctionStarter_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SellerAuctionStarter_1.tsx",
+    "name": "SellerAuctionStarter_1.tsx",
+    "ext": ".tsx",
+    "size": 6251
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SellerAuctionStarter.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SellerAuctionStarter.test_1.tsx",
+    "name": "SellerAuctionStarter.test_1.tsx",
+    "ext": ".tsx",
+    "size": 52
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SellerAuctionStarter.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SellerAuctionStarter.test.tsx",
+    "name": "SellerAuctionStarter.test.tsx",
+    "ext": ".tsx",
+    "size": 52
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SellerAuctionStarter.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SellerAuctionStarter.tsx",
+    "name": "SellerAuctionStarter.tsx",
+    "ext": ".tsx",
+    "size": 6251
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SellerAuctionStatus_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SellerAuctionStatus_1.tsx",
+    "name": "SellerAuctionStatus_1.tsx",
+    "ext": ".tsx",
+    "size": 2675
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SellerAuctionStatus.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SellerAuctionStatus.test_1.tsx",
+    "name": "SellerAuctionStatus.test_1.tsx",
+    "ext": ".tsx",
+    "size": 2781
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SellerAuctionStatus.test.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SellerAuctionStatus.test.test_1.tsx",
+    "name": "SellerAuctionStatus.test.test_1.tsx",
+    "ext": ".tsx",
+    "size": 56
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SellerAuctionStatus.test.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SellerAuctionStatus.test.test.tsx",
+    "name": "SellerAuctionStatus.test.test.tsx",
+    "ext": ".tsx",
+    "size": 56
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SellerAuctionStatus.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SellerAuctionStatus.test.tsx",
+    "name": "SellerAuctionStatus.test.tsx",
+    "ext": ".tsx",
+    "size": 51
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SellerAuctionStatus.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SellerAuctionStatus.tsx",
+    "name": "SellerAuctionStatus.tsx",
+    "ext": ".tsx",
+    "size": 2675
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SellerBadgePanel_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SellerBadgePanel_1.tsx",
+    "name": "SellerBadgePanel_1.tsx",
+    "ext": ".tsx",
+    "size": 2469
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SellerBadgePanel.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SellerBadgePanel.test_1.tsx",
+    "name": "SellerBadgePanel.test_1.tsx",
+    "ext": ".tsx",
+    "size": 48
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SellerBadgePanel.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SellerBadgePanel.test.tsx",
+    "name": "SellerBadgePanel.test.tsx",
+    "ext": ".tsx",
+    "size": 48
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SellerBadgesPage_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SellerBadgesPage_1.tsx",
+    "name": "SellerBadgesPage_1.tsx",
+    "ext": ".tsx",
+    "size": 3650
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SellerBadgesPage.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SellerBadgesPage.test_1.tsx",
+    "name": "SellerBadgesPage.test_1.tsx",
+    "ext": ".tsx",
+    "size": 48
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SellerBadgesPage.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SellerBadgesPage.test.tsx",
+    "name": "SellerBadgesPage.test.tsx",
+    "ext": ".tsx",
+    "size": 48
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SellerBadgesPage.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SellerBadgesPage.tsx",
+    "name": "SellerBadgesPage.tsx",
+    "ext": ".tsx",
+    "size": 3650
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SellerContractManager_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SellerContractManager_1.tsx",
+    "name": "SellerContractManager_1.tsx",
+    "ext": ".tsx",
+    "size": 5401
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SellerContractManager.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SellerContractManager.test_1.tsx",
+    "name": "SellerContractManager.test_1.tsx",
+    "ext": ".tsx",
+    "size": 53
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SellerContractManager.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SellerContractManager.test.tsx",
+    "name": "SellerContractManager.test.tsx",
+    "ext": ".tsx",
+    "size": 53
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SellerContractManager.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SellerContractManager.tsx",
+    "name": "SellerContractManager.tsx",
+    "ext": ".tsx",
+    "size": 5401
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SellerCreateListing_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SellerCreateListing_1.tsx",
+    "name": "SellerCreateListing_1.tsx",
+    "ext": ".tsx",
+    "size": 5454
+  }
+]

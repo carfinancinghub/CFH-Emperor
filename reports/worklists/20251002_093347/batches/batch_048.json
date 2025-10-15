@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\seller\\AISuggestionEngine.js",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\seller\\AISuggestionEngine.js",
+    "name": "AISuggestionEngine.js",
+    "ext": ".js",
+    "size": 2034
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\seller\\CreateListingForm.js",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\seller\\CreateListingForm.js",
+    "name": "CreateListingForm.js",
+    "ext": ".js",
+    "size": 1505
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\seller\\SellerAchievementTracker.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\seller\\SellerAchievementTracker.jsx",
+    "name": "SellerAchievementTracker.jsx",
+    "ext": ".jsx",
+    "size": 4019
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\seller\\SellerActionPanel.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\seller\\SellerActionPanel.jsx",
+    "name": "SellerActionPanel.jsx",
+    "ext": ".jsx",
+    "size": 2533
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\seller\\SellerActivityInsights.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\seller\\SellerActivityInsights.jsx",
+    "name": "SellerActivityInsights.jsx",
+    "ext": ".jsx",
+    "size": 4201
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\seller\\SellerActivityTimeline.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\seller\\SellerActivityTimeline.jsx",
+    "name": "SellerActivityTimeline.jsx",
+    "ext": ".jsx",
+    "size": 3021
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\seller\\SellerAnalyticsChart.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\seller\\SellerAnalyticsChart.jsx",
+    "name": "SellerAnalyticsChart.jsx",
+    "ext": ".jsx",
+    "size": 3214
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\seller\\SellerAuctionForm.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\seller\\SellerAuctionForm.jsx",
+    "name": "SellerAuctionForm.jsx",
+    "ext": ".jsx",
+    "size": 4877
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\seller\\SellerAuctionStarter.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\seller\\SellerAuctionStarter.jsx",
+    "name": "SellerAuctionStarter.jsx",
+    "ext": ".jsx",
+    "size": 6170
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\seller\\SellerAuctionStatus.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\seller\\SellerAuctionStatus.jsx",
+    "name": "SellerAuctionStatus.jsx",
+    "ext": ".jsx",
+    "size": 2595
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\seller\\SellerBadgesPage.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\seller\\SellerBadgesPage.jsx",
+    "name": "SellerBadgesPage.jsx",
+    "ext": ".jsx",
+    "size": 3573
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\seller\\SellerContractManager.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\seller\\SellerContractManager.jsx",
+    "name": "SellerContractManager.jsx",
+    "ext": ".jsx",
+    "size": 5319
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\seller\\SellerCreateListing.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\seller\\SellerCreateListing.jsx",
+    "name": "SellerCreateListing.jsx",
+    "ext": ".jsx",
+    "size": 5374
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\seller\\SellerCustomerTestimonials.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\seller\\SellerCustomerTestimonials.jsx",
+    "name": "SellerCustomerTestimonials.jsx",
+    "ext": ".jsx",
+    "size": 6016
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\seller\\SellerDashboard.css",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\seller\\SellerDashboard.css",
+    "name": "SellerDashboard.css",
+    "ext": ".css",
+    "size": 2354
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\seller\\SellerDashboard.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\seller\\SellerDashboard.jsx",
+    "name": "SellerDashboard.jsx",
+    "ext": ".jsx",
+    "size": 4260
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\seller\\SellerDeepAnalytics.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\seller\\SellerDeepAnalytics.jsx",
+    "name": "SellerDeepAnalytics.jsx",
+    "ext": ".jsx",
+    "size": 2484
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\seller\\SellerDisputeCenter.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\seller\\SellerDisputeCenter.jsx",
+    "name": "SellerDisputeCenter.jsx",
+    "ext": ".jsx",
+    "size": 5157
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\seller\\SellerDocVault.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\seller\\SellerDocVault.jsx",
+    "name": "SellerDocVault.jsx",
+    "ext": ".jsx",
+    "size": 7394
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\seller\\SellerEditListing.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\seller\\SellerEditListing.jsx",
+    "name": "SellerEditListing.jsx",
+    "ext": ".jsx",
+    "size": 4809
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\seller\\SellerEmailSettings.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\seller\\SellerEmailSettings.jsx",
+    "name": "SellerEmailSettings.jsx",
+    "ext": ".jsx",
+    "size": 5339
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\seller\\SellerEngagementLeaderboard.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\seller\\SellerEngagementLeaderboard.jsx",
+    "name": "SellerEngagementLeaderboard.jsx",
+    "ext": ".jsx",
+    "size": 5775
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\seller\\SellerEscrowStatus.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\seller\\SellerEscrowStatus.jsx",
+    "name": "SellerEscrowStatus.jsx",
+    "ext": ".jsx",
+    "size": 5076
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\seller\\SellerExperienceLevel.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\seller\\SellerExperienceLevel.jsx",
+    "name": "SellerExperienceLevel.jsx",
+    "ext": ".jsx",
+    "size": 2935
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\seller\\SellerExportPanel.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\seller\\SellerExportPanel.jsx",
+    "name": "SellerExportPanel.jsx",
+    "ext": ".jsx",
+    "size": 3107
+  }
+]

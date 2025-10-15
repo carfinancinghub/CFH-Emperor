@@ -1,0 +1,5 @@
+relative_path,canonical_full_path,canonical_size,conflicting_full_path,conflicting_size
+src\App.tsx,C:\CFH\frontend\src\App.tsx,5342,C:\CFH\TruthSource\src\App.tsx,584
+src\index.tsx,C:\CFH\frontend\src\index.tsx,706,C:\CFH\TruthSource\src\index.tsx,592
+src\utils\logger.ts,C:\CFH\frontend\src\utils\logger.ts,730,C:\CFH\TruthSource\src\utils\logger.ts,386
+src\components\auction\SellerBadgePanel.tsx,C:\CFH\frontend\src\components\auction\SellerBadgePanel.tsx,2691,C:\CFH\TruthSource\src\components\auction\SellerBadgePanel.tsx,2201

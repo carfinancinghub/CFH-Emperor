@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\SellerPricingTool.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\SellerPricingTool.test.ts",
+    "name": "SellerPricingTool.test.ts",
+    "ext": ".ts",
+    "size": 48
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\SellerPricingTool.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\SellerPricingTool.ts",
+    "name": "SellerPricingTool.ts",
+    "ext": ".ts",
+    "size": 2675
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\SellerReputationDashboard.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\SellerReputationDashboard.test_1.ts",
+    "name": "SellerReputationDashboard.test_1.ts",
+    "ext": ".ts",
+    "size": 3306
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\SellerReputationDashboard.test.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\SellerReputationDashboard.test.test_1.ts",
+    "name": "SellerReputationDashboard.test.test_1.ts",
+    "ext": ".ts",
+    "size": 61
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\SellerReputationDashboard.test.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\SellerReputationDashboard.test.test.ts",
+    "name": "SellerReputationDashboard.test.test.ts",
+    "ext": ".ts",
+    "size": 61
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\SellerReputationDashboard.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\SellerReputationDashboard.test.ts",
+    "name": "SellerReputationDashboard.test.ts",
+    "ext": ".ts",
+    "size": 3306
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\SEOHelper_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\SEOHelper_1.ts",
+    "name": "SEOHelper_1.ts",
+    "ext": ".ts",
+    "size": 2125
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\SEOHelper.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\SEOHelper.test_1.ts",
+    "name": "SEOHelper.test_1.ts",
+    "ext": ".ts",
+    "size": 40
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\SEOHelper.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\SEOHelper.test.ts",
+    "name": "SEOHelper.test.ts",
+    "ext": ".ts",
+    "size": 40
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\SEOHelper.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\SEOHelper.ts",
+    "name": "SEOHelper.ts",
+    "ext": ".ts",
+    "size": 2125
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\service_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\service_1.ts",
+    "name": "service_1.ts",
+    "ext": ".ts",
+    "size": 8816
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\SessionValidator_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\SessionValidator_1.ts",
+    "name": "SessionValidator_1.ts",
+    "ext": ".ts",
+    "size": 3587
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\SessionValidator.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\SessionValidator.test_1.ts",
+    "name": "SessionValidator.test_1.ts",
+    "ext": ".ts",
+    "size": 3279
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\SessionValidator.test.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\SessionValidator.test.test_1.ts",
+    "name": "SessionValidator.test.test_1.ts",
+    "ext": ".ts",
+    "size": 52
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\SessionValidator.test.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\SessionValidator.test.test.ts",
+    "name": "SessionValidator.test.test.ts",
+    "ext": ".ts",
+    "size": 52
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\SessionValidator.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\SessionValidator.test.ts",
+    "name": "SessionValidator.test.ts",
+    "ext": ".ts",
+    "size": 47
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\SessionValidator.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\SessionValidator.ts",
+    "name": "SessionValidator.ts",
+    "ext": ".ts",
+    "size": 3587
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\setup_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\setup_1.ts",
+    "name": "setup_1.ts",
+    "ext": ".ts",
+    "size": 1691
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\shareReport_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\shareReport_1.ts",
+    "name": "shareReport_1.ts",
+    "ext": ".ts",
+    "size": 874
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\shareReport.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\shareReport.test_1.ts",
+    "name": "shareReport.test_1.ts",
+    "ext": ".ts",
+    "size": 42
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\shareReport.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\shareReport.test.ts",
+    "name": "shareReport.test.ts",
+    "ext": ".ts",
+    "size": 42
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\shareReport.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\shareReport.ts",
+    "name": "shareReport.ts",
+    "ext": ".ts",
+    "size": 874
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\shiftRoutes_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\shiftRoutes_1.ts",
+    "name": "shiftRoutes_1.ts",
+    "ext": ".ts",
+    "size": 1554
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\shiftRoutes.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\shiftRoutes.test_1.ts",
+    "name": "shiftRoutes.test_1.ts",
+    "ext": ".ts",
+    "size": 42
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\shiftRoutes.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\shiftRoutes.test.ts",
+    "name": "shiftRoutes.test.ts",
+    "ext": ".ts",
+    "size": 42
+  }
+]

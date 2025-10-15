@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\hashAndAnchorPDF.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\hashAndAnchorPDF.test_1.ts",
+    "name": "hashAndAnchorPDF.test_1.ts",
+    "ext": ".ts",
+    "size": 47
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\hashAndAnchorPDF.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\hashAndAnchorPDF.test.ts",
+    "name": "hashAndAnchorPDF.test.ts",
+    "ext": ".ts",
+    "size": 47
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\hashAndAnchorPDF.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\hashAndAnchorPDF.ts",
+    "name": "hashAndAnchorPDF.ts",
+    "ext": ".ts",
+    "size": 1615
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\hauler_job_details_page_test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\hauler_job_details_page_test_1.ts",
+    "name": "hauler_job_details_page_test_1.ts",
+    "ext": ".ts",
+    "size": 3710
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\hauler_job_details_page_test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\hauler_job_details_page_test.ts",
+    "name": "hauler_job_details_page_test.ts",
+    "ext": ".ts",
+    "size": 3710
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\haulerBucket_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\haulerBucket_1.ts",
+    "name": "haulerBucket_1.ts",
+    "ext": ".ts",
+    "size": 3007
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\haulerBucket.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\haulerBucket.test_1.ts",
+    "name": "haulerBucket.test_1.ts",
+    "ext": ".ts",
+    "size": 2285
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\HaulerController_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\HaulerController_1.ts",
+    "name": "HaulerController_1.ts",
+    "ext": ".ts",
+    "size": 2519
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\HaulerController.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\HaulerController.test_1.ts",
+    "name": "HaulerController.test_1.ts",
+    "ext": ".ts",
+    "size": 47
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\HaulerController.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\HaulerController.test.ts",
+    "name": "HaulerController.test.ts",
+    "ext": ".ts",
+    "size": 47
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\HaulerController.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\HaulerController.ts",
+    "name": "HaulerController.ts",
+    "ext": ".ts",
+    "size": 2519
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\HaulerDashboard_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\HaulerDashboard_1.ts",
+    "name": "HaulerDashboard_1.ts",
+    "ext": ".ts",
+    "size": 6030
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\HaulerDashboard.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\HaulerDashboard.test_1.ts",
+    "name": "HaulerDashboard.test_1.ts",
+    "ext": ".ts",
+    "size": 46
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\HaulerDashboard.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\HaulerDashboard.test.ts",
+    "name": "HaulerDashboard.test.ts",
+    "ext": ".ts",
+    "size": 46
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\HaulerDashboard.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\HaulerDashboard.ts",
+    "name": "HaulerDashboard.ts",
+    "ext": ".ts",
+    "size": 6030
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\HaulerDeliveryArchive_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\HaulerDeliveryArchive_1.ts",
+    "name": "HaulerDeliveryArchive_1.ts",
+    "ext": ".ts",
+    "size": 5396
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\HaulerDeliveryArchive.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\HaulerDeliveryArchive.test_1.ts",
+    "name": "HaulerDeliveryArchive.test_1.ts",
+    "ext": ".ts",
+    "size": 52
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\HaulerDeliveryArchive.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\HaulerDeliveryArchive.test.ts",
+    "name": "HaulerDeliveryArchive.test.ts",
+    "ext": ".ts",
+    "size": 52
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\HaulerDeliveryArchive.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\HaulerDeliveryArchive.ts",
+    "name": "HaulerDeliveryArchive.ts",
+    "ext": ".ts",
+    "size": 5396
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\haulerHealthCheck_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\haulerHealthCheck_1.ts",
+    "name": "haulerHealthCheck_1.ts",
+    "ext": ".ts",
+    "size": 1960
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\haulerHealthCheck.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\haulerHealthCheck.test_1.ts",
+    "name": "haulerHealthCheck.test_1.ts",
+    "ext": ".ts",
+    "size": 48
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\haulerHealthCheck.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\haulerHealthCheck.test.ts",
+    "name": "haulerHealthCheck.test.ts",
+    "ext": ".ts",
+    "size": 48
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\haulerHealthCheck.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\haulerHealthCheck.ts",
+    "name": "haulerHealthCheck.ts",
+    "ext": ".ts",
+    "size": 1960
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\HaulerJobDetailsPage_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\HaulerJobDetailsPage_1.ts",
+    "name": "HaulerJobDetailsPage_1.ts",
+    "ext": ".ts",
+    "size": 1071
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\HaulerJobDetailsPage.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\HaulerJobDetailsPage.test_1.ts",
+    "name": "HaulerJobDetailsPage.test_1.ts",
+    "ext": ".ts",
+    "size": 51
+  }
+]

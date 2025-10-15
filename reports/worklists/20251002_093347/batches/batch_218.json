@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MobileUXEnhancer.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MobileUXEnhancer.test_1.tsx",
+    "name": "MobileUXEnhancer.test_1.tsx",
+    "ext": ".tsx",
+    "size": 48
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MobileUXEnhancer.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MobileUXEnhancer.test.tsx",
+    "name": "MobileUXEnhancer.test.tsx",
+    "ext": ".tsx",
+    "size": 48
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MobileUXEnhancer.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MobileUXEnhancer.tsx",
+    "name": "MobileUXEnhancer.tsx",
+    "ext": ".tsx",
+    "size": 4689
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MockComponent_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MockComponent_1.tsx",
+    "name": "MockComponent_1.tsx",
+    "ext": ".tsx",
+    "size": 4965
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MockComponent.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MockComponent.test_1.tsx",
+    "name": "MockComponent.test_1.tsx",
+    "ext": ".tsx",
+    "size": 45
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MockComponent.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MockComponent.test.tsx",
+    "name": "MockComponent.test.tsx",
+    "ext": ".tsx",
+    "size": 45
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MockComponent.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MockComponent.tsx",
+    "name": "MockComponent.tsx",
+    "ext": ".tsx",
+    "size": 4965
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MultiLanguageSupport_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MultiLanguageSupport_1.tsx",
+    "name": "MultiLanguageSupport_1.tsx",
+    "ext": ".tsx",
+    "size": 1717
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MultiLanguageSupport.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MultiLanguageSupport.test_1.tsx",
+    "name": "MultiLanguageSupport.test_1.tsx",
+    "ext": ".tsx",
+    "size": 52
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MultiLanguageSupport.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MultiLanguageSupport.test.tsx",
+    "name": "MultiLanguageSupport.test.tsx",
+    "ext": ".tsx",
+    "size": 52
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MultiLanguageSupport.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MultiLanguageSupport.tsx",
+    "name": "MultiLanguageSupport.tsx",
+    "ext": ".tsx",
+    "size": 1717
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\Navbar_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\Navbar_1.tsx",
+    "name": "Navbar_1.tsx",
+    "ext": ".tsx",
+    "size": 2216
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\Navbar.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\Navbar.test_1.tsx",
+    "name": "Navbar.test_1.tsx",
+    "ext": ".tsx",
+    "size": 38
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\Navbar.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\Navbar.test.tsx",
+    "name": "Navbar.test.tsx",
+    "ext": ".tsx",
+    "size": 38
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\NavbarMobileToggle_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\NavbarMobileToggle_1.tsx",
+    "name": "NavbarMobileToggle_1.tsx",
+    "ext": ".tsx",
+    "size": 2938
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\NavbarMobileToggle.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\NavbarMobileToggle.test_1.tsx",
+    "name": "NavbarMobileToggle.test_1.tsx",
+    "ext": ".tsx",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\NavbarMobileToggle.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\NavbarMobileToggle.test.tsx",
+    "name": "NavbarMobileToggle.test.tsx",
+    "ext": ".tsx",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\NLPQueryInput_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\NLPQueryInput_1.tsx",
+    "name": "NLPQueryInput_1.tsx",
+    "ext": ".tsx",
+    "size": 5599
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\NotificationCenter_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\NotificationCenter_1.tsx",
+    "name": "NotificationCenter_1.tsx",
+    "ext": ".tsx",
+    "size": 4384
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\NotificationCenter.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\NotificationCenter.test_1.tsx",
+    "name": "NotificationCenter.test_1.tsx",
+    "ext": ".tsx",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\NotificationCenter.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\NotificationCenter.test.tsx",
+    "name": "NotificationCenter.test.tsx",
+    "ext": ".tsx",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\NotificationPreferences_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\NotificationPreferences_1.tsx",
+    "name": "NotificationPreferences_1.tsx",
+    "ext": ".tsx",
+    "size": 5184
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\NotificationPreferences.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\NotificationPreferences.test_1.tsx",
+    "name": "NotificationPreferences.test_1.tsx",
+    "ext": ".tsx",
+    "size": 55
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\NotificationPreferences.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\NotificationPreferences.test.tsx",
+    "name": "NotificationPreferences.test.tsx",
+    "ext": ".tsx",
+    "size": 55
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\NotificationPreferences.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\NotificationPreferences.tsx",
+    "name": "NotificationPreferences.tsx",
+    "ext": ".tsx",
+    "size": 5184
+  }
+]

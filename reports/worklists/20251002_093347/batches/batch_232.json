@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\StartAuctionForm.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\StartAuctionForm.test.tsx",
+    "name": "StartAuctionForm.test.tsx",
+    "ext": ".tsx",
+    "size": 48
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\StartAuctionForm.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\StartAuctionForm.tsx",
+    "name": "StartAuctionForm.tsx",
+    "ext": ".tsx",
+    "size": 1838
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\StorageARNavigationApp_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\StorageARNavigationApp_1.tsx",
+    "name": "StorageARNavigationApp_1.tsx",
+    "ext": ".tsx",
+    "size": 1640
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\StorageARNavigationApp.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\StorageARNavigationApp.test_1.tsx",
+    "name": "StorageARNavigationApp.test_1.tsx",
+    "ext": ".tsx",
+    "size": 1607
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\StorageARNavigationApp.test.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\StorageARNavigationApp.test.test_1.tsx",
+    "name": "StorageARNavigationApp.test.test_1.tsx",
+    "ext": ".tsx",
+    "size": 59
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\StorageARNavigationApp.test.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\StorageARNavigationApp.test.test.tsx",
+    "name": "StorageARNavigationApp.test.test.tsx",
+    "ext": ".tsx",
+    "size": 59
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\StorageARNavigationApp.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\StorageARNavigationApp.test.tsx",
+    "name": "StorageARNavigationApp.test.tsx",
+    "ext": ".tsx",
+    "size": 54
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\StorageARNavigationApp.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\StorageARNavigationApp.tsx",
+    "name": "StorageARNavigationApp.tsx",
+    "ext": ".tsx",
+    "size": 1640
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\StorageAssignmentForm_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\StorageAssignmentForm_1.tsx",
+    "name": "StorageAssignmentForm_1.tsx",
+    "ext": ".tsx",
+    "size": 2077
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\StorageAssignmentForm.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\StorageAssignmentForm.test_1.tsx",
+    "name": "StorageAssignmentForm.test_1.tsx",
+    "ext": ".tsx",
+    "size": 2241
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\StorageAssignmentForm.test.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\StorageAssignmentForm.test.test_1.tsx",
+    "name": "StorageAssignmentForm.test.test_1.tsx",
+    "ext": ".tsx",
+    "size": 58
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\StorageAssignmentForm.test.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\StorageAssignmentForm.test.test.tsx",
+    "name": "StorageAssignmentForm.test.test.tsx",
+    "ext": ".tsx",
+    "size": 58
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\StorageAssignmentForm.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\StorageAssignmentForm.test.tsx",
+    "name": "StorageAssignmentForm.test.tsx",
+    "ext": ".tsx",
+    "size": 53
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\StorageAssignmentForm.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\StorageAssignmentForm.tsx",
+    "name": "StorageAssignmentForm.tsx",
+    "ext": ".tsx",
+    "size": 2077
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\StorageInventoryTracker_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\StorageInventoryTracker_1.tsx",
+    "name": "StorageInventoryTracker_1.tsx",
+    "ext": ".tsx",
+    "size": 3412
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\StorageInventoryTracker.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\StorageInventoryTracker.test_1.tsx",
+    "name": "StorageInventoryTracker.test_1.tsx",
+    "ext": ".tsx",
+    "size": 1866
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\StorageInventoryTracker.test.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\StorageInventoryTracker.test.test_1.tsx",
+    "name": "StorageInventoryTracker.test.test_1.tsx",
+    "ext": ".tsx",
+    "size": 60
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\StorageInventoryTracker.test.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\StorageInventoryTracker.test.test.tsx",
+    "name": "StorageInventoryTracker.test.test.tsx",
+    "ext": ".tsx",
+    "size": 60
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\StorageInventoryTracker.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\StorageInventoryTracker.test.tsx",
+    "name": "StorageInventoryTracker.test.tsx",
+    "ext": ".tsx",
+    "size": 55
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\StorageInventoryTracker.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\StorageInventoryTracker.tsx",
+    "name": "StorageInventoryTracker.tsx",
+    "ext": ".tsx",
+    "size": 3412
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SupportChatWidget_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SupportChatWidget_1.tsx",
+    "name": "SupportChatWidget_1.tsx",
+    "ext": ".tsx",
+    "size": 4303
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SupportChatWidget.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SupportChatWidget.test_1.tsx",
+    "name": "SupportChatWidget.test_1.tsx",
+    "ext": ".tsx",
+    "size": 3049
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SupportChatWidget.test.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SupportChatWidget.test.test_1.tsx",
+    "name": "SupportChatWidget.test.test_1.tsx",
+    "ext": ".tsx",
+    "size": 54
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SupportChatWidget.test.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SupportChatWidget.test.test.tsx",
+    "name": "SupportChatWidget.test.test.tsx",
+    "ext": ".tsx",
+    "size": 54
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SupportChatWidget.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SupportChatWidget.test.tsx",
+    "name": "SupportChatWidget.test.tsx",
+    "ext": ".tsx",
+    "size": 49
+  }
+]

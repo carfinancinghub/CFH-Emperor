@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\escrowNotifyRoutes_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\escrowNotifyRoutes_1.ts",
+    "name": "escrowNotifyRoutes_1.ts",
+    "ext": ".ts",
+    "size": 1279
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\escrowNotifyRoutes.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\escrowNotifyRoutes.test_1.ts",
+    "name": "escrowNotifyRoutes.test_1.ts",
+    "ext": ".ts",
+    "size": 49
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\escrowNotifyRoutes.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\escrowNotifyRoutes.test.ts",
+    "name": "escrowNotifyRoutes.test.ts",
+    "ext": ".ts",
+    "size": 49
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\escrowNotifyRoutes.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\escrowNotifyRoutes.ts",
+    "name": "escrowNotifyRoutes.ts",
+    "ext": ".ts",
+    "size": 1279
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\EscrowOfficerHook_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\EscrowOfficerHook_1.ts",
+    "name": "EscrowOfficerHook_1.ts",
+    "ext": ".ts",
+    "size": 1204
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\EscrowOfficerHook.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\EscrowOfficerHook.test_1.ts",
+    "name": "EscrowOfficerHook.test_1.ts",
+    "ext": ".ts",
+    "size": 48
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\EscrowOfficerHook.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\EscrowOfficerHook.test.ts",
+    "name": "EscrowOfficerHook.test.ts",
+    "ext": ".ts",
+    "size": 48
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\escrowPaymentRoutes_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\escrowPaymentRoutes_1.ts",
+    "name": "escrowPaymentRoutes_1.ts",
+    "ext": ".ts",
+    "size": 3698
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\escrowPaymentRoutes.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\escrowPaymentRoutes.test_1.ts",
+    "name": "escrowPaymentRoutes.test_1.ts",
+    "ext": ".ts",
+    "size": 4610
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\escrowPaymentRoutes.test.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\escrowPaymentRoutes.test.test_1.ts",
+    "name": "escrowPaymentRoutes.test.test_1.ts",
+    "ext": ".ts",
+    "size": 55
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\escrowPaymentRoutes.test.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\escrowPaymentRoutes.test.test.ts",
+    "name": "escrowPaymentRoutes.test.test.ts",
+    "ext": ".ts",
+    "size": 55
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\escrowPaymentRoutes.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\escrowPaymentRoutes.test.ts",
+    "name": "escrowPaymentRoutes.test.ts",
+    "ext": ".ts",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\escrowPaymentRoutes.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\escrowPaymentRoutes.ts",
+    "name": "escrowPaymentRoutes.ts",
+    "ext": ".ts",
+    "size": 3698
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\escrowRoutes_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\escrowRoutes_1.ts",
+    "name": "escrowRoutes_1.ts",
+    "ext": ".ts",
+    "size": 1486
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\EscrowRoutes.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\EscrowRoutes.test_1.ts",
+    "name": "EscrowRoutes.test_1.ts",
+    "ext": ".ts",
+    "size": 2583
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\escrowRoutes.test.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\escrowRoutes.test.test_1.ts",
+    "name": "escrowRoutes.test.test_1.ts",
+    "ext": ".ts",
+    "size": 48
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\escrowRoutes.test.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\escrowRoutes.test.test.ts",
+    "name": "escrowRoutes.test.test.ts",
+    "ext": ".ts",
+    "size": 48
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\escrowRoutes.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\escrowRoutes.ts",
+    "name": "escrowRoutes.ts",
+    "ext": ".ts",
+    "size": 1486
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\EscrowService_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\EscrowService_1.ts",
+    "name": "EscrowService_1.ts",
+    "ext": ".ts",
+    "size": 2047
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\EscrowService.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\EscrowService.test_1.ts",
+    "name": "EscrowService.test_1.ts",
+    "ext": ".ts",
+    "size": 880
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\EscrowTransaction_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\EscrowTransaction_1.ts",
+    "name": "EscrowTransaction_1.ts",
+    "ext": ".ts",
+    "size": 1166
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\EscrowTransaction.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\EscrowTransaction.test_1.ts",
+    "name": "EscrowTransaction.test_1.ts",
+    "ext": ".ts",
+    "size": 48
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\EscrowTransaction.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\EscrowTransaction.test.ts",
+    "name": "EscrowTransaction.test.ts",
+    "ext": ".ts",
+    "size": 48
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\EscrowTransaction.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\EscrowTransaction.ts",
+    "name": "EscrowTransaction.ts",
+    "ext": ".ts",
+    "size": 1166
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\EscrowTransactionPDFExporter_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\EscrowTransactionPDFExporter_1.ts",
+    "name": "EscrowTransactionPDFExporter_1.ts",
+    "ext": ".ts",
+    "size": 2439
+  }
+]

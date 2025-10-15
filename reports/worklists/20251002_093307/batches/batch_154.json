@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\listing.validation_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\listing.validation_1.ts",
+    "name": "listing.validation_1.ts",
+    "ext": ".ts",
+    "size": 2545
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\ListingApproval_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\ListingApproval_1.ts",
+    "name": "ListingApproval_1.ts",
+    "ext": ".ts",
+    "size": 3003
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\ListingApproval.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\ListingApproval.test_1.ts",
+    "name": "ListingApproval.test_1.ts",
+    "ext": ".ts",
+    "size": 4917
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\ListingApproval.test.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\ListingApproval.test.test_1.ts",
+    "name": "ListingApproval.test.test_1.ts",
+    "ext": ".ts",
+    "size": 51
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\ListingApproval.test.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\ListingApproval.test.test.ts",
+    "name": "ListingApproval.test.test.ts",
+    "ext": ".ts",
+    "size": 51
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\ListingApproval.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\ListingApproval.test.ts",
+    "name": "ListingApproval.test.ts",
+    "ext": ".ts",
+    "size": 46
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\ListingApproval.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\ListingApproval.ts",
+    "name": "ListingApproval.ts",
+    "ext": ".ts",
+    "size": 3003
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\listingController_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\listingController_1.ts",
+    "name": "listingController_1.ts",
+    "ext": ".ts",
+    "size": 1434
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\listingController.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\listingController.test_1.ts",
+    "name": "listingController.test_1.ts",
+    "ext": ".ts",
+    "size": 48
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\listingController.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\listingController.test.ts",
+    "name": "listingController.test.ts",
+    "ext": ".ts",
+    "size": 48
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\listingController.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\listingController.ts",
+    "name": "listingController.ts",
+    "ext": ".ts",
+    "size": 1434
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\LiveStreamAuction_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\LiveStreamAuction_1.ts",
+    "name": "LiveStreamAuction_1.ts",
+    "ext": ".ts",
+    "size": 1888
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\LiveStreamAuction.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\LiveStreamAuction.test_1.ts",
+    "name": "LiveStreamAuction.test_1.ts",
+    "ext": ".ts",
+    "size": 48
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\LiveStreamAuction.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\LiveStreamAuction.test.ts",
+    "name": "LiveStreamAuction.test.ts",
+    "ext": ".ts",
+    "size": 48
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\LiveStreamAuction.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\LiveStreamAuction.ts",
+    "name": "LiveStreamAuction.ts",
+    "ext": ".ts",
+    "size": 1888
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\liveStreamService_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\liveStreamService_1.ts",
+    "name": "liveStreamService_1.ts",
+    "ext": ".ts",
+    "size": 6151
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\load-test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\load-test_1.ts",
+    "name": "load-test_1.ts",
+    "ext": ".ts",
+    "size": 769
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\load-test.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\load-test.test_1.ts",
+    "name": "load-test.test_1.ts",
+    "ext": ".ts",
+    "size": 40
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\load-test.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\load-test.test.ts",
+    "name": "load-test.test.ts",
+    "ext": ".ts",
+    "size": 40
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\load-test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\load-test.ts",
+    "name": "load-test.ts",
+    "ext": ".ts",
+    "size": 769
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\LoadingSpinner_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\LoadingSpinner_1.ts",
+    "name": "LoadingSpinner_1.ts",
+    "ext": ".ts",
+    "size": 876
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\LoadingSpinner.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\LoadingSpinner.test_1.ts",
+    "name": "LoadingSpinner.test_1.ts",
+    "ext": ".ts",
+    "size": 45
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\LoadingSpinner.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\LoadingSpinner.test.ts",
+    "name": "LoadingSpinner.test.ts",
+    "ext": ".ts",
+    "size": 45
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\LoadingSpinner.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\LoadingSpinner.ts",
+    "name": "LoadingSpinner.ts",
+    "ext": ".ts",
+    "size": 876
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\loanAiApprovalController_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\loanAiApprovalController_1.ts",
+    "name": "loanAiApprovalController_1.ts",
+    "ext": ".ts",
+    "size": 2020
+  }
+]

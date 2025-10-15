@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MechanicBadgeImpactTracker.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MechanicBadgeImpactTracker.tsx",
+    "name": "MechanicBadgeImpactTracker.tsx",
+    "ext": ".tsx",
+    "size": 2108
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MechanicBadgeLeaderboard_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MechanicBadgeLeaderboard_1.tsx",
+    "name": "MechanicBadgeLeaderboard_1.tsx",
+    "ext": ".tsx",
+    "size": 2275
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MechanicBadgeLeaderboard.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MechanicBadgeLeaderboard.test_1.tsx",
+    "name": "MechanicBadgeLeaderboard.test_1.tsx",
+    "ext": ".tsx",
+    "size": 56
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MechanicBadgeLeaderboard.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MechanicBadgeLeaderboard.test.tsx",
+    "name": "MechanicBadgeLeaderboard.test.tsx",
+    "ext": ".tsx",
+    "size": 56
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MechanicBadgeLeaderboard.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MechanicBadgeLeaderboard.tsx",
+    "name": "MechanicBadgeLeaderboard.tsx",
+    "ext": ".tsx",
+    "size": 2275
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MechanicBadgeProgressTracker_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MechanicBadgeProgressTracker_1.tsx",
+    "name": "MechanicBadgeProgressTracker_1.tsx",
+    "ext": ".tsx",
+    "size": 2151
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MechanicBadgeProgressTracker.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MechanicBadgeProgressTracker.test_1.tsx",
+    "name": "MechanicBadgeProgressTracker.test_1.tsx",
+    "ext": ".tsx",
+    "size": 60
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MechanicBadgeProgressTracker.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MechanicBadgeProgressTracker.test.tsx",
+    "name": "MechanicBadgeProgressTracker.test.tsx",
+    "ext": ".tsx",
+    "size": 60
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MechanicBadgeProgressTracker.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MechanicBadgeProgressTracker.tsx",
+    "name": "MechanicBadgeProgressTracker.tsx",
+    "ext": ".tsx",
+    "size": 2151
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MechanicDashboard_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MechanicDashboard_1.tsx",
+    "name": "MechanicDashboard_1.tsx",
+    "ext": ".tsx",
+    "size": 9222
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MechanicDashboard.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MechanicDashboard.test_1.tsx",
+    "name": "MechanicDashboard.test_1.tsx",
+    "ext": ".tsx",
+    "size": 4317
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MechanicDashboard.test.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MechanicDashboard.test.test_1.tsx",
+    "name": "MechanicDashboard.test.test_1.tsx",
+    "ext": ".tsx",
+    "size": 54
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MechanicDashboard.test.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MechanicDashboard.test.test.tsx",
+    "name": "MechanicDashboard.test.test.tsx",
+    "ext": ".tsx",
+    "size": 54
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MechanicDashboard.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MechanicDashboard.test.tsx",
+    "name": "MechanicDashboard.test.tsx",
+    "ext": ".tsx",
+    "size": 49
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MechanicInspectionForm_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MechanicInspectionForm_1.tsx",
+    "name": "MechanicInspectionForm_1.tsx",
+    "ext": ".tsx",
+    "size": 3344
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MechanicInspectionForm.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MechanicInspectionForm.test_1.tsx",
+    "name": "MechanicInspectionForm.test_1.tsx",
+    "ext": ".tsx",
+    "size": 3916
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MechanicInspectionForm.test.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MechanicInspectionForm.test.test_1.tsx",
+    "name": "MechanicInspectionForm.test.test_1.tsx",
+    "ext": ".tsx",
+    "size": 59
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MechanicInspectionForm.test.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MechanicInspectionForm.test.test.tsx",
+    "name": "MechanicInspectionForm.test.test.tsx",
+    "ext": ".tsx",
+    "size": 59
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MechanicInspectionForm.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MechanicInspectionForm.test.tsx",
+    "name": "MechanicInspectionForm.test.tsx",
+    "ext": ".tsx",
+    "size": 54
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MechanicInspectionForm.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MechanicInspectionForm.tsx",
+    "name": "MechanicInspectionForm.tsx",
+    "ext": ".tsx",
+    "size": 3344
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MechanicJobStatusBadge_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MechanicJobStatusBadge_1.tsx",
+    "name": "MechanicJobStatusBadge_1.tsx",
+    "ext": ".tsx",
+    "size": 1506
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MechanicJobStatusBadge.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MechanicJobStatusBadge.test_1.tsx",
+    "name": "MechanicJobStatusBadge.test_1.tsx",
+    "ext": ".tsx",
+    "size": 54
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MechanicJobStatusBadge.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MechanicJobStatusBadge.test.tsx",
+    "name": "MechanicJobStatusBadge.test.tsx",
+    "ext": ".tsx",
+    "size": 54
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MechanicJobStatusBadge.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MechanicJobStatusBadge.tsx",
+    "name": "MechanicJobStatusBadge.tsx",
+    "ext": ".tsx",
+    "size": 1506
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\MechanicMilestoneTracker_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\MechanicMilestoneTracker_1.tsx",
+    "name": "MechanicMilestoneTracker_1.tsx",
+    "ext": ".tsx",
+    "size": 2527
+  }
+]

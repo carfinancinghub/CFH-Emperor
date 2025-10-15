@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SellerExportPanel.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SellerExportPanel.test.tsx",
+    "name": "SellerExportPanel.test.tsx",
+    "ext": ".tsx",
+    "size": 49
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SellerExportPanel.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SellerExportPanel.tsx",
+    "name": "SellerExportPanel.tsx",
+    "ext": ".tsx",
+    "size": 3185
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SellerGalleryManager_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SellerGalleryManager_1.tsx",
+    "name": "SellerGalleryManager_1.tsx",
+    "ext": ".tsx",
+    "size": 6340
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SellerGalleryManager.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SellerGalleryManager.test_1.tsx",
+    "name": "SellerGalleryManager.test_1.tsx",
+    "ext": ".tsx",
+    "size": 52
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SellerGalleryManager.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SellerGalleryManager.test.tsx",
+    "name": "SellerGalleryManager.test.tsx",
+    "ext": ".tsx",
+    "size": 52
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SellerGalleryManager.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SellerGalleryManager.tsx",
+    "name": "SellerGalleryManager.tsx",
+    "ext": ".tsx",
+    "size": 6340
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SellerInventoryList_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SellerInventoryList_1.tsx",
+    "name": "SellerInventoryList_1.tsx",
+    "ext": ".tsx",
+    "size": 2700
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SellerInventoryList.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SellerInventoryList.test_1.tsx",
+    "name": "SellerInventoryList.test_1.tsx",
+    "ext": ".tsx",
+    "size": 2845
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SellerInventoryList.test.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SellerInventoryList.test.test_1.tsx",
+    "name": "SellerInventoryList.test.test_1.tsx",
+    "ext": ".tsx",
+    "size": 56
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SellerInventoryList.test.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SellerInventoryList.test.test.tsx",
+    "name": "SellerInventoryList.test.test.tsx",
+    "ext": ".tsx",
+    "size": 56
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SellerInventoryList.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SellerInventoryList.test.tsx",
+    "name": "SellerInventoryList.test.tsx",
+    "ext": ".tsx",
+    "size": 51
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SellerInventoryList.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SellerInventoryList.tsx",
+    "name": "SellerInventoryList.tsx",
+    "ext": ".tsx",
+    "size": 2700
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SellerKPIWidget_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SellerKPIWidget_1.tsx",
+    "name": "SellerKPIWidget_1.tsx",
+    "ext": ".tsx",
+    "size": 3119
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SellerKPIWidget.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SellerKPIWidget.test_1.tsx",
+    "name": "SellerKPIWidget.test_1.tsx",
+    "ext": ".tsx",
+    "size": 47
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SellerKPIWidget.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SellerKPIWidget.test.tsx",
+    "name": "SellerKPIWidget.test.tsx",
+    "ext": ".tsx",
+    "size": 47
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SellerKPIWidget.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SellerKPIWidget.tsx",
+    "name": "SellerKPIWidget.tsx",
+    "ext": ".tsx",
+    "size": 3119
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SellerListingEdit_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SellerListingEdit_1.tsx",
+    "name": "SellerListingEdit_1.tsx",
+    "ext": ".tsx",
+    "size": 8265
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SellerListingEdit.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SellerListingEdit.test_1.tsx",
+    "name": "SellerListingEdit.test_1.tsx",
+    "ext": ".tsx",
+    "size": 49
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SellerListingEdit.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SellerListingEdit.test.tsx",
+    "name": "SellerListingEdit.test.tsx",
+    "ext": ".tsx",
+    "size": 49
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SellerListingEdit.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SellerListingEdit.tsx",
+    "name": "SellerListingEdit.tsx",
+    "ext": ".tsx",
+    "size": 8265
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SellerListingGallery_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SellerListingGallery_1.tsx",
+    "name": "SellerListingGallery_1.tsx",
+    "ext": ".tsx",
+    "size": 5560
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SellerListingGallery.test_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SellerListingGallery.test_1.tsx",
+    "name": "SellerListingGallery.test_1.tsx",
+    "ext": ".tsx",
+    "size": 52
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SellerListingGallery.test.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SellerListingGallery.test.tsx",
+    "name": "SellerListingGallery.test.tsx",
+    "ext": ".tsx",
+    "size": 52
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SellerListingGallery.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SellerListingGallery.tsx",
+    "name": "SellerListingGallery.tsx",
+    "ext": ".tsx",
+    "size": 5560
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\tsx\\SellerManageListings_1.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\tsx\\SellerManageListings_1.tsx",
+    "name": "SellerManageListings_1.tsx",
+    "ext": ".tsx",
+    "size": 7891
+  }
+]

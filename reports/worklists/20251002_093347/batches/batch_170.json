@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\scalabilityValidation.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\scalabilityValidation.ts",
+    "name": "scalabilityValidation.ts",
+    "ext": ".ts",
+    "size": 6245
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\scoreUtils_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\scoreUtils_1.ts",
+    "name": "scoreUtils_1.ts",
+    "ext": ".ts",
+    "size": 242
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\SecurityAudit_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\SecurityAudit_1.ts",
+    "name": "SecurityAudit_1.ts",
+    "ext": ".ts",
+    "size": 2307
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\SecurityAudit.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\SecurityAudit.test_1.ts",
+    "name": "SecurityAudit.test_1.ts",
+    "ext": ".ts",
+    "size": 3609
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\SecurityAudit.test.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\SecurityAudit.test.test_1.ts",
+    "name": "SecurityAudit.test.test_1.ts",
+    "ext": ".ts",
+    "size": 49
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\SecurityAudit.test.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\SecurityAudit.test.test.ts",
+    "name": "SecurityAudit.test.test.ts",
+    "ext": ".ts",
+    "size": 49
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\SecurityAudit.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\SecurityAudit.test.ts",
+    "name": "SecurityAudit.test.ts",
+    "ext": ".ts",
+    "size": 44
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\SecurityAudit.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\SecurityAudit.ts",
+    "name": "SecurityAudit.ts",
+    "ext": ".ts",
+    "size": 2307
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\SecurityLogger_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\SecurityLogger_1.ts",
+    "name": "SecurityLogger_1.ts",
+    "ext": ".ts",
+    "size": 1717
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\SecurityLogger.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\SecurityLogger.test_1.ts",
+    "name": "SecurityLogger.test_1.ts",
+    "ext": ".ts",
+    "size": 3015
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\SecurityLogger.test.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\SecurityLogger.test.test_1.ts",
+    "name": "SecurityLogger.test.test_1.ts",
+    "ext": ".ts",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\SecurityLogger.test.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\SecurityLogger.test.test.ts",
+    "name": "SecurityLogger.test.test.ts",
+    "ext": ".ts",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\SecurityLogger.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\SecurityLogger.test.ts",
+    "name": "SecurityLogger.test.ts",
+    "ext": ".ts",
+    "size": 45
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\SecurityLogger.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\SecurityLogger.ts",
+    "name": "SecurityLogger.ts",
+    "ext": ".ts",
+    "size": 1717
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\SellerBadgeEngine_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\SellerBadgeEngine_1.ts",
+    "name": "SellerBadgeEngine_1.ts",
+    "ext": ".ts",
+    "size": 258
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\SellerCreateListing_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\SellerCreateListing_1.ts",
+    "name": "SellerCreateListing_1.ts",
+    "ext": ".ts",
+    "size": 2173
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\SellerCreateListing.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\SellerCreateListing.test_1.ts",
+    "name": "SellerCreateListing.test_1.ts",
+    "ext": ".ts",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\SellerCreateListing.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\SellerCreateListing.test.ts",
+    "name": "SellerCreateListing.test.ts",
+    "ext": ".ts",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\SellerCreateListing.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\SellerCreateListing.ts",
+    "name": "SellerCreateListing.ts",
+    "ext": ".ts",
+    "size": 2173
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\SellerDashboard_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\SellerDashboard_1.ts",
+    "name": "SellerDashboard_1.ts",
+    "ext": ".ts",
+    "size": 940
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\SellerDashboard.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\SellerDashboard.test_1.ts",
+    "name": "SellerDashboard.test_1.ts",
+    "ext": ".ts",
+    "size": 46
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\SellerDashboard.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\SellerDashboard.test.ts",
+    "name": "SellerDashboard.test.ts",
+    "ext": ".ts",
+    "size": 46
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\SellerDashboard.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\SellerDashboard.ts",
+    "name": "SellerDashboard.ts",
+    "ext": ".ts",
+    "size": 940
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\SellerPricingTool_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\SellerPricingTool_1.ts",
+    "name": "SellerPricingTool_1.ts",
+    "ext": ".ts",
+    "size": 2675
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\SellerPricingTool.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\SellerPricingTool.test_1.ts",
+    "name": "SellerPricingTool.test_1.ts",
+    "ext": ".ts",
+    "size": 48
+  }
+]

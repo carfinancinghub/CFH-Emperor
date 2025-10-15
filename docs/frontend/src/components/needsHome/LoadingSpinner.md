@@ -1,0 +1,9 @@
+# LoadingSpinner.js
+
+**Purpose**: Auto-generated mirror doc for `C:\CFH\frontend\src\components\needsHome\LoadingSpinner.js`
+
+- **Suggested location**: `C:/CFH/frontend/src/components/needsHome/LoadingSpinner.js`
+- **Confidence**: 0.30
+- **Reason**: Default to common (no strong signals).
+
+> Replace this stub with richer documentation as needed.

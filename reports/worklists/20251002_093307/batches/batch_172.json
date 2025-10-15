@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\shiftRoutes.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\shiftRoutes.ts",
+    "name": "shiftRoutes.ts",
+    "ext": ".ts",
+    "size": 1554
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\ShopMatchingService_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\ShopMatchingService_1.ts",
+    "name": "ShopMatchingService_1.ts",
+    "ext": ".ts",
+    "size": 8383
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\ShopMatchingService.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\ShopMatchingService.test_1.ts",
+    "name": "ShopMatchingService.test_1.ts",
+    "ext": ".ts",
+    "size": 9778
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\shopProfileService_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\shopProfileService_1.ts",
+    "name": "shopProfileService_1.ts",
+    "ext": ".ts",
+    "size": 24261
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\shopProfileService.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\shopProfileService.test_1.ts",
+    "name": "shopProfileService.test_1.ts",
+    "ext": ".ts",
+    "size": 18995
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\signatureInit_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\signatureInit_1.ts",
+    "name": "signatureInit_1.ts",
+    "ext": ".ts",
+    "size": 1042
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\signatureInit.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\signatureInit.test_1.ts",
+    "name": "signatureInit.test_1.ts",
+    "ext": ".ts",
+    "size": 44
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\signatureInit.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\signatureInit.test.ts",
+    "name": "signatureInit.test.ts",
+    "ext": ".ts",
+    "size": 44
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\signatureInit.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\signatureInit.ts",
+    "name": "signatureInit.ts",
+    "ext": ".ts",
+    "size": 1042
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\SmartDelayPredictor_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\SmartDelayPredictor_1.ts",
+    "name": "SmartDelayPredictor_1.ts",
+    "ext": ".ts",
+    "size": 1261
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\SmartDelayPredictor.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\SmartDelayPredictor.test_1.ts",
+    "name": "SmartDelayPredictor.test_1.ts",
+    "ext": ".ts",
+    "size": 323
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\SmartInsightsWidget_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\SmartInsightsWidget_1.ts",
+    "name": "SmartInsightsWidget_1.ts",
+    "ext": ".ts",
+    "size": 2850
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\SmartInsightsWidget.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\SmartInsightsWidget.test_1.ts",
+    "name": "SmartInsightsWidget.test_1.ts",
+    "ext": ".ts",
+    "size": 1790
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\SmartInsightsWidget.test.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\SmartInsightsWidget.test.test_1.ts",
+    "name": "SmartInsightsWidget.test.test_1.ts",
+    "ext": ".ts",
+    "size": 55
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\SmartInsightsWidget.test.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\SmartInsightsWidget.test.test.ts",
+    "name": "SmartInsightsWidget.test.test.ts",
+    "ext": ".ts",
+    "size": 55
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\SmartInsightsWidget.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\SmartInsightsWidget.test.ts",
+    "name": "SmartInsightsWidget.test.ts",
+    "ext": ".ts",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\SmartRecommendations_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\SmartRecommendations_1.ts",
+    "name": "SmartRecommendations_1.ts",
+    "ext": ".ts",
+    "size": 3657
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\SmartRecommendations.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\SmartRecommendations.test_1.ts",
+    "name": "SmartRecommendations.test_1.ts",
+    "ext": ".ts",
+    "size": 51
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\SmartRecommendations.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\SmartRecommendations.test.ts",
+    "name": "SmartRecommendations.test.ts",
+    "ext": ".ts",
+    "size": 51
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\SmartRecommendations.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\SmartRecommendations.ts",
+    "name": "SmartRecommendations.ts",
+    "ext": ".ts",
+    "size": 3657
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\SmartSearchBar_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\SmartSearchBar_1.ts",
+    "name": "SmartSearchBar_1.ts",
+    "ext": ".ts",
+    "size": 582
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\SmartSearchBar.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\SmartSearchBar.test_1.ts",
+    "name": "SmartSearchBar.test_1.ts",
+    "ext": ".ts",
+    "size": 1131
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\SmartSearchBar.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\SmartSearchBar.test.ts",
+    "name": "SmartSearchBar.test.ts",
+    "ext": ".ts",
+    "size": 1131
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\SmartSearchBar.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\SmartSearchBar.ts",
+    "name": "SmartSearchBar.ts",
+    "ext": ".ts",
+    "size": 582
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\SocialGamification_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\SocialGamification_1.ts",
+    "name": "SocialGamification_1.ts",
+    "ext": ".ts",
+    "size": 6569
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\payments.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\payments.test_1.ts",
+    "name": "payments.test_1.ts",
+    "ext": ".ts",
+    "size": 39
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\payments.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\payments.test.ts",
+    "name": "payments.test.ts",
+    "ext": ".ts",
+    "size": 39
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\payments.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\payments.ts",
+    "name": "payments.ts",
+    "ext": ".ts",
+    "size": 438
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\PaymentService_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\PaymentService_1.ts",
+    "name": "PaymentService_1.ts",
+    "ext": ".ts",
+    "size": 144
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\PaymentService.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\PaymentService.test_1.ts",
+    "name": "PaymentService.test_1.ts",
+    "ext": ".ts",
+    "size": 317
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\pdfExportService_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\pdfExportService_1.ts",
+    "name": "pdfExportService_1.ts",
+    "ext": ".ts",
+    "size": 190
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\pdfGenerator_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\pdfGenerator_1.ts",
+    "name": "pdfGenerator_1.ts",
+    "ext": ".ts",
+    "size": 1846
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\pdfGenerator.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\pdfGenerator.test_1.ts",
+    "name": "pdfGenerator.test_1.ts",
+    "ext": ".ts",
+    "size": 43
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\pdfGenerator.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\pdfGenerator.test.ts",
+    "name": "pdfGenerator.test.ts",
+    "ext": ".ts",
+    "size": 43
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\PerformanceMonitor_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\PerformanceMonitor_1.ts",
+    "name": "PerformanceMonitor_1.ts",
+    "ext": ".ts",
+    "size": 1494
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\PerformanceMonitor.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\PerformanceMonitor.test_1.ts",
+    "name": "PerformanceMonitor.test_1.ts",
+    "ext": ".ts",
+    "size": 49
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\PerformanceMonitor.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\PerformanceMonitor.test.ts",
+    "name": "PerformanceMonitor.test.ts",
+    "ext": ".ts",
+    "size": 49
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\PerformanceMonitor.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\PerformanceMonitor.ts",
+    "name": "PerformanceMonitor.ts",
+    "ext": ".ts",
+    "size": 1494
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\PerformanceOptimizer_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\PerformanceOptimizer_1.ts",
+    "name": "PerformanceOptimizer_1.ts",
+    "ext": ".ts",
+    "size": 2205
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\PerformanceOptimizer.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\PerformanceOptimizer.test_1.ts",
+    "name": "PerformanceOptimizer.test_1.ts",
+    "ext": ".ts",
+    "size": 3194
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\PerformanceOptimizer.test.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\PerformanceOptimizer.test.test_1.ts",
+    "name": "PerformanceOptimizer.test.test_1.ts",
+    "ext": ".ts",
+    "size": 56
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\PerformanceOptimizer.test.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\PerformanceOptimizer.test.test.ts",
+    "name": "PerformanceOptimizer.test.test.ts",
+    "ext": ".ts",
+    "size": 56
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\PerformanceOptimizer.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\PerformanceOptimizer.test.ts",
+    "name": "PerformanceOptimizer.test.ts",
+    "ext": ".ts",
+    "size": 51
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\PerformanceOptimizer.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\PerformanceOptimizer.ts",
+    "name": "PerformanceOptimizer.ts",
+    "ext": ".ts",
+    "size": 2205
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\performanceTests_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\performanceTests_1.ts",
+    "name": "performanceTests_1.ts",
+    "ext": ".ts",
+    "size": 6355
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\performanceTests.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\performanceTests.test_1.ts",
+    "name": "performanceTests.test_1.ts",
+    "ext": ".ts",
+    "size": 47
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\performanceTests.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\performanceTests.test.ts",
+    "name": "performanceTests.test.ts",
+    "ext": ".ts",
+    "size": 47
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\performanceTests.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\performanceTests.ts",
+    "name": "performanceTests.ts",
+    "ext": ".ts",
+    "size": 6355
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\performanceValidation_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\performanceValidation_1.ts",
+    "name": "performanceValidation_1.ts",
+    "ext": ".ts",
+    "size": 5746
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\performanceValidation.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\performanceValidation.test_1.ts",
+    "name": "performanceValidation.test_1.ts",
+    "ext": ".ts",
+    "size": 52
+  }
+]

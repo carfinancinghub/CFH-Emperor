@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\analytics\\analytics.service.js",
+    "full_path": "C:\\CFH\\backend\\services\\analytics\\analytics.service.js",
+    "name": "analytics.service.js",
+    "ext": ".js",
+    "size": 963
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\analytics\\analytics.service.ts",
+    "full_path": "C:\\CFH\\backend\\services\\analytics\\analytics.service.ts",
+    "name": "analytics.service.ts",
+    "ext": ".ts",
+    "size": 6750
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\analytics\\AuctionPerformance.js",
+    "full_path": "C:\\CFH\\backend\\services\\analytics\\AuctionPerformance.js",
+    "name": "AuctionPerformance.js",
+    "ext": ".js",
+    "size": 2646
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\analytics\\BidHeatmapService.ts",
+    "full_path": "C:\\CFH\\backend\\services\\analytics\\BidHeatmapService.ts",
+    "name": "BidHeatmapService.ts",
+    "ext": ".ts",
+    "size": 845
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\analytics\\InsightGenerator.js",
+    "full_path": "C:\\CFH\\backend\\services\\analytics\\InsightGenerator.js",
+    "name": "InsightGenerator.js",
+    "ext": ".js",
+    "size": 2739
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\analytics\\service.ts",
+    "full_path": "C:\\CFH\\backend\\services\\analytics\\service.ts",
+    "name": "service.ts",
+    "ext": ".ts",
+    "size": 8816
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\analytics\\UserBehaviorTracker.js",
+    "full_path": "C:\\CFH\\backend\\services\\analytics\\UserBehaviorTracker.js",
+    "name": "UserBehaviorTracker.js",
+    "ext": ".js",
+    "size": 2037
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\auction\\aiBidService.ts",
+    "full_path": "C:\\CFH\\backend\\services\\auction\\aiBidService.ts",
+    "name": "aiBidService.ts",
+    "ext": ".ts",
+    "size": 4139
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\auction\\AIBidStarter.js",
+    "full_path": "C:\\CFH\\backend\\services\\auction\\AIBidStarter.js",
+    "name": "AIBidStarter.js",
+    "ext": ".js",
+    "size": 1856
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\auction\\AIEquityFinancer.js",
+    "full_path": "C:\\CFH\\backend\\services\\auction\\AIEquityFinancer.js",
+    "name": "AIEquityFinancer.js",
+    "ext": ".js",
+    "size": 1718
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\auction\\auctionAnalyticsService.ts",
+    "full_path": "C:\\CFH\\backend\\services\\auction\\auctionAnalyticsService.ts",
+    "name": "auctionAnalyticsService.ts",
+    "ext": ".ts",
+    "size": 7130
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\auction\\AuctionGamificationEngine.js",
+    "full_path": "C:\\CFH\\backend\\services\\auction\\AuctionGamificationEngine.js",
+    "name": "AuctionGamificationEngine.js",
+    "ext": ".js",
+    "size": 3046
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\auction\\AuctionHistory.js",
+    "full_path": "C:\\CFH\\backend\\services\\auction\\AuctionHistory.js",
+    "name": "AuctionHistory.js",
+    "ext": ".js",
+    "size": 2200
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\auction\\AuctionHistory.ts",
+    "full_path": "C:\\CFH\\backend\\services\\auction\\AuctionHistory.ts",
+    "name": "AuctionHistory.ts",
+    "ext": ".ts",
+    "size": 159
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\auction\\AuctionManager.js",
+    "full_path": "C:\\CFH\\backend\\services\\auction\\AuctionManager.js",
+    "name": "AuctionManager.js",
+    "ext": ".js",
+    "size": 3376
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\auction\\AuctionManager.ts",
+    "full_path": "C:\\CFH\\backend\\services\\auction\\AuctionManager.ts",
+    "name": "AuctionManager.ts",
+    "ext": ".ts",
+    "size": 925
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\auction\\AuctionMetrics.js",
+    "full_path": "C:\\CFH\\backend\\services\\auction\\AuctionMetrics.js",
+    "name": "AuctionMetrics.js",
+    "ext": ".js",
+    "size": 2637
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\auction\\AuctionMetrics.ts",
+    "full_path": "C:\\CFH\\backend\\services\\auction\\AuctionMetrics.ts",
+    "name": "AuctionMetrics.ts",
+    "ext": ".ts",
+    "size": 173
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\auction\\AuctionNotifier.js",
+    "full_path": "C:\\CFH\\backend\\services\\auction\\AuctionNotifier.js",
+    "name": "AuctionNotifier.js",
+    "ext": ".js",
+    "size": 2178
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\auction\\AuctionNotifier.ts",
+    "full_path": "C:\\CFH\\backend\\services\\auction\\AuctionNotifier.ts",
+    "name": "AuctionNotifier.ts",
+    "ext": ".ts",
+    "size": 284
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\auction\\AuctionScheduler.js",
+    "full_path": "C:\\CFH\\backend\\services\\auction\\AuctionScheduler.js",
+    "name": "AuctionScheduler.js",
+    "ext": ".js",
+    "size": 2385
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\auction\\AuctionScheduler.ts",
+    "full_path": "C:\\CFH\\backend\\services\\auction\\AuctionScheduler.ts",
+    "name": "AuctionScheduler.ts",
+    "ext": ".ts",
+    "size": 171
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\auction\\auctionService.ts",
+    "full_path": "C:\\CFH\\backend\\services\\auction\\auctionService.ts",
+    "name": "auctionService.ts",
+    "ext": ".ts",
+    "size": 12937
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\auction\\AuctionTemplateEngine.js",
+    "full_path": "C:\\CFH\\backend\\services\\auction\\AuctionTemplateEngine.js",
+    "name": "AuctionTemplateEngine.js",
+    "ext": ".js",
+    "size": 2012
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "services\\auction\\BidHeatmapEngine.js",
+    "full_path": "C:\\CFH\\backend\\services\\auction\\BidHeatmapEngine.js",
+    "name": "BidHeatmapEngine.js",
+    "ext": ".js",
+    "size": 2589
+  }
+]

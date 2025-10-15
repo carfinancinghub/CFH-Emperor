@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "utils\\vehicleUtils.ts",
+    "full_path": "C:\\CFH\\backend\\utils\\vehicleUtils.ts",
+    "name": "vehicleUtils.ts",
+    "ext": ".ts",
+    "size": 103
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "validation\\analytics.validation.js",
+    "full_path": "C:\\CFH\\backend\\validation\\analytics.validation.js",
+    "name": "analytics.validation.js",
+    "ext": ".js",
+    "size": 735
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "validation\\analytics.validation.ts",
+    "full_path": "C:\\CFH\\backend\\validation\\analytics.validation.ts",
+    "name": "analytics.validation.ts",
+    "ext": ".ts",
+    "size": 177
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "validation\\analytics\\validation.ts",
+    "full_path": "C:\\CFH\\backend\\validation\\analytics\\validation.ts",
+    "name": "validation.ts",
+    "ext": ".ts",
+    "size": 5075
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "validation\\auction.validation.ts",
+    "full_path": "C:\\CFH\\backend\\validation\\auction.validation.ts",
+    "name": "auction.validation.ts",
+    "ext": ".ts",
+    "size": 902
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "validation\\bodyshop\\estimateValidation.ts",
+    "full_path": "C:\\CFH\\backend\\validation\\bodyshop\\estimateValidation.ts",
+    "name": "estimateValidation.ts",
+    "ext": ".ts",
+    "size": 8002
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "validation\\car.validation.ts",
+    "full_path": "C:\\CFH\\backend\\validation\\car.validation.ts",
+    "name": "car.validation.ts",
+    "ext": ".ts",
+    "size": 2100
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "validation\\dispute.validation.ts",
+    "full_path": "C:\\CFH\\backend\\validation\\dispute.validation.ts",
+    "name": "dispute.validation.ts",
+    "ext": ".ts",
+    "size": 1332
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "validation\\escrow.validation.js",
+    "full_path": "C:\\CFH\\backend\\validation\\escrow.validation.js",
+    "name": "escrow.validation.js",
+    "ext": ".js",
+    "size": 1286
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "validation\\escrow.validation.ts",
+    "full_path": "C:\\CFH\\backend\\validation\\escrow.validation.ts",
+    "name": "escrow.validation.ts",
+    "ext": ".ts",
+    "size": 1301
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "validation\\evidence.validation.ts",
+    "full_path": "C:\\CFH\\backend\\validation\\evidence.validation.ts",
+    "name": "evidence.validation.ts",
+    "ext": ".ts",
+    "size": 735
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "validation\\inspection.validation.ts",
+    "full_path": "C:\\CFH\\backend\\validation\\inspection.validation.ts",
+    "name": "inspection.validation.ts",
+    "ext": ".ts",
+    "size": 1559
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "validation\\listing.validation.ts",
+    "full_path": "C:\\CFH\\backend\\validation\\listing.validation.ts",
+    "name": "listing.validation.ts",
+    "ext": ".ts",
+    "size": 2545
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "validation\\loanOffer.validation.ts",
+    "full_path": "C:\\CFH\\backend\\validation\\loanOffer.validation.ts",
+    "name": "loanOffer.validation.ts",
+    "ext": ".ts",
+    "size": 1459
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "validation\\message.validation.ts",
+    "full_path": "C:\\CFH\\backend\\validation\\message.validation.ts",
+    "name": "message.validation.ts",
+    "ext": ".ts",
+    "size": 906
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "validation\\mock.validation.ts",
+    "full_path": "C:\\CFH\\backend\\validation\\mock.validation.ts",
+    "name": "mock.validation.ts",
+    "ext": ".ts",
+    "size": 583
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "validation\\notification.validation.ts",
+    "full_path": "C:\\CFH\\backend\\validation\\notification.validation.ts",
+    "name": "notification.validation.ts",
+    "ext": ".ts",
+    "size": 1068
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "validation\\payment.validation.ts",
+    "full_path": "C:\\CFH\\backend\\validation\\payment.validation.ts",
+    "name": "payment.validation.ts",
+    "ext": ".ts",
+    "size": 1301
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "validation\\storage.validation.ts",
+    "full_path": "C:\\CFH\\backend\\validation\\storage.validation.ts",
+    "name": "storage.validation.ts",
+    "ext": ".ts",
+    "size": 1813
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "validation\\transport.validation.ts",
+    "full_path": "C:\\CFH\\backend\\validation\\transport.validation.ts",
+    "name": "transport.validation.ts",
+    "ext": ".ts",
+    "size": 1203
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "validation\\user.validation.ts",
+    "full_path": "C:\\CFH\\backend\\validation\\user.validation.ts",
+    "name": "user.validation.ts",
+    "ext": ".ts",
+    "size": 1022
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "validation\\verification.validation.ts",
+    "full_path": "C:\\CFH\\backend\\validation\\verification.validation.ts",
+    "name": "verification.validation.ts",
+    "ext": ".ts",
+    "size": 1050
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "workers\\notificationQueueWorker.ts",
+    "full_path": "C:\\CFH\\backend\\workers\\notificationQueueWorker.ts",
+    "name": "notificationQueueWorker.ts",
+    "ext": ".ts",
+    "size": 1463
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "archive\\compliance-evaluations-batch6-051525.md",
+    "full_path": "C:\\CFH\\docs\\archive\\compliance-evaluations-batch6-051525.md",
+    "name": "compliance-evaluations-batch6-051525.md",
+    "ext": ".md",
+    "size": 528
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "archive\\VehicleValuationFeatureList_legacy_.md",
+    "full_path": "C:\\CFH\\docs\\archive\\VehicleValuationFeatureList_legacy_.md",
+    "name": "VehicleValuationFeatureList_legacy_.md",
+    "ext": ".md",
+    "size": 3775
+  }
+]

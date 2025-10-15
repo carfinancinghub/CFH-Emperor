@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\ContractDashboard.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\ContractDashboard.tsx",
+    "name": "ContractDashboard.tsx",
+    "ext": ".tsx",
+    "size": 640
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\ContractESignLauncher.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\ContractESignLauncher.tsx",
+    "name": "ContractESignLauncher.tsx",
+    "ext": ".tsx",
+    "size": 656
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\ContractIndexViewer.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\ContractIndexViewer.tsx",
+    "name": "ContractIndexViewer.tsx",
+    "ext": ".tsx",
+    "size": 648
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\ContractPDFViewer.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\ContractPDFViewer.tsx",
+    "name": "ContractPDFViewer.tsx",
+    "ext": ".tsx",
+    "size": 640
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\contractReviewController.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\contractReviewController.tsx",
+    "name": "contractReviewController.tsx",
+    "ext": ".tsx",
+    "size": 668
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\ContractReviewPortal.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\ContractReviewPortal.tsx",
+    "name": "ContractReviewPortal.tsx",
+    "ext": ".tsx",
+    "size": 652
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\ContractSignaturePad.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\ContractSignaturePad.tsx",
+    "name": "ContractSignaturePad.tsx",
+    "ext": ".tsx",
+    "size": 652
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\ContractSigningPanel.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\ContractSigningPanel.tsx",
+    "name": "ContractSigningPanel.tsx",
+    "ext": ".tsx",
+    "size": 652
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\ContractViewer.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\ContractViewer.tsx",
+    "name": "ContractViewer.tsx",
+    "ext": ".tsx",
+    "size": 628
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\ContractViewerGrokOld.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\ContractViewerGrokOld.tsx",
+    "name": "ContractViewerGrokOld.tsx",
+    "ext": ".tsx",
+    "size": 656
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\conversations.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\conversations.tsx",
+    "name": "conversations.tsx",
+    "ext": ".tsx",
+    "size": 624
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\createAdminUser.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\createAdminUser.tsx",
+    "name": "createAdminUser.tsx",
+    "ext": ".tsx",
+    "size": 632
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\CreateListing.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\CreateListing.tsx",
+    "name": "CreateListing.tsx",
+    "ext": ".tsx",
+    "size": 624
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\CreateListingForm.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\CreateListingForm.tsx",
+    "name": "CreateListingForm.tsx",
+    "ext": ".tsx",
+    "size": 640
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\cronEscrowAudit.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\cronEscrowAudit.tsx",
+    "name": "cronEscrowAudit.tsx",
+    "ext": ".tsx",
+    "size": 632
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\CrossBorderCommerce.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\CrossBorderCommerce.tsx",
+    "name": "CrossBorderCommerce.tsx",
+    "ext": ".tsx",
+    "size": 648
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\CryptoPayment.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\CryptoPayment.tsx",
+    "name": "CryptoPayment.tsx",
+    "ext": ".tsx",
+    "size": 624
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\css-placeholder-shown.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\css-placeholder-shown.tsx",
+    "name": "css-placeholder-shown.tsx",
+    "ext": ".tsx",
+    "size": 656
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\css-placeholder.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\css-placeholder.tsx",
+    "name": "css-placeholder.tsx",
+    "ext": ".tsx",
+    "size": 632
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\Dashboard.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\Dashboard.tsx",
+    "name": "Dashboard.tsx",
+    "ext": ".tsx",
+    "size": 608
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\db.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\db.tsx",
+    "name": "db.tsx",
+    "ext": ".tsx",
+    "size": 580
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\DDoSProtector.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\DDoSProtector.tsx",
+    "name": "DDoSProtector.tsx",
+    "ext": ".tsx",
+    "size": 624
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\deliveries.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\deliveries.tsx",
+    "name": "deliveries.tsx",
+    "ext": ".tsx",
+    "size": 612
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\Delivery.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\Delivery.tsx",
+    "name": "Delivery.tsx",
+    "ext": ".tsx",
+    "size": 604
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\deliveryClaimRoutes.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\deliveryClaimRoutes.tsx",
+    "name": "deliveryClaimRoutes.tsx",
+    "ext": ".tsx",
+    "size": 648
+  }
+]

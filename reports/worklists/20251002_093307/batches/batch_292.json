@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\OnboardingTrigger.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\OnboardingTrigger.tsx",
+    "name": "OnboardingTrigger.tsx",
+    "ext": ".tsx",
+    "size": 640
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\partnerBucket.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\partnerBucket.tsx",
+    "name": "partnerBucket.tsx",
+    "ext": ".tsx",
+    "size": 624
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\pathFixValidator.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\pathFixValidator.tsx",
+    "name": "pathFixValidator.tsx",
+    "ext": ".tsx",
+    "size": 636
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\paymentController.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\paymentController.tsx",
+    "name": "paymentController.tsx",
+    "ext": ".tsx",
+    "size": 640
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\PaymentForm.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\PaymentForm.tsx",
+    "name": "PaymentForm.tsx",
+    "ext": ".tsx",
+    "size": 616
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\PaymentProcessor.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\PaymentProcessor.tsx",
+    "name": "PaymentProcessor.tsx",
+    "ext": ".tsx",
+    "size": 636
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\payouts.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\payouts.tsx",
+    "name": "payouts.tsx",
+    "ext": ".tsx",
+    "size": 600
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\PerformanceMonitor.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\PerformanceMonitor.tsx",
+    "name": "PerformanceMonitor.tsx",
+    "ext": ".tsx",
+    "size": 644
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\PerformanceOptimizer.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\PerformanceOptimizer.tsx",
+    "name": "PerformanceOptimizer.tsx",
+    "ext": ".tsx",
+    "size": 652
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\performanceValidation.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\performanceValidation.tsx",
+    "name": "performanceValidation.tsx",
+    "ext": ".tsx",
+    "size": 656
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\photoEvidenceRoutes.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\photoEvidenceRoutes.tsx",
+    "name": "photoEvidenceRoutes.tsx",
+    "ext": ".tsx",
+    "size": 648
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\PhotoEvidenceViewer.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\PhotoEvidenceViewer.tsx",
+    "name": "PhotoEvidenceViewer.tsx",
+    "ext": ".tsx",
+    "size": 648
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\PhotoProofUpload.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\PhotoProofUpload.tsx",
+    "name": "PhotoProofUpload.tsx",
+    "ext": ".tsx",
+    "size": 636
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\photoRoutes.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\photoRoutes.tsx",
+    "name": "photoRoutes.tsx",
+    "ext": ".tsx",
+    "size": 616
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\photoUploadRoutes.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\photoUploadRoutes.tsx",
+    "name": "photoUploadRoutes.tsx",
+    "ext": ".tsx",
+    "size": 640
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\placeholder.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\placeholder.tsx",
+    "name": "placeholder.tsx",
+    "ext": ".tsx",
+    "size": 616
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\placeholders.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\placeholders.tsx",
+    "name": "placeholders.tsx",
+    "ext": ".tsx",
+    "size": 620
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\PlatformMonitor.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\PlatformMonitor.tsx",
+    "name": "PlatformMonitor.tsx",
+    "ext": ".tsx",
+    "size": 632
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\PostAuctionInsights.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\PostAuctionInsights.tsx",
+    "name": "PostAuctionInsights.tsx",
+    "ext": ".tsx",
+    "size": 648
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\posts.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\posts.tsx",
+    "name": "posts.tsx",
+    "ext": ".tsx",
+    "size": 592
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\PredictionEngine.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\PredictionEngine.tsx",
+    "name": "PredictionEngine.tsx",
+    "ext": ".tsx",
+    "size": 636
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\PredictiveAssistant.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\PredictiveAssistant.tsx",
+    "name": "PredictiveAssistant.tsx",
+    "ext": ".tsx",
+    "size": 648
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\PredictiveAssistantOld.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\PredictiveAssistantOld.tsx",
+    "name": "PredictiveAssistantOld.tsx",
+    "ext": ".tsx",
+    "size": 660
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\PreferencesSetup.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\PreferencesSetup.tsx",
+    "name": "PreferencesSetup.tsx",
+    "ext": ".tsx",
+    "size": 636
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\PremiumSupportChat.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\PremiumSupportChat.tsx",
+    "name": "PremiumSupportChat.tsx",
+    "ext": ".tsx",
+    "size": 644
+  }
+]

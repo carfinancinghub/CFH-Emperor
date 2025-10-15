@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\Backup_Projects",
+    "rel_path": "CFH\\frontend\\tests\\smoke.test.ts",
+    "full_path": "C:\\Backup_Projects\\CFH\\frontend\\tests\\smoke.test.ts",
+    "name": "smoke.test.ts",
+    "ext": ".ts",
+    "size": 132
+  },
+  {
+    "root": "C:\\Backup_Projects",
+    "rel_path": "CFH\\frontend\\tests\\vitest.smoke.config.ts",
+    "full_path": "C:\\Backup_Projects\\CFH\\frontend\\tests\\vitest.smoke.config.ts",
+    "name": "vitest.smoke.config.ts",
+    "ext": ".ts",
+    "size": 977
+  },
+  {
+    "root": "C:\\Backup_Projects",
+    "rel_path": "CFH\\frontend\\vitest.config.ts",
+    "full_path": "C:\\Backup_Projects\\CFH\\frontend\\vitest.config.ts",
+    "name": "vitest.config.ts",
+    "ext": ".ts",
+    "size": 742
+  },
+  {
+    "root": "C:\\Backup_Projects",
+    "rel_path": "CFH\\md_orphans_review\\ai-valuation-verification-051725.md",
+    "full_path": "C:\\Backup_Projects\\CFH\\md_orphans_review\\ai-valuation-verification-051725.md",
+    "name": "ai-valuation-verification-051725.md",
+    "ext": ".md",
+    "size": 3360
+  },
+  {
+    "root": "C:\\Backup_Projects",
+    "rel_path": "CFH\\md_orphans_review\\ai-valuation-verification-052025.md",
+    "full_path": "C:\\Backup_Projects\\CFH\\md_orphans_review\\ai-valuation-verification-052025.md",
+    "name": "ai-valuation-verification-052025.md",
+    "ext": ".md",
+    "size": 3360
+  },
+  {
+    "root": "C:\\Backup_Projects",
+    "rel_path": "CFH\\md_orphans_review\\batch4.2-compliance-eval-051625.md",
+    "full_path": "C:\\Backup_Projects\\CFH\\md_orphans_review\\batch4.2-compliance-eval-051625.md",
+    "name": "batch4.2-compliance-eval-051625.md",
+    "ext": ".md",
+    "size": 931
+  },
+  {
+    "root": "C:\\Backup_Projects",
+    "rel_path": "CFH\\md_orphans_review\\BuyerBidModalSuite-051925.md",
+    "full_path": "C:\\Backup_Projects\\CFH\\md_orphans_review\\BuyerBidModalSuite-051925.md",
+    "name": "BuyerBidModalSuite-051925.md",
+    "ext": ".md",
+    "size": 7012
+  },
+  {
+    "root": "C:\\Backup_Projects",
+    "rel_path": "CFH\\md_orphans_review\\escrow-files-compliance-051625.md",
+    "full_path": "C:\\Backup_Projects\\CFH\\md_orphans_review\\escrow-files-compliance-051625.md",
+    "name": "escrow-files-compliance-051625.md",
+    "ext": ".md",
+    "size": 2293
+  },
+  {
+    "root": "C:\\Backup_Projects",
+    "rel_path": "CFH\\md_orphans_review\\escrowchainsync-master-summary-051625.md",
+    "full_path": "C:\\Backup_Projects\\CFH\\md_orphans_review\\escrowchainsync-master-summary-051625.md",
+    "name": "escrowchainsync-master-summary-051625.md",
+    "ext": ".md",
+    "size": 5012
+  },
+  {
+    "root": "C:\\Backup_Projects",
+    "rel_path": "CFH\\md_orphans_review\\EscrowValuationCompliance-051825.md",
+    "full_path": "C:\\Backup_Projects\\CFH\\md_orphans_review\\EscrowValuationCompliance-051825.md",
+    "name": "EscrowValuationCompliance-051825.md",
+    "ext": ".md",
+    "size": 2084
+  },
+  {
+    "root": "C:\\Backup_Projects",
+    "rel_path": "CFH\\md_orphans_review\\mini-officer-suite-reanalysis-051725.md",
+    "full_path": "C:\\Backup_Projects\\CFH\\md_orphans_review\\mini-officer-suite-reanalysis-051725.md",
+    "name": "mini-officer-suite-reanalysis-051725.md",
+    "ext": ".md",
+    "size": 14978
+  },
+  {
+    "root": "C:\\Backup_Projects",
+    "rel_path": "CFH\\md_orphans_review\\PreLaunchFiles-Status-052725.md",
+    "full_path": "C:\\Backup_Projects\\CFH\\md_orphans_review\\PreLaunchFiles-Status-052725.md",
+    "name": "PreLaunchFiles-Status-052725.md",
+    "ext": ".md",
+    "size": 5994
+  },
+  {
+    "root": "C:\\Backup_Projects",
+    "rel_path": "CFH\\md_orphans_review\\QualityCheckIssues.md",
+    "full_path": "C:\\Backup_Projects\\CFH\\md_orphans_review\\QualityCheckIssues.md",
+    "name": "QualityCheckIssues.md",
+    "ext": ".md",
+    "size": 0
+  },
+  {
+    "root": "C:\\Backup_Projects",
+    "rel_path": "CFH\\md_orphans_review\\QualityCheckReport.md",
+    "full_path": "C:\\Backup_Projects\\CFH\\md_orphans_review\\QualityCheckReport.md",
+    "name": "QualityCheckReport.md",
+    "ext": ".md",
+    "size": 2879
+  },
+  {
+    "root": "C:\\Backup_Projects",
+    "rel_path": "CFH\\md_orphans_review\\valuation-batch-summary-051725.md",
+    "full_path": "C:\\Backup_Projects\\CFH\\md_orphans_review\\valuation-batch-summary-051725.md",
+    "name": "valuation-batch-summary-051725.md",
+    "ext": ".md",
+    "size": 1555
+  },
+  {
+    "root": "C:\\Backup_Projects",
+    "rel_path": "CFH\\md_orphans_review\\valuation-delivery-summary-051725.md",
+    "full_path": "C:\\Backup_Projects\\CFH\\md_orphans_review\\valuation-delivery-summary-051725.md",
+    "name": "valuation-delivery-summary-051725.md",
+    "ext": ".md",
+    "size": 2818
+  },
+  {
+    "root": "C:\\Backup_Projects",
+    "rel_path": "CFH\\md_orphans_review\\valuation-live-tools-dispatch-051725.md",
+    "full_path": "C:\\Backup_Projects\\CFH\\md_orphans_review\\valuation-live-tools-dispatch-051725.md",
+    "name": "valuation-live-tools-dispatch-051725.md",
+    "ext": ".md",
+    "size": 1405
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "controllers\\lender\\LenderTermsExporter.ts",
+    "full_path": "C:\\CFH\\backend\\controllers\\lender\\LenderTermsExporter.ts",
+    "name": "LenderTermsExporter.ts",
+    "ext": ".ts",
+    "size": 7458
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "routes\\user\\userProfile.ts",
+    "full_path": "C:\\CFH\\backend\\routes\\user\\userProfile.ts",
+    "name": "userProfile.ts",
+    "ext": ".ts",
+    "size": 747
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "routes\\user\\userProfileRoutes.ts",
+    "full_path": "C:\\CFH\\backend\\routes\\user\\userProfileRoutes.ts",
+    "name": "userProfileRoutes.ts",
+    "ext": ".ts",
+    "size": 690
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "routes\\users.js",
+    "full_path": "C:\\CFH\\backend\\routes\\users.js",
+    "name": "users.js",
+    "ext": ".js",
+    "size": 1089
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "routes\\users.ts",
+    "full_path": "C:\\CFH\\backend\\routes\\users.ts",
+    "name": "users.ts",
+    "ext": ".ts",
+    "size": 2855
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "routes\\utils\\photoEvidenceRoutes.js",
+    "full_path": "C:\\CFH\\backend\\routes\\utils\\photoEvidenceRoutes.js",
+    "name": "photoEvidenceRoutes.js",
+    "ext": ".js",
+    "size": 1160
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "routes\\utils\\photoUploadRoutes.js",
+    "full_path": "C:\\CFH\\backend\\routes\\utils\\photoUploadRoutes.js",
+    "name": "photoUploadRoutes.js",
+    "ext": ".js",
+    "size": 1535
+  },
+  {
+    "root": "C:\\CFH\\backend",
+    "rel_path": "routes\\valuation\\valuationRoutes.test.ts",
+    "full_path": "C:\\CFH\\backend\\routes\\valuation\\valuationRoutes.test.ts",
+    "name": "valuationRoutes.test.ts",
+    "ext": ".ts",
+    "size": 1762
+  }
+]

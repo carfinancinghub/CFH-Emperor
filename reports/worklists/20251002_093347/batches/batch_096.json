@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\MechanicShiftPlanner_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\MechanicShiftPlanner_1.jsx",
+    "name": "MechanicShiftPlanner_1.jsx",
+    "ext": ".jsx",
+    "size": 1109
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\MechanicShiftPlanner.test_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\MechanicShiftPlanner.test_1.jsx",
+    "name": "MechanicShiftPlanner.test_1.jsx",
+    "ext": ".jsx",
+    "size": 487
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\MechanicTaskHistoryTable_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\MechanicTaskHistoryTable_1.jsx",
+    "name": "MechanicTaskHistoryTable_1.jsx",
+    "ext": ".jsx",
+    "size": 2145
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\MechanicTaskOutcomeReporter_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\MechanicTaskOutcomeReporter_1.jsx",
+    "name": "MechanicTaskOutcomeReporter_1.jsx",
+    "ext": ".jsx",
+    "size": 2237
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\MechanicTaskReporter_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\MechanicTaskReporter_1.jsx",
+    "name": "MechanicTaskReporter_1.jsx",
+    "ext": ".jsx",
+    "size": 2600
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\MechanicTimelineCelebration_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\MechanicTimelineCelebration_1.jsx",
+    "name": "MechanicTimelineCelebration_1.jsx",
+    "ext": ".jsx",
+    "size": 2262
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\MechanicVRPhotoUploader_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\MechanicVRPhotoUploader_1.jsx",
+    "name": "MechanicVRPhotoUploader_1.jsx",
+    "ext": ".jsx",
+    "size": 2663
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\MechanicVRPreviewViewer_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\MechanicVRPreviewViewer_1.jsx",
+    "name": "MechanicVRPreviewViewer_1.jsx",
+    "ext": ".jsx",
+    "size": 2287
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\MessageBubble_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\MessageBubble_1.jsx",
+    "name": "MessageBubble_1.jsx",
+    "ext": ".jsx",
+    "size": 3001
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\Messaging_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\Messaging_1.jsx",
+    "name": "Messaging_1.jsx",
+    "ext": ".jsx",
+    "size": 5091
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\MissionCompletionLeaderboard_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\MissionCompletionLeaderboard_1.jsx",
+    "name": "MissionCompletionLeaderboard_1.jsx",
+    "ext": ".jsx",
+    "size": 3967
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\MobileAnalytics_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\MobileAnalytics_1.jsx",
+    "name": "MobileAnalytics_1.jsx",
+    "ext": ".jsx",
+    "size": 2482
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\MobileAnalytics.test_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\MobileAnalytics.test_1.jsx",
+    "name": "MobileAnalytics.test_1.jsx",
+    "ext": ".jsx",
+    "size": 2201
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\MobileAuctionView_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\MobileAuctionView_1.jsx",
+    "name": "MobileAuctionView_1.jsx",
+    "ext": ".jsx",
+    "size": 2870
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\MobileAuctionView.test_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\MobileAuctionView.test_1.jsx",
+    "name": "MobileAuctionView.test_1.jsx",
+    "ext": ".jsx",
+    "size": 2971
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\MobileUXEnhancer_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\MobileUXEnhancer_1.jsx",
+    "name": "MobileUXEnhancer_1.jsx",
+    "ext": ".jsx",
+    "size": 4612
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\MockComponent_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\MockComponent_1.jsx",
+    "name": "MockComponent_1.jsx",
+    "ext": ".jsx",
+    "size": 4891
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\MultiLanguageSupport_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\MultiLanguageSupport_1.jsx",
+    "name": "MultiLanguageSupport_1.jsx",
+    "ext": ".jsx",
+    "size": 1636
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\Navbar_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\Navbar_1.jsx",
+    "name": "Navbar_1.jsx",
+    "ext": ".jsx",
+    "size": 2149
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\NavbarMobileToggle_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\NavbarMobileToggle_1.jsx",
+    "name": "NavbarMobileToggle_1.jsx",
+    "ext": ".jsx",
+    "size": 2859
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\NotificationCenter_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\NotificationCenter_1.jsx",
+    "name": "NotificationCenter_1.jsx",
+    "ext": ".jsx",
+    "size": 4305
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\NotificationPreferences_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\NotificationPreferences_1.jsx",
+    "name": "NotificationPreferences_1.jsx",
+    "ext": ".jsx",
+    "size": 5100
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\OfficerDashboard.test_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\OfficerDashboard.test_1.jsx",
+    "name": "OfficerDashboard.test_1.jsx",
+    "ext": ".jsx",
+    "size": 3113
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\OnboardingTrigger_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\OnboardingTrigger_1.jsx",
+    "name": "OnboardingTrigger_1.jsx",
+    "ext": ".jsx",
+    "size": 2364
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\OnboardingWizard_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\OnboardingWizard_1.jsx",
+    "name": "OnboardingWizard_1.jsx",
+    "ext": ".jsx",
+    "size": 4454
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\verificationController_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\verificationController_1.js",
+    "name": "verificationController_1.js",
+    "ext": ".js",
+    "size": 1063
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\verificationController.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\verificationController.js",
+    "name": "verificationController.js",
+    "ext": ".js",
+    "size": 1063
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\VirtualAuctionRoom_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\VirtualAuctionRoom_1.js",
+    "name": "VirtualAuctionRoom_1.js",
+    "ext": ".js",
+    "size": 2113
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\VirtualAuctionRoom.test_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\VirtualAuctionRoom.test_1.js",
+    "name": "VirtualAuctionRoom.test_1.js",
+    "ext": ".js",
+    "size": 3990
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\vite.config_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\vite.config_1.js",
+    "name": "vite.config_1.js",
+    "ext": ".js",
+    "size": 561
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\vite.config.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\vite.config.js",
+    "name": "vite.config.js",
+    "ext": ".js",
+    "size": 561
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\VoiceBidAssistant_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\VoiceBidAssistant_1.js",
+    "name": "VoiceBidAssistant_1.js",
+    "ext": ".js",
+    "size": 2855
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\VoiceBidAssistant.test_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\VoiceBidAssistant.test_1.js",
+    "name": "VoiceBidAssistant.test_1.js",
+    "ext": ".js",
+    "size": 4515
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\VoiceInteraction_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\VoiceInteraction_1.js",
+    "name": "VoiceInteraction_1.js",
+    "ext": ".js",
+    "size": 619
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\votingController_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\votingController_1.js",
+    "name": "votingController_1.js",
+    "ext": ".js",
+    "size": 3296
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\votingController.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\votingController.js",
+    "name": "votingController.js",
+    "ext": ".js",
+    "size": 3296
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\VRInspection_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\VRInspection_1.js",
+    "name": "VRInspection_1.js",
+    "ext": ".js",
+    "size": 1178
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\VRVehicleTour_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\VRVehicleTour_1.js",
+    "name": "VRVehicleTour_1.js",
+    "ext": ".js",
+    "size": 2287
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\VRVehicleTour.test_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\VRVehicleTour.test_1.js",
+    "name": "VRVehicleTour.test_1.js",
+    "ext": ".js",
+    "size": 3791
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\VRViewer_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\VRViewer_1.js",
+    "name": "VRViewer_1.js",
+    "ext": ".js",
+    "size": 553
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\WebSocketCluster_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\WebSocketCluster_1.js",
+    "name": "WebSocketCluster_1.js",
+    "ext": ".js",
+    "size": 1330
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\WebSocketService_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\WebSocketService_1.js",
+    "name": "WebSocketService_1.js",
+    "ext": ".js",
+    "size": 1715
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\WelcomeNotification_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\WelcomeNotification_1.js",
+    "name": "WelcomeNotification_1.js",
+    "ext": ".js",
+    "size": 2372
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\WelcomeNotification.test_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\WelcomeNotification.test_1.js",
+    "name": "WelcomeNotification.test_1.js",
+    "ext": ".js",
+    "size": 3508
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\WowRegression.test_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\WowRegression.test_1.js",
+    "name": "WowRegression.test_1.js",
+    "ext": ".js",
+    "size": 147
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\AchievementPopup_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\AchievementPopup_1.jsx",
+    "name": "AchievementPopup_1.jsx",
+    "ext": ".jsx",
+    "size": 1639
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\AchievementPopup.test_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\AchievementPopup.test_1.jsx",
+    "name": "AchievementPopup.test_1.jsx",
+    "ext": ".jsx",
+    "size": 2246
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\ActivityOverview_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\ActivityOverview_1.jsx",
+    "name": "ActivityOverview_1.jsx",
+    "ext": ".jsx",
+    "size": 2264
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\AdminArbitrationDashboard_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\AdminArbitrationDashboard_1.jsx",
+    "name": "AdminArbitrationDashboard_1.jsx",
+    "ext": ".jsx",
+    "size": 3554
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\AdminAuctionOverview_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\AdminAuctionOverview_1.jsx",
+    "name": "AdminAuctionOverview_1.jsx",
+    "ext": ".jsx",
+    "size": 3991
+  }
+]

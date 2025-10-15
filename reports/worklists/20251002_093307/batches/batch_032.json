@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\admin\\payments\\AdminPaymentOverview.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\admin\\payments\\AdminPaymentOverview.jsx",
+    "name": "AdminPaymentOverview.jsx",
+    "ext": ".jsx",
+    "size": 3803
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\admin\\support\\AdminSupportTickets.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\admin\\support\\AdminSupportTickets.jsx",
+    "name": "AdminSupportTickets.jsx",
+    "ext": ".jsx",
+    "size": 2464
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\admin\\users\\AdminUserManager.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\admin\\users\\AdminUserManager.jsx",
+    "name": "AdminUserManager.jsx",
+    "ext": ".jsx",
+    "size": 4026
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\AdminEmailNotifications.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\AdminEmailNotifications.jsx",
+    "name": "AdminEmailNotifications.jsx",
+    "ext": ".jsx",
+    "size": 5260
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\AdminEmailNotifications.tsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\AdminEmailNotifications.tsx",
+    "name": "AdminEmailNotifications.tsx",
+    "ext": ".tsx",
+    "size": 5278
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\ai\\AIBadgeOverlay.js",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\ai\\AIBadgeOverlay.js",
+    "name": "AIBadgeOverlay.js",
+    "ext": ".js",
+    "size": 2332
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\ai\\AIBadgeOverlay.ts",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\ai\\AIBadgeOverlay.ts",
+    "name": "AIBadgeOverlay.ts",
+    "ext": ".ts",
+    "size": 3294
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\ai\\AIPredictorDashboard.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\ai\\AIPredictorDashboard.jsx",
+    "name": "AIPredictorDashboard.jsx",
+    "ext": ".jsx",
+    "size": 5301
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\ai\\AIPredictorDashboard.tsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\ai\\AIPredictorDashboard.tsx",
+    "name": "AIPredictorDashboard.tsx",
+    "ext": ".tsx",
+    "size": 7558
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\ai\\AIScorePanel.js",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\ai\\AIScorePanel.js",
+    "name": "AIScorePanel.js",
+    "ext": ".js",
+    "size": 2311
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\ai\\AIScorePanel.ts",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\ai\\AIScorePanel.ts",
+    "name": "AIScorePanel.ts",
+    "ext": ".ts",
+    "size": 3435
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\ai\\BidConfidenceMeter.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\ai\\BidConfidenceMeter.jsx",
+    "name": "BidConfidenceMeter.jsx",
+    "ext": ".jsx",
+    "size": 3655
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\ai\\BidConfidenceMeter.tsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\ai\\BidConfidenceMeter.tsx",
+    "name": "BidConfidenceMeter.tsx",
+    "ext": ".tsx",
+    "size": 4640
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\ai\\bidding\\CompetitiveBiddingInterface.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\ai\\bidding\\CompetitiveBiddingInterface.jsx",
+    "name": "CompetitiveBiddingInterface.jsx",
+    "ext": ".jsx",
+    "size": 4012
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\ai\\BidStrategyAdvisor.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\ai\\BidStrategyAdvisor.jsx",
+    "name": "BidStrategyAdvisor.jsx",
+    "ext": ".jsx",
+    "size": 2683
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\ai\\BidStrategyAdvisor.tsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\ai\\BidStrategyAdvisor.tsx",
+    "name": "BidStrategyAdvisor.tsx",
+    "ext": ".tsx",
+    "size": 3572
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\ai\\PredictiveComparison.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\ai\\PredictiveComparison.jsx",
+    "name": "PredictiveComparison.jsx",
+    "ext": ".jsx",
+    "size": 5322
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\ai\\PredictiveComparison.tsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\ai\\PredictiveComparison.tsx",
+    "name": "PredictiveComparison.tsx",
+    "ext": ".tsx",
+    "size": 6515
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\ai\\SmartInsightsWidget.js",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\ai\\SmartInsightsWidget.js",
+    "name": "SmartInsightsWidget.js",
+    "ext": ".js",
+    "size": 2771
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\ai\\SmartInsightsWidget.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\ai\\SmartInsightsWidget.jsx",
+    "name": "SmartInsightsWidget.jsx",
+    "ext": ".jsx",
+    "size": 2704
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\ai\\SmartInsightsWidget.ts",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\ai\\SmartInsightsWidget.ts",
+    "name": "SmartInsightsWidget.ts",
+    "ext": ".ts",
+    "size": 3915
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\ai\\SmartInsightsWidget.tsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\ai\\SmartInsightsWidget.tsx",
+    "name": "SmartInsightsWidget.tsx",
+    "ext": ".tsx",
+    "size": 4122
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\ai\\TrustScoreViewer.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\ai\\TrustScoreViewer.jsx",
+    "name": "TrustScoreViewer.jsx",
+    "ext": ".jsx",
+    "size": 3906
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\ai\\TrustScoreViewer.tsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\ai\\TrustScoreViewer.tsx",
+    "name": "TrustScoreViewer.tsx",
+    "ext": ".tsx",
+    "size": 5416
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\ai\\ValuationAssistant.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\ai\\ValuationAssistant.jsx",
+    "name": "ValuationAssistant.jsx",
+    "ext": ".jsx",
+    "size": 2443
+  }
+]

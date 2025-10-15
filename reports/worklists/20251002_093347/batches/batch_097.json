@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\OnboardingWizard.test_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\OnboardingWizard.test_1.jsx",
+    "name": "OnboardingWizard.test_1.jsx",
+    "ext": ".jsx",
+    "size": 3100
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\PartnerPortal_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\PartnerPortal_1.jsx",
+    "name": "PartnerPortal_1.jsx",
+    "ext": ".jsx",
+    "size": 981
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\PDFPreviewModal_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\PDFPreviewModal_1.jsx",
+    "name": "PDFPreviewModal_1.jsx",
+    "ext": ".jsx",
+    "size": 2748
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\PhotoProofUpload_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\PhotoProofUpload_1.jsx",
+    "name": "PhotoProofUpload_1.jsx",
+    "ext": ".jsx",
+    "size": 2493
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\PointsHistory_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\PointsHistory_1.jsx",
+    "name": "PointsHistory_1.jsx",
+    "ext": ".jsx",
+    "size": 4105
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\PointsHistory.test_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\PointsHistory.test_1.jsx",
+    "name": "PointsHistory.test_1.jsx",
+    "ext": ".jsx",
+    "size": 3455
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\PredictiveAssistant_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\PredictiveAssistant_1.jsx",
+    "name": "PredictiveAssistant_1.jsx",
+    "ext": ".jsx",
+    "size": 4538
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\PredictiveComparison_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\PredictiveComparison_1.jsx",
+    "name": "PredictiveComparison_1.jsx",
+    "ext": ".jsx",
+    "size": 5322
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\PredictiveComparison.test_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\PredictiveComparison.test_1.jsx",
+    "name": "PredictiveComparison.test_1.jsx",
+    "ext": ".jsx",
+    "size": 13651
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\PredictiveGraph_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\PredictiveGraph_1.jsx",
+    "name": "PredictiveGraph_1.jsx",
+    "ext": ".jsx",
+    "size": 4126
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\PredictiveGraph.test_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\PredictiveGraph.test_1.jsx",
+    "name": "PredictiveGraph.test_1.jsx",
+    "ext": ".jsx",
+    "size": 2208
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\PremiumBadge.test_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\PremiumBadge.test_1.jsx",
+    "name": "PremiumBadge.test_1.jsx",
+    "ext": ".jsx",
+    "size": 608
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\PremiumBadgeHintCard_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\PremiumBadgeHintCard_1.jsx",
+    "name": "PremiumBadgeHintCard_1.jsx",
+    "ext": ".jsx",
+    "size": 2320
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\PremiumDashboard_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\PremiumDashboard_1.jsx",
+    "name": "PremiumDashboard_1.jsx",
+    "ext": ".jsx",
+    "size": 3825
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\PremiumDashboard.test_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\PremiumDashboard.test_1.jsx",
+    "name": "PremiumDashboard.test_1.jsx",
+    "ext": ".jsx",
+    "size": 2584
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\PremiumFeature_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\PremiumFeature_1.jsx",
+    "name": "PremiumFeature_1.jsx",
+    "ext": ".jsx",
+    "size": 1903
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\PricingInsights_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\PricingInsights_1.jsx",
+    "name": "PricingInsights_1.jsx",
+    "ext": ".jsx",
+    "size": 3020
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\PricingInsights.test_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\PricingInsights.test_1.jsx",
+    "name": "PricingInsights.test_1.jsx",
+    "ext": ".jsx",
+    "size": 2606
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\ProtectedRoute_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\ProtectedRoute_1.jsx",
+    "name": "ProtectedRoute_1.jsx",
+    "ext": ".jsx",
+    "size": 402
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\RecommendedAuctions_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\RecommendedAuctions_1.jsx",
+    "name": "RecommendedAuctions_1.jsx",
+    "ext": ".jsx",
+    "size": 2767
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\RecommendedAuctions.test_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\RecommendedAuctions.test_1.jsx",
+    "name": "RecommendedAuctions.test_1.jsx",
+    "ext": ".jsx",
+    "size": 2586
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\ReferralProgram_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\ReferralProgram_1.jsx",
+    "name": "ReferralProgram_1.jsx",
+    "ext": ".jsx",
+    "size": 3723
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\ReferralProgram.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\ReferralProgram.jsx",
+    "name": "ReferralProgram.jsx",
+    "ext": ".jsx",
+    "size": 3723
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\Register_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\Register_1.jsx",
+    "name": "Register_1.jsx",
+    "ext": ".jsx",
+    "size": 3141
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\jsx\\RepairScheduler_1.jsx",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\jsx\\RepairScheduler_1.jsx",
+    "name": "RepairScheduler_1.jsx",
+    "ext": ".jsx",
+    "size": 2692
+  }
+]

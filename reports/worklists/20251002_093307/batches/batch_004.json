@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\Backup_Projects",
+    "rel_path": "CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\sellerexportpanel.test.skip.tsx",
+    "full_path": "C:\\Backup_Projects\\CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\sellerexportpanel.test.skip.tsx",
+    "name": "sellerexportpanel.test.skip.tsx",
+    "ext": ".tsx",
+    "size": 160
+  },
+  {
+    "root": "C:\\Backup_Projects",
+    "rel_path": "CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\sellerreputationdashboard.test.skip.ts",
+    "full_path": "C:\\Backup_Projects\\CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\sellerreputationdashboard.test.skip.ts",
+    "name": "sellerreputationdashboard.test.skip.ts",
+    "ext": ".ts",
+    "size": 167
+  },
+  {
+    "root": "C:\\Backup_Projects",
+    "rel_path": "CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\sellerreputationdashboard.test.skip.tsx",
+    "full_path": "C:\\Backup_Projects\\CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\sellerreputationdashboard.test.skip.tsx",
+    "name": "sellerreputationdashboard.test.skip.tsx",
+    "ext": ".tsx",
+    "size": 168
+  },
+  {
+    "root": "C:\\Backup_Projects",
+    "rel_path": "CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\taskcompletionbutton.test.skip.tsx",
+    "full_path": "C:\\Backup_Projects\\CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\taskcompletionbutton.test.skip.tsx",
+    "name": "taskcompletionbutton.test.skip.tsx",
+    "ext": ".tsx",
+    "size": 163
+  },
+  {
+    "root": "C:\\Backup_Projects",
+    "rel_path": "CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\vehiclehealthtrendcharts.test.skip.tsx",
+    "full_path": "C:\\Backup_Projects\\CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\vehiclehealthtrendcharts.test.skip.tsx",
+    "name": "vehiclehealthtrendcharts.test.skip.tsx",
+    "ext": ".tsx",
+    "size": 167
+  },
+  {
+    "root": "C:\\Backup_Projects",
+    "rel_path": "CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\vehicleinspectionmodule.test.skip.tsx",
+    "full_path": "C:\\Backup_Projects\\CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\vehicleinspectionmodule.test.skip.tsx",
+    "name": "vehicleinspectionmodule.test.skip.tsx",
+    "ext": ".tsx",
+    "size": 166
+  },
+  {
+    "root": "C:\\Backup_Projects",
+    "rel_path": "CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\vindecoder.test.skip.tsx",
+    "full_path": "C:\\Backup_Projects\\CFH\\frontend\\.tmp_tests\\autofix_eof_20250910_112731\\tests\\vindecoder.test.skip.tsx",
+    "name": "vindecoder.test.skip.tsx",
+    "ext": ".tsx",
+    "size": 153
+  },
+  {
+    "root": "C:\\Backup_Projects",
+    "rel_path": "CFH\\frontend\\.tmp_tests\\final_clean_20250910_105019\\env.smoke.test.ts",
+    "full_path": "C:\\Backup_Projects\\CFH\\frontend\\.tmp_tests\\final_clean_20250910_105019\\env.smoke.test.ts",
+    "name": "env.smoke.test.ts",
+    "ext": ".ts",
+    "size": 295
+  },
+  {
+    "root": "C:\\Backup_Projects",
+    "rel_path": "CFH\\frontend\\.tmp_tests\\final_clean_20250910_105019\\renderWithProviders.tsx",
+    "full_path": "C:\\Backup_Projects\\CFH\\frontend\\.tmp_tests\\final_clean_20250910_105019\\renderWithProviders.tsx",
+    "name": "renderWithProviders.tsx",
+    "ext": ".tsx",
+    "size": 1000
+  },
+  {
+    "root": "C:\\Backup_Projects",
+    "rel_path": "CFH\\frontend\\.tmp_tests\\final_clean_20250910_105019\\vitest.setup.ts",
+    "full_path": "C:\\Backup_Projects\\CFH\\frontend\\.tmp_tests\\final_clean_20250910_105019\\vitest.setup.ts",
+    "name": "vitest.setup.ts",
+    "ext": ".ts",
+    "size": 6460
+  },
+  {
+    "root": "C:\\Backup_Projects",
+    "rel_path": "CFH\\frontend\\.tmp_tests\\full_fix_20250911_184856\\tests\\_sanity\\basic.test.ts",
+    "full_path": "C:\\Backup_Projects\\CFH\\frontend\\.tmp_tests\\full_fix_20250911_184856\\tests\\_sanity\\basic.test.ts",
+    "name": "basic.test.ts",
+    "ext": ".ts",
+    "size": 102
+  },
+  {
+    "root": "C:\\Backup_Projects",
+    "rel_path": "CFH\\frontend\\.tmp_tests\\mocks\\Spinner.tsx",
+    "full_path": "C:\\Backup_Projects\\CFH\\frontend\\.tmp_tests\\mocks\\Spinner.tsx",
+    "name": "Spinner.tsx",
+    "ext": ".tsx",
+    "size": 104
+  },
+  {
+    "root": "C:\\Backup_Projects",
+    "rel_path": "CFH\\frontend\\.tmp_tests\\rename_jsx_conflicts_20250910_104754\\aibadgeoverlay.test.jsx",
+    "full_path": "C:\\Backup_Projects\\CFH\\frontend\\.tmp_tests\\rename_jsx_conflicts_20250910_104754\\aibadgeoverlay.test.jsx",
+    "name": "aibadgeoverlay.test.jsx",
+    "ext": ".jsx",
+    "size": 1340
+  },
+  {
+    "root": "C:\\Backup_Projects",
+    "rel_path": "CFH\\frontend\\.tmp_tests\\rename_jsx_conflicts_20250910_104754\\aiscorepanel.test.jsx",
+    "full_path": "C:\\Backup_Projects\\CFH\\frontend\\.tmp_tests\\rename_jsx_conflicts_20250910_104754\\aiscorepanel.test.jsx",
+    "name": "aiscorepanel.test.jsx",
+    "ext": ".jsx",
+    "size": 1236
+  },
+  {
+    "root": "C:\\Backup_Projects",
+    "rel_path": "CFH\\frontend\\.tmp_tests\\rename_jsx_conflicts_20250910_104754\\buyerlenderresults.test.jsx",
+    "full_path": "C:\\Backup_Projects\\CFH\\frontend\\.tmp_tests\\rename_jsx_conflicts_20250910_104754\\buyerlenderresults.test.jsx",
+    "name": "buyerlenderresults.test.jsx",
+    "ext": ".jsx",
+    "size": 3236
+  },
+  {
+    "root": "C:\\Backup_Projects",
+    "rel_path": "CFH\\frontend\\.tmp_tests\\rename_jsx_conflicts_20250910_104754\\cartransportcoordination.test.jsx",
+    "full_path": "C:\\Backup_Projects\\CFH\\frontend\\.tmp_tests\\rename_jsx_conflicts_20250910_104754\\cartransportcoordination.test.jsx",
+    "name": "cartransportcoordination.test.jsx",
+    "ext": ".jsx",
+    "size": 6934
+  },
+  {
+    "root": "C:\\Backup_Projects",
+    "rel_path": "CFH\\frontend\\.tmp_tests\\rename_jsx_conflicts_20250910_104754\\collaborationchat.test.jsx",
+    "full_path": "C:\\Backup_Projects\\CFH\\frontend\\.tmp_tests\\rename_jsx_conflicts_20250910_104754\\collaborationchat.test.jsx",
+    "name": "collaborationchat.test.jsx",
+    "ext": ".jsx",
+    "size": 3736
+  },
+  {
+    "root": "C:\\Backup_Projects",
+    "rel_path": "CFH\\frontend\\.tmp_tests\\rename_jsx_conflicts_20250910_104754\\lenderexportpanel.test.jsx",
+    "full_path": "C:\\Backup_Projects\\CFH\\frontend\\.tmp_tests\\rename_jsx_conflicts_20250910_104754\\lenderexportpanel.test.jsx",
+    "name": "lenderexportpanel.test.jsx",
+    "ext": ".jsx",
+    "size": 2267
+  },
+  {
+    "root": "C:\\Backup_Projects",
+    "rel_path": "CFH\\frontend\\.tmp_tests\\rename_jsx_conflicts_20250910_104754\\smartinsightswidget.test.jsx",
+    "full_path": "C:\\Backup_Projects\\CFH\\frontend\\.tmp_tests\\rename_jsx_conflicts_20250910_104754\\smartinsightswidget.test.jsx",
+    "name": "smartinsightswidget.test.jsx",
+    "ext": ".jsx",
+    "size": 1720
+  },
+  {
+    "root": "C:\\Backup_Projects",
+    "rel_path": "CFH\\frontend\\.tmp_tests\\vitest.min.config.backup_20250911_202503.ts",
+    "full_path": "C:\\Backup_Projects\\CFH\\frontend\\.tmp_tests\\vitest.min.config.backup_20250911_202503.ts",
+    "name": "vitest.min.config.backup_20250911_202503.ts",
+    "ext": ".ts",
+    "size": 1070
+  },
+  {
+    "root": "C:\\Backup_Projects",
+    "rel_path": "CFH\\frontend\\docs\\SG_CORRECTIONS_COD1.md",
+    "full_path": "C:\\Backup_Projects\\CFH\\frontend\\docs\\SG_CORRECTIONS_COD1.md",
+    "name": "SG_CORRECTIONS_COD1.md",
+    "ext": ".md",
+    "size": 1087
+  },
+  {
+    "root": "C:\\Backup_Projects",
+    "rel_path": "CFH\\frontend\\eslint.config.js",
+    "full_path": "C:\\Backup_Projects\\CFH\\frontend\\eslint.config.js",
+    "name": "eslint.config.js",
+    "ext": ".js",
+    "size": 648
+  },
+  {
+    "root": "C:\\Backup_Projects",
+    "rel_path": "CFH\\frontend\\src\\main.tsx",
+    "full_path": "C:\\Backup_Projects\\CFH\\frontend\\src\\main.tsx",
+    "name": "main.tsx",
+    "ext": ".tsx",
+    "size": 186
+  },
+  {
+    "root": "C:\\Backup_Projects",
+    "rel_path": "CFH\\frontend\\tests\\_shims\\react-toastify.ts",
+    "full_path": "C:\\Backup_Projects\\CFH\\frontend\\tests\\_shims\\react-toastify.ts",
+    "name": "react-toastify.ts",
+    "ext": ".ts",
+    "size": 66
+  },
+  {
+    "root": "C:\\Backup_Projects",
+    "rel_path": "CFH\\frontend\\tests\\setupTests.ts",
+    "full_path": "C:\\Backup_Projects\\CFH\\frontend\\tests\\setupTests.ts",
+    "name": "setupTests.ts",
+    "ext": ".ts",
+    "size": 37
+  }
+]

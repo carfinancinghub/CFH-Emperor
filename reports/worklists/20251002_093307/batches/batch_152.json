@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\LenderMatchEngine_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\LenderMatchEngine_1.ts",
+    "name": "LenderMatchEngine_1.ts",
+    "ext": ".ts",
+    "size": 342
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\LenderMatchListView_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\LenderMatchListView_1.ts",
+    "name": "LenderMatchListView_1.ts",
+    "ext": ".ts",
+    "size": 1837
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\LenderMatchListView.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\LenderMatchListView.test_1.ts",
+    "name": "LenderMatchListView.test_1.ts",
+    "ext": ".ts",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\LenderMatchListView.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\LenderMatchListView.test.ts",
+    "name": "LenderMatchListView.test.ts",
+    "ext": ".ts",
+    "size": 50
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\LenderMatchListView.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\LenderMatchListView.ts",
+    "name": "LenderMatchListView.ts",
+    "ext": ".ts",
+    "size": 1837
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\LenderMatchPreviewCard_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\LenderMatchPreviewCard_1.ts",
+    "name": "LenderMatchPreviewCard_1.ts",
+    "ext": ".ts",
+    "size": 2437
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\LenderMatchPreviewCard.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\LenderMatchPreviewCard.test_1.ts",
+    "name": "LenderMatchPreviewCard.test_1.ts",
+    "ext": ".ts",
+    "size": 53
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\LenderMatchPreviewCard.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\LenderMatchPreviewCard.test.ts",
+    "name": "LenderMatchPreviewCard.test.ts",
+    "ext": ".ts",
+    "size": 53
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\LenderMatchPreviewCard.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\LenderMatchPreviewCard.ts",
+    "name": "LenderMatchPreviewCard.ts",
+    "ext": ".ts",
+    "size": 2437
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\LenderOnboardingForm_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\LenderOnboardingForm_1.ts",
+    "name": "LenderOnboardingForm_1.ts",
+    "ext": ".ts",
+    "size": 4702
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\LenderOnboardingForm.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\LenderOnboardingForm.test_1.ts",
+    "name": "LenderOnboardingForm.test_1.ts",
+    "ext": ".ts",
+    "size": 51
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\LenderOnboardingForm.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\LenderOnboardingForm.test.ts",
+    "name": "LenderOnboardingForm.test.ts",
+    "ext": ".ts",
+    "size": 51
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\LenderOnboardingForm.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\LenderOnboardingForm.ts",
+    "name": "LenderOnboardingForm.ts",
+    "ext": ".ts",
+    "size": 4702
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\LenderPreApprovalDashboard_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\LenderPreApprovalDashboard_1.ts",
+    "name": "LenderPreApprovalDashboard_1.ts",
+    "ext": ".ts",
+    "size": 5333
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\LenderPreApprovalDashboard.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\LenderPreApprovalDashboard.test_1.ts",
+    "name": "LenderPreApprovalDashboard.test_1.ts",
+    "ext": ".ts",
+    "size": 57
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\LenderPreApprovalDashboard.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\LenderPreApprovalDashboard.test.ts",
+    "name": "LenderPreApprovalDashboard.test.ts",
+    "ext": ".ts",
+    "size": 57
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\LenderPreApprovalDashboard.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\LenderPreApprovalDashboard.ts",
+    "name": "LenderPreApprovalDashboard.ts",
+    "ext": ".ts",
+    "size": 5333
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\LenderProfilePage_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\LenderProfilePage_1.ts",
+    "name": "LenderProfilePage_1.ts",
+    "ext": ".ts",
+    "size": 4432
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\LenderProfilePage.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\LenderProfilePage.test_1.ts",
+    "name": "LenderProfilePage.test_1.ts",
+    "ext": ".ts",
+    "size": 48
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\LenderProfilePage.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\LenderProfilePage.test.ts",
+    "name": "LenderProfilePage.test.ts",
+    "ext": ".ts",
+    "size": 48
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\LenderProfilePage.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\LenderProfilePage.ts",
+    "name": "LenderProfilePage.ts",
+    "ext": ".ts",
+    "size": 4432
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\lenderReputationController_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\lenderReputationController_1.ts",
+    "name": "lenderReputationController_1.ts",
+    "ext": ".ts",
+    "size": 2760
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\lenderReputationController.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\lenderReputationController.test_1.ts",
+    "name": "lenderReputationController.test_1.ts",
+    "ext": ".ts",
+    "size": 2271
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\lenderReputationController.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\lenderReputationController.test.ts",
+    "name": "lenderReputationController.test.ts",
+    "ext": ".ts",
+    "size": 2271
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\lenderReputationController.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\lenderReputationController.ts",
+    "name": "lenderReputationController.ts",
+    "ext": ".ts",
+    "size": 2760
+  }
+]

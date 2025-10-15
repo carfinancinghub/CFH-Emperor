@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "auctionExportUtils.md",
+    "full_path": "C:\\CFH\\docs\\auctionExportUtils.md",
+    "name": "auctionExportUtils.md",
+    "ext": ".md",
+    "size": 2257
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "backend\\constants.md",
+    "full_path": "C:\\CFH\\docs\\backend\\constants.md",
+    "name": "constants.md",
+    "ext": ".md",
+    "size": 1734
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "backend\\utils\\RiskAssessmentEngine.md",
+    "full_path": "C:\\CFH\\docs\\backend\\utils\\RiskAssessmentEngine.md",
+    "name": "RiskAssessmentEngine.md",
+    "ext": ".md",
+    "size": 1474
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "BlockchainAdapter.md",
+    "full_path": "C:\\CFH\\docs\\BlockchainAdapter.md",
+    "name": "BlockchainAdapter.md",
+    "ext": ".md",
+    "size": 2625
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "BlockchainTransparency.md",
+    "full_path": "C:\\CFH\\docs\\BlockchainTransparency.md",
+    "name": "BlockchainTransparency.md",
+    "ext": ".md",
+    "size": 836
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "CarTransportCoordination.md",
+    "full_path": "C:\\CFH\\docs\\CarTransportCoordination.md",
+    "name": "CarTransportCoordination.md",
+    "ext": ".md",
+    "size": 2848
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "compliance\\auctionExportUtils-compliance-AuctionExport-052625.md",
+    "full_path": "C:\\CFH\\docs\\compliance\\auctionExportUtils-compliance-AuctionExport-052625.md",
+    "name": "auctionExportUtils-compliance-AuctionExport-052625.md",
+    "ext": ".md",
+    "size": 700
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "compliance\\BlockchainAdapter-compliance-Blockchain-052625.md",
+    "full_path": "C:\\CFH\\docs\\compliance\\BlockchainAdapter-compliance-Blockchain-052625.md",
+    "name": "BlockchainAdapter-compliance-Blockchain-052625.md",
+    "ext": ".md",
+    "size": 888
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "compliance\\CurrencyConverterWidget-compliance-Valuation-Support-052725.md",
+    "full_path": "C:\\CFH\\docs\\compliance\\CurrencyConverterWidget-compliance-Valuation-Support-052725.md",
+    "name": "CurrencyConverterWidget-compliance-Valuation-Support-052725.md",
+    "ext": ".md",
+    "size": 875
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "compliance\\DisputeRadarWidget-functions-compliance-Docs-052725.md",
+    "full_path": "C:\\CFH\\docs\\compliance\\DisputeRadarWidget-functions-compliance-Docs-052725.md",
+    "name": "DisputeRadarWidget-functions-compliance-Docs-052725.md",
+    "ext": ".md",
+    "size": 830
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "compliance\\EscrowValuationCompliance-compliance-Docs-052725.md",
+    "full_path": "C:\\CFH\\docs\\compliance\\EscrowValuationCompliance-compliance-Docs-052725.md",
+    "name": "EscrowValuationCompliance-compliance-Docs-052725.md",
+    "ext": ".md",
+    "size": 921
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "compliance\\GraphExportService-compliance-Graph-Support-052725.md",
+    "full_path": "C:\\CFH\\docs\\compliance\\GraphExportService-compliance-Graph-Support-052725.md",
+    "name": "GraphExportService-compliance-Graph-Support-052725.md",
+    "ext": ".md",
+    "size": 821
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "compliance\\logger-compliance-CoreUtils-052625.md",
+    "full_path": "C:\\CFH\\docs\\compliance\\logger-compliance-CoreUtils-052625.md",
+    "name": "logger-compliance-CoreUtils-052625.md",
+    "ext": ".md",
+    "size": 919
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "compliance\\MLModel-compliance-AI-052725.md",
+    "full_path": "C:\\CFH\\docs\\compliance\\MLModel-compliance-AI-052725.md",
+    "name": "MLModel-compliance-AI-052725.md",
+    "ext": ".md",
+    "size": 702
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "compliance\\PredictionUpdatesWS-compliance-AI-Support-052725.md",
+    "full_path": "C:\\CFH\\docs\\compliance\\PredictionUpdatesWS-compliance-AI-Support-052725.md",
+    "name": "PredictionUpdatesWS-compliance-AI-Support-052725.md",
+    "ext": ".md",
+    "size": 806
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "compliance\\PredictiveGraph-compliance-Graph-052725.md",
+    "full_path": "C:\\CFH\\docs\\compliance\\PredictiveGraph-compliance-Graph-052725.md",
+    "name": "PredictiveGraph-compliance-Graph-052725.md",
+    "ext": ".md",
+    "size": 766
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "compliance\\SocialShareHelper-compliance-Share-052725.md",
+    "full_path": "C:\\CFH\\docs\\compliance\\SocialShareHelper-compliance-Share-052725.md",
+    "name": "SocialShareHelper-compliance-Share-052725.md",
+    "ext": ".md",
+    "size": 1155
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "compliance\\validateInput-compliance-Validation-052725.md",
+    "full_path": "C:\\CFH\\docs\\compliance\\validateInput-compliance-Validation-052725.md",
+    "name": "validateInput-compliance-Validation-052725.md",
+    "ext": ".md",
+    "size": 770
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "compliance\\ValuationDisplay-compliance-Valuation-052725.md",
+    "full_path": "C:\\CFH\\docs\\compliance\\ValuationDisplay-compliance-Valuation-052725.md",
+    "name": "ValuationDisplay-compliance-Valuation-052725.md",
+    "ext": ".md",
+    "size": 788
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "conversion_batch_1.md",
+    "full_path": "C:\\CFH\\docs\\conversion_batch_1.md",
+    "name": "conversion_batch_1.md",
+    "ext": ".md",
+    "size": 3355
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "conversion_batch_2.md",
+    "full_path": "C:\\CFH\\docs\\conversion_batch_2.md",
+    "name": "conversion_batch_2.md",
+    "ext": ".md",
+    "size": 10674
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "conversion_batch_3.md",
+    "full_path": "C:\\CFH\\docs\\conversion_batch_3.md",
+    "name": "conversion_batch_3.md",
+    "ext": ".md",
+    "size": 10674
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "conversion_batch_4.md",
+    "full_path": "C:\\CFH\\docs\\conversion_batch_4.md",
+    "name": "conversion_batch_4.md",
+    "ext": ".md",
+    "size": 12828
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "conversion_batch_5.md",
+    "full_path": "C:\\CFH\\docs\\conversion_batch_5.md",
+    "name": "conversion_batch_5.md",
+    "ext": ".md",
+    "size": 760
+  },
+  {
+    "root": "C:\\CFH\\docs",
+    "rel_path": "CurrencyConverterWidget.md",
+    "full_path": "C:\\CFH\\docs\\CurrencyConverterWidget.md",
+    "name": "CurrencyConverterWidget.md",
+    "ext": ".md",
+    "size": 1345
+  }
+]

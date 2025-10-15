@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\VirtualAuctionRoom.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\VirtualAuctionRoom.tsx",
+    "name": "VirtualAuctionRoom.tsx",
+    "ext": ".tsx",
+    "size": 644
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\VoiceBidAssistant.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\VoiceBidAssistant.tsx",
+    "name": "VoiceBidAssistant.tsx",
+    "ext": ".tsx",
+    "size": 640
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\vote.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\vote.tsx",
+    "name": "vote.tsx",
+    "ext": ".tsx",
+    "size": 588
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\VRInspection.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\VRInspection.tsx",
+    "name": "VRInspection.tsx",
+    "ext": ".tsx",
+    "size": 620
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\VRVehicleTour.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\VRVehicleTour.tsx",
+    "name": "VRVehicleTour.tsx",
+    "ext": ".tsx",
+    "size": 624
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\watchlist.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\watchlist.tsx",
+    "name": "watchlist.tsx",
+    "ext": ".tsx",
+    "size": 608
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\WebSocketCluster.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\WebSocketCluster.tsx",
+    "name": "WebSocketCluster.tsx",
+    "ext": ".tsx",
+    "size": 636
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\WebSocketService.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\WebSocketService.tsx",
+    "name": "WebSocketService.tsx",
+    "ext": ".tsx",
+    "size": 636
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "src\\WelcomeNotification.tsx",
+    "full_path": "C:\\CFH\\TruthSource\\src\\WelcomeNotification.tsx",
+    "name": "WelcomeNotification.tsx",
+    "ext": ".tsx",
+    "size": 648
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "types\\global-shims.d.ts",
+    "full_path": "C:\\CFH\\TruthSource\\types\\global-shims.d.ts",
+    "name": "global-shims.d.ts",
+    "ext": ".ts",
+    "size": 304
+  },
+  {
+    "root": "M:\\cfh",
+    "rel_path": "archive\\adminBucket.js",
+    "full_path": "M:\\CFH\\archive\\adminBucket.js",
+    "name": "adminBucket.js",
+    "ext": ".js",
+    "size": 1412
+  },
+  {
+    "root": "M:\\cfh",
+    "rel_path": "archive\\arbitratorBucket.js",
+    "full_path": "M:\\CFH\\archive\\arbitratorBucket.js",
+    "name": "arbitratorBucket.js",
+    "ext": ".js",
+    "size": 4396
+  },
+  {
+    "root": "M:\\cfh",
+    "rel_path": "archive\\ArbitratorDashboard.js",
+    "full_path": "M:\\CFH\\archive\\ArbitratorDashboard.js",
+    "name": "ArbitratorDashboard.js",
+    "ext": ".js",
+    "size": 3810
+  },
+  {
+    "root": "M:\\cfh",
+    "rel_path": "archive\\auctionExportUtils-summary-compliance-AuctionExport-052625.md",
+    "full_path": "M:\\CFH\\archive\\auctionExportUtils-summary-compliance-AuctionExport-052625.md",
+    "name": "auctionExportUtils-summary-compliance-AuctionExport-052625.md",
+    "ext": ".md",
+    "size": 736
+  },
+  {
+    "root": "M:\\cfh",
+    "rel_path": "archive\\auctionExportUtils-test-compliance-AuctionExport-052625.md",
+    "full_path": "M:\\CFH\\archive\\auctionExportUtils-test-compliance-AuctionExport-052625.md",
+    "name": "auctionExportUtils-test-compliance-AuctionExport-052625.md",
+    "ext": ".md",
+    "size": 735
+  },
+  {
+    "root": "M:\\cfh",
+    "rel_path": "archive\\auctionExportUtils.js",
+    "full_path": "M:\\CFH\\archive\\auctionExportUtils.js",
+    "name": "auctionExportUtils.js",
+    "ext": ".js",
+    "size": 7981
+  },
+  {
+    "root": "M:\\cfh",
+    "rel_path": "archive\\auctionExportUtils.test.js",
+    "full_path": "M:\\CFH\\archive\\auctionExportUtils.test.js",
+    "name": "auctionExportUtils.test.js",
+    "ext": ".js",
+    "size": 4339
+  },
+  {
+    "root": "M:\\cfh",
+    "rel_path": "archive\\buyerBucket.js",
+    "full_path": "M:\\CFH\\archive\\buyerBucket.js",
+    "name": "buyerBucket.js",
+    "ext": ".js",
+    "size": 2860
+  },
+  {
+    "root": "M:\\cfh",
+    "rel_path": "archive\\CarTransportCoordination.test05040053.js",
+    "full_path": "M:\\CFH\\archive\\CarTransportCoordination.test05040053.js",
+    "name": "CarTransportCoordination.test05040053.js",
+    "ext": ".js",
+    "size": 3959
+  },
+  {
+    "root": "M:\\cfh",
+    "rel_path": "archive\\components\\PredictiveGraph_v052725.jsx",
+    "full_path": "M:\\CFH\\archive\\components\\PredictiveGraph_v052725.jsx",
+    "name": "PredictiveGraph_v052725.jsx",
+    "ext": ".jsx",
+    "size": 4126
+  },
+  {
+    "root": "M:\\cfh",
+    "rel_path": "archive\\components\\PredictiveGraph_v1.0_20250612.tsx",
+    "full_path": "M:\\CFH\\archive\\components\\PredictiveGraph_v1.0_20250612.tsx",
+    "name": "PredictiveGraph_v1.0_20250612.tsx",
+    "ext": ".tsx",
+    "size": 750
+  },
+  {
+    "root": "M:\\cfh",
+    "rel_path": "archive\\docs\\compliance\\PredictiveGraph-compliance_v052725.md",
+    "full_path": "M:\\CFH\\archive\\docs\\compliance\\PredictiveGraph-compliance_v052725.md",
+    "name": "PredictiveGraph-compliance_v052725.md",
+    "ext": ".md",
+    "size": 766
+  },
+  {
+    "root": "M:\\cfh",
+    "rel_path": "archive\\docs\\functions\\PredictiveGraph-functions_v052725.md",
+    "full_path": "M:\\CFH\\archive\\docs\\functions\\PredictiveGraph-functions_v052725.md",
+    "name": "PredictiveGraph-functions_v052725.md",
+    "ext": ".md",
+    "size": 1095
+  },
+  {
+    "root": "M:\\cfh",
+    "rel_path": "archive\\docs\\PredictiveGraph_v052725.md",
+    "full_path": "M:\\CFH\\archive\\docs\\PredictiveGraph_v052725.md",
+    "name": "PredictiveGraph_v052725.md",
+    "ext": ".md",
+    "size": 1529
+  },
+  {
+    "root": "M:\\cfh",
+    "rel_path": "archive\\escrowBucket.js",
+    "full_path": "M:\\CFH\\archive\\escrowBucket.js",
+    "name": "escrowBucket.js",
+    "ext": ".js",
+    "size": 4960
+  }
+]

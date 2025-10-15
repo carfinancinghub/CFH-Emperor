@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\chat\\ChatInterface.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\chat\\ChatInterface.jsx",
+    "name": "ChatInterface.jsx",
+    "ext": ".jsx",
+    "size": 3275
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\chat\\CollaborationChat.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\chat\\CollaborationChat.jsx",
+    "name": "CollaborationChat.jsx",
+    "ext": ".jsx",
+    "size": 6522
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\chat\\MessageBubble.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\chat\\MessageBubble.jsx",
+    "name": "MessageBubble.jsx",
+    "ext": ".jsx",
+    "size": 3001
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\common\\BlockchainSnapshotViewer.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\common\\BlockchainSnapshotViewer.jsx",
+    "name": "BlockchainSnapshotViewer.jsx",
+    "ext": ".jsx",
+    "size": 2180
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\common\\Button.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\common\\Button.jsx",
+    "name": "Button.jsx",
+    "ext": ".jsx",
+    "size": 1288
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\common\\Card.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\common\\Card.jsx",
+    "name": "Card.jsx",
+    "ext": ".jsx",
+    "size": 423
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\common\\ChatAttachmentPreviewer.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\common\\ChatAttachmentPreviewer.jsx",
+    "name": "ChatAttachmentPreviewer.jsx",
+    "ext": ".jsx",
+    "size": 1137
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\common\\ChatAttachmentUploader.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\common\\ChatAttachmentUploader.jsx",
+    "name": "ChatAttachmentUploader.jsx",
+    "ext": ".jsx",
+    "size": 1939
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\common\\compliance\\ComplianceConsentForm.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\common\\compliance\\ComplianceConsentForm.jsx",
+    "name": "ComplianceConsentForm.jsx",
+    "ext": ".jsx",
+    "size": 4803
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\common\\CurrencyConverterWidget.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\common\\CurrencyConverterWidget.jsx",
+    "name": "CurrencyConverterWidget.jsx",
+    "ext": ".jsx",
+    "size": 5150
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\common\\DocumentUploader.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\common\\DocumentUploader.jsx",
+    "name": "DocumentUploader.jsx",
+    "ext": ".jsx",
+    "size": 4232
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\common\\ErrorBoundary.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\common\\ErrorBoundary.jsx",
+    "name": "ErrorBoundary.jsx",
+    "ext": ".jsx",
+    "size": 913
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\common\\ErrorBoundary.tsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\common\\ErrorBoundary.tsx",
+    "name": "ErrorBoundary.tsx",
+    "ext": ".tsx",
+    "size": 1543
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\common\\FeedbackForm.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\common\\FeedbackForm.jsx",
+    "name": "FeedbackForm.jsx",
+    "ext": ".jsx",
+    "size": 3306
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\common\\HeatmapChart.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\common\\HeatmapChart.jsx",
+    "name": "HeatmapChart.jsx",
+    "ext": ".jsx",
+    "size": 2103
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\common\\ImageUploader.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\common\\ImageUploader.jsx",
+    "name": "ImageUploader.jsx",
+    "ext": ".jsx",
+    "size": 1993
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\common\\Input.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\common\\Input.jsx",
+    "name": "Input.jsx",
+    "ext": ".jsx",
+    "size": 1299
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\common\\LanguageSelector.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\common\\LanguageSelector.jsx",
+    "name": "LanguageSelector.jsx",
+    "ext": ".jsx",
+    "size": 965
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\common\\LoadingSpinner.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\common\\LoadingSpinner.jsx",
+    "name": "LoadingSpinner.jsx",
+    "ext": ".jsx",
+    "size": 871
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\common\\Messaging.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\common\\Messaging.jsx",
+    "name": "Messaging.jsx",
+    "ext": ".jsx",
+    "size": 5091
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\common\\MobileUXEnhancer.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\common\\MobileUXEnhancer.jsx",
+    "name": "MobileUXEnhancer.jsx",
+    "ext": ".jsx",
+    "size": 4612
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\common\\MultiLanguageSupport.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\common\\MultiLanguageSupport.jsx",
+    "name": "MultiLanguageSupport.jsx",
+    "ext": ".jsx",
+    "size": 1636
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\common\\Navbar.css",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\common\\Navbar.css",
+    "name": "Navbar.css",
+    "ext": ".css",
+    "size": 1265
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\common\\Navbar.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\common\\Navbar.jsx",
+    "name": "Navbar.jsx",
+    "ext": ".jsx",
+    "size": 2149
+  },
+  {
+    "root": "C:\\CFH\\frontend",
+    "rel_path": "src\\components\\common\\NavbarMobileToggle.jsx",
+    "full_path": "C:\\CFH\\frontend\\src\\components\\common\\NavbarMobileToggle.jsx",
+    "name": "NavbarMobileToggle.jsx",
+    "ext": ".jsx",
+    "size": 2859
+  }
+]

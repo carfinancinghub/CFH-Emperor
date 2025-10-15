@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AISuggestionEngine_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AISuggestionEngine_1.ts",
+    "name": "AISuggestionEngine_1.ts",
+    "ext": ".ts",
+    "size": 2112
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AISuggestionEngine.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AISuggestionEngine.test_1.ts",
+    "name": "AISuggestionEngine.test_1.ts",
+    "ext": ".ts",
+    "size": 49
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AISuggestionEngine.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AISuggestionEngine.test.ts",
+    "name": "AISuggestionEngine.test.ts",
+    "ext": ".ts",
+    "size": 49
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\AISuggestionEngine.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\AISuggestionEngine.ts",
+    "name": "AISuggestionEngine.ts",
+    "ext": ".ts",
+    "size": 2112
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\alerts_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\alerts_1.ts",
+    "name": "alerts_1.ts",
+    "ext": ".ts",
+    "size": 1207
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\alerts.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\alerts.test_1.ts",
+    "name": "alerts.test_1.ts",
+    "ext": ".ts",
+    "size": 37
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\alerts.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\alerts.test.ts",
+    "name": "alerts.test.ts",
+    "ext": ".ts",
+    "size": 37
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\alerts.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\alerts.ts",
+    "name": "alerts.ts",
+    "ext": ".ts",
+    "size": 1207
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\aliasCheck_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\aliasCheck_1.ts",
+    "name": "aliasCheck_1.ts",
+    "ext": ".ts",
+    "size": 391
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\aliasCheck.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\aliasCheck.test_1.ts",
+    "name": "aliasCheck.test_1.ts",
+    "ext": ".ts",
+    "size": 41
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\aliasCheck.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\aliasCheck.test.ts",
+    "name": "aliasCheck.test.ts",
+    "ext": ".ts",
+    "size": 41
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\aliasCheck.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\aliasCheck.ts",
+    "name": "aliasCheck.ts",
+    "ext": ".ts",
+    "size": 391
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\analytics_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\analytics_1.ts",
+    "name": "analytics_1.ts",
+    "ext": ".ts",
+    "size": 132
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\analytics.routes_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\analytics.routes_1.ts",
+    "name": "analytics.routes_1.ts",
+    "ext": ".ts",
+    "size": 3688
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\analytics.routes.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\analytics.routes.test_1.ts",
+    "name": "analytics.routes.test_1.ts",
+    "ext": ".ts",
+    "size": 47
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\analytics.routes.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\analytics.routes.test.ts",
+    "name": "analytics.routes.test.ts",
+    "ext": ".ts",
+    "size": 47
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\analytics.routes.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\analytics.routes.ts",
+    "name": "analytics.routes.ts",
+    "ext": ".ts",
+    "size": 3688
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\analytics.service_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\analytics.service_1.ts",
+    "name": "analytics.service_1.ts",
+    "ext": ".ts",
+    "size": 6750
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\analytics.service.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\analytics.service.test_1.ts",
+    "name": "analytics.service.test_1.ts",
+    "ext": ".ts",
+    "size": 756
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\analytics.validation_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\analytics.validation_1.ts",
+    "name": "analytics.validation_1.ts",
+    "ext": ".ts",
+    "size": 9880
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\analytics.validation.test_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\analytics.validation.test_1.ts",
+    "name": "analytics.validation.test_1.ts",
+    "ext": ".ts",
+    "size": 51
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\analytics.validation.test.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\analytics.validation.test.ts",
+    "name": "analytics.validation.test.ts",
+    "ext": ".ts",
+    "size": 51
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\analyticsApi_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\analyticsApi_1.ts",
+    "name": "analyticsApi_1.ts",
+    "ext": ".ts",
+    "size": 618
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\analyticsExportUtils_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\analyticsExportUtils_1.ts",
+    "name": "analyticsExportUtils_1.ts",
+    "ext": ".ts",
+    "size": 382
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\ts\\apiHealthCheck_1.ts",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\ts\\apiHealthCheck_1.ts",
+    "name": "apiHealthCheck_1.ts",
+    "ext": ".ts",
+    "size": 1514
+  }
+]

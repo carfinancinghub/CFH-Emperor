@@ -1,0 +1,202 @@
+[
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\auctionController.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\auctionController.js",
+    "name": "auctionController.js",
+    "ext": ".js",
+    "size": 3878
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\AuctionGamificationEngine_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\AuctionGamificationEngine_1.js",
+    "name": "AuctionGamificationEngine_1.js",
+    "ext": ".js",
+    "size": 3046
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\AuctionHistory_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\AuctionHistory_1.js",
+    "name": "AuctionHistory_1.js",
+    "ext": ".js",
+    "size": 2200
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\AuctionHistory.test_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\AuctionHistory.test_1.js",
+    "name": "AuctionHistory.test_1.js",
+    "ext": ".js",
+    "size": 3713
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\AuctionIntegrationTest_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\AuctionIntegrationTest_1.js",
+    "name": "AuctionIntegrationTest_1.js",
+    "ext": ".js",
+    "size": 3536
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\AuctionManager_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\AuctionManager_1.js",
+    "name": "AuctionManager_1.js",
+    "ext": ".js",
+    "size": 3376
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\AuctionManager.test_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\AuctionManager.test_1.js",
+    "name": "AuctionManager.test_1.js",
+    "ext": ".js",
+    "size": 4368
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\AuctionMetrics_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\AuctionMetrics_1.js",
+    "name": "AuctionMetrics_1.js",
+    "ext": ".js",
+    "size": 2637
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\AuctionMetrics.test_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\AuctionMetrics.test_1.js",
+    "name": "AuctionMetrics.test_1.js",
+    "ext": ".js",
+    "size": 3681
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\AuctionNotifier_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\AuctionNotifier_1.js",
+    "name": "AuctionNotifier_1.js",
+    "ext": ".js",
+    "size": 2178
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\AuctionNotifier.test_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\AuctionNotifier.test_1.js",
+    "name": "AuctionNotifier.test_1.js",
+    "ext": ".js",
+    "size": 3557
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\AuctionPerformance_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\AuctionPerformance_1.js",
+    "name": "AuctionPerformance_1.js",
+    "ext": ".js",
+    "size": 2646
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\AuctionReputationTracker_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\AuctionReputationTracker_1.js",
+    "name": "AuctionReputationTracker_1.js",
+    "ext": ".js",
+    "size": 3594
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\AuctionReputationTracker.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\AuctionReputationTracker.js",
+    "name": "AuctionReputationTracker.js",
+    "ext": ".js",
+    "size": 3594
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\AuctionReputationTracker.test_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\AuctionReputationTracker.test_1.js",
+    "name": "AuctionReputationTracker.test_1.js",
+    "ext": ".js",
+    "size": 3199
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\auctions_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\auctions_1.js",
+    "name": "auctions_1.js",
+    "ext": ".js",
+    "size": 3056
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\auctions.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\auctions.js",
+    "name": "auctions.js",
+    "ext": ".js",
+    "size": 3169
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\auctions.test_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\auctions.test_1.js",
+    "name": "auctions.test_1.js",
+    "ext": ".js",
+    "size": 2710
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\AuctionScheduler_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\AuctionScheduler_1.js",
+    "name": "AuctionScheduler_1.js",
+    "ext": ".js",
+    "size": 2385
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\AuctionScheduler.test_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\AuctionScheduler.test_1.js",
+    "name": "AuctionScheduler.test_1.js",
+    "ext": ".js",
+    "size": 4281
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\AuctionTemplateEngine_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\AuctionTemplateEngine_1.js",
+    "name": "AuctionTemplateEngine_1.js",
+    "ext": ".js",
+    "size": 2012
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\audit-trail_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\audit-trail_1.js",
+    "name": "audit-trail_1.js",
+    "ext": ".js",
+    "size": 3133
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\audit-trail.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\audit-trail.js",
+    "name": "audit-trail.js",
+    "ext": ".js",
+    "size": 3133
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\auditLog_1.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\auditLog_1.js",
+    "name": "auditLog_1.js",
+    "ext": ".js",
+    "size": 721
+  },
+  {
+    "root": "C:\\CFH\\TruthSource",
+    "rel_path": "clean\\js\\auditLog.js",
+    "full_path": "C:\\CFH\\TruthSource\\clean\\js\\auditLog.js",
+    "name": "auditLog.js",
+    "ext": ".js",
+    "size": 721
+  }
+]
