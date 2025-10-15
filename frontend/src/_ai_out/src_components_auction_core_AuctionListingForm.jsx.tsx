@@ -1,0 +1,1 @@
+/**\n * GENERATED from: C:/c/ai-orchestrator/reports/pruned_auctions_wow/mds/src_components_auction_core_AuctionListingForm.jsx.md\n * date: 2025-10-15T08:58:59.322635Z\n */\n\nexport const TODO_src_components_auction_core_AuctionListingForm_jsx = () => null;\n

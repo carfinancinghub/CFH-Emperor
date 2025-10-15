@@ -1,0 +1,1 @@
+/**\n * GENERATED from: C:/c/ai-orchestrator/reports/pruned_auctions_wow/mds/src_tests_auction_AuctionIntegrationTest.js.md\n * date: 2025-10-15T08:58:59.322898Z\n */\n\nexport const TODO_src_tests_auction_AuctionIntegrationTest_js = () => null;\n
