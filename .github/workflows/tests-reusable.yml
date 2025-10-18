@@ -45,6 +45,8 @@ jobs:
 
       - name: Verify install
         run: |
+          node -v
+          npm -v
           node -p "require('fs').existsSync('node_modules') && 'node_modules present' || process.exit(1)"
 
       - name: Deterministic env
@@ -74,11 +76,6 @@ jobs:
           node-version: '18'
           cache: 'npm'
           cache-dependency-path: frontend/package-lock.json
-
-      - name: Show Node & npm
-        run: |
-          node -v
-          npm -v
 
       - name: npm ci (with retry)
         id: install_snapshots
@@ -221,4 +218,3 @@ jobs:
           name: jest-auctions-log
           path: frontend/jest-auctions.log
           if-no-files-found: ignore
-

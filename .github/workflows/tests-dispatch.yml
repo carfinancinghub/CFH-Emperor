@@ -12,4 +12,3 @@ jobs:
     uses: ./.github/workflows/tests-reusable.yml
     with:
       ref: ${{ inputs.ref }}
-
