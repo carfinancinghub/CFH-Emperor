@@ -1,0 +1,211 @@
+name: Snapshot Tests
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: snapshot-tests-${{ github.ref }}
+  cancel-in-progress: true
+
+defaults:
+  run:
+    working-directory: frontend
+
+jobs:
+  unit-promoted:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+          cache: 'npm'
+          cache-dependency-path: frontend/package-lock.json
+
+      - name: npm ci (with retry)
+        id: install_unit
+        continue-on-error: true
+        run: |
+          npm ci --no-audit --no-fund || npm ci --no-audit --no-fund --legacy-peer-deps
+
+      - name: Fallback install
+        if: steps.install_unit.outcome == 'failure'
+        run: npm install --no-audit --no-fund --legacy-peer-deps
+
+      - name: Verify install
+        run: |
+          node -p "require('fs').existsSync('node_modules') && 'node_modules present' || process.exit(1)"
+
+      - name: Deterministic env
+        run: echo "FRAUD_AI_ENABLED=false" >> $GITHUB_ENV
+
+      - name: Run promoted unit tests
+        run: npx jest --ci --runInBand --passWithNoTests --testPathPatterns "src/tests/escrow/.*\.promoted\.test\.tsx?$" 2>&1 | tee jest-unit-promoted.log
+
+      - name: Upload unit log
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: jest-unit-promoted-log
+          path: frontend/jest-unit-promoted.log
+          if-no-files-found: ignore
+
+  snapshots:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+	with:
+    	  submodules: false
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+          cache: 'npm'
+          cache-dependency-path: frontend/package-lock.json
+
+      - name: Show Node & npm
+        run: |
+          node -v
+          npm -v
+
+      - name: npm ci (with retry)
+        id: install_snapshots
+        continue-on-error: true
+        run: |
+          npm ci --no-audit --no-fund || npm ci --no-audit --no-fund --legacy-peer-deps
+
+      - name: Fallback install
+        if: steps.install_snapshots.outcome == 'failure'
+        run: npm install --no-audit --no-fund --legacy-peer-deps
+
+      - name: Verify install
+        run: |
+          node -p "require('fs').existsSync('node_modules') && 'node_modules present' || process.exit(1)"
+
+      - name: Run snapshot tests (Wave 4 only)
+        run: npm run test:snapshot 2>&1 | tee jest-ci.log
+
+      - name: Upload npm logs
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: npm-logs
+          path: |
+            ~/.npm/_logs/**
+            frontend/npm-debug.log
+          if-no-files-found: ignore
+
+      - name: Upload Jest log
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: jest-log
+          path: frontend/jest-ci.log
+          if-no-files-found: ignore
+
+  contracts:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "18"
+          cache: "npm"
+          cache-dependency-path: frontend/package-lock.json
+
+      - name: Show Node & npm
+        run: |
+          node -v
+          npm -v
+
+      - name: npm ci (with retry)
+        id: install_contracts
+        continue-on-error: true
+        run: |
+          npm ci --no-audit --no-fund || npm ci --no-audit --no-fund --legacy-peer-deps
+
+      - name: Fallback install
+        if: steps.install_contracts.outcome == 'failure'
+        run: npm install --no-audit --no-fund --legacy-peer-deps
+
+      - name: Verify install
+        run: |
+          node -p "require('fs').existsSync('node_modules') && 'node_modules present' || process.exit(1)"
+
+      - name: Run contract tests (Node env)
+        run: npm run test:contracts 2>&1 | tee jest-contracts.log
+
+      # Option A: if your npm script already collects coverage, you can skip this step.
+      - name: Generate coverage report
+        run: npx jest --coverage --coverageReporters="json-summary" --coverageReporters="lcov" --coverageReporters="text" --env node
+
+      - name: Upload coverage
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: coverage-contracts
+          path: frontend/coverage/**
+          if-no-files-found: ignore
+
+      - name: Upload npm logs
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: npm-logs-contracts
+          path: |
+            ~/.npm/_logs/**
+            frontend/npm-debug.log
+          if-no-files-found: ignore
+
+      - name: Upload contracts Jest log
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: jest-contracts-log
+          path: frontend/jest-contracts.log
+          if-no-files-found: ignore
+
+  auctions-unit:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: frontend
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+          cache: 'npm'
+          cache-dependency-path: frontend/package-lock.json
+
+      - name: npm ci (with retry)
+        id: install_auctions
+        continue-on-error: true
+        run: |
+          npm ci --no-audit --no-fund || npm ci --no-audit --no-fund --legacy-peer-deps
+
+      - name: Fallback install
+        if: steps.install_auctions.outcome == 'failure'
+        run: npm install --no-audit --no-fund --legacy-peer-deps
+
+      - name: Verify install
+        run: |
+          node -p "require('fs').existsSync('node_modules') && 'node_modules present' || process.exit(1)"
+
+      - name: Run auction unit tests
+        run: npx jest --ci --config jest.config.js --env node --runInBand --testPathPatterns "src/tests/auction/.*\.test\.(t|j)sx?$" 2>&1 | tee jest-auctions.log
+
+      - name: Upload auctions Jest log
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: jest-auctions-log
+          path: frontend/jest-auctions.log
+          if-no-files-found: ignore
+
