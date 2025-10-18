@@ -218,3 +218,4 @@ jobs:
           name: jest-auctions-log
           path: frontend/jest-auctions.log
           if-no-files-found: ignore
+
