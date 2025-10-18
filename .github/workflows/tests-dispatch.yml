@@ -1,1 +1,15 @@
-<PASTE tests-dispatch.yml CONTENT HERE>
+name: Tests (Dispatch)
+on:
+  workflow_dispatch:
+    inputs:
+      ref:
+        description: Git ref (branch or tag) to test
+        required: true
+        type: string
+
+jobs:
+  run:
+    uses: ./.github/workflows/tests-reusable.yml
+    with:
+      ref: ${{ inputs.ref }}
+
