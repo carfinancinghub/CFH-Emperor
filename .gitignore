@@ -7,3 +7,29 @@ node_modules/
 WPromptOutput/
 lostfiles/
 **/log*/
+
+# =========================
+# CFH Empire — AI scratch & build artifacts
+# =========================
+_ai_inbox/
+backend/dist/
+frontend/dist/
+frontend/coverage/
+
+# =========================
+# CFH reports (never commit)
+# =========================
+reports/
+frontend/reports/audit/
+frontend/reports/blueprints/
+frontend/reports/patches/
+frontend/reports/frontend_audit_20250927_131329/
+
+# =========================
+# Jest / package backup files
+# =========================
+jest.config.ai.cjs.bak
+frontend/jest.config.2025*.js
+frontend/jest.config.2025*.legacy.ts
+frontend/package.2025*.backup.json
+frontend/reports/frontend_audit_20250927_131329/package.2025*.backup.json
