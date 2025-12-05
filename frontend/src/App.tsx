@@ -19,7 +19,8 @@ import ProtectedRoute from '@/components/common/ProtectedRoute.jsx';
 import NotificationCenter from '@/components/notifications/NotificationCenter.jsx';
 
 // --- Lazy-loaded Pages ---
-const Register = lazy(() => import('@/components/auth/Register.jsx'));
+const Register = lazy(() => import('@/components/auth/Registe
+r.jsx'));
 const Login = lazy(() => import('@/components/auth/Login.jsx'));
 const BuyerDashboard = lazy(() => import('@/components/buyer/BuyerDashboard.jsx'));
 const SellerDashboard = lazy(() => import('@/components/seller/SellerDashboard.jsx'));
