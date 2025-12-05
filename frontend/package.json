@@ -50,6 +50,7 @@
     "preview": "vite preview --host 127.0.0.1 --port 8020 --strictPort --config vite.config.ts",
     "build": "vite build",
     "start": "vite preview",
-    "test": "jest"
+    "test": "jest",
+    "ci-ai": "ts-node ./scripts/run-ci-ai.ts"
   }
 }
