@@ -3,7 +3,6 @@ This file is converted to TSX, removing `prop-types` and introducing types for p
 
 ### File: `BidAssistantSimulator.tsx`
 
-```tsx
 // File: BidAssistantSimulator.tsx
 // Path: frontend/src/components/buyer/BidAssistantSimulator.tsx
 // 👑 Cod1 Crown Certified — Premium Strategy Tool for Buyers (Smart, Conservative, Aggressive AI Modes)
@@ -145,4 +144,3 @@ const BidAssistantSimulator: React.FC<BidAssistantSimulatorProps> = ({ basePrice
 };
 
 export default BidAssistantSimulator;
-```

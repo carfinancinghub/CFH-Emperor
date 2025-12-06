@@ -1,7 +1,6 @@
 // @ai-generated via ai-orchestrator
 This component is converted to TSX, using `React.FC` for typing the component, explicitly typing the props, and utilizing `useRef` with the appropriate `HTMLDivElement` type.
 
-```tsx
 /**
  * File: AuctionAccessibilityWrapper.tsx
  * Path: frontend/src/components/auction/AuctionAccessibilityWrapper.tsx
@@ -129,4 +128,3 @@ const AuctionAccessibilityWrapper: React.FC<AuctionAccessibilityWrapperProps> = 
 };
 
 export default AuctionAccessibilityWrapper;
-```

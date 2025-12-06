@@ -1,7 +1,6 @@
 // @ai-generated via ai-orchestrator
 This file should be renamed from `Login.js` to `Login.tsx`.
 
-```tsx
 // File: Login.tsx
 // Path: frontend/src/components/Login.tsx
 
@@ -84,4 +83,3 @@ const Login: React.FC = () => {
 };
 
 export default Login;
-```

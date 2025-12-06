@@ -1,7 +1,6 @@
 // @ai-generated via ai-orchestrator
 This file should be converted to `.tsx` (TypeScript JSX). We will define interfaces for the component props and the structure of data stored in `localStorage`.
 
-```tsx
 /**
  * BuyerBehaviorTracker.tsx
  * Path: frontend/src/components/buyer/BuyerBehaviorTracker.tsx
@@ -121,4 +120,3 @@ const BuyerBehaviorTracker = ({ buyerId, action, details }: BuyerBehaviorTracker
 };
 
 export default BuyerBehaviorTracker;
-```

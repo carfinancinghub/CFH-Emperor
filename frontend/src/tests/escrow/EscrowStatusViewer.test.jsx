@@ -1,4 +1,3 @@
-```
 // 👑 Crown Certified Test — EscrowStatusViewer.test.jsx
 // Path: frontend/src/tests/escrow/EscrowStatusViewer.test.jsx
 // Purpose: Unit tests for EscrowStatusViewer component, covering rendering, premium gating, API calls, and error states.
@@ -111,4 +110,3 @@ Functions Summary:
     - Handles audit trail fetch errors
   - Dependencies: react, @testing-library/react, @components/escrow/EscrowStatusViewer, @services/api, @utils/logger
 */
-```

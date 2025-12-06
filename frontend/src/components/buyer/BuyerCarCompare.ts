@@ -1,7 +1,6 @@
 // @ai-generated via ai-orchestrator
 This component uses JSX syntax, so we will convert it to **TSX** (`.tsx`). We introduce necessary interfaces to define the shape of the data received from the API calls, ensuring type safety throughout the component state and logic.
 
-```tsx
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 import Navbar from '../common/Navbar';
@@ -304,4 +303,3 @@ const BuyerCarCompare: React.FC = () => {
 };
 
 export default BuyerCarCompare;
-```

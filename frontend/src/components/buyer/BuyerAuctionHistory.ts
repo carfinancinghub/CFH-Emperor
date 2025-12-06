@@ -3,7 +3,6 @@ This file is converted to TSX to support JSX syntax and TypeScript typing. Since
 
 ### `frontend/src/components/buyer/BuyerAuctionHistory.tsx`
 
-```tsx
 // File: BuyerAuctionHistory.tsx
 // Path: frontend/src/components/buyer/BuyerAuctionHistory.js
 // Purpose: Display buyer’s auction history with premium visual insights
@@ -119,4 +118,3 @@ const BuyerAuctionHistory: React.FC<BuyerAuctionHistoryProps> = ({ userId, isPre
 
 // PropTypes removed.
 export default BuyerAuctionHistory;
-```

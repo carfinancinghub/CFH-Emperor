@@ -3,7 +3,6 @@ This file is converted to TSX. We define necessary interfaces for the component 
 
 ### `AdminSmartAlertEngine.tsx`
 
-```tsx
 /**
  * AdminSmartAlertEngine.tsx
  * Path: frontend/src/components/admin/AdminSmartAlertEngine.tsx
@@ -170,4 +169,3 @@ const AdminSmartAlertEngine: FC<AdminSmartAlertEngineProps> = ({ adminId }) => {
 
 // PropTypes block is removed as TypeScript handles prop validation via interfaces.
 export default AdminSmartAlertEngine;
-```

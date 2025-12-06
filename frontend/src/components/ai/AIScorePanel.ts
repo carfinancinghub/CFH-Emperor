@@ -1,7 +1,6 @@
 // @ai-generated via ai-orchestrator
 The provided JavaScript file uses JSX, so the TypeScript conversion should result in a TSX file (`AIScorePanel.tsx`). We will define interfaces for the props and the shape of the data returned by the service.
 
-```tsx
 // File: AIScorePanel.tsx
 // Path: frontend/src/components/ai/AIScorePanel.tsx
 // Purpose: Display AI-generated trust scores for users or auctions with premium transparency
@@ -90,4 +89,3 @@ const AIScorePanel: React.FC<AIScorePanelProps> = ({ targetId, isPremium }) => {
 };
 
 export default AIScorePanel;
-```

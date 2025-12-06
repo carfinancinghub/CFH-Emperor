@@ -1,7 +1,6 @@
 // @ai-generated via ai-orchestrator
 This component is converted to TSX, using `React.FC` for the component signature and explicitly typing the form submission event, which is the most critical event typing requirement here.
 
-```tsx
 import React, { useState } from 'react';
 import type { FC, FormEvent, ChangeEvent } from 'react';
 import useAuth from './useAuth'; // Assuming useAuth provides typed outputs
@@ -68,4 +67,3 @@ const LoginForm: FC = () => {
 };
 
 export default LoginForm;
-```

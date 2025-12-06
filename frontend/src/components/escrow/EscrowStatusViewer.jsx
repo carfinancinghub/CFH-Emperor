@@ -1,4 +1,3 @@
-```
 // 👑 Crown Certified Component — EscrowStatusViewer.jsx
 // Path: frontend/src/components/escrow/EscrowStatusViewer.jsx
 // Purpose: User-facing component to view escrow transaction status and blockchain audit trail (premium-only).
@@ -115,4 +114,3 @@ Functions Summary:
     - Urgency indicators for pending transactions
   - Dependencies: react, prop-types, @services/api, @utils/logger, @components/common/PremiumGate, lucide-react
 */
-```

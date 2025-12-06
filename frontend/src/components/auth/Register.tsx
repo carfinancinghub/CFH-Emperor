@@ -3,7 +3,6 @@ This conversion retains the original component logic, uses modern React TypeScri
 
 The file should be renamed to `Register.tsx`.
 
-```tsx
 // File: Register.tsx
 // Path: frontend/src/components/Register.tsx
 
@@ -134,4 +133,3 @@ const Register: React.FC = () => {
 };
 
 export default Register;
-```

@@ -3,7 +3,6 @@ This file has been converted to TypeScript (TSX). We define necessary interfaces
 
 ### `ArbitratorDashboard.tsx`
 
-```tsx
 // 👑 Crown Certified Component — ArbitratorDashboard.tsx
 // Path: frontend/src/components/arbitrator/ArbitratorDashboard.tsx
 // Purpose: Enhanced dashboard for arbitrators with live voting, countdowns, AI suggestions, analytics, and urgency indicator.
@@ -273,4 +272,3 @@ const ArbitratorDashboard: React.FC<ArbitratorDashboardProps> = ({ arbitratorId,
 };
 
 export default ArbitratorDashboard;
-```

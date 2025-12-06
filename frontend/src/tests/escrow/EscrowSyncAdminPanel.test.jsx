@@ -1,4 +1,3 @@
-```
 // 👑 Crown Certified Test — EscrowSyncAdminPanel.test.jsx
 // Path: frontend/src/tests/escrow/EscrowSyncAdminPanel.test.jsx
 // Purpose: Unit tests for EscrowSyncAdminPanel component, covering rendering, premium gating, API calls, and error states.
@@ -126,4 +125,3 @@ Functions Summary:
     - Handles API errors
   - Dependencies: react, @testing-library/react, @components/escrow/EscrowSyncAdminPanel, @services/api, @utils/logger
 */
-```

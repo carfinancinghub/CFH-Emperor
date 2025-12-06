@@ -1,7 +1,6 @@
 // @ai-generated via ai-orchestrator
 To convert this JavaScript to idiomatic TypeScript, we'll add minimal explicit types while preserving the exports and ESM shape. Here's the TypeScript version:
 
-```tsx
 // 👑 Crown Certified Component — TrustScoreViewer.tsx
 // Path: frontend/src/components/ai/TrustScoreViewer.tsx
 // Purpose: Displays a user's trust score and premium breakdown, with trend insights.
@@ -128,7 +127,6 @@ Functions Summary:
     - Error handling for API failures
   - Dependencies: react, @services/api, @utils/logger, @components/common/PremiumGate, lucide-react
 */
-```
 
 Key changes and explanations:
 

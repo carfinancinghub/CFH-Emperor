@@ -3,7 +3,6 @@ The following conversion moves the component to idiomatic TSX, defines a strong 
 
 The file extension should be renamed from `.jsx` to `.tsx`.
 
-```tsx
 // File: CryptoPaymentOption.tsx
 // Path: C:\CFH\frontend\src\components\blockchain\CryptoPaymentOption.tsx
 // Purpose: Allow users to pay with cryptocurrency
@@ -96,4 +95,3 @@ const CryptoPaymentOption: React.FC<CryptoPaymentOptionProps> = ({ userId, aucti
 // PropTypes block is unnecessary and removed in favor of the TypeScript interface
 
 export default CryptoPaymentOption;
-```

@@ -3,7 +3,6 @@ This conversion utilizes interfaces to define prop shapes, replacing the depreca
 
 ### `SellerBadgePanel.tsx`
 
-```tsx
 // File: SellerBadgePanel.tsx
 // Path: frontend/src/components/auction/SellerBadgePanel.tsx
 // Purpose: Show gamified seller badges and rank visuals gated for premium users
@@ -66,4 +65,3 @@ const SellerBadgePanel = ({ sellerStats, isPremium }: SellerBadgePanelProps) => 
 
 // PropTypes are removed, relying entirely on the TypeScript interface definition.
 export default SellerBadgePanel;
-```

@@ -1,7 +1,6 @@
 // @ai-generated via ai-orchestrator
 The component is converted to TSX. I have defined explicit types for the props and state, removed `PropTypes`, and typed the async operation return values based on their usage.
 
-```tsx
 // File: AIBadgeOverlay.tsx
 // Path: frontend/src/components/ai/AIBadgeOverlay.tsx
 // Purpose: Display AI-driven badge overlays for user achievements.
@@ -90,4 +89,3 @@ const AIBadgeOverlay: FC<AIBadgeOverlayProps> = ({ userId, isPremium }) => {
 
 // PropTypes validation is replaced by TypeScript interfaces
 export default AIBadgeOverlay;
-```

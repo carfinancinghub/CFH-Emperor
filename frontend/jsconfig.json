@@ -1,9 +1,21 @@
 {
   "compilerOptions": {
-    "baseUrl": ".",
+    "baseUrl": "./src",
     "paths": {
-      "@components/*": ["frontend/src/components/*"],
-      "@__mocks_/*": ["frontend/src/__mocks_/*"]
+      "@components/*": ["components/*"],
+      "@__mocks_/*": ["__mocks_/*"]
     }
-  }
+  },
+  "include": [
+    "src"
+  ],
+  "exclude": [
+    "node_modules",
+    "dist",
+    "build",
+    "src/_ai_out",
+    "src/_ai_out/**",
+    "src/archive",
+    "src/archive/**"
+  ]
 }

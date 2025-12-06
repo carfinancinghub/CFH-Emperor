@@ -1,4 +1,3 @@
-```
 // 👑 Crown Certified Component — EscrowSyncAdminPanel.jsx
 // Path: frontend/src/components/escrow/EscrowSyncAdminPanel.jsx
 // Purpose: Admin dashboard for managing escrow actions, viewing transaction statuses, and accessing blockchain audit trails (premium-only).
@@ -171,4 +170,3 @@ Functions Summary:
     - Urgency indicators for pending actions
   - Dependencies: react, prop-types, @components/common/DataTable, @components/common/Form, @components/common/PremiumGate, @services/api, @utils/logger, lucide-react
 */
-```

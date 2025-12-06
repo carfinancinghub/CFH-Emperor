@@ -3,7 +3,6 @@ This file has been converted to TSX, applying idiomatic TypeScript typing, espec
 
 ### `AuctionSEOHead.tsx`
 
-```tsx
 /**
  * File: AuctionSEOHead.tsx
  * Path: frontend/src/components/auction/AuctionSEOHead.tsx
@@ -144,4 +143,3 @@ const AuctionSEOHead: FC<AuctionSEOHeadProps> = ({ auction }) => {
 };
 
 export default AuctionSEOHead;
-```

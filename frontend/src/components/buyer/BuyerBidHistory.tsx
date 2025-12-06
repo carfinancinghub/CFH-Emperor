@@ -3,7 +3,6 @@ This conversion uses idiomatic TypeScript features like interfaces for data stru
 
 ### `BuyerBidHistory.tsx`
 
-```tsx
 /**
  * BuyerBidHistory.tsx
  * Path: frontend/src/components/buyer/BuyerBidHistory.tsx
@@ -192,4 +191,3 @@ const BuyerBidHistory: React.FC<BuyerBidHistoryProps> = ({ buyerId }) => {
 };
 
 export default BuyerBidHistory;
-```

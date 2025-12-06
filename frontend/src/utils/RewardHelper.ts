@@ -1,7 +1,6 @@
 // @ai-generated via ai-orchestrator
 This utility involves JSX rendering, so the file format must be TSX.
 
-```tsx
 // File: RewardHelper.tsx
 // Path: frontend/src/utils/RewardHelper.tsx
 // 👑 Cod1 Crown Certified — Runtime Confetti + Sound Reward Logic
@@ -71,4 +70,3 @@ const RewardHelper = (() => {
 })();
 
 export default RewardHelper;
-```

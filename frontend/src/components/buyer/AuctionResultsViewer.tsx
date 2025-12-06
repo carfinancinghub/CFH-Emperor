@@ -3,7 +3,6 @@ This conversion utilizes TypeScript interfaces to define the component's props, 
 
 ### `AuctionResultsViewer.tsx`
 
-```tsx
 /**
  * File: AuctionResultsViewer.tsx
  * Path: frontend/src/components/buyer/AuctionResultsViewer.tsx
@@ -98,4 +97,3 @@ const AuctionResultsViewer: React.FC<AuctionResultsViewerProps> = ({
 // Removed AuctionResultsViewer.propTypes as TypeScript handles prop validation via the interface.
 
 export default AuctionResultsViewer;
-```

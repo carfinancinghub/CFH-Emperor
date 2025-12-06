@@ -1,7 +1,6 @@
 // @ai-generated via ai-orchestrator
 This component is migrated to TSX, using an interface for props definition and providing explicit types for state variables and event handlers. The runtime dependency on `PropTypes` has been removed in favor of static type checking.
 
-```tsx
 // 👑 Crown Certified Component — BuyerBidModal.tsx
 // Path: frontend/src/components/buyer/BuyerBidModal.tsx
 // Purpose: AI-driven bidding modal for buyers with premium insights and submission controls
@@ -142,4 +141,3 @@ const BuyerBidModal: React.FC<BuyerBidModalProps> = ({
 };
 
 export default BuyerBidModal;
-```

@@ -3,7 +3,6 @@ This conversion utilizes TSX, defines necessary interfaces for props and data st
 
 ### `ValuationLiveFeed.tsx`
 
-```tsx
 import React, { useState, useEffect } from 'react';
 // PropTypes is no longer needed in TypeScript
 // import PropTypes from 'prop-types';
@@ -159,4 +158,3 @@ const ValuationLiveFeed: React.FC<ValuationLiveFeedProps> = ({ auctionId, userRo
 // you would keep the JS definition alongside the TS, but for a standard migration, it is removed.
 
 export default ValuationLiveFeed;
-```

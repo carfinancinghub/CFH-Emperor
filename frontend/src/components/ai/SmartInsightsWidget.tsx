@@ -1,7 +1,6 @@
 // @ai-generated via ai-orchestrator
 To convert this JavaScript to idiomatic TypeScript, we'll add minimal explicit types while preserving the exports and ESM shape. Here's the TypeScript version:
 
-```tsx
 // 👑 Crown Certified Component — SmartInsightsWidget.tsx
 // Path: frontend/src/components/ai/SmartInsightsWidget.tsx
 // Purpose: Display AI-driven platform metrics and personalized recommendations using predictive models.
@@ -82,7 +81,6 @@ const SmartInsightsWidget: React.FC<{ isPremium: boolean }> = ({ isPremium }) =>
 };
 
 export default SmartInsightsWidget;
-```
 
 Key changes and explanations:
 

@@ -1,7 +1,6 @@
 // @ai-generated via ai-orchestrator
 This component uses TSX because it renders React elements, utilizes hooks, and requires explicit type definitions for props, state, and custom objects (Customizations, Rewards).
 
-```tsx
 /**
  * File: ARCarPreview.tsx
  * Path: frontend/src/components/buyer/ARCarPreview.tsx
@@ -302,4 +301,3 @@ const ARCarPreview: FC<ARCarPreviewProps> = ({ carId, modelUrl, customizationOpt
 // interactive customization, an accessible tutorial modal, and gamified customization rewards,
 // uses TailwindCSS, integrates with ARExperience.js, and ensures robust error handling.
 export default ARCarPreview;
-```

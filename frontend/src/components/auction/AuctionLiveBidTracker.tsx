@@ -3,7 +3,6 @@ This component is converted to TypeScript (TSX). We define explicit interfaces f
 
 ### `AuctionLiveBidTracker.tsx`
 
-```tsx
 // File: AuctionLiveBidTracker.tsx
 // Path: C:\CFH\frontend\src\components\auction\AuctionLiveBidTracker.tsx
 // Purpose: Display live bid updates for auctions (Updated for WebSocket)
@@ -114,4 +113,3 @@ const AuctionLiveBidTracker: React.FC<AuctionLiveBidTrackerProps> = ({ auctionId
 
 // PropTypes are removed as TypeScript interfaces handle type checking
 export default AuctionLiveBidTracker;
-```

@@ -1,7 +1,6 @@
 // @ai-generated via ai-orchestrator
 The file should be renamed to `Unauthorized.tsx`.
 
-```tsx
 // File: Unauthorized.tsx
 // Path: frontend/src/components/auth/Unauthorized.tsx
 
@@ -28,4 +27,3 @@ const Unauthorized = () => {
 };
 
 export default Unauthorized;
-```

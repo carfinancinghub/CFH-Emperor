@@ -3,7 +3,6 @@ This conversion maintains the existing component logic, file structure (TSX for 
 
 ### `AIPredictorDashboard.tsx`
 
-```tsx
 /**
  * File: AIPredictorDashboard.tsx
  * Path: frontend/src/components/ai/AIPredictorDashboard.tsx
@@ -193,4 +192,3 @@ const AIPredictorDashboard: React.FC = () => {
 };
 
 export default AIPredictorDashboard;
-```

@@ -3,7 +3,6 @@ This conversion utilizes modern TypeScript practices, introduces explicit data i
 
 ### `frontend/src/components/buyer/BuyerAnalyticsDashboard.tsx`
 
-```tsx
 /**
  * File: BuyerAnalyticsDashboard.tsx
  * Path: frontend/src/components/buyer/BuyerAnalyticsDashboard.tsx
@@ -227,4 +226,3 @@ const BuyerAnalyticsDashboard: React.FC<BuyerAnalyticsDashboardProps> = ({ buyer
 };
 
 export default BuyerAnalyticsDashboard;
-```

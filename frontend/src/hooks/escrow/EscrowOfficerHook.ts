@@ -1,7 +1,6 @@
 // @ai-generated via ai-orchestrator
 This conversion defines a minimal type structure for the expected transaction data and explicitly types the state variables and the asynchronous `fetchTransactions` function, adhering to modern TypeScript standards for React hooks.
 
-```tsx
 // File: EscrowOfficerHook.ts (or .tsx if using React components, but .ts is fine for hooks)
 // Path: frontend/src/hooks/escrow/EscrowOfficerHook.ts
 
@@ -64,4 +63,3 @@ const useEscrowTransactions = () => {
 };
 
 export default useEscrowTransactions;
-```

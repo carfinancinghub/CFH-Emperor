@@ -1,4 +1,3 @@
-```
 // 👑 Crown Certified Component — TrustScoreViewer.jsx
 // Path: frontend/src/components/ai/TrustScoreViewer.jsx
 // Purpose: Displays a user's trust score and premium breakdown, with trend insights.
@@ -111,4 +110,3 @@ Functions Summary:
     - Error handling for API failures
   - Dependencies: react, prop-types, @services/api, @utils/logger, @components/common/PremiumGate, lucide-react
 */
-```

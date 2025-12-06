@@ -3,7 +3,6 @@ This component has been converted to TypeScript (TSX). We have introduced specif
 
 ### `AdminCustomWidgetLibrary.tsx`
 
-```tsx
 /**
  * File: AdminCustomWidgetLibrary.tsx
  * Path: frontend/src/components/admin/AdminCustomWidgetLibrary.tsx
@@ -211,4 +210,3 @@ const AdminCustomWidgetLibrary: React.FC = () => {
 // with free Auction Stats and User Activity widgets, premium Flagged Chats and Dispute Volume widgets,
 // supports layout saving and PDF export, uses @ aliases, and ensures robust error handling.
 export default AdminCustomWidgetLibrary;
-```

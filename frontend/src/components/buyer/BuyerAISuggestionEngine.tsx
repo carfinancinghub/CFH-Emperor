@@ -3,7 +3,6 @@ This file has been converted to TSX. We've defined explicit interfaces for the p
 
 ### `BuyerAISuggestionEngine.tsx`
 
-```tsx
 /**
  * BuyerAISuggestionEngine.tsx
  * Path: frontend/src/components/buyer/BuyerAISuggestionEngine.tsx
@@ -166,4 +165,3 @@ const BuyerAISuggestionEngine: React.FC<BuyerAISuggestionEngineProps> = ({ buyer
 };
 
 export default BuyerAISuggestionEngine;
-```

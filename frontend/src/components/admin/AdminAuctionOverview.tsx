@@ -1,7 +1,6 @@
 // @ai-generated via ai-orchestrator
 This file has been converted to TSX. The `PropTypes` definition has been replaced by explicit TypeScript interfaces, and minimal type annotations have been added to component props and state variables. The unused `useEffect` import has been removed for idiomatic cleanup.
 
-```tsx
 // File: AdminAuctionOverview.tsx
 // Path: frontend/src/components/admin/AdminAuctionOverview.tsx
 // Purpose: Admin overview dashboard with auction stats, anomaly detection, and dispute resolution daemon
@@ -120,4 +119,3 @@ const AdminAuctionOverview: React.FC<AdminAuctionOverviewProps> = ({ auctions })
 };
 
 export default AdminAuctionOverview;
-```

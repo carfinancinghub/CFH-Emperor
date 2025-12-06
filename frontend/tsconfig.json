@@ -1,30 +1,50 @@
 {
   "compilerOptions": {
     "target": "ES2020",
-    "lib": ["ES2020", "DOM"],
-    "jsx": "react-jsx",
     "module": "ESNext",
     "moduleResolution": "Bundler",
+
+    // Strict production-leaning typing
     "strict": true,
+    "noImplicitAny": true,
+    "strictNullChecks": true,
+
+    // We only want TypeScript/TSX in this pass
+    "allowJs": false,
+    "checkJs": false,
+
+    // Keep validation fast and readable
+    "skipLibCheck": true,
+    "noEmit": true,
+    "noErrorTruncation": true,
+
+    // Interop + quality-of-life
     "esModuleInterop": true,
     "forceConsistentCasingInFileNames": true,
-    "skipLibCheck": true,
     "resolveJsonModule": true,
-    "isolatedModules": true,
-    "noEmit": true,
 
-    "baseUrl": ".",
+    // React setup
+    "jsx": "react-jsx",
+
+    // CFH Wave-20: real app src as root
+    "baseUrl": "./src",
     "paths": {
-      "@/*": ["src/*"],
-      "@components/*": ["src/components/*"],
-      "@services/*": ["src/services/*"],
-      "@utils/*": ["src/utils/*"],
-      "@hooks/*": ["src/hooks/*"],
-      "@styles/*": ["src/styles/*"],
-      "@i18n/*": ["src/i18n/*"],
-      "@cfh/inspection-utils": ["../packages/inspection-utils"]
+      "@components/*": ["components/*"],
+      "@__mocks_/*": ["__mocks_/*"]
     }
   },
-  "include": ["src", "vite.config.ts", "setuptests.ts"],
-  "exclude": ["node_modules", "dist"]
+  "include": [
+    "src"
+  ],
+  "exclude": [
+    "node_modules",
+    "dist",
+    "build",
+
+    // Wave-20: keep AI scratch + archives out of clean tsc
+    "src/_ai_out",
+    "src/_ai_out/**",
+    "src/archive",
+    "src/archive/**"
+  ]
 }

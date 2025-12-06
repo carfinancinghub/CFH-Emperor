@@ -3,7 +3,6 @@ This conversion uses TSX, defines necessary interfaces for strong typing of the 
 
 ### `LiveDashboardHealthWidget.tsx`
 
-```tsx
 /**
  * File: LiveDashboardHealthWidget.tsx
  * Path: frontend/src/components/admin/LiveDashboardHealthWidget.tsx
@@ -100,4 +99,3 @@ const LiveDashboardHealthWidget = () => {
 };
 
 export default LiveDashboardHealthWidget;
-```

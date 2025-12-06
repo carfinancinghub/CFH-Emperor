@@ -3,7 +3,6 @@ This conversion utilizes TypeScript interfaces for prop and data definitions, re
 
 ### `BuyerAuctionHistory.tsx`
 
-```tsx
 // File: BuyerAuctionHistory.tsx
 // Path: C:\CFH\frontend\src\components\buyer\BuyerAuctionHistory.tsx
 // Purpose: Display buyer’s auction history with SEO metadata
@@ -116,4 +115,3 @@ const BuyerAuctionHistory: React.FC<BuyerAuctionHistoryProps> = ({ userId }) => 
 };
 
 export default BuyerAuctionHistory;
-```

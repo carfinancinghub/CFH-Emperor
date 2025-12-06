@@ -1,39 +1,43 @@
 // File: auctionExportUtils.ts
-// Path: frontend/src/utils/auction/auctionExportUtils.ts
+// Path: C:\CFH\frontend\src\utils\auction\auctionExportUtils.ts
 // Author: Cod5 (07212245, July 21, 2025, 22:45 PDT)
-// Purpose: Utility for exporting auction-related data (e.g., auction records, summaries, dispute data) as CSV or PDF, supporting analytics features for free and Enterprise users
+// Purpose: Utility for exporting auction-related data (e.g., auction records, summaries, dispute data)
+//          as CSV or PDF, supporting analytics features for free and Enterprise users.
 
 import axios from '@utils/axios';
 import { logError } from '@utils/logger';
 import { toast } from '@utils/react-toastify';
 
 // === Interfaces ===
-interface Auction {
+export interface Auction {
   id: string;
   title: string;
   currentBid: number;
   timeRemaining: string;
 }
 
-interface SummaryData {
+export interface SummaryData {
   totalAuctions?: number;
   totalBidValue?: number;
   trendingVehicles?: Array<{ make: string; model: string; count: number }>;
 }
 
-interface Vote {
+export interface Vote {
   vote: string;
 }
 
-interface DisputeSummary {
+export interface DisputeSummary {
   disputeId: string;
   voteCounts: { [vote: string]: number };
   outcome: string;
 }
 
 // === Auction Export Utilities ===
+
 // Exports basic auction data to CSV for free users
-export const exportAuctionDataAsCSV = async (auctions: Auction[]): Promise<string> => {
+export const exportAuctionDataAsCSV = async (
+  auctions: Auction[],
+): Promise<string> => {
   try {
     if (!Array.isArray(auctions)) {
       throw new Error('Invalid auction data: must be an array');
@@ -41,14 +45,18 @@ export const exportAuctionDataAsCSV = async (auctions: Auction[]): Promise<strin
 
     const csvContent = [
       'ID,Title,Current Bid,Time Remaining',
-      ...auctions.map(auction =>
-        `${auction.id},${auction.title},${auction.currentBid.toFixed(2)},${auction.timeRemaining}`
+      ...auctions.map(
+        (auction) =>
+          `${auction.id},${auction.title},${auction.currentBid.toFixed(
+            2,
+          )},${auction.timeRemaining}`,
       ),
     ].join('\n');
 
     const response = await axios.post('/api/export/csv', { content: csvContent });
     toast.success('Auction data exported as CSV!');
-    return response.data.url; // Assumes API returns a downloadable URL
+    // Assumes API returns a downloadable URL in response.data.url
+    return response.data.url;
   } catch (err) {
     logError(err);
     toast.error('Failed to export auction data as CSV.');
@@ -56,9 +64,12 @@ export const exportAuctionDataAsCSV = async (auctions: Auction[]): Promise<strin
   }
 };
 
-// Intended for Enterprise users; gate with PremiumFeature (feature="auctionAnalytics") at the component level
+// Intended for Enterprise users; gate with PremiumFeature(feature="auctionAnalytics") at the component level
 // Exports detailed auction summary to PDF for Enterprise users
-export const exportAuctionSummaryAsPDF = async (auctions: Auction[], summaryData: SummaryData): Promise<string> => {
+export const exportAuctionSummaryAsPDF = async (
+  auctions: Auction[],
+  summaryData: SummaryData,
+): Promise<string> => {
   try {
     if (!Array.isArray(auctions) || !summaryData || typeof summaryData !== 'object') {
       throw new Error('Invalid auction or summary data');
@@ -67,16 +78,22 @@ export const exportAuctionSummaryAsPDF = async (auctions: Auction[], summaryData
     const payload = {
       auctions,
       summary: {
-        totalAuctions: summaryData.totalAuctions || auctions.length,
-        totalBidValue: summaryData.totalBidValue || auctions.reduce((sum, a) => sum + a.currentBid, 0),
-        trendingVehicles: summaryData.trendingVehicles || [],
+        totalAuctions: summaryData.totalAuctions ?? auctions.length,
+        totalBidValue:
+          summaryData.totalBidValue ??
+          auctions.reduce((sum, a) => sum + a.currentBid, 0),
+        trendingVehicles: summaryData.trendingVehicles ?? [],
       },
     };
 
-    const response = await axios.post('/api/export/pdf', payload, { responseType: 'blob' });
+    const response = await axios.post('/api/export/pdf', payload, {
+      responseType: 'blob',
+    });
+
     const url = window.URL.createObjectURL(new Blob([response.data]));
     toast.success('Auction summary exported as PDF!');
-    return url; // Returns a blob URL for download
+    // Returns a blob URL for download
+    return url;
   } catch (err) {
     logError(err);
     toast.error('Failed to export auction summary as PDF.');
@@ -84,19 +101,32 @@ export const exportAuctionSummaryAsPDF = async (auctions: Auction[], summaryData
   }
 };
 
-// Intended for Enterprise users; gate with PremiumFeature (feature="auctionAnalytics") at the component level
+// Intended for Enterprise users; gate with PremiumFeature(feature="auctionAnalytics") at the component level
 // Exports dispute voting summary to PDF for Enterprise users
-export const exportDisputeSummaryAsPDF = async (disputeId: string, votes: Vote[]): Promise<string> => {
+export const exportDisputeSummaryAsPDF = async (
+  disputeId: string,
+  votes: Vote[],
+): Promise<string> => {
   try {
     if (!disputeId || !Array.isArray(votes)) {
       throw new Error('Invalid dispute ID or votes data');
     }
 
-    const voteCounts = votes.reduce((acc, v) => {
-      acc[v.vote] = (acc[v.vote] || 0) + 1;
-      return acc;
-    }, {} as { [vote: string]: number });
-    const outcome = Object.keys(voteCounts).reduce((a, b) => voteCounts[a] > voteCounts[b] ? a : b, 'undecided');
+    const voteCounts = votes.reduce(
+      (acc, v) => {
+        acc[v.vote] = (acc[v.vote] || 0) + 1;
+        return acc;
+      },
+      {} as { [vote: string]: number },
+    );
+
+    // Default to 'undecided' if there are no votes
+    const outcome =
+      Object.keys(voteCounts).length === 0
+        ? 'undecided'
+        : Object.keys(voteCounts).reduce((a, b) =>
+            voteCounts[a] > voteCounts[b] ? a : b,
+          );
 
     const payload: DisputeSummary = {
       disputeId,
@@ -104,10 +134,14 @@ export const exportDisputeSummaryAsPDF = async (disputeId: string, votes: Vote[]
       outcome,
     };
 
-    const response = await axios.post('/api/export/pdf/dispute', payload, { responseType: 'blob' });
+    const response = await axios.post('/api/export/pdf/dispute', payload, {
+      responseType: 'blob',
+    });
+
     const url = window.URL.createObjectURL(new Blob([response.data]));
     toast.success('Dispute summary exported as PDF!');
-    return url; // Returns a blob URL for download
+    // Returns a blob URL for download
+    return url;
   } catch (err) {
     logError(err);
     toast.error('Failed to export dispute summary as PDF.');
@@ -116,23 +150,27 @@ export const exportDisputeSummaryAsPDF = async (disputeId: string, votes: Vote[]
 };
 
 // === TODOs and Suggestions ===
-// - Add support for additional export formats (e.g., JSON, Excel).
-// - Integrate with a reporting dashboard for visualized export previews.
-// - Cache export results to reduce API calls for frequent exports.
+/*
+- Add support for additional export formats (e.g., JSON, Excel).
+- Integrate with a reporting dashboard for visualized export previews.
+- Cache export results to reduce API calls for frequent exports.
 
-**Functions Summary**:
-- **exportAuctionDataAsCSV(auctions)**
-  - **Purpose**: Exports basic auction data to CSV for free users.
-  - **Inputs**: auctions (Array) - Array of auction objects with id, title, currentBid, timeRemaining.
-  - **Outputs**: String - URL for the downloadable CSV file.
-  - **Dependencies**: @utils/axios, @utils/logger (logError), @utils/react-toastify (toast)
-- **exportAuctionSummaryAsPDF(auctions, summaryData)**
-  - **Purpose**: Exports a detailed auction summary to PDF for Enterprise users.
-  - **Inputs**: auctions (Array) - Array of auction objects; summaryData (Object) - Summary stats like totalAuctions, totalBidValue, trendingVehicles.
-  - **Outputs**: String - URL for the downloadable PDF file.
-  - **Dependencies**: @utils/axios, @utils/logger (logError), @utils/react-toastify (toast)
-- **exportDisputeSummaryAsPDF(disputeId, votes)**
-  - **Purpose**: Exports a dispute voting summary to PDF for Enterprise users.
-  - **Inputs**: disputeId (String) - The ID of the dispute; votes (Array) - Array of vote objects with vote property.
-  - **Outputs**: String - URL for the downloadable PDF file.
-  - **Dependencies**: @utils/axios, @utils/logger (logError), @utils/react-toastify (toast)
+Functions Summary:
+- exportAuctionDataAsCSV(auctions)
+  - Purpose: Exports basic auction data to CSV for free users.
+  - Inputs: auctions (Array) - Array of auction objects with id, title, currentBid, timeRemaining.
+  - Outputs: String - URL for the downloadable CSV file.
+  - Dependencies: @utils/axios, @utils/logger (logError), @utils/react-toastify (toast)
+
+- exportAuctionSummaryAsPDF(auctions, summaryData)
+  - Purpose: Exports a detailed auction summary to PDF for Enterprise users.
+  - Inputs: auctions (Array) - Array of auction objects; summaryData (Object) - Summary stats like totalAuctions, totalBidValue, trendingVehicles.
+  - Outputs: String - URL for the downloadable PDF file.
+  - Dependencies: @utils/axios, @utils/logger (logError), @utils/react-toastify (toast)
+
+- exportDisputeSummaryAsPDF(disputeId, votes)
+  - Purpose: Exports a dispute voting summary to PDF for Enterprise users.
+  - Inputs: disputeId (String) - The ID of the dispute; votes (Array) - Array of vote objects with vote property.
+  - Outputs: String - URL for the downloadable PDF file.
+  - Dependencies: @utils/axios, @utils/logger (logError), @utils/react-toastify (toast)
+*/

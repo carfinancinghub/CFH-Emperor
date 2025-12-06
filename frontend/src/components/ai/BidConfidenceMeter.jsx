@@ -1,4 +1,3 @@
-```
 // 👑 Crown Certified Component — BidConfidenceMeter.jsx
 // Path: frontend/src/components/ai/BidConfidenceMeter.jsx
 // Purpose: Displays a confidence meter for bid success probability, with premium insights and advice.
@@ -105,4 +104,3 @@ Functions Summary:
     - Error handling for API failures
   - Dependencies: react, prop-types, @services/api, @utils/logger, @components/common/PremiumGate, lucide-react
 */
-```

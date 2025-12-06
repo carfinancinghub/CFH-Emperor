@@ -3,7 +3,6 @@ This conversion utilizes interfaces to define the structure of the props, replac
 
 ### `ArbitratorAnalyticsPanel.tsx`
 
-```tsx
 // 👑 Crown Certified Component — ArbitratorAnalyticsPanel.tsx
 // Path: frontend/src/components/arbitrator/ArbitratorAnalyticsPanel.tsx
 // Purpose: Visual analytics for arbitrators with resolution rates and premium insights.
@@ -100,4 +99,3 @@ const ArbitratorAnalyticsPanel: React.FC<ArbitratorAnalyticsPanelProps> = ({ sta
 };
 
 export default ArbitratorAnalyticsPanel;
-```

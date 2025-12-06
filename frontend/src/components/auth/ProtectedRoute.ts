@@ -1,7 +1,6 @@
 // @ai-generated via ai-orchestrator
 This file should be renamed to `ProtectedRoute.tsx`.
 
-```tsx
 // File: ProtectedRoute.tsx
 // Path: frontend/src/components/auth/ProtectedRoute.tsx
 
@@ -32,4 +31,3 @@ const ProtectedRoute: FC<ProtectedRouteProps> = ({ children }) => {
 };
 
 export default ProtectedRoute;
-```

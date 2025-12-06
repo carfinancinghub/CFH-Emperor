@@ -1,7 +1,6 @@
 // @ai-generated via ai-orchestrator
 This conversion uses a type alias for the return structure and explicitly types the `useState` calls to enforce `string | null` for the state variables.
 
-```tsx
 // File: useAuth.ts
 // Path: frontend/src/utils/useAuth.ts
 
@@ -34,4 +33,3 @@ const useAuth = (): AuthState => {
 };
 
 export default useAuth;
-```

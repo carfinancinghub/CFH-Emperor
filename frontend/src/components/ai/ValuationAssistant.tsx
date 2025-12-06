@@ -1,7 +1,6 @@
 // @ai-generated via ai-orchestrator
 This file should be renamed from `ValuationAssistant.jsx` to **`ValuationAssistant.tsx`**.
 
-```tsx
 // 👑 Crown Certified Component — ValuationAssistant.tsx
 // Path: frontend/src/components/ai/ValuationAssistant.tsx
 // Purpose: Display AI-driven valuation metrics and recommendations for buyers, sellers, and officers
@@ -116,4 +115,3 @@ const ValuationAssistant: React.FC<ValuationAssistantProps> = ({ auctionId, isPr
 
 // PropTypes are removed as TypeScript interfaces provide validation during development.
 export default ValuationAssistant;
-```

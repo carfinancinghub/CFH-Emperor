@@ -3,7 +3,6 @@ This file is converted to TSX. The `prop-types` usage is replaced with an explic
 
 ### `frontend/src/components/auction/AuctionIntelligenceDashboard.tsx`
 
-```tsx
 /**
  * File: AuctionIntelligenceDashboard.tsx
  * Path: frontend/src/components/auction/AuctionIntelligenceDashboard.tsx
@@ -207,4 +206,3 @@ const AuctionIntelligenceDashboard: React.FC<DashboardProps> = ({
 };
 
 export default AuctionIntelligenceDashboard;
-```

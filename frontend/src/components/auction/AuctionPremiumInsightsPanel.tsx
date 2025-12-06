@@ -3,7 +3,6 @@ This file has been converted to TSX, adding necessary interfaces for API structu
 
 ### `AuctionPremiumInsightsPanel.tsx`
 
-```tsx
 /**
  * File: AuctionPremiumInsightsPanel.tsx
  * Path: frontend/src/components/auction/AuctionPremiumInsightsPanel.tsx
@@ -188,4 +187,3 @@ const AuctionPremiumInsightsPanel: React.FC<AuctionPremiumInsightsPanelProps> = 
 };
 
 export default AuctionPremiumInsightsPanel;
-```
