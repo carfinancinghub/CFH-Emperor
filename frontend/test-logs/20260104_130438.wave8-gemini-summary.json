@@ -1,0 +1,33 @@
+{
+  "step": "wave8-gemini-scan",
+  "stamp": "20260104_130438",
+  "root": "C:\\CFH\\frontend\\src\\components\\ai",
+  "outDir": "C:\\CFH\\frontend\\reports\\blueprints\\wave20-full-empire-20260104-v2",
+  "label": "wave20-full-empire-20260104-v2",
+  "files": null,
+  "emitted": [
+    "C:\\CFH\\frontend\\reports\\blueprints\\wave20-full-empire-20260104-v2\\CompetitiveBiddingInterface.md",
+    "C:\\CFH\\frontend\\reports\\blueprints\\wave20-full-empire-20260104-v2\\AIBadgeOverlay.md",
+    "C:\\CFH\\frontend\\reports\\blueprints\\wave20-full-empire-20260104-v2\\AIBadgeOverlay.md",
+    "C:\\CFH\\frontend\\reports\\blueprints\\wave20-full-empire-20260104-v2\\AIPredictorDashboard.md",
+    "C:\\CFH\\frontend\\reports\\blueprints\\wave20-full-empire-20260104-v2\\AIPredictorDashboard.md",
+    "C:\\CFH\\frontend\\reports\\blueprints\\wave20-full-empire-20260104-v2\\AIScorePanel.md",
+    "C:\\CFH\\frontend\\reports\\blueprints\\wave20-full-empire-20260104-v2\\AIScorePanel.md",
+    "C:\\CFH\\frontend\\reports\\blueprints\\wave20-full-empire-20260104-v2\\BidConfidenceMeter.md",
+    "C:\\CFH\\frontend\\reports\\blueprints\\wave20-full-empire-20260104-v2\\BidConfidenceMeter.md",
+    "C:\\CFH\\frontend\\reports\\blueprints\\wave20-full-empire-20260104-v2\\BidStrategyAdvisor.md",
+    "C:\\CFH\\frontend\\reports\\blueprints\\wave20-full-empire-20260104-v2\\BidStrategyAdvisor.md",
+    "C:\\CFH\\frontend\\reports\\blueprints\\wave20-full-empire-20260104-v2\\PredictiveComparison.md",
+    "C:\\CFH\\frontend\\reports\\blueprints\\wave20-full-empire-20260104-v2\\PredictiveComparison.md",
+    "C:\\CFH\\frontend\\reports\\blueprints\\wave20-full-empire-20260104-v2\\SmartInsightsWidget.md",
+    "C:\\CFH\\frontend\\reports\\blueprints\\wave20-full-empire-20260104-v2\\TrustScoreViewer.md",
+    "C:\\CFH\\frontend\\reports\\blueprints\\wave20-full-empire-20260104-v2\\TrustScoreViewer.md",
+    "C:\\CFH\\frontend\\reports\\blueprints\\wave20-full-empire-20260104-v2\\ValuationAssistant.md",
+    "C:\\CFH\\frontend\\reports\\blueprints\\wave20-full-empire-20260104-v2\\ValuationAssistant.md",
+    "C:\\CFH\\frontend\\reports\\blueprints\\wave20-full-empire-20260104-v2\\ValuationLiveFeed.md",
+    "C:\\CFH\\frontend\\reports\\blueprints\\wave20-full-empire-20260104-v2\\ValuationLiveFeed.md"
+  ],
+  "errors": 0,
+  "logPath": "C:\\CFH\\frontend\\test-logs\\20260104_130438.wave8-gemini.log",
+  "summaryPath": "C:\\CFH\\frontend\\test-logs\\20260104_130438.wave8-gemini-summary.json"
+}
