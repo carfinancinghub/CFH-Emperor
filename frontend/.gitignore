@@ -7,3 +7,12 @@ frontend/src/_dupe_hold/
 # Local run artifacts (do not track)
 frontend/test-logs/
 test-logs/
+
+# =========================
+# Proof allowlist (SG-Man reviewable artifacts)
+# =========================
+# If reports/ is ignored globally, allow proofs through:
+!reports/
+!reports/proofs/
+!reports/proofs/**
+
