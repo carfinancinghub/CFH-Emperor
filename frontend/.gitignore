@@ -1,1 +1,5 @@
 !src/_ai_out/**
+# Wave/AI backup artifacts
+**/*.bak
+frontend/_backups/
+frontend/src/_dupe_hold/

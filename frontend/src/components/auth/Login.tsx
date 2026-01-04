@@ -1,5 +1,5 @@
 // @ai-generated via ai-orchestrator
-This file should be renamed from `Login.js` to `Login.tsx`.
+// This file should be renamed from `Login.js` to `Login.tsx`.
 
 // File: Login.tsx
 // Path: frontend/src/components/Login.tsx

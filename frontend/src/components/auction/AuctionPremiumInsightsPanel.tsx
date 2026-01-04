@@ -1,7 +1,7 @@
 // @ai-generated via ai-orchestrator
-This file has been converted to TSX, adding necessary interfaces for API structures and typing React hooks for state management.
+// This file has been converted to TSX, adding necessary interfaces for API structures and typing React hooks for state management.
 
-### `AuctionPremiumInsightsPanel.tsx`
+// ### `AuctionPremiumInsightsPanel.tsx`
 
 /**
  * File: AuctionPremiumInsightsPanel.tsx

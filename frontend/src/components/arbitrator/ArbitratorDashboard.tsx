@@ -1,7 +1,7 @@
 // @ai-generated via ai-orchestrator
-This file has been converted to TypeScript (TSX). We define necessary interfaces for props and data structures (`Dispute`, `Vote`, `AnalyticsData`) and apply explicit types to state variables and function parameters, ensuring type safety without altering the component's runtime behavior.
+// This file has been converted to TypeScript (TSX). We define necessary interfaces for props and data structures (`Dispute`, `Vote`, `AnalyticsData`) and apply explicit types to state variables and function parameters, ensuring type safety without altering the component's runtime behavior.
 
-### `ArbitratorDashboard.tsx`
+// ### `ArbitratorDashboard.tsx`
 
 // 👑 Crown Certified Component — ArbitratorDashboard.tsx
 // Path: frontend/src/components/arbitrator/ArbitratorDashboard.tsx

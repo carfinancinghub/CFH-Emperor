@@ -1,5 +1,5 @@
 // @ai-generated via ai-orchestrator
-This component is converted to TSX, using `React.FC` for typing the component, explicitly typing the props, and utilizing `useRef` with the appropriate `HTMLDivElement` type.
+// This component is converted to TSX, using `React.FC` for typing the component, explicitly typing the props, and utilizing `useRef` with the appropriate `HTMLDivElement` type.
 
 /**
  * File: AuctionAccessibilityWrapper.tsx

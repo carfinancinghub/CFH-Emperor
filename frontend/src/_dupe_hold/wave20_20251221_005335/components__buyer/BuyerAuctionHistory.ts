@@ -1,7 +1,7 @@
 // @ai-generated via ai-orchestrator
-This file is converted to TSX to support JSX syntax and TypeScript typing. Since the structure of the external service response (`fetchBuyerAuctionHistory`) is crucial for internal state management, we must define the expected types for the data structures (`AuctionHistoryEntry` and `AnalyticsData`).
+// This file is converted to TSX to support JSX syntax and TypeScript typing. Since the structure of the external service response (`fetchBuyerAuctionHistory`) is crucial for internal state management, we must define the expected types for the data structures (`AuctionHistoryEntry` and `AnalyticsData`).
 
-### `frontend/src/components/buyer/BuyerAuctionHistory.tsx`
+// ### `frontend/src/components/buyer/BuyerAuctionHistory.tsx`
 
 // File: BuyerAuctionHistory.tsx
 // Path: frontend/src/components/buyer/BuyerAuctionHistory.js

@@ -1,7 +1,7 @@
 // @ai-generated via ai-orchestrator
-This file has been converted to TSX, applying idiomatic TypeScript typing, especially for React props, DOM manipulation, and error handling.
+// This file has been converted to TSX, applying idiomatic TypeScript typing, especially for React props, DOM manipulation, and error handling.
 
-### `AuctionSEOHead.tsx`
+// ### `AuctionSEOHead.tsx`
 
 /**
  * File: AuctionSEOHead.tsx

@@ -1,7 +1,7 @@
 // @ai-generated via ai-orchestrator
-This conversion utilizes interfaces to define prop shapes, replacing the deprecated `PropTypes` pattern, which is standard practice in idiomatic TypeScript React development.
+// This conversion utilizes interfaces to define prop shapes, replacing the deprecated `PropTypes` pattern, which is standard practice in idiomatic TypeScript React development.
 
-### `SellerBadgePanel.tsx`
+// ### `SellerBadgePanel.tsx`
 
 // File: SellerBadgePanel.tsx
 // Path: frontend/src/components/auction/SellerBadgePanel.tsx

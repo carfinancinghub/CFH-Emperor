@@ -1,7 +1,7 @@
 // @ai-generated via ai-orchestrator
-The following conversion moves the component to idiomatic TSX, defines a strong interface for props, and provides minimal necessary explicit typing for event handlers, while preserving the module structure and runtime behavior.
+// The following conversion moves the component to idiomatic TSX, defines a strong interface for props, and provides minimal necessary explicit typing for event handlers, while preserving the module structure and runtime behavior.
 
-The file extension should be renamed from `.jsx` to `.tsx`.
+// The file extension should be renamed from `.jsx` to `.tsx`.
 
 // File: CryptoPaymentOption.tsx
 // Path: C:\CFH\frontend\src\components\blockchain\CryptoPaymentOption.tsx

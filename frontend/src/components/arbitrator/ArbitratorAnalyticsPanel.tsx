@@ -1,7 +1,7 @@
 // @ai-generated via ai-orchestrator
-This conversion utilizes interfaces to define the structure of the props, replacing the runtime PropTypes validation with static TypeScript checking.
+// This conversion utilizes interfaces to define the structure of the props, replacing the runtime PropTypes validation with static TypeScript checking.
 
-### `ArbitratorAnalyticsPanel.tsx`
+// ### `ArbitratorAnalyticsPanel.tsx`
 
 // 👑 Crown Certified Component — ArbitratorAnalyticsPanel.tsx
 // Path: frontend/src/components/arbitrator/ArbitratorAnalyticsPanel.tsx

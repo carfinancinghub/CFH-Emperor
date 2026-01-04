@@ -1,5 +1,5 @@
 // @ai-generated via ai-orchestrator
-This component uses JSX syntax, so we will convert it to **TSX** (`.tsx`). We introduce necessary interfaces to define the shape of the data received from the API calls, ensuring type safety throughout the component state and logic.
+// This component uses JSX syntax, so we will convert it to **TSX** (`.tsx`). We introduce necessary interfaces to define the shape of the data received from the API calls, ensuring type safety throughout the component state and logic.
 
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';

@@ -1,7 +1,7 @@
 // @ai-generated via ai-orchestrator
-This component is converted to TypeScript (TSX). We define explicit interfaces for the component props and the data structures (Bid and Auction Details) to ensure type safety, and remove the obsolete `PropTypes`.
+// This component is converted to TypeScript (TSX). We define explicit interfaces for the component props and the data structures (Bid and Auction Details) to ensure type safety, and remove the obsolete `PropTypes`.
 
-### `AuctionLiveBidTracker.tsx`
+// ### `AuctionLiveBidTracker.tsx`
 
 // File: AuctionLiveBidTracker.tsx
 // Path: C:\CFH\frontend\src\components\auction\AuctionLiveBidTracker.tsx

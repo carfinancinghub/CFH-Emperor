@@ -1,7 +1,7 @@
 // @ai-generated via ai-orchestrator
-This file is converted to TSX. We define necessary interfaces for the component props and the expected data structure to ensure strong type checking.
+// This file is converted to TSX. We define necessary interfaces for the component props and the expected data structure to ensure strong type checking.
 
-### `AdminSmartAlertEngine.tsx`
+// ### `AdminSmartAlertEngine.tsx`
 
 /**
  * AdminSmartAlertEngine.tsx

@@ -1,0 +1,58 @@
+{
+  "compilerOptions": {
+    "target": "ES2020",
+    "module": "ESNext",
+    "moduleResolution": "Bundler",
+
+    // Strict production-leaning typing
+    "strict": true,
+    "noImplicitAny": true,
+    "strictNullChecks": true,
+
+    // We only want TypeScript/TSX in this pass
+    "allowJs": false,
+    "checkJs": false,
+
+    // Keep validation fast and readable
+    "skipLibCheck": true,
+    "noEmit": true,
+    "noErrorTruncation": true,
+
+    // Interop + quality-of-life
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "resolveJsonModule": true,
+
+    // React setup
+    "jsx": "react-jsx",
+
+    // CFH Wave-20: real app src as root
+    "baseUrl": "./src",
+    "paths": {
+      "@components/*": ["components/*"],
+      "@__mocks_/*": ["__mocks_/*"]
+    }
+  },
+  "include": [
+    "src"
+  ],
+  "exclude": [
+    "node_modules",
+    "dist",
+    "build",
+
+    // Wave-20: keep AI scratch + archives out of clean tsc
+    "src/_ai_out",
+    "src/_ai_out/**",
+    "src/archive",
+    "src/archive/**",
+    "**/*.back.*",
+    "**/*.bak",
+    "**/*.bak.*",
+    "**/*.backup.*",
+    "**/*.orig.*",
+    "**/*.tmp.*",
+    "**/*.swp",
+    "reports/**"
+  ]
+}

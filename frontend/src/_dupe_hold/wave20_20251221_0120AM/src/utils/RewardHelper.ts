@@ -1,5 +1,5 @@
 // @ai-generated via ai-orchestrator
-This utility involves JSX rendering, so the file format must be TSX.
+// This utility involves JSX rendering, so the file format must be TSX.
 
 // File: RewardHelper.tsx
 // Path: frontend/src/utils/RewardHelper.tsx

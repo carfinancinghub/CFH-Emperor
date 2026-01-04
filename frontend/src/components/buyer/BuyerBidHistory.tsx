@@ -1,7 +1,7 @@
 // @ai-generated via ai-orchestrator
-This conversion uses idiomatic TypeScript features like interfaces for data structures and props, explicit typing for `useState` hooks, and proper typing for React event handlers, while preserving the existing JSX structure and functionality.
+// This conversion uses idiomatic TypeScript features like interfaces for data structures and props, explicit typing for `useState` hooks, and proper typing for React event handlers, while preserving the existing JSX structure and functionality.
 
-### `BuyerBidHistory.tsx`
+// ### `BuyerBidHistory.tsx`
 
 /**
  * BuyerBidHistory.tsx

@@ -1,7 +1,7 @@
 // @ai-generated via ai-orchestrator
-This conversion utilizes TypeScript interfaces to define the component's props, replaces `prop-types`, and adheres to idiomatic TSX structure.
+// This conversion utilizes TypeScript interfaces to define the component's props, replaces `prop-types`, and adheres to idiomatic TSX structure.
 
-### `AuctionResultsViewer.tsx`
+// ### `AuctionResultsViewer.tsx`
 
 /**
  * File: AuctionResultsViewer.tsx

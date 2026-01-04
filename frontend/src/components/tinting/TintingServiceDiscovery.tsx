@@ -80,7 +80,7 @@ export const TintingServiceDiscovery: React.FC<TintingServiceDiscoveryProps> = (
   return (
     <div className="discovery-container" aria-live="polite">
       <h2>Discover Tinting Services</h2>
-      <p><i>CQS: WCAG 2.1 AA compliant, <2s load time.</i></p>
+      <p><i>CQS: WCAG 2.1 AA compliant, under 2s load time.</i></p>
       {error && <div role="alert" style={{ color: 'red' }}>{error}</div>}
       <div className="search-bar">
         <input type="text" aria-label="Enter ZIP code" placeholder="Enter ZIP code or city" value={zipCode} onChange={e => setZipCode(e.target.value)} />
