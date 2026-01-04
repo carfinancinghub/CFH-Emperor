@@ -1,5 +1,5 @@
 // @ai-generated via ai-orchestrator
-This component is migrated to TSX, using an interface for props definition and providing explicit types for state variables and event handlers. The runtime dependency on `PropTypes` has been removed in favor of static type checking.
+// This component is migrated to TSX, using an interface for props definition and providing explicit types for state variables and event handlers. The runtime dependency on `PropTypes` has been removed in favor of static type checking.
 
 // 👑 Crown Certified Component — BuyerBidModal.tsx
 // Path: frontend/src/components/buyer/BuyerBidModal.tsx

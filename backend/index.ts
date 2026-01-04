@@ -1,1 +1,10 @@
-import express from 'express';\nconst app = express();\napp.use(express.json());\napp.post('/api/auth/login', (req, res) => {\n  res.json({ token: 'mock-jwt', user_id: req.body.user_id });\n});\napp.listen(3000, () => console.log('Backend on 3000'));
+﻿import express, { Request, Response } from "express";
+
+const app = express();
+app.use(express.json());
+
+app.post("/api/auth/login", (req: Request, res: Response) => {
+  res.json({ token: "mock-jwt", user_id: (req.body as any)?.user_id });
+});
+
+app.listen(3000, () => console.log("Backend on 3000"));

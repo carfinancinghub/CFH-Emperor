@@ -1,7 +1,7 @@
 // @ai-generated via ai-orchestrator
-This conversion utilizes TypeScript interfaces for prop and data definitions, replaces `prop-types`, and adds minimal explicit types to state management while preserving the component's original logic and structure.
+// This conversion utilizes TypeScript interfaces for prop and data definitions, replaces `prop-types`, and adds minimal explicit types to state management while preserving the component's original logic and structure.
 
-### `BuyerAuctionHistory.tsx`
+// ### `BuyerAuctionHistory.tsx`
 
 // File: BuyerAuctionHistory.tsx
 // Path: C:\CFH\frontend\src\components\buyer\BuyerAuctionHistory.tsx

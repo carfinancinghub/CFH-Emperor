@@ -1,5 +1,5 @@
 // @ai-generated via ai-orchestrator
-The file should be renamed to `Unauthorized.tsx`.
+// The file should be renamed to `Unauthorized.tsx`.
 
 // File: Unauthorized.tsx
 // Path: frontend/src/components/auth/Unauthorized.tsx

@@ -1,7 +1,7 @@
 // @ai-generated via ai-orchestrator
-This file is converted to TSX, removing `prop-types` and introducing types for props, state, and critical data structures.
+// This file is converted to TSX, removing `prop-types` and introducing types for props, state, and critical data structures.
 
-### File: `BidAssistantSimulator.tsx`
+// ### File: `BidAssistantSimulator.tsx`
 
 // File: BidAssistantSimulator.tsx
 // Path: frontend/src/components/buyer/BidAssistantSimulator.tsx

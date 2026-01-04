@@ -1,7 +1,7 @@
 // @ai-generated via ai-orchestrator
-This file is converted to TSX. The `prop-types` usage is replaced with an explicit TypeScript interface, and state variables and fetched data structures are explicitly typed.
+// This file is converted to TSX. The `prop-types` usage is replaced with an explicit TypeScript interface, and state variables and fetched data structures are explicitly typed.
 
-### `frontend/src/components/auction/AuctionIntelligenceDashboard.tsx`
+// ### `frontend/src/components/auction/AuctionIntelligenceDashboard.tsx`
 
 /**
  * File: AuctionIntelligenceDashboard.tsx

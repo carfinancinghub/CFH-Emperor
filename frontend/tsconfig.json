@@ -1,50 +1,76 @@
 {
   "compilerOptions": {
+    // === Core Target ===
     "target": "ES2020",
     "module": "ESNext",
     "moduleResolution": "Bundler",
 
-    // Strict production-leaning typing
+    // === Strict Mode ===
     "strict": true,
     "noImplicitAny": true,
     "strictNullChecks": true,
 
-    // We only want TypeScript/TSX in this pass
+    // === JS/JSX Off for Wave-20 TS Purification ===
     "allowJs": false,
     "checkJs": false,
 
-    // Keep validation fast and readable
+    // === Performance / Clean Output ===
     "skipLibCheck": true,
     "noEmit": true,
     "noErrorTruncation": true,
 
-    // Interop + quality-of-life
+    // === Interop & Good Behavior ===
     "esModuleInterop": true,
     "forceConsistentCasingInFileNames": true,
     "resolveJsonModule": true,
 
-    // React setup
+    // === React ===
     "jsx": "react-jsx",
 
-    // CFH Wave-20: real app src as root
+    // === Base Path + Aliases ===
     "baseUrl": "./src",
     "paths": {
       "@components/*": ["components/*"],
-      "@__mocks_/*": ["__mocks_/*"]
+      "@__mocks_/*": ["__mocks_/*"],
+      "@/ *": ["*"]        // (with no space in real file)
     }
   },
-  "include": [
-    "src"
-  ],
+
+  // === Include Scope ===
+  "include": ["src"],
+
+  // === Exclusions (Wave-20 Purification Rules) ===
   "exclude": [
     "node_modules",
     "dist",
     "build",
 
-    // Wave-20: keep AI scratch + archives out of clean tsc
+    // === AI folders & archives ===
     "src/_ai_out",
     "src/_ai_out/**",
     "src/archive",
-    "src/archive/**"
+    "src/archive/**",
+    "src/_archive",
+    "src/_archive/**",
+
+    // === Dupe quarantine ===
+    "src/_dupe_hold",
+    "src/_dupe_hold/**",
+
+    // === Legacy JS/JSX banned for this pass ===
+    "**/*.js",
+    "**/*.jsx",
+
+    // === Backup files ===
+    "**/*.back.*",
+    "**/*.bak",
+    "**/*.bak.*",
+    "**/*.backup.*",
+    "**/*.orig.*",
+    "**/*.tmp.*",
+    "**/*.swp",
+
+    // === Non-source folders ===
+    "reports/**"
   ]
 }

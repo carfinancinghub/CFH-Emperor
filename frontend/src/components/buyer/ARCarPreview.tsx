@@ -1,5 +1,5 @@
 // @ai-generated via ai-orchestrator
-This component uses TSX because it renders React elements, utilizes hooks, and requires explicit type definitions for props, state, and custom objects (Customizations, Rewards).
+// This component uses TSX because it renders React elements, utilizes hooks, and requires explicit type definitions for props, state, and custom objects (Customizations, Rewards).
 
 /**
  * File: ARCarPreview.tsx

@@ -1,5 +1,5 @@
 // @ai-generated via ai-orchestrator
-This file should be converted to `.tsx` (TypeScript JSX). We will define interfaces for the component props and the structure of data stored in `localStorage`.
+// This file should be converted to `.tsx` (TypeScript JSX). We will define interfaces for the component props and the structure of data stored in `localStorage`.
 
 /**
  * BuyerBehaviorTracker.tsx
