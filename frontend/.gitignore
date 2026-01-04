@@ -3,3 +3,7 @@
 **/*.bak
 frontend/_backups/
 frontend/src/_dupe_hold/
+
+# Local run artifacts (do not track)
+frontend/test-logs/
+test-logs/
