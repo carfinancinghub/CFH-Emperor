@@ -89,8 +89,9 @@
     "vary": "^1.1.2",
     "yn": "^3.1.1"
   },
-  "devDependencies": {},
   "scripts": {
+    "dev": "ts-node --transpile-only index.ts",
+    "start": "ts-node index.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
