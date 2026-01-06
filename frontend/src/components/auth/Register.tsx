@@ -103,6 +103,28 @@ const Register: React.FC = () => {
         >
           Register
         </button>
+
+        {/* Smoke test: frontend → backend */}
+        <button
+          type="button"
+          onClick={async () => {
+            try {
+              const r = await fetch("http://127.0.0.1:3000/api/auth/login", {
+                method: "POST",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify({ user_id: "browser-smoke" }),
+              });
+              const text = await r.text();
+              alert(`Backend response (${r.status}): ${text}`);
+            } catch (e: any) {
+              alert(`Backend error: ${e?.message ?? String(e)}`);
+            }
+          }}
+          className="w-full bg-gray-200 text-gray-900 py-2 rounded-lg hover:bg-gray-300 transition"
+        >
+          Ping backend (/api/auth/login)
+        </button>
+
       </form>
     </div>
   );

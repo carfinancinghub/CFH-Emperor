@@ -10,9 +10,6 @@ WPromptOutput/
 lostfiles/
 **/log*/
 
-# Allow evidence txt under public_bundles (override global *.txt ignore)
-!public_bundles/**/*.txt
-
 # =========================
 # CFH Empire — AI scratch & build artifacts
 # =========================

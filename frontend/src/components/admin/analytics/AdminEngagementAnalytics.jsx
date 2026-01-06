@@ -9,7 +9,7 @@
 
 // --- Dependencies ---
 import React from 'react';
-import LiveDashboardHealthWidget from '@components/admin/LiveDashboardHealthWidget';
+import { LiveDashboardHealthWidget } from '@components/admin/LiveDashboardHealthWidget';
 
 // --- Component Definition ---
 const AdminEngagementAnalytics = () => {
