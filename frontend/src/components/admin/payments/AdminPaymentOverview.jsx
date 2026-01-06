@@ -4,10 +4,10 @@
 
 import React, { useEffect, useState } from 'react';
 import axios from 'axios';
-import LoadingSpinner from '@/components/common/LoadingSpinner.jsx';
+import LoadingSpinner from '@/components/common/LoadingSpinner';
 import ErrorBoundary from '@/components/common/ErrorBoundary';
-import Card from '@/components/common/Card.jsx';
-import Button from '@/components/common/Button.jsx';
+import Card from '@/components/common/Card';
+import Button from '@/components/common/Button';
 
 // 🌟 AdminPaymentOverview: View Financial Summaries
 const AdminPaymentOverview = () => {

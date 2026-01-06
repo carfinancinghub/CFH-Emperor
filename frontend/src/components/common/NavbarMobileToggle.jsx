@@ -6,7 +6,7 @@ import React, { useState } from 'react';
 import { Link, useNavigate } from 'react-router-dom';
 import { Menu, X, Bell } from 'lucide-react';
 import useAuth from '@/utils/useAuth'; // 🔑 Auth role and logout manager
-import UnreadNotificationBadge from '@/components/common/UnreadNotificationBadge.jsx'; // 🔔 Live Notification Count
+import UnreadNotificationBadge from '@/components/common/UnreadNotificationBadge'; // 🔔 Live Notification Count
 
 const NavbarMobileToggle = () => {
   const { role, logout } = useAuth();

@@ -5,9 +5,9 @@
 import React, { useEffect, useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import axios from 'axios';
-import LoadingSpinner from '@/components/common/LoadingSpinner.jsx';
+import LoadingSpinner from '@/components/common/LoadingSpinner';
 import ErrorBoundary from '@/components/common/ErrorBoundary';
-import AdminBadgeAuditLog from '@/components/admin/badges/AdminBadgeAuditLog.jsx';
+import AdminBadgeAuditLog from '@/components/admin/badges/AdminBadgeAuditLog';
 
 // 🌟 Admin Arbitration Dashboard: Central for Disputes Management
 const AdminArbitrationDashboard = () => {

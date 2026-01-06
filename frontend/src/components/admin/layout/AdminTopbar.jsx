@@ -5,7 +5,7 @@
 import React from 'react';
 import { Menu, Bell } from 'lucide-react';
 import { Link } from 'react-router-dom';
-import UnreadNotificationBadge from '@/components/notifications/UnreadNotificationBadge.jsx';
+import UnreadNotificationBadge from '@/components/notifications/UnreadNotificationBadge';
 
 // 🌟 AdminTopbar: Mobile Header Bar for Admin Panel
 const AdminTopbar = ({ setSidebarOpen }) => {

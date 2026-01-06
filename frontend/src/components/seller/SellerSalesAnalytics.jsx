@@ -17,7 +17,7 @@ import {
 } from 'chart.js';
 
 // Components
-import LoadingSpinner from '@/components/common/LoadingSpinner.jsx';
+import LoadingSpinner from '@/components/common/LoadingSpinner';
 import ErrorBoundary from '@/components/common/ErrorBoundary';
 import { theme } from '@/styles/theme';
 

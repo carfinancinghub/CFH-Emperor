@@ -5,10 +5,10 @@
 
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
-import LoadingSpinner from '@/components/common/LoadingSpinner.jsx';
+import LoadingSpinner from '@/components/common/LoadingSpinner';
 import ErrorBoundary from '@/components/common/ErrorBoundary';
-import Card from '@/components/common/Card.jsx';
-import Button from '@/components/common/Button.jsx';
+import Card from '@/components/common/Card';
+import Button from '@/components/common/Button';
 import { theme } from '@/styles/theme';
 
 const SellerOfferTracker = () => {

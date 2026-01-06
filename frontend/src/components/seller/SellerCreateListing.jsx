@@ -7,8 +7,8 @@ import React, { useState } from 'react';
 import axios from 'axios';
 import { useNavigate } from 'react-router-dom';
 import { toast } from 'react-toastify';
-import Navbar from '@/components/common/Navbar.jsx';
-import LoadingSpinner from '@/components/common/LoadingSpinner.jsx';
+import Navbar from '@/components/common/Navbar';
+import LoadingSpinner from '@/components/common/LoadingSpinner';
 import ErrorBoundary from '@/components/common/ErrorBoundary';
 import { theme } from '@/styles/theme';
 

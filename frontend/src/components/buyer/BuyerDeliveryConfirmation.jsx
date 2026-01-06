@@ -3,7 +3,7 @@
 // 👑 Cod1 Crown Certified — Delivery Confirmation Module (Buyer View)
 
 import React, { useState } from 'react';
-import LoadingSpinner from '@/components/common/LoadingSpinner.jsx';
+import LoadingSpinner from '@/components/common/LoadingSpinner';
 
 // 🌟 BuyerDeliveryConfirmation: Confirm when your car has arrived safely
 const BuyerDeliveryConfirmation = () => {

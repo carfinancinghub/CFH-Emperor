@@ -5,7 +5,7 @@
 import React from 'react';
 import { Link, useNavigate } from 'react-router-dom';
 import { Bell } from 'lucide-react';
-import UnreadNotificationBadge from '@/components/common/UnreadNotificationBadge.jsx'; // 🔔 Live Notification Count
+import UnreadNotificationBadge from '@/components/common/UnreadNotificationBadge'; // 🔔 Live Notification Count
 import useAuth from '@/utils/useAuth'; // 🔑 Auth role and logout manager
 
 const Navbar = () => {

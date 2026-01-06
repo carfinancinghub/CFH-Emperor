@@ -7,10 +7,10 @@ import React, { useEffect, useState } from 'react';
 import axios from 'axios';
 import { useNavigate, useParams } from 'react-router-dom';
 import { toast } from 'react-toastify';
-import LoadingSpinner from '@/components/common/LoadingSpinner.jsx';
+import LoadingSpinner from '@/components/common/LoadingSpinner';
 import ErrorBoundary from '@/components/common/ErrorBoundary';
-import Input from '@/components/common/Input.jsx';
-import Button from '@/components/common/Button.jsx';
+import Input from '@/components/common/Input';
+import Button from '@/components/common/Button';
 import { theme } from '@/styles/theme';
 
 const SellerEditListing = () => {

@@ -4,8 +4,8 @@
 
 import React, { useState } from 'react';
 import { Outlet } from 'react-router-dom';
-import AdminSidebar from '@/components/admin/layout/AdminSidebar.jsx';
-import AdminTopbar from '@/components/admin/layout/AdminTopbar.jsx';
+import AdminSidebar from '@/components/admin/layout/AdminSidebar';
+import AdminTopbar from '@/components/admin/layout/AdminTopbar';
 
 // 🌟 AdminLayout: Responsive Structure for Admin Pages
 const AdminLayout = () => {

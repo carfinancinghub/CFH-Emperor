@@ -4,8 +4,8 @@
 
 import React, { useEffect, useState } from 'react';
 import axios from 'axios';
-import Card from '@/components/common/Card.jsx';
-import LoadingSpinner from '@/components/common/LoadingSpinner.jsx';
+import Card from '@/components/common/Card';
+import LoadingSpinner from '@/components/common/LoadingSpinner';
 import ErrorBoundary from '@/components/common/ErrorBoundary';
 
 // 🌟 Admin System Health Component
