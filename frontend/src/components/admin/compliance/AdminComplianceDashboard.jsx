@@ -6,7 +6,9 @@
  * Date: April 28, 2025
  */
 
-import React\nimport SEOHead from '@components/common/SEOHead';, { useState, useEffect } from 'react';
+import React, { useEffect, useState } from 'react';
+import SEOHead from '@components/common/SEOHead';
+
 import PropTypes from 'prop-types';
 import AdminNavigation from '@components/admin/AdminNavigation'; // Alias for admin navigation component
 import { exportToCSV, exportToPDF } from '@utils/analyticsExportUtils'; // Alias for export utilities
