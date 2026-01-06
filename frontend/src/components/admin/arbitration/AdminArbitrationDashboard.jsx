@@ -6,7 +6,7 @@ import React, { useEffect, useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import axios from 'axios';
 import LoadingSpinner from '@/components/common/LoadingSpinner.jsx';
-import ErrorBoundary from '@/components/common/ErrorBoundary.jsx';
+import ErrorBoundary from '@/components/common/ErrorBoundary';
 import AdminBadgeAuditLog from '@/components/admin/badges/AdminBadgeAuditLog.jsx';
 
 // 🌟 Admin Arbitration Dashboard: Central for Disputes Management

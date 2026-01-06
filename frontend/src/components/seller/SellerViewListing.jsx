@@ -8,7 +8,7 @@ import axios from 'axios';
 import { useParams, Link } from 'react-router-dom';
 import { toast } from 'react-toastify';
 import LoadingSpinner from '@/components/common/LoadingSpinner.jsx';
-import ErrorBoundary from '@/components/common/ErrorBoundary.jsx';
+import ErrorBoundary from '@/components/common/ErrorBoundary';
 
 const SellerViewListing = () => {
   const { id } = useParams();

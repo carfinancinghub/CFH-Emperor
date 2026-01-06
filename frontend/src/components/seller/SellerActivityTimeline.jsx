@@ -6,7 +6,7 @@
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 import LoadingSpinner from '@/components/common/LoadingSpinner.jsx';
-import ErrorBoundary from '@/components/common/ErrorBoundary.jsx';
+import ErrorBoundary from '@/components/common/ErrorBoundary';
 import { theme } from '@/styles/theme';
 
 const SellerActivityTimeline = () => {

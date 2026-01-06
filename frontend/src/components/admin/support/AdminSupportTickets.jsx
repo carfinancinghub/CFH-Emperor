@@ -6,7 +6,7 @@ import React, { useEffect, useState } from 'react';
 import axios from 'axios';
 import Card from '@/components/common/Card.jsx';
 import LoadingSpinner from '@/components/common/LoadingSpinner.jsx';
-import ErrorBoundary from '@/components/common/ErrorBoundary.jsx';
+import ErrorBoundary from '@/components/common/ErrorBoundary';
 import { toast } from '@/components/common/ToastManager.jsx';
 
 // 🌟 Admin Support Tickets Component

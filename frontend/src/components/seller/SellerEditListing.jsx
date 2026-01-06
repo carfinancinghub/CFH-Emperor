@@ -8,7 +8,7 @@ import axios from 'axios';
 import { useNavigate, useParams } from 'react-router-dom';
 import { toast } from 'react-toastify';
 import LoadingSpinner from '@/components/common/LoadingSpinner.jsx';
-import ErrorBoundary from '@/components/common/ErrorBoundary.jsx';
+import ErrorBoundary from '@/components/common/ErrorBoundary';
 import Input from '@/components/common/Input.jsx';
 import Button from '@/components/common/Button.jsx';
 import { theme } from '@/styles/theme';

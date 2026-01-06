@@ -18,7 +18,7 @@ import {
 
 // Components
 import LoadingSpinner from '@/components/common/LoadingSpinner.jsx';
-import ErrorBoundary from '@/components/common/ErrorBoundary.jsx';
+import ErrorBoundary from '@/components/common/ErrorBoundary';
 import { theme } from '@/styles/theme';
 
 // Register Chart.js components
