@@ -1,12 +1,17 @@
 *.log
 *.ini
 *.env
-*.ps1
 *.txt
+*.bak
+*.bak.*
+
 node_modules/
 WPromptOutput/
 lostfiles/
 **/log*/
+
+# Allow evidence txt under public_bundles (override global *.txt ignore)
+!public_bundles/**/*.txt
 
 # =========================
 # CFH Empire — AI scratch & build artifacts
