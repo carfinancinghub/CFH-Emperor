@@ -1,0 +1,590 @@
+{
+  "ok": true,
+  "root": "C:\\CFH\\frontend\\src",
+  "dry_run": false,
+  "listed": [
+    "C:/CFH/frontend/src/App.tsx",
+    "C:/CFH/frontend/src/index.css",
+    "C:/CFH/frontend/src/index.tsx",
+    "C:/CFH/frontend/src/components/AdminEmailNotifications.jsx",
+    "C:/CFH/frontend/src/components/AdminEmailNotifications.tsx",
+    "C:/CFH/frontend/src/components/App.tsx",
+    "C:/CFH/frontend/src/components/index.ts",
+    "C:/CFH/frontend/src/components/admin/AdminAuctionOverview.jsx",
+    "C:/CFH/frontend/src/components/admin/AdminAuctionOverview.tsx",
+    "C:/CFH/frontend/src/components/admin/AdminCustomWidgetLibrary.jsx",
+    "C:/CFH/frontend/src/components/admin/AdminCustomWidgetLibrary.tsx",
+    "C:/CFH/frontend/src/components/admin/LiveDashboardHealthWidget.jsx",
+    "C:/CFH/frontend/src/components/admin/LiveDashboardHealthWidget.tsx",
+    "C:/CFH/frontend/src/components/admin/analytics/AdminEngagementAnalytics.jsx",
+    "C:/CFH/frontend/src/components/admin/analytics/AdminRoleAnalytics.jsx",
+    "C:/CFH/frontend/src/components/admin/arbitration/AdminArbitrationDashboard.css",
+    "C:/CFH/frontend/src/components/admin/arbitration/AdminArbitrationDashboard.jsx",
+    "C:/CFH/frontend/src/components/admin/auction/AdminAuctionOverview.jsx",
+    "C:/CFH/frontend/src/components/admin/badges/AdminBadgeAuditLog.css",
+    "C:/CFH/frontend/src/components/admin/badges/AdminBadgeAuditLog.jsx",
+    "C:/CFH/frontend/src/components/admin/compliance/AdminComplianceDashboard.jsx",
+    "C:/CFH/frontend/src/components/admin/contract/AdminContractTemplates.jsx",
+    "C:/CFH/frontend/src/components/admin/dashboard/AdminDashboard.jsx",
+    "C:/CFH/frontend/src/components/admin/dashboard/AdminKPIWidget.jsx",
+    "C:/CFH/frontend/src/components/admin/dashboard/AdminSummaryPanel.jsx",
+    "C:/CFH/frontend/src/components/admin/disputes/AdminDisputeAnalytics.jsx",
+    "C:/CFH/frontend/src/components/admin/disputes/AdminDisputeArchive.jsx",
+    "C:/CFH/frontend/src/components/admin/disputes/AdminDisputeDashboard.jsx",
+    "C:/CFH/frontend/src/components/admin/disputes/AdminDisputeIndex.jsx",
+    "C:/CFH/frontend/src/components/admin/disputes/DisputeReview.jsx",
+    "C:/CFH/frontend/src/components/admin/disputes/DisputeSummaryView.jsx",
+    "C:/CFH/frontend/src/components/admin/disputes/File DisputeSummaryView.jsx.txt",
+    "C:/CFH/frontend/src/components/admin/disputes/StartAuctionForm.jsx",
+    "C:/CFH/frontend/src/components/admin/escrow/AdminEscrowClaim.jsx",
+    "C:/CFH/frontend/src/components/admin/escrow/AdminEscrowMonitor.jsx",
+    "C:/CFH/frontend/src/components/admin/export/AdminReportExport.jsx",
+    "C:/CFH/frontend/src/components/admin/finance/AdminFinancialOverview.jsx",
+    "C:/CFH/frontend/src/components/admin/health/AdminSystemHealth.jsx",
+    "C:/CFH/frontend/src/components/admin/insights/AdminInsights.jsx",
+    "C:/CFH/frontend/src/components/admin/layout/AdminLayout.jsx",
+    "C:/CFH/frontend/src/components/admin/layout/AdminNavigation.css",
+    "C:/CFH/frontend/src/components/admin/layout/AdminNavigation.jsx",
+    "C:/CFH/frontend/src/components/admin/layout/AdminSidebar.jsx",
+    "C:/CFH/frontend/src/components/admin/layout/AdminTopbar.jsx",
+    "C:/CFH/frontend/src/components/admin/logins/AdminLoginHistory.jsx",
+    "C:/CFH/frontend/src/components/admin/loyalty/AdminLoyaltyRewards.jsx",
+    "C:/CFH/frontend/src/components/admin/moderation/AdminModerationCenter.jsx",
+    "C:/CFH/frontend/src/components/admin/notifications/AdminNotificationCenter.jsx",
+    "C:/CFH/frontend/src/components/admin/notifications/AdminSmartAlertEngine.jsx",
+    "C:/CFH/frontend/src/components/admin/payments/AdminPaymentOverview.jsx",
+    "C:/CFH/frontend/src/components/admin/support/AdminSupportTickets.jsx",
+    "C:/CFH/frontend/src/components/admin/users/AdminUserManager.jsx",
+    "C:/CFH/frontend/src/components/ai/AIBadgeOverlay.js",
+    "C:/CFH/frontend/src/components/ai/AIBadgeOverlay.tsx",
+    "C:/CFH/frontend/src/components/ai/AIPredictorDashboard.jsx",
+    "C:/CFH/frontend/src/components/ai/AIPredictorDashboard.tsx",
+    "C:/CFH/frontend/src/components/ai/AIScorePanel.js",
+    "C:/CFH/frontend/src/components/ai/AIScorePanel.tsx",
+    "C:/CFH/frontend/src/components/ai/BidConfidenceMeter.jsx",
+    "C:/CFH/frontend/src/components/ai/BidConfidenceMeter.tsx",
+    "C:/CFH/frontend/src/components/ai/BidStrategyAdvisor.jsx",
+    "C:/CFH/frontend/src/components/ai/BidStrategyAdvisor.tsx",
+    "C:/CFH/frontend/src/components/ai/PredictiveComparison.jsx",
+    "C:/CFH/frontend/src/components/ai/PredictiveComparison.tsx",
+    "C:/CFH/frontend/src/components/ai/SmartInsightsWidget.tsx",
+    "C:/CFH/frontend/src/components/ai/TrustScoreViewer.jsx",
+    "C:/CFH/frontend/src/components/ai/TrustScoreViewer.tsx",
+    "C:/CFH/frontend/src/components/ai/ValuationAssistant.jsx",
+    "C:/CFH/frontend/src/components/ai/ValuationAssistant.tsx",
+    "C:/CFH/frontend/src/components/ai/ValuationLiveFeed.jsx",
+    "C:/CFH/frontend/src/components/ai/ValuationLiveFeed.tsx",
+    "C:/CFH/frontend/src/components/ai/bidding/CompetitiveBiddingInterface.jsx",
+    "C:/CFH/frontend/src/components/analytics/AnalyticsDashboard.tsx",
+    "C:/CFH/frontend/src/components/analytics/BIIntegrationPanel.tsx",
+    "C:/CFH/frontend/src/components/analytics/ChartWidget.tsx",
+    "C:/CFH/frontend/src/components/analytics/DataTable.tsx",
+    "C:/CFH/frontend/src/components/analytics/FilterPanel.tsx",
+    "C:/CFH/frontend/src/components/analytics/NLPQueryInput.tsx",
+    "C:/CFH/frontend/src/components/analytics/PredictiveGraph.tsx",
+    "C:/CFH/frontend/src/components/analytics/QualityCheckComponent.tsx",
+    "C:/CFH/frontend/src/components/arbitrator/ArbitratorAnalyticsPanel.jsx",
+    "C:/CFH/frontend/src/components/arbitrator/ArbitratorAnalyticsPanel.tsx",
+    "C:/CFH/frontend/src/components/arbitrator/ArbitratorDashboard.jsx",
+    "C:/CFH/frontend/src/components/arbitrator/ArbitratorDashboard.tsx",
+    "C:/CFH/frontend/src/components/auction/AuctionAccessibilityWrapper.jsx",
+    "C:/CFH/frontend/src/components/auction/AuctionAccessibilityWrapper.tsx",
+    "C:/CFH/frontend/src/components/auction/AuctionIntelligenceDashboard.jsx",
+    "C:/CFH/frontend/src/components/auction/AuctionIntelligenceDashboard.tsx",
+    "C:/CFH/frontend/src/components/auction/AuctionItemListing.tsx",
+    "C:/CFH/frontend/src/components/auction/AuctionLiveBidTracker.jsx",
+    "C:/CFH/frontend/src/components/auction/AuctionLiveBidTracker.tsx",
+    "C:/CFH/frontend/src/components/auction/AuctionManagement.tsx",
+    "C:/CFH/frontend/src/components/auction/AuctionPremiumInsightsPanel.jsx",
+    "C:/CFH/frontend/src/components/auction/AuctionPremiumInsightsPanel.tsx",
+    "C:/CFH/frontend/src/components/auction/AuctionSEOHead.jsx",
+    "C:/CFH/frontend/src/components/auction/AuctionSEOHead.tsx",
+    "C:/CFH/frontend/src/components/auction/LiveAuctionStream.tsx",
+    "C:/CFH/frontend/src/components/auction/SellerBadgePanel.jsx",
+    "C:/CFH/frontend/src/components/auction/SellerBadgePanel.tsx",
+    "C:/CFH/frontend/src/components/auction/core/6 File.txt",
+    "C:/CFH/frontend/src/components/auction/core/AuctionHistoryTracker.jsx",
+    "C:/CFH/frontend/src/components/auction/core/AuctionListingForm.jsx",
+    "C:/CFH/frontend/src/components/auction/core/here are the 10 files just was made.txt",
+    "C:/CFH/frontend/src/components/auth/CommunityDashboard.js",
+    "C:/CFH/frontend/src/components/auth/Login.jsx",
+    "C:/CFH/frontend/src/components/auth/Login.tsx",
+    "C:/CFH/frontend/src/components/auth/LoginForm.jsx",
+    "C:/CFH/frontend/src/components/auth/LoginForm.tsx",
+    "C:/CFH/frontend/src/components/auth/ProtectedRoute.tsx",
+    "C:/CFH/frontend/src/components/auth/Register.jsx",
+    "C:/CFH/frontend/src/components/auth/Register.tsx",
+    "C:/CFH/frontend/src/components/auth/Unauthorized.jsx",
+    "C:/CFH/frontend/src/components/auth/Unauthorized.tsx",
+    "C:/CFH/frontend/src/components/blockchain/CryptoPaymentOption.jsx",
+    "C:/CFH/frontend/src/components/blockchain/CryptoPaymentOption.tsx",
+    "C:/CFH/frontend/src/components/body-shop/AIDamageSummary.tsx",
+    "C:/CFH/frontend/src/components/body-shop/BodyShopDiscoveryPage.tsx",
+    "C:/CFH/frontend/src/components/body-shop/BodyShopProfileView.tsx",
+    "C:/CFH/frontend/src/components/body-shop/CompareShopsTable.tsx",
+    "C:/CFH/frontend/src/components/body-shop/EstimateRequestForm.tsx",
+    "C:/CFH/frontend/src/components/body-shop/JobTrackingView.tsx",
+    "C:/CFH/frontend/src/components/body-shop/RepairJourneyShare.tsx",
+    "C:/CFH/frontend/src/components/body-shop/ShopOwnerDashboard.tsx",
+    "C:/CFH/frontend/src/components/body-shop/VirtualShopTour360.tsx",
+    "C:/CFH/frontend/src/components/buyer/AdminSmartAlertEngine.jsx",
+    "C:/CFH/frontend/src/components/buyer/AdminSmartAlertEngine.tsx",
+    "C:/CFH/frontend/src/components/buyer/ARCarPreview.jsx",
+    "C:/CFH/frontend/src/components/buyer/ARCarPreview.tsx",
+    "C:/CFH/frontend/src/components/buyer/AuctionResultsViewer.jsx",
+    "C:/CFH/frontend/src/components/buyer/AuctionResultsViewer.tsx",
+    "C:/CFH/frontend/src/components/buyer/BidAssistantSimulator.jsx",
+    "C:/CFH/frontend/src/components/buyer/BidAssistantSimulator.tsx",
+    "C:/CFH/frontend/src/components/buyer/BuyerAISuggestionEngine.jsx",
+    "C:/CFH/frontend/src/components/buyer/BuyerAnalyticsDashboard.jsx",
+    "C:/CFH/frontend/src/components/buyer/BuyerAuctionHistory.tsx",
+    "C:/CFH/frontend/src/components/buyer/BuyerBehaviorTracker.jsx",
+    "C:/CFH/frontend/src/components/buyer/BuyerBehaviorTracker.tsx",
+    "C:/CFH/frontend/src/components/buyer/BuyerBidHistory.jsx",
+    "C:/CFH/frontend/src/components/buyer/BuyerBidHistory.tsx",
+    "C:/CFH/frontend/src/components/buyer/BuyerBidModal.jsx",
+    "C:/CFH/frontend/src/components/buyer/BuyerBidModal.tsx",
+    "C:/CFH/frontend/src/components/buyer/BuyerCarCompare.css",
+    "C:/CFH/frontend/src/components/buyer/BuyerCarCompare.js",
+    "C:/CFH/frontend/src/components/buyer/BuyerCommunityForum.jsx",
+    "C:/CFH/frontend/src/components/buyer/BuyerContractPreviewer.jsx",
+    "C:/CFH/frontend/src/components/buyer/BuyerContractPreviewer.tsx",
+    "C:/CFH/frontend/src/components/buyer/BuyerDashboard.css",
+    "C:/CFH/frontend/src/components/buyer/BuyerDashboard.jsx",
+    "C:/CFH/frontend/src/components/buyer/BuyerDeliveryConfirmation.jsx",
+    "C:/CFH/frontend/src/components/buyer/BuyerEmailSettings.jsx",
+    "C:/CFH/frontend/src/components/buyer/BuyerEscrowStatus.jsx",
+    "C:/CFH/frontend/src/components/buyer/BuyerFinancingModal.jsx",
+    "C:/CFH/frontend/src/components/buyer/BuyerInspectionStatus.js",
+    "C:/CFH/frontend/src/components/buyer/BuyerLenderResults.jsx",
+    "C:/CFH/frontend/src/components/buyer/BuyerLoyaltyDashboard.jsx",
+    "C:/CFH/frontend/src/components/buyer/BuyerNotificationCenter.jsx",
+    "C:/CFH/frontend/src/components/buyer/BuyerOnboardingGuide.jsx",
+    "C:/CFH/frontend/src/components/buyer/BuyerPreferencesForm.css",
+    "C:/CFH/frontend/src/components/buyer/BuyerPreferencesForm.jsx",
+    "C:/CFH/frontend/src/components/buyer/BuyerProgressBar.jsx",
+    "C:/CFH/frontend/src/components/buyer/BuyerSearchPreferences.jsx",
+    "C:/CFH/frontend/src/components/buyer/FinancingOffer.js",
+    "C:/CFH/frontend/src/components/buyer/FinancingOptionsChart.jsx",
+    "C:/CFH/frontend/src/components/buyer/Navbar.js",
+    "C:/CFH/frontend/src/components/buyer/ai/AIPredictorDashboard.jsx",
+    "C:/CFH/frontend/src/components/chat/AuditTrail.jsx",
+    "C:/CFH/frontend/src/components/chat/BulkUpload.js",
+    "C:/CFH/frontend/src/components/chat/ChatInterface.jsx",
+    "C:/CFH/frontend/src/components/chat/CollaborationChat.jsx",
+    "C:/CFH/frontend/src/components/chat/LeaveReview.js",
+    "C:/CFH/frontend/src/components/chat/MessageBubble.jsx",
+    "C:/CFH/frontend/src/components/chat/Messaging.js",
+    "C:/CFH/frontend/src/components/chat/NotificationCenter.js",
+    "C:/CFH/frontend/src/components/chat/PaymentForm.js",
+    "C:/CFH/frontend/src/components/common/BlockchainSnapshotViewer.jsx",
+    "C:/CFH/frontend/src/components/common/Button.jsx",
+    "C:/CFH/frontend/src/components/common/Card.jsx",
+    "C:/CFH/frontend/src/components/common/ChatAttachmentPreviewer.jsx",
+    "C:/CFH/frontend/src/components/common/ChatAttachmentUploader.jsx",
+    "C:/CFH/frontend/src/components/common/CurrencyConverterWidget.jsx",
+    "C:/CFH/frontend/src/components/common/DocumentUploader.jsx",
+    "C:/CFH/frontend/src/components/common/ErrorBoundary.jsx",
+    "C:/CFH/frontend/src/components/common/ErrorBoundary.tsx",
+    "C:/CFH/frontend/src/components/common/FeedbackForm.jsx",
+    "C:/CFH/frontend/src/components/common/HeatmapChart.jsx",
+    "C:/CFH/frontend/src/components/common/ImageUploader.jsx",
+    "C:/CFH/frontend/src/components/common/Input.jsx",
+    "C:/CFH/frontend/src/components/common/LanguageSelector.jsx",
+    "C:/CFH/frontend/src/components/common/LoadingSpinner.jsx",
+    "C:/CFH/frontend/src/components/common/LoadingSpinner.tsx",
+    "C:/CFH/frontend/src/components/common/Messaging.jsx",
+    "C:/CFH/frontend/src/components/common/MobileUXEnhancer.jsx",
+    "C:/CFH/frontend/src/components/common/MultiLanguageSupport.jsx",
+    "C:/CFH/frontend/src/components/common/Navbar.css",
+    "C:/CFH/frontend/src/components/common/Navbar.jsx",
+    "C:/CFH/frontend/src/components/common/NavbarMobileToggle.jsx",
+    "C:/CFH/frontend/src/components/common/NotificationPreferences.jsx",
+    "C:/CFH/frontend/src/components/common/PDFPreviewModal.jsx",
+    "C:/CFH/frontend/src/components/common/PhotoProofUpload.jsx",
+    "C:/CFH/frontend/src/components/common/PredictiveGraph.jsx"
+  ],
+  "converted": [
+    "C:/CFH/frontend/src/components/AdminEmailNotifications.jsx",
+    "C:/CFH/frontend/src/components/admin/AdminAuctionOverview.jsx",
+    "C:/CFH/frontend/src/components/admin/AdminCustomWidgetLibrary.jsx",
+    "C:/CFH/frontend/src/components/admin/LiveDashboardHealthWidget.jsx",
+    "C:/CFH/frontend/src/components/admin/analytics/AdminEngagementAnalytics.jsx",
+    "C:/CFH/frontend/src/components/admin/analytics/AdminRoleAnalytics.jsx",
+    "C:/CFH/frontend/src/components/admin/arbitration/AdminArbitrationDashboard.jsx",
+    "C:/CFH/frontend/src/components/admin/auction/AdminAuctionOverview.jsx",
+    "C:/CFH/frontend/src/components/admin/badges/AdminBadgeAuditLog.jsx",
+    "C:/CFH/frontend/src/components/admin/compliance/AdminComplianceDashboard.jsx",
+    "C:/CFH/frontend/src/components/admin/contract/AdminContractTemplates.jsx",
+    "C:/CFH/frontend/src/components/admin/dashboard/AdminDashboard.jsx",
+    "C:/CFH/frontend/src/components/admin/dashboard/AdminKPIWidget.jsx",
+    "C:/CFH/frontend/src/components/admin/dashboard/AdminSummaryPanel.jsx",
+    "C:/CFH/frontend/src/components/admin/disputes/AdminDisputeAnalytics.jsx",
+    "C:/CFH/frontend/src/components/admin/disputes/AdminDisputeArchive.jsx",
+    "C:/CFH/frontend/src/components/admin/disputes/AdminDisputeDashboard.jsx",
+    "C:/CFH/frontend/src/components/admin/disputes/AdminDisputeIndex.jsx",
+    "C:/CFH/frontend/src/components/admin/disputes/DisputeReview.jsx",
+    "C:/CFH/frontend/src/components/admin/disputes/DisputeSummaryView.jsx",
+    "C:/CFH/frontend/src/components/admin/disputes/StartAuctionForm.jsx",
+    "C:/CFH/frontend/src/components/admin/escrow/AdminEscrowClaim.jsx",
+    "C:/CFH/frontend/src/components/admin/escrow/AdminEscrowMonitor.jsx",
+    "C:/CFH/frontend/src/components/admin/export/AdminReportExport.jsx",
+    "C:/CFH/frontend/src/components/admin/finance/AdminFinancialOverview.jsx"
+  ],
+  "skipped": [],
+  "reviews_count": 25,
+  "reviews": [
+    {
+      "file": "C:/CFH/frontend/src/components/AdminEmailNotifications.jsx",
+      "routing": {
+        "suggested_moves": [
+          {
+            "src": "C:\\CFH\\frontend\\src\\components\\AdminEmailNotifications.jsx",
+            "dest": "C:\\CFH\\frontend\\src\\components\\admin\\AdminEmailNotifications.jsx",
+            "confidence": 0.85,
+            "reason": "Matched pattern '\\badmin\\b|\\btenant\\b|\\brole\\b|\\bpermission\\b|\\bkpi\\b|\\bcompliance\\b|\\bdispute(s)?\\b' → 'admin'"
+          }
+        ]
+      },
+      "markdown": "# AdminEmailNotifications.jsx\n\n**Detected Type:** `.jsx`  |  **Suggested Dest:** `admin`  |  **Confidence:** `0.85`\n\n## Purpose (heuristic)\n- Matched pattern '\\badmin\\b|\\btenant\\b|\\brole\\b|\\bpermission\\b|\\bkpi\\b|\\bcompliance\\b|\\bdispute(s)?\\b' → 'admin'\n\n## Code Preview\n```\n/**\n * AdminEmailNotifications.jsx\n * Path: frontend/src/components/admin/AdminEmailNotifications.jsx\n * Purpose: Manage admin email templates (e.g., user bans, system alerts) with table view.\n * 👑 Cod2 Crown Certified\n */\n\nimport React, { useState, useEffect } from 'react';\nimport axios from 'axios';\nimport { toast } from 'react-toastify';\nimport LoadingSpinner from '@/components/common/LoadingSpinner';\nimport ErrorBoundary from '@/components/common/ErrorBoundary';\n\nconst AdminEmailNotifications = ({ adminId }) => {\n  const [templates, setTemplates] = useState([]);\n  const [loading, setLoading] = useState(true);\n  const [error, setError] = useState(null);\n\n  // Fetch email templates\n  useEffect(() => {\n```\n\n> This summary is heuristic-only. Replace with LLM-backed analysis later."
+    },
+    {
+      "file": "C:/CFH/frontend/src/components/admin/AdminAuctionOverview.jsx",
+      "routing": {
+        "suggested_moves": [
+          {
+            "src": "C:\\CFH\\frontend\\src\\components\\admin\\AdminAuctionOverview.jsx",
+            "dest": "C:\\CFH\\frontend\\src\\components\\auction\\AdminAuctionOverview.jsx",
+            "confidence": 0.8,
+            "reason": "Matched pattern '\\bauction\\b|\\blot\\b|\\breserve\\b' → 'auction'"
+          }
+        ]
+      },
+      "markdown": "# AdminAuctionOverview.jsx\n\n**Detected Type:** `.jsx`  |  **Suggested Dest:** `auction`  |  **Confidence:** `0.80`\n\n## Purpose (heuristic)\n- Matched pattern '\\bauction\\b|\\blot\\b|\\breserve\\b' → 'auction'\n\n## Code Preview\n```\n// File: AdminAuctionOverview.jsx\n// Path: frontend/src/components/admin/AdminAuctionOverview.jsx\n// Purpose: Admin overview dashboard with auction stats, anomaly detection, and dispute resolution daemon\n// Author: Cod1 (05111357 - PDT)\n// 👑 Cod2 Crown Certified\n\nimport React, { useEffect, useState } from 'react';\nimport PropTypes from 'prop-types';\nimport { Button } from '@components/ui/button';\nimport logger from '@utils/logger';\nimport { detectAuctionAnomaliesInRealTime } from '@services/anomaly/AnomalyEngine';\nimport { launchAutoDisputeResolutionDaemon } from '@services/disputes/DisputeDaemon';\n\n/**\n * Functions Summary:\n * - detectAuctionAnomaliesInRealTime(): Loads anomaly flags from backend (paid section)\n * - launchAutoDisputeResolutionDaemon(): Initiates dispute daemon on click (paid section)\n * Inputs: auctions (array of auction objects)\n * Outputs: JSX panel of admin auction data + anomaly warnings\n * Dependencies: React, @components/ui/button, @services/anomaly/AnomalyEngine, @services/disputes/DisputeDaemon, @utils/logger\n```\n\n> This summary is heuristic-only. Replace with LLM-backed analysis later."
+    },
+    {
+      "file": "C:/CFH/frontend/src/components/admin/AdminCustomWidgetLibrary.jsx",
+      "routing": {
+        "suggested_moves": [
+          {
+            "src": "C:\\CFH\\frontend\\src\\components\\admin\\AdminCustomWidgetLibrary.jsx",
+            "dest": "C:\\CFH\\frontend\\src\\components\\auction\\AdminCustomWidgetLibrary.jsx",
+            "confidence": 0.8,
+            "reason": "Matched pattern '\\bauction\\b|\\blot\\b|\\breserve\\b' → 'auction'"
+          }
+        ]
+      },
+      "markdown": "# AdminCustomWidgetLibrary.jsx\n\n**Detected Type:** `.jsx`  |  **Suggested Dest:** `auction`  |  **Confidence:** `0.80`\n\n## Purpose (heuristic)\n- Matched pattern '\\bauction\\b|\\blot\\b|\\breserve\\b' → 'auction'\n\n## Code Preview\n```\n/**\n * File: AdminCustomWidgetLibrary.jsx\n * Path: frontend/src/components/admin/AdminCustomWidgetLibrary.jsx\n * Purpose: Customizable admin dashboard with drag-and-drop widgets for auction stats and user activity\n * Author: SG (05042219)\n * Date: May 04, 2025, 22:19\n * Cod2 Crown Certified\n */\n\nimport React, { useState, useEffect } from 'react';\nimport { DragDropContext, Droppable, Draggable } from 'react-beautiful-dnd';\nimport PremiumFeature from '@components/common/PremiumFeature';\nimport logger from '@utils/logger';\nimport { toast } from 'sonner';\nimport { exportLenderInsightsToPdf } from '@utils/lenderExportUtils';\n\nconst AdminCustomWidgetLibrary = () => {\n  const [widgets, setWidgets] = useState([]);\n  const [loading, setLoading] = useState(true);\n  const [error, setError] = useState(null);\n```\n\n> This summary is heuristic-only. Replace with LLM-backed analysis later."
+    },
+    {
+      "file": "C:/CFH/frontend/src/components/admin/LiveDashboardHealthWidget.jsx",
+      "routing": {
+        "suggested_moves": [
+          {
+            "src": "C:\\CFH\\frontend\\src\\components\\admin\\LiveDashboardHealthWidget.jsx",
+            "dest": "C:\\CFH\\frontend\\src\\components\\admin\\LiveDashboardHealthWidget.jsx",
+            "confidence": 0.85,
+            "reason": "Matched pattern '\\badmin\\b|\\btenant\\b|\\brole\\b|\\bpermission\\b|\\bkpi\\b|\\bcompliance\\b|\\bdispute(s)?\\b' → 'admin'"
+          }
+        ]
+      },
+      "markdown": "# LiveDashboardHealthWidget.jsx\n\n**Detected Type:** `.jsx`  |  **Suggested Dest:** `admin`  |  **Confidence:** `0.85`\n\n## Purpose (heuristic)\n- Matched pattern '\\badmin\\b|\\btenant\\b|\\brole\\b|\\bpermission\\b|\\bkpi\\b|\\bcompliance\\b|\\bdispute(s)?\\b' → 'admin'\n\n## Code Preview\n```\n/**\n * File: LiveDashboardHealthWidget.jsx\n * Path: frontend/src/components/admin/LiveDashboardHealthWidget.jsx\n * Purpose: Admin widget to monitor Hauler-related endpoint health in real-time via /api/hauler/health\n * Author: Cod3 (05051700)\n * Date: May 05, 2025\n * 👑 Cod3 Crown Certified\n */\n\n// --- Dependencies ---\nimport React, { useState, useEffect } from 'react';\nimport axios from 'axios';\nimport { ToastContainer, toast } from 'react-toastify';\nimport 'react-toastify/dist/ReactToastify.css';\n\n// --- Component Definition ---\n/**\n * LiveDashboardHealthWidget Component\n * Purpose: Displays real-time health status of Hauler-related endpoints for admin monitoring\n * Props: None\n```\n\n> This summary is heuristic-only. Replace with LLM-backed analysis later."
+    },
+    {
+      "file": "C:/CFH/frontend/src/components/admin/analytics/AdminEngagementAnalytics.jsx",
+      "routing": {
+        "suggested_moves": [
+          {
+            "src": "C:\\CFH\\frontend\\src\\components\\admin\\analytics\\AdminEngagementAnalytics.jsx",
+            "dest": "C:\\CFH\\frontend\\src\\components\\admin\\AdminEngagementAnalytics.jsx",
+            "confidence": 0.85,
+            "reason": "Matched pattern '\\badmin\\b|\\btenant\\b|\\brole\\b|\\bpermission\\b|\\bkpi\\b|\\bcompliance\\b|\\bdispute(s)?\\b' → 'admin'"
+          }
+        ]
+      },
+      "markdown": "# AdminEngagementAnalytics.jsx\n\n**Detected Type:** `.jsx`  |  **Suggested Dest:** `admin`  |  **Confidence:** `0.85`\n\n## Purpose (heuristic)\n- Matched pattern '\\badmin\\b|\\btenant\\b|\\brole\\b|\\bpermission\\b|\\bkpi\\b|\\bcompliance\\b|\\bdispute(s)?\\b' → 'admin'\n\n## Code Preview\n```\n/**\n * File: AdminEngagementAnalytics.jsx\n * Path: frontend/src/components/admin/analytics/AdminEngagementAnalytics.jsx\n * Purpose: Admin dashboard for engagement analytics, updated to include Hauler health monitoring\n * Author: Cod3 (05051715)\n * Date: May 05, 2025 (Updated)\n * 👑 Cod3 Crown Certified\n */\n\n// --- Dependencies ---\nimport React from 'react';\nimport LiveDashboardHealthWidget from '@components/admin/LiveDashboardHealthWidget';\n\n// --- Component Definition ---\nconst AdminEngagementAnalytics = () => {\n  return (\n    <div className=\"admin-engagement-analytics\">\n      {/* Existing analytics content */}\n      <h2>Engagement Analytics</h2>\n\n```\n\n> This summary is heuristic-only. Replace with LLM-backed analysis later."
+    },
+    {
+      "file": "C:/CFH/frontend/src/components/admin/analytics/AdminRoleAnalytics.jsx",
+      "routing": {
+        "suggested_moves": [
+          {
+            "src": "C:\\CFH\\frontend\\src\\components\\admin\\analytics\\AdminRoleAnalytics.jsx",
+            "dest": "C:\\CFH\\frontend\\src\\components\\admin\\AdminRoleAnalytics.jsx",
+            "confidence": 0.85,
+            "reason": "Matched pattern '\\badmin\\b|\\btenant\\b|\\brole\\b|\\bpermission\\b|\\bkpi\\b|\\bcompliance\\b|\\bdispute(s)?\\b' → 'admin'"
+          }
+        ]
+      },
+      "markdown": "# AdminRoleAnalytics.jsx\n\n**Detected Type:** `.jsx`  |  **Suggested Dest:** `admin`  |  **Confidence:** `0.85`\n\n## Purpose (heuristic)\n- Matched pattern '\\badmin\\b|\\btenant\\b|\\brole\\b|\\bpermission\\b|\\bkpi\\b|\\bcompliance\\b|\\bdispute(s)?\\b' → 'admin'\n\n## Code Preview\n```\n// File: AdminRoleAnalytics.js\n// Path: frontend/src/components/AdminRoleAnalytics.js\n\nimport React, { useEffect, useState } from 'react';\nimport axios from 'axios';\nimport Navbar from './Navbar';\nimport { BarChart, Bar, XAxis, YAxis, Tooltip, ResponsiveContainer, CartesianGrid } from 'recharts';\n\nconst AdminRoleAnalytics = () => {\n  const [data, setData] = useState([]);\n  const [loading, setLoading] = useState(true);\n  const token = localStorage.getItem('token');\n\n  useEffect(() => {\n    const fetchAnalytics = async () => {\n      try {\n        const res = await axios.get(`${process.env.REACT_APP_API_URL}/api/admin/role-analytics`, {\n          headers: { Authorization: `Bearer ${token}` }\n        });\n        setData(res.data);\n```\n\n> This summary is heuristic-only. Replace with LLM-backed analysis later."
+    },
+    {
+      "file": "C:/CFH/frontend/src/components/admin/arbitration/AdminArbitrationDashboard.jsx",
+      "routing": {
+        "suggested_moves": [
+          {
+            "src": "C:\\CFH\\frontend\\src\\components\\admin\\arbitration\\AdminArbitrationDashboard.jsx",
+            "dest": "C:\\CFH\\frontend\\src\\components\\disputes\\AdminArbitrationDashboard.jsx",
+            "confidence": 0.78,
+            "reason": "Matched pattern '\\bdisput(e|es)\\b|\\barbitrator\\b|\\bappeal\\b' → 'disputes'"
+          }
+        ]
+      },
+      "markdown": "# AdminArbitrationDashboard.jsx\n\n**Detected Type:** `.jsx`  |  **Suggested Dest:** `disputes`  |  **Confidence:** `0.78`\n\n## Purpose (heuristic)\n- Matched pattern '\\bdisput(e|es)\\b|\\barbitrator\\b|\\bappeal\\b' → 'disputes'\n\n## Code Preview\n```\n// File: AdminArbitrationDashboard.jsx\n// Path: frontend/src/components/admin/arbitration/AdminArbitrationDashboard.jsx\n// 👑 Cod1 Crown Certified — Admin Arbitration Manager (Dispute Case Handling)\n\nimport React, { useEffect, useState } from 'react';\nimport { useNavigate } from 'react-router-dom';\nimport axios from 'axios';\nimport LoadingSpinner from '@/components/common/LoadingSpinner.jsx';\nimport ErrorBoundary from '@/components/common/ErrorBoundary.jsx';\nimport AdminBadgeAuditLog from '@/components/admin/badges/AdminBadgeAuditLog.jsx';\n\n// 🌟 Admin Arbitration Dashboard: Central for Disputes Management\nconst AdminArbitrationDashboard = () => {\n  const [disputes, setDisputes] = useState([]);\n  const [loading, setLoading] = useState(true);\n  const [error, setError] = useState(null);\n  const [showAuditLog, setShowAuditLog] = useState(false);\n  const navigate = useNavigate();\n\n  const apiUrl = import.meta.env.VITE_API_URL || '';\n```\n\n> This summary is heuristic-only. Replace with LLM-backed analysis later."
+    },
+    {
+      "file": "C:/CFH/frontend/src/components/admin/auction/AdminAuctionOverview.jsx",
+      "routing": {
+        "suggested_moves": [
+          {
+            "src": "C:\\CFH\\frontend\\src\\components\\admin\\auction\\AdminAuctionOverview.jsx",
+            "dest": "C:\\CFH\\frontend\\src\\components\\auction\\AdminAuctionOverview.jsx",
+            "confidence": 0.8,
+            "reason": "Matched pattern '\\bauction\\b|\\blot\\b|\\breserve\\b' → 'auction'"
+          }
+        ]
+      },
+      "markdown": "# AdminAuctionOverview.jsx\n\n**Detected Type:** `.jsx`  |  **Suggested Dest:** `auction`  |  **Confidence:** `0.80`\n\n## Purpose (heuristic)\n- Matched pattern '\\bauction\\b|\\blot\\b|\\breserve\\b' → 'auction'\n\n## Code Preview\n```\n// File: AdminAuctionOverview.jsx\n// Path: frontend/src/components/admin/auction/AdminAuctionOverview.jsx\n// Purpose: Admin overview dashboard with auction stats, anomaly detection, and dispute resolution daemon\n// Author: Cod1 (05111357 - PDT)\n// 👑 Cod2 Crown Certified\n\nimport React, { useEffect, useState } from 'react';\nimport PropTypes from 'prop-types';\nimport { Button } from '@components/ui/button';\nimport logger from '@utils/logger';\nimport { detectAuctionAnomaliesInRealTime } from '@services/anomaly/AnomalyEngine';\nimport { launchAutoDisputeResolutionDaemon } from '@services/disputes/DisputeDaemon';\n\n/**\n * Functions Summary:\n * - detectAuctionAnomaliesInRealTime(): Loads anomaly flags from backend (paid section)\n * - launchAutoDisputeResolutionDaemon(): Initiates dispute daemon on click (paid section)\n * Inputs: auctions (array of auction objects)\n * Outputs: JSX panel of admin auction data + anomaly warnings\n * Dependencies: React, @components/ui/button, @services/anomaly/AnomalyEngine, @services/disputes/DisputeDaemon, @utils/logger\n```\n\n> This summary is heuristic-only. Replace with LLM-backed analysis later."
+    },
+    {
+      "file": "C:/CFH/frontend/src/components/admin/badges/AdminBadgeAuditLog.jsx",
+      "routing": {
+        "suggested_moves": [
+          {
+            "src": "C:\\CFH\\frontend\\src\\components\\admin\\badges\\AdminBadgeAuditLog.jsx",
+            "dest": "C:\\CFH\\frontend\\src\\components\\admin\\AdminBadgeAuditLog.jsx",
+            "confidence": 0.85,
+            "reason": "Matched pattern '\\badmin\\b|\\btenant\\b|\\brole\\b|\\bpermission\\b|\\bkpi\\b|\\bcompliance\\b|\\bdispute(s)?\\b' → 'admin'"
+          }
+        ]
+      },
+      "markdown": "# AdminBadgeAuditLog.jsx\n\n**Detected Type:** `.jsx`  |  **Suggested Dest:** `admin`  |  **Confidence:** `0.85`\n\n## Purpose (heuristic)\n- Matched pattern '\\badmin\\b|\\btenant\\b|\\brole\\b|\\bpermission\\b|\\bkpi\\b|\\bcompliance\\b|\\bdispute(s)?\\b' → 'admin'\n\n## Code Preview\n```\n// File: AdminBadgeAuditLog.js\n// Path: frontend/src/components/admin/badges/AdminBadgeAuditLog.js\n\nimport React, { useEffect, useState } from 'react';\nimport axios from 'axios';\nimport AdminLayout from '../layout/AdminLayout';\nimport LoadingSpinner from '../../common/LoadingSpinner';\nimport ErrorBoundary from '../../common/ErrorBoundary';\nimport Card from '../../common/Card';\nimport Button from '../../common/Button';\n\nconst AdminBadgeAuditLog = () => {\n  const [logs, setLogs] = useState([]);\n  const [loading, setLoading] = useState(true);\n  const [error, setError] = useState(null);\n  const token = localStorage.getItem('token');\n\n  useEffect(() => {\n    const fetchBadgeLogs = async () => {\n      try {\n```\n\n> This summary is heuristic-only. Replace with LLM-backed analysis later."
+    },
+    {
+      "file": "C:/CFH/frontend/src/components/admin/compliance/AdminComplianceDashboard.jsx",
+      "routing": {
+        "suggested_moves": [
+          {
+            "src": "C:\\CFH\\frontend\\src\\components\\admin\\compliance\\AdminComplianceDashboard.jsx",
+            "dest": "C:\\CFH\\frontend\\src\\components\\admin\\AdminComplianceDashboard.jsx",
+            "confidence": 0.85,
+            "reason": "Matched pattern '\\badmin\\b|\\btenant\\b|\\brole\\b|\\bpermission\\b|\\bkpi\\b|\\bcompliance\\b|\\bdispute(s)?\\b' → 'admin'"
+          }
+        ]
+      },
+      "markdown": "# AdminComplianceDashboard.jsx\n\n**Detected Type:** `.jsx`  |  **Suggested Dest:** `admin`  |  **Confidence:** `0.85`\n\n## Purpose (heuristic)\n- Matched pattern '\\badmin\\b|\\btenant\\b|\\brole\\b|\\bpermission\\b|\\bkpi\\b|\\bcompliance\\b|\\bdispute(s)?\\b' → 'admin'\n\n## Code Preview\n```\n/**\n * File: AdminComplianceDashboard.jsx\n * Path: frontend/src/components/admin/compliance/AdminComplianceDashboard.jsx\n * Purpose: Regulatory reporting UI with compliance score tracker, PDF/CSV export modal, AI audit alerts, gamified compliance badges, and interactive audit modal\n * Author: SG\n * Date: April 28, 2025\n */\n\nimport React, { useEffect, useState } from 'react';\nimport SEOHead from '@components/common/SEOHead';\n\nimport PropTypes from 'prop-types';\nimport AdminNavigation from '@components/admin/AdminNavigation'; // Alias for admin navigation component\nimport { exportToCSV, exportToPDF } from '@utils/analyticsExportUtils'; // Alias for export utilities\nimport logger from '@utils/logger'; // Assumed logger for error tracking\n\nconst AdminComplianceDashboard = ({ adminId }) => {\n  const [complianceData, setComplianceData] = useState(null);\n  const [loading, setLoading] = useState(true);\n  const [error, setError] = useState(null);\n```\n\n> This summary is heuristic-only. Replace with LLM-backed analysis later."
+    },
+    {
+      "file": "C:/CFH/frontend/src/components/admin/contract/AdminContractTemplates.jsx",
+      "routing": {
+        "suggested_moves": [
+          {
+            "src": "C:\\CFH\\frontend\\src\\components\\admin\\contract\\AdminContractTemplates.jsx",
+            "dest": "C:\\CFH\\frontend\\src\\components\\admin\\AdminContractTemplates.jsx",
+            "confidence": 0.85,
+            "reason": "Matched pattern '\\badmin\\b|\\btenant\\b|\\brole\\b|\\bpermission\\b|\\bkpi\\b|\\bcompliance\\b|\\bdispute(s)?\\b' → 'admin'"
+          }
+        ]
+      },
+      "markdown": "# AdminContractTemplates.jsx\n\n**Detected Type:** `.jsx`  |  **Suggested Dest:** `admin`  |  **Confidence:** `0.85`\n\n## Purpose (heuristic)\n- Matched pattern '\\badmin\\b|\\btenant\\b|\\brole\\b|\\bpermission\\b|\\bkpi\\b|\\bcompliance\\b|\\bdispute(s)?\\b' → 'admin'\n\n## Code Preview\n```\n// File: AdminContractTemplates.js\n// Path: frontend/src/components/admin/contracts/AdminContractTemplates.js\n\nimport React, { useEffect, useState } from 'react';\nimport axios from 'axios';\nimport AdminLayout from '../layout/AdminLayout';\nimport LoadingSpinner from '../../common/LoadingSpinner';\nimport ErrorBoundary from '../../common/ErrorBoundary';\nimport Card from '../../common/Card';\nimport Button from '../../common/Button';\n\nconst AdminContractTemplates = () => {\n  const [templates, setTemplates] = useState([]);\n  const [loading, setLoading] = useState(true);\n  const [error, setError] = useState(null);\n  const token = localStorage.getItem('token');\n\n  useEffect(() => {\n    const fetchTemplates = async () => {\n      try {\n```\n\n> This summary is heuristic-only. Replace with LLM-backed analysis later."
+    },
+    {
+      "file": "C:/CFH/frontend/src/components/admin/dashboard/AdminDashboard.jsx",
+      "routing": {
+        "suggested_moves": [
+          {
+            "src": "C:\\CFH\\frontend\\src\\components\\admin\\dashboard\\AdminDashboard.jsx",
+            "dest": "C:\\CFH\\frontend\\src\\components\\disputes\\AdminDashboard.jsx",
+            "confidence": 0.78,
+            "reason": "Matched pattern '\\bdisput(e|es)\\b|\\barbitrator\\b|\\bappeal\\b' → 'disputes'"
+          }
+        ]
+      },
+      "markdown": "# AdminDashboard.jsx\n\n**Detected Type:** `.jsx`  |  **Suggested Dest:** `disputes`  |  **Confidence:** `0.78`\n\n## Purpose (heuristic)\n- Matched pattern '\\bdisput(e|es)\\b|\\barbitrator\\b|\\bappeal\\b' → 'disputes'\n\n## Code Preview\n```\n// File: AdminDashboard.jsx\n// Path: frontend/src/components/admin/dashboard/AdminDashboard.jsx\n// 👑 Cod1 + SG Crown Certified with Multi-Language, Lazy Loading, and Error Boundaries\n// Purpose: Admin dashboard with KPI metrics, dispute analytics, user management, and multi-language support\n// Functions:\n// - fetchKPI(): Retrieves backend KPI data for admin panel\n// - AdminDisputeAnalytics: Lazy-loaded, gated dispute insights for Enterprise users\n// - AdminStatsPanel: Displays system KPIs\n// - UserManager: Admin-facing user control panel\n// - LanguageSelector: Multi-language UI toggle for international admins\n\nimport React\\nimport SEOHead from '@components/common/SEOHead';, { useEffect, useState, Suspense } from 'react';\nimport PremiumFeature from '@/components/common/PremiumFeature';\nimport ErrorBoundary from '@/components/common/ErrorBoundary';\nimport LoadingSpinner from '@/components/common/LoadingSpinner';\nimport LanguageSelector from '@/components/common/LanguageSelector';\nimport { useLanguage } from '@/components/common/MultiLanguageSupport';\nimport AdminStatsPanel from './AdminStatsPanel';\nimport UserManager from '../user/AdminUserManager';\nimport logger from '@/utils/logger';\n```\n\n> This summary is heuristic-only. Replace with LLM-backed analysis later."
+    },
+    {
+      "file": "C:/CFH/frontend/src/components/admin/dashboard/AdminKPIWidget.jsx",
+      "routing": {
+        "suggested_moves": [
+          {
+            "src": "C:\\CFH\\frontend\\src\\components\\admin\\dashboard\\AdminKPIWidget.jsx",
+            "dest": "C:\\CFH\\frontend\\src\\components\\admin\\AdminKPIWidget.jsx",
+            "confidence": 0.85,
+            "reason": "Matched pattern '\\badmin\\b|\\btenant\\b|\\brole\\b|\\bpermission\\b|\\bkpi\\b|\\bcompliance\\b|\\bdispute(s)?\\b' → 'admin'"
+          }
+        ]
+      },
+      "markdown": "# AdminKPIWidget.jsx\n\n**Detected Type:** `.jsx`  |  **Suggested Dest:** `admin`  |  **Confidence:** `0.85`\n\n## Purpose (heuristic)\n- Matched pattern '\\badmin\\b|\\btenant\\b|\\brole\\b|\\bpermission\\b|\\bkpi\\b|\\bcompliance\\b|\\bdispute(s)?\\b' → 'admin'\n\n## Code Preview\n```\n// File: AdminKPIWidget.jsx\n// Path: frontend/src/components/admin/dashboard/AdminKPIWidget.jsx\n// 👑 Cod1 Crown Certified — Reusable KPI Card for Admin Panel\n\nimport React from 'react';\n\n// 🌟 AdminKPIWidget: Accepts title, value, and optional color props\nconst AdminKPIWidget = ({ title, value, color = 'bg-indigo-600' }) => {\n  return (\n    <div className={`rounded-lg shadow-lg p-6 ${color} text-white animate-fadeIn`}> {/* Card Container */}\n      <h2 className=\"text-lg font-semibold mb-2\">{title}</h2> {/* KPI Title */}\n      <p className=\"text-3xl font-bold\">{value}</p> {/* KPI Value */}\n    </div>\n  );\n};\n\nexport default AdminKPIWidget;\n```\n\n> This summary is heuristic-only. Replace with LLM-backed analysis later."
+    },
+    {
+      "file": "C:/CFH/frontend/src/components/admin/dashboard/AdminSummaryPanel.jsx",
+      "routing": {
+        "suggested_moves": [
+          {
+            "src": "C:\\CFH\\frontend\\src\\components\\admin\\dashboard\\AdminSummaryPanel.jsx",
+            "dest": "C:\\CFH\\frontend\\src\\components\\disputes\\AdminSummaryPanel.jsx",
+            "confidence": 0.78,
+            "reason": "Matched pattern '\\bdisput(e|es)\\b|\\barbitrator\\b|\\bappeal\\b' → 'disputes'"
+          }
+        ]
+      },
+      "markdown": "# AdminSummaryPanel.jsx\n\n**Detected Type:** `.jsx`  |  **Suggested Dest:** `disputes`  |  **Confidence:** `0.78`\n\n## Purpose (heuristic)\n- Matched pattern '\\bdisput(e|es)\\b|\\barbitrator\\b|\\bappeal\\b' → 'disputes'\n\n## Code Preview\n```\n// File: AdminSummaryPanel.jsx\n// Path: frontend/src/components/admin/dashboard/AdminSummaryPanel.jsx\n// 👑 Cod1 Crown Certified — Admin Dashboard Overview Metrics\n\nimport React from 'react';\n\n// 🌟 AdminSummaryPanel: Displays Key Admin Stats\nconst AdminSummaryPanel = ({ stats }) => {\n  const statCards = [\n    { title: 'Total Disputes', value: stats.totalDisputes, color: 'bg-red-500' },\n    { title: 'Open Votes', value: stats.openVotes, color: 'bg-yellow-500' },\n    { title: 'Active Contracts', value: stats.activeContracts, color: 'bg-green-500' },\n    { title: 'Unread Notifications', value: stats.unreadNotifications, color: 'bg-indigo-500' },\n    { title: 'Fraud Alerts', value: stats.fraudAlerts, color: 'bg-pink-500' },\n  ];\n\n  return (\n    <div className=\"grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6\">\n      {statCards.map((card, idx) => (\n        <div\n```\n\n> This summary is heuristic-only. Replace with LLM-backed analysis later."
+    },
+    {
+      "file": "C:/CFH/frontend/src/components/admin/disputes/AdminDisputeAnalytics.jsx",
+      "routing": {
+        "suggested_moves": [
+          {
+            "src": "C:\\CFH\\frontend\\src\\components\\admin\\disputes\\AdminDisputeAnalytics.jsx",
+            "dest": "C:\\CFH\\frontend\\src\\components\\disputes\\AdminDisputeAnalytics.jsx",
+            "confidence": 0.78,
+            "reason": "Matched pattern '\\bdisput(e|es)\\b|\\barbitrator\\b|\\bappeal\\b' → 'disputes'"
+          }
+        ]
+      },
+      "markdown": "# AdminDisputeAnalytics.jsx\n\n**Detected Type:** `.jsx`  |  **Suggested Dest:** `disputes`  |  **Confidence:** `0.78`\n\n## Purpose (heuristic)\n- Matched pattern '\\bdisput(e|es)\\b|\\barbitrator\\b|\\bappeal\\b' → 'disputes'\n\n## Code Preview\n```\n/**\n * File: AdminDisputeAnalytics.jsx\n * Path: frontend/src/components/admin/disputes/AdminDisputeAnalytics.jsx\n * Purpose: Admin dashboard for dispute resolution analytics and AI recommendations\n * Author: Cod1 + SG\n * Date: 2025-05-01\n */\n\nimport React, { useEffect, useState } from 'react';\nimport { Bar } from 'react-chartjs-2';\nimport { Chart as ChartJS, BarElement, CategoryScale, LinearScale, Tooltip, Legend } from 'chart.js';\nimport PremiumFeature from '@components/common/PremiumFeature';\nimport Button from '@components/common/Button';\nimport logger from '@utils/logger';\nimport DisputeResolutionHelper from '@utils/DisputeResolutionHelper';\nimport analyticsExportUtils from '@utils/analyticsExportUtils';\n\nChartJS.register(BarElement, CategoryScale, LinearScale, Tooltip, Legend);\n\nconst AdminDisputeAnalytics = () => {\n```\n\n> This summary is heuristic-only. Replace with LLM-backed analysis later."
+    },
+    {
+      "file": "C:/CFH/frontend/src/components/admin/disputes/AdminDisputeArchive.jsx",
+      "routing": {
+        "suggested_moves": [
+          {
+            "src": "C:\\CFH\\frontend\\src\\components\\admin\\disputes\\AdminDisputeArchive.jsx",
+            "dest": "C:\\CFH\\frontend\\src\\components\\buyer\\AdminDisputeArchive.jsx",
+            "confidence": 0.85,
+            "reason": "Matched pattern '\\bbuyer\\b|\\bcheckout\\b|\\bbidder\\b' → 'buyer'"
+          }
+        ]
+      },
+      "markdown": "# AdminDisputeArchive.jsx\n\n**Detected Type:** `.jsx`  |  **Suggested Dest:** `buyer`  |  **Confidence:** `0.85`\n\n## Purpose (heuristic)\n- Matched pattern '\\bbuyer\\b|\\bcheckout\\b|\\bbidder\\b' → 'buyer'\n\n## Code Preview\n```\n// File: AdminDisputeArchive.js\n// Path: frontend/src/components/admin/disputes/AdminDisputeArchive.js\n\nimport React, { useEffect, useState } from 'react';\nimport axios from 'axios';\nimport AdminLayout from '../layout/AdminLayout';\nimport LoadingSpinner from '../../common/LoadingSpinner';\nimport ErrorBoundary from '../../common/ErrorBoundary';\nimport Card from '../../common/Card';\nimport Button from '../../common/Button';\n\nconst AdminDisputeArchive = () => {\n  const [archives, setArchives] = useState([]);\n  const [loading, setLoading] = useState(true);\n  const [error, setError] = useState(null);\n  const token = localStorage.getItem('token');\n\n  useEffect(() => {\n    const fetchArchives = async () => {\n      try {\n```\n\n> This summary is heuristic-only. Replace with LLM-backed analysis later."
+    },
+    {
+      "file": "C:/CFH/frontend/src/components/admin/disputes/AdminDisputeDashboard.jsx",
+      "routing": {
+        "suggested_moves": [
+          {
+            "src": "C:\\CFH\\frontend\\src\\components\\admin\\disputes\\AdminDisputeDashboard.jsx",
+            "dest": "C:\\CFH\\frontend\\src\\components\\buyer\\AdminDisputeDashboard.jsx",
+            "confidence": 0.85,
+            "reason": "Matched pattern '\\bbuyer\\b|\\bcheckout\\b|\\bbidder\\b' → 'buyer'"
+          }
+        ]
+      },
+      "markdown": "# AdminDisputeDashboard.jsx\n\n**Detected Type:** `.jsx`  |  **Suggested Dest:** `buyer`  |  **Confidence:** `0.85`\n\n## Purpose (heuristic)\n- Matched pattern '\\bbuyer\\b|\\bcheckout\\b|\\bbidder\\b' → 'buyer'\n\n## Code Preview\n```\n// File: AdminDisputeDashboard.jsx\n// Path: frontend/src/components/admin/disputes/AdminDisputeDashboard.jsx\n// Purpose: Admin dashboard for reviewing disputes with multilingual PDF export\n// Author: Cod2\n// Date: 2025-05-01\n// 👑 Cod2 Crown Certified\n\nimport React\\nimport SEOHead from '@components/common/SEOHead';, { useState, useEffect } from 'react';\nimport axios from 'axios';\nimport PremiumFeature from '@components/common/PremiumFeature';\nimport MultiLanguageSupport from '@components/common/MultiLanguageSupport';\nimport { toast } from 'react-toastify';\nimport LoadingSpinner from '@components/common/LoadingSpinner';\n\nconst AdminDisputeDashboard = () => {\n  const [disputes, setDisputes] = useState([]);\n  const [selectedLanguage, setSelectedLanguage] = useState('en');\n  const [exporting, setExporting] = useState(false);\n\n  useEffect(() => {\n```\n\n> This summary is heuristic-only. Replace with LLM-backed analysis later."
+    },
+    {
+      "file": "C:/CFH/frontend/src/components/admin/disputes/AdminDisputeIndex.jsx",
+      "routing": {
+        "suggested_moves": [
+          {
+            "src": "C:\\CFH\\frontend\\src\\components\\admin\\disputes\\AdminDisputeIndex.jsx",
+            "dest": "C:\\CFH\\frontend\\src\\components\\disputes\\AdminDisputeIndex.jsx",
+            "confidence": 0.78,
+            "reason": "Matched pattern '\\bdisput(e|es)\\b|\\barbitrator\\b|\\bappeal\\b' → 'disputes'"
+          }
+        ]
+      },
+      "markdown": "# AdminDisputeIndex.jsx\n\n**Detected Type:** `.jsx`  |  **Suggested Dest:** `disputes`  |  **Confidence:** `0.78`\n\n## Purpose (heuristic)\n- Matched pattern '\\bdisput(e|es)\\b|\\barbitrator\\b|\\bappeal\\b' → 'disputes'\n\n## Code Preview\n```\n// File: AdminDisputeIndex.js\n// Path: frontend/src/components/AdminDisputeIndex.js\n\nimport React, { useEffect, useState } from 'react';\nimport axios from 'axios';\nimport useAuth from '../utils/useAuth';\n\nconst AdminDisputeIndex = () => {\n  const { token, role } = useAuth();\n  const [disputes, setDisputes] = useState([]);\n  const [error, setError] = useState('');\n\n  useEffect(() => {\n    const fetchDisputes = async () => {\n      try {\n        const res = await axios.get('/api/disputes', {\n          headers: { Authorization: `Bearer ${token}` },\n        });\n        setDisputes(res.data);\n      } catch (err) {\n```\n\n> This summary is heuristic-only. Replace with LLM-backed analysis later."
+    },
+    {
+      "file": "C:/CFH/frontend/src/components/admin/disputes/DisputeReview.jsx",
+      "routing": {
+        "suggested_moves": [
+          {
+            "src": "C:\\CFH\\frontend\\src\\components\\admin\\disputes\\DisputeReview.jsx",
+            "dest": "C:\\CFH\\frontend\\src\\components\\buyer\\DisputeReview.jsx",
+            "confidence": 0.85,
+            "reason": "Matched pattern '\\bbuyer\\b|\\bcheckout\\b|\\bbidder\\b' → 'buyer'"
+          }
+        ]
+      },
+      "markdown": "# DisputeReview.jsx\n\n**Detected Type:** `.jsx`  |  **Suggested Dest:** `buyer`  |  **Confidence:** `0.85`\n\n## Purpose (heuristic)\n- Matched pattern '\\bbuyer\\b|\\bcheckout\\b|\\bbidder\\b' → 'buyer'\n\n## Code Preview\n```\n// File: DisputeReview.js\n// Path: frontend/src/components/admin/disputes/DisputeReview.js\n\nimport React, { useEffect, useState } from 'react';\nimport { Card, CardHeader, CardTitle, CardContent } from '@/components/ui/card';\nimport { Button } from '@/components/ui/button';\n\nconst DisputeReview = () => {\n  const [disputes, setDisputes] = useState([]);\n\n  useEffect(() => {\n    fetch(`${import.meta.env.VITE_API_BASE_URL}/api/disputes`)\n      .then((res) => res.json())\n      .then(setDisputes)\n      .catch((err) => console.error('Failed to load disputes', err));\n  }, []);\n\n  return (\n    <div className=\"max-w-4xl mx-auto py-6\">\n      <Card>\n```\n\n> This summary is heuristic-only. Replace with LLM-backed analysis later."
+    },
+    {
+      "file": "C:/CFH/frontend/src/components/admin/disputes/DisputeSummaryView.jsx",
+      "routing": {
+        "suggested_moves": [
+          {
+            "src": "C:\\CFH\\frontend\\src\\components\\admin\\disputes\\DisputeSummaryView.jsx",
+            "dest": "C:\\CFH\\frontend\\src\\components\\disputes\\DisputeSummaryView.jsx",
+            "confidence": 0.78,
+            "reason": "Matched pattern '\\bdisput(e|es)\\b|\\barbitrator\\b|\\bappeal\\b' → 'disputes'"
+          }
+        ]
+      },
+      "markdown": "# DisputeSummaryView.jsx\n\n**Detected Type:** `.jsx`  |  **Suggested Dest:** `disputes`  |  **Confidence:** `0.78`\n\n## Purpose (heuristic)\n- Matched pattern '\\bdisput(e|es)\\b|\\barbitrator\\b|\\bappeal\\b' → 'disputes'\n\n## Code Preview\n```\n// File: DisputeSummaryView.jsx\n// Path: frontend/src/components/admin/disputes/DisputeSummaryView.jsx\n// 👑 Cod1 Crown Certified\n// Purpose: Display a summary of dispute outcomes for admin insights and trend tracking\n// Author: SG + Cod1\n// Date: April 29, 2025\n\nimport React from 'react';\nimport PropTypes from 'prop-types';\n\nconst DisputeSummaryView = ({ disputes }) => {\n  if (!disputes || disputes.length === 0) {\n    return <div className=\"text-gray-500\">No disputes to display</div>;\n  }\n\n  return (\n    <div className=\"space-y-4\">\n      <h3 className=\"text-xl font-semibold text-gray-800\">Dispute Summary</h3>\n      <table className=\"min-w-full border divide-y divide-gray-200\">\n        <thead className=\"bg-gray-50\">\n```\n\n> This summary is heuristic-only. Replace with LLM-backed analysis later."
+    },
+    {
+      "file": "C:/CFH/frontend/src/components/admin/disputes/StartAuctionForm.jsx",
+      "routing": {
+        "suggested_moves": [
+          {
+            "src": "C:\\CFH\\frontend\\src\\components\\admin\\disputes\\StartAuctionForm.jsx",
+            "dest": "C:\\CFH\\frontend\\src\\components\\seller\\StartAuctionForm.jsx",
+            "confidence": 0.85,
+            "reason": "Matched pattern '\\bseller\\b|\\blisting\\b|\\binventory\\b' → 'seller'"
+          }
+        ]
+      },
+      "markdown": "# StartAuctionForm.jsx\n\n**Detected Type:** `.jsx`  |  **Suggested Dest:** `seller`  |  **Confidence:** `0.85`\n\n## Purpose (heuristic)\n- Matched pattern '\\bseller\\b|\\blisting\\b|\\binventory\\b' → 'seller'\n\n## Code Preview\n```\n// File: StartAuctionForm.js\n// Path: frontend/src/components/seller/StartAuctionForm.js\n\nimport React, { useState } from 'react';\nimport { Input } from '@/components/ui/input';\nimport { Button } from '@/components/ui/button';\n\nconst StartAuctionForm = ({ carId }) => {\n  const [startingPrice, setStartingPrice] = useState('');\n  const [duration, setDuration] = useState('');\n  const [error, setError] = useState('');\n\n  const handleSubmit = async (e) => {\n    e.preventDefault();\n    try {\n      const res = await fetch(`${import.meta.env.VITE_API_BASE_URL}/api/auctions/start`, {\n        method: 'POST',\n        headers: {\n          'Content-Type': 'application/json',\n          Authorization: `Bearer ${localStorage.getItem('token')}`,\n```\n\n> This summary is heuristic-only. Replace with LLM-backed analysis later."
+    },
+    {
+      "file": "C:/CFH/frontend/src/components/admin/escrow/AdminEscrowClaim.jsx",
+      "routing": {
+        "suggested_moves": [
+          {
+            "src": "C:\\CFH\\frontend\\src\\components\\admin\\escrow\\AdminEscrowClaim.jsx",
+            "dest": "C:\\CFH\\frontend\\src\\components\\escrow\\AdminEscrowClaim.jsx",
+            "confidence": 0.8,
+            "reason": "Matched pattern '\\bescrow\\b|\\bwallet\\b|\\bsettlement\\b' → 'escrow'"
+          }
+        ]
+      },
+      "markdown": "# AdminEscrowClaim.jsx\n\n**Detected Type:** `.jsx`  |  **Suggested Dest:** `escrow`  |  **Confidence:** `0.80`\n\n## Purpose (heuristic)\n- Matched pattern '\\bescrow\\b|\\bwallet\\b|\\bsettlement\\b' → 'escrow'\n\n## Code Preview\n```\n// File: AdminEscrowClaim.jsx\n// Path: frontend/src/components/admin/escrow/AdminEscrowClaim.jsx\n// \n// Features:\n// - Displays escrow claims awaiting admin action\n// - Allows admin to Approve or Reject escrow claims\n// - Token-protected API requests\n// - Responsive UI with Card components for each claim\n// - Crown UI/UX polish with hover, spacing, and button styling\n\nimport React, { useEffect, useState } from 'react';\nimport axios from 'axios';\nimport AdminLayout from '@/components/admin/layout/AdminLayout';\nimport LoadingSpinner from '@/components/common/LoadingSpinner';\nimport ErrorBoundary from '@/components/common/ErrorBoundary';\nimport Card from '@/components/common/Card';\nimport Button from '@/components/common/Button';\n\nconst AdminEscrowClaim = () => {\n  const [claims, setClaims] = useState([]);\n```\n\n> This summary is heuristic-only. Replace with LLM-backed analysis later."
+    },
+    {
+      "file": "C:/CFH/frontend/src/components/admin/escrow/AdminEscrowMonitor.jsx",
+      "routing": {
+        "suggested_moves": [
+          {
+            "src": "C:\\CFH\\frontend\\src\\components\\admin\\escrow\\AdminEscrowMonitor.jsx",
+            "dest": "C:\\CFH\\frontend\\src\\components\\escrow\\AdminEscrowMonitor.jsx",
+            "confidence": 0.8,
+            "reason": "Matched pattern '\\bescrow\\b|\\bwallet\\b|\\bsettlement\\b' → 'escrow'"
+          }
+        ]
+      },
+      "markdown": "# AdminEscrowMonitor.jsx\n\n**Detected Type:** `.jsx`  |  **Suggested Dest:** `escrow`  |  **Confidence:** `0.80`\n\n## Purpose (heuristic)\n- Matched pattern '\\bescrow\\b|\\bwallet\\b|\\bsettlement\\b' → 'escrow'\n\n## Code Preview\n```\n// File: AdminEscrowMonitor.jsx\n// Path: frontend/src/components/admin/escrow/AdminEscrowMonitor.jsx\n\nimport React, { useEffect, useState } from 'react';\nimport axios from 'axios';\nimport AdminLayout from '@/components/admin/layout/AdminLayout';\nimport LoadingSpinner from '@/components/common/LoadingSpinner';\nimport ErrorBoundary from '@/components/common/ErrorBoundary';\nimport Card from '@/components/common/Card';\nimport Button from '@/components/common/Button';\n\nconst AdminEscrowMonitor = () => {\n  const [transactions, setTransactions] = useState([]);\n  const [loading, setLoading] = useState(true);\n  const [error, setError] = useState(null);\n  const token = localStorage.getItem('token');\n\n  useEffect(() => {\n    const fetchTransactions = async () => {\n      try {\n```\n\n> This summary is heuristic-only. Replace with LLM-backed analysis later."
+    },
+    {
+      "file": "C:/CFH/frontend/src/components/admin/export/AdminReportExport.jsx",
+      "routing": {
+        "suggested_moves": [
+          {
+            "src": "C:\\CFH\\frontend\\src\\components\\admin\\export\\AdminReportExport.jsx",
+            "dest": "C:\\CFH\\frontend\\src\\components\\admin\\AdminReportExport.jsx",
+            "confidence": 0.85,
+            "reason": "Matched pattern '\\badmin\\b|\\btenant\\b|\\brole\\b|\\bpermission\\b|\\bkpi\\b|\\bcompliance\\b|\\bdispute(s)?\\b' → 'admin'"
+          }
+        ]
+      },
+      "markdown": "# AdminReportExport.jsx\n\n**Detected Type:** `.jsx`  |  **Suggested Dest:** `admin`  |  **Confidence:** `0.85`\n\n## Purpose (heuristic)\n- Matched pattern '\\badmin\\b|\\btenant\\b|\\brole\\b|\\bpermission\\b|\\bkpi\\b|\\bcompliance\\b|\\bdispute(s)?\\b' → 'admin'\n\n## Code Preview\n```\n// File: AdminReportExport.js\n// Path: frontend/src/components/AdminReportExport.js\n\nimport React, { useEffect, useState } from 'react';\nimport axios from 'axios';\nimport Navbar from './Navbar';\n\nconst AdminReportExport = () => {\n  const [exportUrl, setExportUrl] = useState(null);\n  const [generating, setGenerating] = useState(false);\n  const [error, setError] = useState(null);\n  const token = localStorage.getItem('token');\n\n  const handleExport = async () => {\n    setGenerating(true);\n    setError(null);\n    try {\n      const res = await axios.get(`${process.env.REACT_APP_API_URL}/api/admin/export/reports`, {\n        headers: { Authorization: `Bearer ${token}` },\n        responseType: 'blob'\n```\n\n> This summary is heuristic-only. Replace with LLM-backed analysis later."
+    },
+    {
+      "file": "C:/CFH/frontend/src/components/admin/finance/AdminFinancialOverview.jsx",
+      "routing": {
+        "suggested_moves": [
+          {
+            "src": "C:\\CFH\\frontend\\src\\components\\admin\\finance\\AdminFinancialOverview.jsx",
+            "dest": "C:\\CFH\\frontend\\src\\components\\escrow\\AdminFinancialOverview.jsx",
+            "confidence": 0.8,
+            "reason": "Matched pattern '\\bescrow\\b|\\bwallet\\b|\\bsettlement\\b' → 'escrow'"
+          }
+        ]
+      },
+      "markdown": "# AdminFinancialOverview.jsx\n\n**Detected Type:** `.jsx`  |  **Suggested Dest:** `escrow`  |  **Confidence:** `0.80`\n\n## Purpose (heuristic)\n- Matched pattern '\\bescrow\\b|\\bwallet\\b|\\bsettlement\\b' → 'escrow'\n\n## Code Preview\n```\n// File: AdminFinancialOverview.jsx\n// Path: frontend/src/components/admin/finance/AdminFinancialOverview.jsx\n\nimport React, { useEffect, useState } from 'react';\nimport axios from 'axios';\nimport { Card, CardContent } from '@/components/ui/card';\nimport Navbar from '@/components/common/Navbar';\n\nconst AdminFinancialOverview = () => {\n  const [financials, setFinancials] = useState(null);\n  const [loading, setLoading] = useState(true);\n  const [error, setError] = useState(null);\n  const token = localStorage.getItem('token');\n\n  useEffect(() => {\n    const fetchFinancials = async () => {\n      try {\n        const res = await axios.get(`${process.env.REACT_APP_API_URL}/api/admin/financial-overview`, {\n          headers: { Authorization: `Bearer ${token}` },\n        });\n```\n\n> This summary is heuristic-only. Replace with LLM-backed analysis later."
+    }
+  ],
+  "artifact": "reports\\empire-final-20260106\\convert_dryrun_20260106_011146.json",
+  "summary": "reports\\empire-final-20260106\\convert_dryrun_20260106_011146.summary.md"
+}
