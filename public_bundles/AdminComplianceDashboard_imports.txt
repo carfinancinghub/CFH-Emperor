@@ -1,0 +1,80 @@
+/**
+ * File: AdminComplianceDashboard.jsx
+ * Path: frontend/src/components/admin/compliance/AdminComplianceDashboard.jsx
+ * Purpose: Regulatory reporting UI with compliance score tracker, PDF/CSV export modal, AI audit alerts, gamified compliance badges, and interactive audit modal
+ * Author: SG
+ * Date: April 28, 2025
+ */
+
+import React\nimport SEOHead from '@components/common/SEOHead';, { useState, useEffect } from 'react';
+import PropTypes from 'prop-types';
+import AdminNavigation from '@components/admin/AdminNavigation'; // Alias for admin navigation component
+import { exportToCSV, exportToPDF } from '@utils/analyticsExportUtils'; // Alias for export utilities
+import logger from '@utils/logger'; // Assumed logger for error tracking
+
+const AdminComplianceDashboard = ({ adminId }) => {
+  const [complianceData, setComplianceData] = useState(null);
+  const [loading, setLoading] = useState(true);
+  const [error, setError] = useState(null);
+  const [isExportModalOpen, setExportModalOpen] = useState(false);
+  const [isAuditModalOpen, setAuditModalOpen] = useState(false);
+  const [selectedAlert, setSelectedAlert] = useState(null);
+  const [complianceBadges, setComplianceBadges] = useState(
+    JSON.parse(localStorage.getItem('complianceBadges')) || {}
+  );
+
+  // Fetch compliance data on component mount or adminId change
+  useEffect(() => {
+    const fetchCompliance = async () => {
+      try {
+        const response = await fetch(`/api/admin/${adminId}/compliance`);
+        if (!response.ok) {
+          throw new Error('Failed to fetch compliance data');
+        }
+        const data = await response.json();
+        setComplianceData(data);
+
+        // Award badge for high compliance score (gamification)
+        if (data.score >= 90 && !complianceBadges['highCompliance']) {
+          const newBadges = {
+            ...complianceBadges,
+            highCompliance: { name: 'Compliance Master', earned: new Date() },
+          };
+          setComplianceBadges(newBadges);
+          localStorage.setItem('complianceBadges', JSON.stringify(newBadges));
+          logger.info('Badge awarded: Compliance Master');
+        }
+
+        setLoading(false);
+      } catch (err) {
+        setError(err.message);
+        setLoading(false);
+        logger.error(`Error fetching compliance for admin ${adminId}: ${err.message}`);
+      }
+    };
+
+    fetchCompliance();
+  }, [adminId, complianceBadges]);
+
+  // Export compliance report
+  const exportReport = (format) => {
+    try {
+      if (format === 'csv') {
+        exportToCSV(complianceData, 'compliance_report.csv', {
+          headers: ['Metric', 'Value', 'Status'],
+          rows: complianceData.metrics.map((metric) => [
+            metric.name,
+            metric.value,
+            metric.status,
+          ]),
+        });
+      } else if (format === 'pdf') {
+        exportToPDF(complianceData, 'compliance_report.pdf', {
+          title: 'Compliance Report',
+          content: complianceData.metrics.map((metric) => ({
+            text: `${metric.name}: ${metric.value} (${metric.status})`,
+          })),
+        });
+      }
+      setExportModalOpen(false);
+      logger.info(`Exported compliance report as ${format}`);
