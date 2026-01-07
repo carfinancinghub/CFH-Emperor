@@ -4,6 +4,9 @@
 *.txt
 *.bak
 *.bak.*
+*.BAK_*
+*.backup
+
 
 node_modules/
 WPromptOutput/
