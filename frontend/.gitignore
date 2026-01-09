@@ -16,3 +16,4 @@ test-logs/
 !reports/proofs/
 !reports/proofs/**
 
+.vercel

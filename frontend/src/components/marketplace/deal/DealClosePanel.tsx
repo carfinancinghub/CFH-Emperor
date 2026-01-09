@@ -1,5 +1,6 @@
 ﻿import React, { useState } from "react";
 import { triggerRoyaltyOnDealClose } from "@/services/royalty/RoyaltyApi";
+import { emit } from "@/services/domainEvents";
 
 export type DealClosePanelProps = {
   dealId: string;
@@ -29,6 +30,23 @@ export function DealClosePanel(props: DealClosePanelProps) {
         acceptedBidId: props.acceptedBidId,
         amount: props.amount,
         currency: props.currency,
+      });
+
+      // 🔔 Cross-domain event (Marketplace → Royalty → Finance)
+      emit("royalty_trigger", {
+        dealId: props.dealId,
+        listingId: props.listingId,
+        sellerId: props.sellerId,
+        buyerId: props.buyerId,
+        amount: props.amount,
+        currency: props.currency,
+        closedAt: res.event.closedAt,
+        ts: new Date().toISOString(),
+      });
+
+      emit("deal_closed", {
+        dealId: props.dealId,
+        listingId: props.listingId,
       });
 
       setDone({ closedAt: res.event.closedAt });
