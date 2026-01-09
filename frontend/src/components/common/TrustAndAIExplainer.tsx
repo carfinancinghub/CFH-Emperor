@@ -8,7 +8,7 @@
 // 👑 Cod2 Crown Certified
 
 import React, { useState } from 'react';
-import { Dialog } from '@/components/ui/dialog';
+import { Dialog, DialogContent, DialogHeader, DialogTitle } from '@/components/ui/dialog';
 import { Button } from '@/components/ui/button';
 
 const TrustAndAIExplainer = () => {
@@ -21,10 +21,12 @@ const TrustAndAIExplainer = () => {
       </Button>
 
       <Dialog open={isOpen} onOpenChange={setIsOpen}>
-        <Dialog.Content className="max-w-2xl p-6 bg-white rounded-2xl shadow-xl">
-          <Dialog.Title className="text-2xl font-bold text-gray-800 mb-4">
+        <DialogContent className="max-w-2xl p-6 bg-white rounded-2xl shadow-xl">
+          <DialogHeader>
+          <DialogTitle className="text-2xl font-bold text-gray-800 mb-4">
             Transparency & Trust: Powered by AI
-          </Dialog.Title>
+          </DialogTitle>
+        </DialogHeader>
 
           <div className="space-y-6 text-gray-700 text-sm leading-relaxed">
             <div>
@@ -65,10 +67,11 @@ const TrustAndAIExplainer = () => {
               </Button>
             </div>
           </div>
-        </Dialog.Content>
+        </DialogContent>
       </Dialog>
     </>
   );
 };
 
 export default TrustAndAIExplainer;
+
