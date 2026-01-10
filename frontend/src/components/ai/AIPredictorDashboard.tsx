@@ -1,5 +1,5 @@
 import React from "react";
-import { BidConfidenceMeter } from "./BidConfidenceMeter";
+import BidConfidenceMeter from "./BidConfidenceMeter";
 import { PredictiveComparison } from "./PredictiveComparison";
 
 export interface AIPredictorDashboardProps {

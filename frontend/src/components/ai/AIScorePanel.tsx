@@ -1,87 +1,96 @@
-// @ai-generated via ai-orchestrator
-
+// @ai-generated via ai-orchestrator (patched Wave-23)
 // File: AIScorePanel.tsx
 // Path: frontend/src/components/ai/AIScorePanel.tsx
-// Purpose: Display AI-generated trust scores for users or auctions with premium transparency
-// Author: Rivers Auction Team
-// Editor: Cod1 (05152352 - PDT)
-// 👑 Cod2 Crown Certified
 
-import React, { useEffect, useState } from 'react';
-// PropTypes is removed in favor of TypeScript interfaces
-import logger from '@utils/logger';
-import { fetchAIScoreBreakdown } from '@services/ai/ScoreService';
+import React, { useEffect, useState } from "react";
+import logger from "@utils/logger";
+import { fetchAIScoreBreakdown } from "@/services/ai/ScoreService";
 
-/**
- * Type Definitions
- */
+type ScoreDetail = { label: string; value: string | number };
 
-interface ScoreDetail {
-  label: string;
-  // Assuming values in the breakdown can be numbers (e.g., percentage) or strings
-  value: string | number;
-}
-
-interface AIScoreData {
+type AIScoreData = {
   overallScore: number;
-  // Transparency data only present if applicable and requested
   details?: ScoreDetail[];
-  // Other potential fields are omitted for brevity but implied
+};
+
+// Compatibility props:
+// - Newer widgets may pass trustScore/riskScore/explanation
+// - Legacy/premium path may pass targetId/isPremium
+export interface AIScorePanelProps {
+  trustScore?: number;
+  riskScore?: number;
+  explanation?: string;
+
+  targetId?: string;
+  isPremium?: boolean;
 }
 
-interface AIScorePanelProps {
-  targetId: string;
-  isPremium: boolean;
-}
-
-/**
- * Functions Summary:
- * - fetchAIScoreBreakdown(targetId): Retrieves AI score summary and transparency data (premium)
- * Inputs:
- * - targetId (string): ID of the user or auction
- * - isPremium (boolean): Enables detailed score breakdown
- * Outputs:
- * - JSX showing trust score with optional detail table
- * Dependencies: React, @services/ai/ScoreService, logger
- */
-const AIScorePanel: React.FC<AIScorePanelProps> = ({ targetId, isPremium }) => {
-  // Use explicit types for state based on the interfaces defined
+export const AIScorePanel: React.FC<AIScorePanelProps> = ({
+  trustScore,
+  riskScore,
+  explanation,
+  targetId,
+  isPremium = false,
+}) => {
   const [scoreData, setScoreData] = useState<AIScoreData | null>(null);
   const [error, setError] = useState<string | null>(null);
 
+  // If caller already provided scores, render immediately (no backend call)
+  if (typeof trustScore === "number" || typeof riskScore === "number") {
+    return (
+      <div className="p-4 bg-white rounded shadow">
+        <h2 className="text-lg font-semibold">AI Insights</h2>
+        {typeof trustScore === "number" && (
+          <div className="mt-2">
+            <div className="text-sm text-gray-600">Trust Score</div>
+            <div className="text-3xl font-bold">{trustScore}</div>
+          </div>
+        )}
+        {typeof riskScore === "number" && (
+          <div className="mt-2">
+            <div className="text-sm text-gray-600">Risk Score</div>
+            <div className="text-3xl font-bold">{riskScore}</div>
+          </div>
+        )}
+        {explanation && <p className="mt-2 text-gray-700">{explanation}</p>}
+      </div>
+    );
+  }
+
   useEffect(() => {
-    // We explicitly type the function return as Promise<void>
-    async function loadScore(): Promise<void> {
+    async function load(): Promise<void> {
+      if (!targetId) return;
       try {
-        // We rely on the implicit typing of fetchAIScoreBreakdown (to return AIScoreData)
         const result = await fetchAIScoreBreakdown(targetId, isPremium);
         setScoreData(result);
+        setError(null);
       } catch (err) {
-        logger.error('Failed to load AI score breakdown:', err);
-        setError('Unable to fetch trust score.');
+        logger.error("Failed to load AI score breakdown:", err);
+        setError("Unable to fetch trust score.");
       }
     }
-
-    if (targetId) loadScore();
+    void load();
   }, [targetId, isPremium]);
 
-  if (!targetId) return <div>Invalid target ID</div>;
+  if (!targetId) return <div>AI Score unavailable</div>;
   if (error) return <div className="text-red-600">{error}</div>;
   if (!scoreData) return <div>Loading AI trust score...</div>;
 
   return (
     <div className="p-4 bg-white rounded shadow">
       <h2 className="text-lg font-semibold">AI Trust Score</h2>
-      <div className="text-3xl font-bold text-blue-600">{scoreData.overallScore}</div>
-      {/* Check for isPremium and verify scoreData.details exists */}
+      <div className="text-3xl font-bold">{scoreData.overallScore}</div>
+
       {isPremium && scoreData.details && (
         <ul className="mt-4 space-y-1 text-sm text-gray-700">
           {scoreData.details.map((d, idx) => (
-            // Note: Using index as key is preserved from original JS but usually discouraged.
-            <li key={idx}>• {d.label}: {d.value}</li>
+            <li key={idx}>
+              • {d.label}: {d.value}
+            </li>
           ))}
         </ul>
       )}
+
       {!isPremium && <p className="mt-2 text-gray-500">Upgrade to see breakdown.</p>}
     </div>
   );
