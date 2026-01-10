@@ -15,6 +15,12 @@ import ProtectedRoute from "@/components/auth/ProtectedRoute";
 import RoyaltyDashboard from "@/pages/royalty/RoyaltyDashboard";
 import RoyaltyAdminPage from "@/pages/admin/royalty/RoyaltyAdminPage";
 
+// Escrow flow (Wave-23 Flow-3)
+import { EscrowDashboard } from "@/components/escrow/EscrowDashboard";
+import { EscrowTransaction } from "@/components/escrow/EscrowTransaction";
+import { EscrowOfficerDashboard } from "@/components/escrow/EscrowOfficerDashboard";
+
+
 
 
 const App: React.FC = () => {
@@ -45,7 +51,35 @@ const App: React.FC = () => {
             </ProtectedRoute>
           }
         />
-	
+
+	{/* Escrow flow (Wave-23 Flow-3) */}
+        <Route
+          path="/escrow"
+          element={
+            <ProtectedRoute>
+              <EscrowDashboard />
+            </ProtectedRoute>
+          }
+        />
+
+        <Route
+          path="/escrow/transaction/:transactionId"
+          element={
+            <ProtectedRoute>
+              <EscrowTransaction />
+            </ProtectedRoute>
+          }
+        />
+
+        <Route
+          path="/escrow/officer"
+          element={
+            <ProtectedRoute>
+              <EscrowOfficerDashboard />
+            </ProtectedRoute>
+          }
+        />
+
 	<Route path="/royalty" element={<RoyaltyDashboard />} />
 
 	<Route

@@ -160,4 +160,5 @@ const EscrowOfficerDashboard = () => {
   );
 };
 
+export { EscrowOfficerDashboard };
 export default EscrowOfficerDashboard;
