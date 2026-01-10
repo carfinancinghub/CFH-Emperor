@@ -1,25 +1,24 @@
-// @ai-generated
-/**
- * @file index.jsx
- * @path C:\CFH\frontend\src\index.jsx
- * @author Mini Team
- * @created 2025-06-10 [0823]
- * @purpose Entry point for the React application, initializing routing and i18n.
- * @user_impact Renders the app with multi-language support for a global user base.
- * @version 1.0.0
- */
-import React from 'react';
-import ReactDOM from 'react-dom/client';
-import { BrowserRouter as Router } from 'react-router-dom';
-import App from './App';
-import './index.css';
-import './i18n/i18n';
+// @ai-generated (patched Wave-23)
+// Entry point for the React application.
 
-const root = ReactDOM.createRoot(document.getElementById('root'));
+import React from "react";
+import ReactDOM from "react-dom/client";
+import App from "@/components/App";
+import "@/index.css";
+import "@/i18n/i18n";
+import { AuthProvider } from "@/contexts/AuthContext";
+
+const container = document.getElementById("root");
+if (!container) {
+  throw new Error('Root container with id="root" not found in index.html');
+}
+
+const root = ReactDOM.createRoot(container);
+
 root.render(
   <React.StrictMode>
-    <Router>
+    <AuthProvider>
       <App />
-    </Router>
+    </AuthProvider>
   </React.StrictMode>
 );

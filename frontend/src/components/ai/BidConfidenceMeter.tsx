@@ -36,7 +36,7 @@ function clamp01(n: number): number {
   return Math.max(0, Math.min(1, n));
 }
 
-export default function BidConfidenceMeter(props: BidConfidenceMeterProps) {
+export function BidConfidenceMeter(props: BidConfidenceMeterProps) {
   const { auctionId, bidAmount, isPremium = false } = props;
 
   const [confidence, setConfidence] = useState<number | null>(null);
@@ -162,3 +162,5 @@ export default function BidConfidenceMeter(props: BidConfidenceMeterProps) {
     </div>
   );
 }
+export default BidConfidenceMeter;
+

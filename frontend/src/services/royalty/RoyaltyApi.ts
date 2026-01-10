@@ -28,6 +28,9 @@ export async function triggerRoyaltyOnDealClose(
   // eslint-disable-next-line no-console
   console.log("[ROYALTY_TRIGGER] deal_close", event);
 
+  // Persist to local store (mock v1) so dashboards can display it
+  recordRoyaltyEvent(event);
+
   return Promise.resolve({ ok: true, event });
 }
 
